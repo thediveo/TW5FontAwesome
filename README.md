@@ -16,7 +16,7 @@ Enclosed you'll find Font Awesome version 4.2.0. In particular, the WOFF web fon
 * The embedded web font file is licensed as [SIL OFL 1.1](http://scripts.sil.org/OFL).
 * The embedded CSS code is licensed as [MIT License](http://opensource.org/licenses/mit-license.html).
 * My contributions (by TheDiveO) that aren't part of a standard TiddlyWiki 5 distribution itself
-(as available from the [TiddlyWiki](http://tiddlywiki.com) web site) is licensed as:
+(as available from the [TiddlyWiki](http://tiddlywiki.com) web site) are licensed as:
   * documentation is covered by [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
   * code (such as TiddlyWiki 5 macros, JavaScript, et cetera) and CSS definitions are covered by
 the [MIT License](http://opensource.org/licenses/mit-license.html).
