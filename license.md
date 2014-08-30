@@ -1,4 +1,4 @@
-# License
+# Licenses
 
 * The embedded web font file is licensed as [SIL OFL 1.1](http://scripts.sil.org/OFL).
 * The embedded CSS code is licensed as [MIT License](http://opensource.org/licenses/mit-license.html).
