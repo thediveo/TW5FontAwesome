@@ -1,0 +1,4 @@
+/* Fix broken GitHub CSS */
+b, strong {
+  font-weight: bold;
+}
