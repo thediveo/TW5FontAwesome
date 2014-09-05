@@ -1,0 +1,36 @@
+created: 20140307084843714
+creator: Harald Albrecht
+modified: 20140901072320086
+modifier: TheDiveO
+tags: $:/TheDiveO/tags/TW5Custom $:/TheDiveO/tags/doc
+title: $:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome/doc
+type: text/vnd.tiddlywiki
+
+<i class="fa fa-flag fa-3x pull-left fa-border"></i>[[Font Awesome|http://fortawesome.github.io/Font-Awesome/]] is a set of 350+ scalable vector icons in form of a font. It has been created by Dave Gandy. According to its author, «//Font Awesome is a pictographic language of web-related actions//». The font is free as in free speech. This stylesheet tiddler provides the complete font together with a whooping bunch of CSS definitions to make working with Font Awesome a pleasure to do.
+
+! Version
+
+The version of the embedded WOFF font and associated CSS stylesheet is 4.2.0.
+
+* Font Awesome font license: [[SIL OFL 1.1|http://scripts.sil.org/OFL]].
+* Font Awesome CSS and LESS files licenses: [[MIT License|http://opensource.org/licenses/mit-license.html]].
+
+! How to Update
+
+# First download the newest Font Awesome ZIP archive from the [[Font Awesome front page|http://fortawesome.github.io/Font-Awesome/]].
+# Unpack the archive contents into some temporary directory.
+# Replace the old contents of [[$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome]] with the contents of the CSS file ``css/font-awesome.css``.
+# Remove the existing ``src`` definitions from the ``@font-face`` rule at the top of the CSS.
+# Now add the new definition ``src: local("FontAwesome"), url(data:application/font-woff;base64,``...``) format("woff");`` to the ``@font-face`` rule. There is no need to paste the triple dots as these are just signalling where we need to insert the base64-encoded font data itself later.
+# Go to one of the base64 encoding web services, but take care: most of them break the result into multiple lines -- ''which won't work in CSS'' as the whole base64 result needs to be on a ''single'' line.  [[http://webcodertools.com/imagetobase64converter]] is suitable. Drag the web font file from ``fonts/fontawesome-webfont.woff`` onto the file button in the web form and convert.
+# Press the ''Upload'' button in the web form.
+# Paste the Base64-encoded result from the top input box of the web form into the [[$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome]] and there into the ``src`` definition from the ``@font-face`` rule. The Base64-encoded contents need to be pasted after the ``base64,`` and before the terminating ``) format("woff");``. Be careful to only copy and paste the portion ''after'' ``base64,`` ''up to but not including'' the final quote from the top example result field.
+# Save your ~TiddlyWiki.
+# Reload. Just to be sure -- you don't really need to reload as ~TiddlyWiki automatically brings any CSS changes from stylesheet tiddlers live as soon as you update them. So sweet!
+
+! Background
+
+For background information on the font itself as well as on its integration into ~TiddlyWiki&nbsp;5 please see:
+
+* [[Font Awesome web site|http://fortawesome.github.io/Font-Awesome/]] -- the source of this font, and comprehensive documentation on how to use the font Awesome.
+* [[How to incorporate Font Awesome Icons into TiddlyWiki 5|http://blog.jeffreykishner.com/2014/01/23/how-to-incorporate-font-awesome-icons-into-tiddlywiki-5.html]] -- a blog post detailing how to store and integrate the font into a ~TiddlyWiki&nbsp;5.

@@ -1,0 +1,14 @@
+created: 20140829114514693
+creator: TheDiveO
+modified: 20140901072348029
+modifier: TheDiveO
+title: Font Awesome
+type: text/vnd.tiddlywiki
+
+<i class="fa fa-2x pull-left fa-border fa-flag"></i>This tiny [[TiddlyWiki 5|http://tiddlywiki.com]] brings you support for <i class="fa fa-flag"></i>&nbsp;[[Font Awesome|http://fortawesome.github.io/Font-Awesome/]]. Normally, all you need to do to use this font in your own projects is to drag the tiddler [[$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome]] from this wiki into your own ~TiddlyWiki&nbsp;5 instances. You don't need to install the font in your operating system. The Font Awesome is embedded into this ~TiddlyWiki itself and is then automatically detected by your web browser (assuming a recent major browser).
+
+For some background (such as updating to a newer font version yourself) please refer to this small and integrated [[FontAwesome documentation|$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome/doc]].
+
+If everything here works correctly, then you should see the waving flag (<i class="fa fa-flag"></i>&nbsp;) that is the symbol of Font Awesome.
+
+<i class="fa fa-2x pull-left fa-border fa-hand-o-right"></i>Please note that your browser needs to support so-called [[WOFF web fonts|http://en.wikipedia.org/wiki/Web_Open_Font_Format]] (Wikipedia). All recent major browser do so.

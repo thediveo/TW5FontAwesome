@@ -1,0 +1,24 @@
+{
+    "includeWikis": [
+		"../../src"
+    ],
+    "config": {
+		"disable-hfs": "yes"
+    },
+    "plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/codemirror",
+        "tiddlywiki/highlight"
+    ],
+    "build": {
+		"release": [
+			"--packplugin", "$:/plugins/TheDiveO/FontAwesome",
+			"--rendertemplatedtiddler", "$:/plugins/TheDiveO/FontAwesome", "$:/core/templates/tid-tiddler", "fontawesome.tid", "", "text/plain",
+			"--rendertiddler", "$:/plugins/TheDiveO/ThirdFlow/templates/save-all-wo-plugin-sources", "fontawesome.html", "text/plain"
+		]
+    },
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ]
+}

@@ -28,6 +28,28 @@ difficult, at least after you've managed to correctly set up a TiddlyWiki 5 deve
 of Node.js and TiddlyWiki 5. This basic installation is well explained in [Getting Started &ndash;
 Node.js](http://tiddlywiki.com/#GettingStarted%20-%20Node.js:[[GettingStarted%20-%20Node.js]]) and easy to do.
 
+### Repository Organisation
+
+The repository is organized such that it allows you to both develop and maintain this plugin from
+within TiddlyWiki 5 itself as well as packaging the plugin.
+
+* ``src/`` folder &ndash; contains the tiddler sources in form of individual .tid files, as well as
+any external files. All tiddlers are hierarchically organized within the famous ``tiddler/`` subfolder.
+This folder acts as a **shared** TiddlyWiki 5 edition so it contains simply an empty ``tiddlywiki.info``
+configuration file. Concrete edition configuration is done inside the specific editions in the
+``editions/`` folder instead (see below).
+  * ``tiddler/`` folder &ndash; contains all tiddler sources, organized in subfolders according to
+the tiddler titles. Most stuff will be in the ``system/`` subfolder which represents "$:/".
+* ``editions/`` folder &ndash; here you'll find the TiddlyWiki 5 server editions, in particular:
+  * ``develop/`` folder & ndash; the TiddlyWiki 5 server edition for developing. This folder only
+contains the ``tiddlywiki.info`` setup information that pulls in the required plugins. Otherwise, it
+simply refers to the (shared) ``src/`` where the tiddlers actually get stored.
+  * ``release/`` folder &ndash; used for releasing the TW5FontAwesome plugin. The primary difference
+to the develop edition is that the TW5FontAwesome plugin is defined here explicitly as a plugin.
+    * ``plugins/`` folder &ndash; contains the explicit plugin definitions.
+      * ``TW5FontAwesome/`` folder &ndash; the plugin defition of the TW5FontAwesome plugin. Please
+note that this definition aliases ``src/tiddlers/system/``.
+
 ##### Important
 
 **At this time there's unfortunately a little gotcha involved.
