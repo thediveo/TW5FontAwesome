@@ -2,3 +2,7 @@
 b, strong {
   font-weight: bold;
 }
+
+span.nb {
+  white-space: nowrap;
+}
