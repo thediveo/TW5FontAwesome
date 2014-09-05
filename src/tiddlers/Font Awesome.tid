@@ -1,6 +1,6 @@
 created: 20140829114514693
 creator: TheDiveO
-modified: 20140901072348029
+modified: 20140905153940677
 modifier: TheDiveO
 title: Font Awesome
 type: text/vnd.tiddlywiki
@@ -12,3 +12,5 @@ For some background (such as updating to a newer font version yourself) please r
 If everything here works correctly, then you should see the waving flag (<i class="fa fa-flag"></i>&nbsp;) that is the symbol of Font Awesome.
 
 <i class="fa fa-2x pull-left fa-border fa-hand-o-right"></i>Please note that your browser needs to support so-called [[WOFF web fonts|http://en.wikipedia.org/wiki/Web_Open_Font_Format]] (Wikipedia). All recent major browser do so.
+
+This is the //~FontAwesome// plugin version "<$view tiddler="$:/plugins/TheDiveO/FontAwesome" field="version" />" (<$list filter="[[$:/plugins/TheDiveO/FontAwesome/readme]is[shadow]]" emptyMessage="<span style='color: #c00; font-weight: bold'>development</span>">release</$list> wiki).

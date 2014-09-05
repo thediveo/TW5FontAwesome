@@ -50,13 +50,6 @@ to the develop edition is that the TW5FontAwesome plugin is defined here explici
       * ``TW5FontAwesome/`` folder &ndash; the plugin defition of the TW5FontAwesome plugin. Please
 note that this definition aliases ``src/tiddlers/system/``.
 
-##### Important
-
-**At this time there's unfortunately a little gotcha involved.
-You'll need a TiddlyWiki 5 installation that also contains my ``hierarchicalfilesystem``
-plugin if you plan to develop on a clone of this repository. Hopefully, this new plugin may be integrated into
-the TiddlyWiki 5 core. See also [pull request #767](https://github.com/Jermolene/TiddlyWiki5/pull/767).**
-
 1. If not done so, install Node.js and TW5 as explained in [Getting Started &ndash;
 Node.js](http://tiddlywiki.com/#GettingStarted%20-%20Node.js:[[GettingStarted%20-%20Node.js]]). Make sure that
 the ``hierarchicalfilesystem`` plugin is installed too, see my note above.
@@ -67,6 +60,10 @@ to your local drive.
 1. Visit [http://localhost:8080](http://localhost:8080) in your browser ... and you should see the TW5FontAwesome wiki. (Eek, IPv4 only at this time...)
 1. Try editing and creating tiddlers. Please note that this will immediately synchronize with the repository files on your local drive.
 1. Enjoy!
+
+This plugin project now includes my //Third Flow// plugin for easy development and release of
+customization plugins. This helper plugin removes itself when the TW5FontAwesome demonstration
+TiddlyWiki gets generated.
 
 ## Author
 
