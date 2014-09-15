@@ -6,3 +6,146 @@ b, strong {
 span.nb {
   white-space: nowrap;
 }
+
+span.fa:before {
+  margin-right: 0.3em;
+  -webkit-opacity: 0.5;
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
+
+p.clear {
+  clear: both;
+}
+
+figure {
+  display: inline;
+}
+
+figure.framed {
+  padding: 1ex 1ex 0.5ex 1ex;
+  border: solid 1px #e9e2d9;
+  background: #f7f1e8;
+  -webkit-box-shadow: 4px 4px 8px -4px rgba(0, 0, 0, .75);
+  -moz-box-shadow: 4px 4px 8px -4px rgba(0, 0, 0, .75);
+  box-shadow: 4px 4px 8px -4px rgba(0, 0, 0, .75);
+  border-radius: 3px;
+}
+
+figure.framed img {
+  border-left: solid 1px #d6cfc6;
+  border-top: solid 1px #d6cfc6;
+  border-right: solid 1px #f1ebe3;
+  border-bottom: solid 1px #f1ebe3;
+}
+
+figure.taped-left:before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 2em;
+  top: -3ex;
+  width: 7em;
+  height: 4ex;
+  background-color: rgba(210,210,198,0.5);
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+
+figure.taped-mid:before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 8em;
+  top: -2ex;
+  width: 5em;
+  height: 4ex;
+  background-color: rgba(210,210,198,0.5);
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+
+figure.rot2 {
+  -webkit-transform:rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  transform: rotate(2deg);	
+}
+
+figure.rot-1 {
+  -webkit-transform:rotate(-1deg);
+  -moz-transform: rotate(-1deg);
+  -o-transform: rotate(-1deg);
+  -ms-transform: rotate(-1deg);
+  transform: rotate(-1deg);
+}
+
+figcaption {
+  display: block;
+}
+
+figure.right {
+  float: right;
+  margin-left: 1em;
+}
+
+figure figcaption {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  letter-spacing: 0.1em;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+}
+
+img.right {
+  float: right;
+  margin-left: 1em;
+}
+
+img.left {
+  float: left;
+  margin-right: 1em;
+}
+
+img.framed {
+  border: 1px solid #ccc;
+  padding: 1px;
+}
+
+span.plugin:before {
+  font: normal normal normal 90%/1 FontAwesome;
+  content: "\f1e6";
+  margin-right: 0.2em;
+  -webkit-opacity: 0.5;
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
+
+span.plugin {
+  font-weight: bold;
+}
+
+a.wiki:before {
+  font: normal normal normal 90%/1 FontAwesome;
+  content: "\f02d";
+  margin-right: 0.2em;
+  -webkit-opacity: 0.5;
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
+
+a.ext:before {
+  font: normal normal normal 90%/1 FontAwesome;
+  content: "\f14c";
+  margin-right: 0.15em;
+  -webkit-opacity: 0.4;
+  -moz-opacity: 0.4;
+  opacity: 0.4;
+}
+
