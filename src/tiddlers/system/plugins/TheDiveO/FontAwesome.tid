@@ -2,11 +2,11 @@ author: TheDiveO
 created: 20140901105647564
 description: FontAwesome embedded font support for TW5
 list: readme license history
-modified: 20140905070512077
+modified: 20140925072522173
 plugin-type: plugin
 source: https://github.com/TheDiveO/TW5FontAwesome
 title: $:/plugins/TheDiveO/FontAwesome
 type: application/json
-version: 0.9.1
+version: 0.9.2-beta
 
 {"tiddlers":{}}
