@@ -2,8 +2,8 @@
 rem release.cmd
 rem
 rem generates release files:
-rem   editions\release\output\thirdflow.html -- the plugin demo wiki
-rem   editions\release\output\thirdflow.tid -- the plugin tiddler
+rem   editions\release\output\fontawesome.html -- the plugin demo wiki
+rem   editions\release\output\fontawesome.tid -- the plugin tiddler
 rem
 tiddlywiki ^
 	editions\release ^

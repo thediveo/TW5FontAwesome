@@ -1,0 +1,13 @@
+created: 20170223100401008
+modified: 20170223102754789
+tags: 
+title: External Links Styling
+type: text/vnd.tiddlywiki
+
+* external link: [[http://example.org]]
+* external link, secure: [[https://example.org]]
+
+* Wikipedia: [[http://en.wikipedia.org]]
+* ~GitHub: [[http://github.com]]
+
+These styles are defined in the plugin tiddlers [[$:/plugins/TheDiveO/FontAwesome/styles/extlinks]] (including sub tiddlers).

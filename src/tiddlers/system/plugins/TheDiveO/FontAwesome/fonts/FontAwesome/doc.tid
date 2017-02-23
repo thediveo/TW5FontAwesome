@@ -1,16 +1,16 @@
 created: 20140307084843714
 creator: Harald Albrecht
-modified: 20140901072320086
+modified: 20170223093143992
 modifier: TheDiveO
 tags: $:/TheDiveO/tags/TW5Custom $:/TheDiveO/tags/doc
 title: $:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome/doc
 type: text/vnd.tiddlywiki
 
-<i class="fa fa-flag fa-3x pull-left fa-border"></i>[[Font Awesome|http://fortawesome.github.io/Font-Awesome/]] is a set of 350+ scalable vector icons in form of a font. It has been created by Dave Gandy. According to its author, «//Font Awesome is a pictographic language of web-related actions//». The font is free as in free speech. This stylesheet tiddler provides the complete font together with a whooping bunch of CSS definitions to make working with Font Awesome a pleasure to do.
+<i class="fa fa-flag fa-3x pull-left fa-border"></i>[[Font Awesome|http://fortawesome.github.io/Font-Awesome/]] is a set of (currently) 675+ scalable vector icons in form of a font. It has been created by Dave Gandy. According to its author, «//Font Awesome is a pictographic language of web-related actions//». The font is free as in free speech. This stylesheet tiddler provides the complete font together with a whooping bunch of CSS definitions to make working with Font Awesome a pleasure to do.
 
 ! Version
 
-The version of the embedded WOFF font and associated CSS stylesheet is 4.2.0.
+The version of the embedded WOFF font and associated CSS stylesheet is 4.7.0.
 
 * Font Awesome font license: [[SIL OFL 1.1|http://scripts.sil.org/OFL]].
 * Font Awesome CSS and LESS files licenses: [[MIT License|http://opensource.org/licenses/mit-license.html]].

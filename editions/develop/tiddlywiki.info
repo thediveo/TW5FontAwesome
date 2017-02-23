@@ -6,6 +6,7 @@
 		"default-tiddler-location": "../../src/tiddlers"
     },
     "plugins": [
+        "tiddlywiki/filesystem",
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/codemirror",
         "tiddlywiki/highlight"

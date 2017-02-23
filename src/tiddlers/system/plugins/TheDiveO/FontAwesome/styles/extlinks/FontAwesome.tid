@@ -1,0 +1,10 @@
+created: 20170223100218868
+modified: 20170223100349581
+tags: $:/tags/Stylesheet
+title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks/FontAwesome
+type: text/css
+
+a[href^="http://fontawesome.io/"]:before {
+  font-family: 'FontAwesome';
+  content: '\f2b4\202f';
+}

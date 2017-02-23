@@ -1,6 +1,15 @@
 created: 20140901110931199
-modified: 20140901123139044
+modified: 20170223093034795
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
-* ''v0.0.1-beta1'': initial plugin release.
+* ''1.0.0''
+** incorporates recent Font Awesome 4.7.0.
+** CSS updated to 4.7.0 too.
+** development version contains updated Third Flow plugin.
+
+* ''0.9.2-beta''
+** stable beta release with Font Awesome 4.2.0.
+
+* ''v0.0.1-beta1''
+** initial plugin release.
