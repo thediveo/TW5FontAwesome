@@ -1,9 +1,13 @@
 created: 20140831145445334
-modified: 20170223105012254
+modified: 20170224171712237
 tags: $:/tags/Macro
 title: $:/plugins/TheDiveO/FontAwesome/macros/fa
 type: text/vnd.tiddlywiki
 
 \define fa-lbox(glyph:"fa-flag")
 <i class="fa fa-2x pull-left fa-border $glyph$"></i>
+\end
+
+\define fa-clear()
+<div style="clear:both;"/>
 \end

@@ -1,12 +1,15 @@
 created: 20140829114514693
 creator: TheDiveO
-modified: 20170223105212406
+modified: 20170224171824043
 modifier: TheDiveO
 title: Font Awesome
 type: text/vnd.tiddlywiki
 
-<<fa-lbox glyph:"fa-font-awesome">>This tiny [[TiddlyWiki 5|http://tiddlywiki.com]] brings you support for [[Font Awesome|http://fontawesome.io/Font-Awesome/]]. Normally, all you need to do to use this font in your own projects is to drag the tiddler [[$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome]] from this wiki into your own ~TiddlyWiki&nbsp;5 instances. You don't need to install the font in your operating system. The Font Awesome is embedded into this ~TiddlyWiki itself and is then automatically detected by your web browser (assuming a recent major browser).
+<<fa-lbox glyph:"fa-fa">>This tiny [[TiddlyWiki 5|http://tiddlywiki.com]] brings you support for [[Font Awesome|http://fontawesome.io/Font-Awesome/]]. Normally, all you need to do to use this font in your own projects is to drag the tiddler [[$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome]] from this wiki into your own ~TiddlyWiki&nbsp;5 instances. You don't need to install the font in your operating system. The Font Awesome is embedded into this ~TiddlyWiki itself and is then automatically detected by your web browser (assuming a recent major browser).
 
+<<fa-lbox glyph:"fa-hand-o-up">>''NOTE:'' in case you have installed Font Awesome also in your system, then this may -- unfortunately -- take precedence.
+
+<<fa-clear>>
 Further plugin information:
 
 * [[Plugin readme|$:/plugins/TheDiveO/FontAwesome/readme]]
@@ -19,4 +22,5 @@ If everything here works correctly, then you should see the waving flag (<i clas
 
 <<fa-lbox glyph:"fa-hand-o-right">>Please note that your browser needs to support so-called [[WOFF web fonts|http://en.wikipedia.org/wiki/Web_Open_Font_Format]] (Wikipedia). All recent major browsers do so.
 
+<<fa-clear>>
 <<fa-lbox glyph:"fa-cog">>This is the //~FontAwesome// plugin version "<$view tiddler="$:/plugins/TheDiveO/FontAwesome" field="version" />" (<$list filter="[[$:/plugins/TheDiveO/FontAwesome/readme]is[shadow]]" emptyMessage="<span style='color: #c00; font-weight: bold'>development</span>">release</$list> wiki).

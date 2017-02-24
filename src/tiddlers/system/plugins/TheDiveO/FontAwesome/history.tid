@@ -1,12 +1,20 @@
 created: 20140901110931199
-modified: 20170223093034795
+modified: 20170224172758466
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
-* ''1.0.0''
+* ''1.0.2''
+** fixes base64 encoding of the embedded Font Awesome woff.
+** updated documentation with a warning about system-installed fonts taking precedence.
+** updated instructions on how to update the embedded font yourself.
+
+* ''1.0.1''
 ** incorporates recent Font Awesome 4.7.0.
 ** CSS updated to 4.7.0 too.
 ** development version contains updated Third Flow plugin.
+
+* ''1.0.0''
+** never released.
 
 * ''0.9.2-beta''
 ** stable beta release with Font Awesome 4.2.0.
