@@ -1,6 +1,6 @@
 created: 20140307084843714
 creator: Harald Albrecht
-modified: 20170224172724507
+modified: 20170224203809895
 modifier: TheDiveO
 tags: $:/TheDiveO/tags/TW5Custom $:/TheDiveO/tags/doc
 title: $:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome/doc
@@ -21,10 +21,11 @@ The version of the embedded WOFF font and associated CSS stylesheet is 4.7.0.
 # Unpack the archive contents into some temporary directory.
 # Replace the old contents of [[$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome]] with the contents of the CSS file ``css/font-awesome.css``.
 # Remove the existing ``src`` definitions from the ``@font-face`` rule at the top of the CSS.
-# Now add the new definition ``src: local("FontAwesome"), url(data:application/font-woff;base64,``...``) format("woff");`` to the ``@font-face`` rule. There is no need to paste the triple dots as these are just signalling where we need to insert the base64-encoded font data itself later.
+# Now add the new definition ``src: url(data:application/font-woff;base64,``...``) format("woff");`` to the ``@font-face`` rule. There is no need to paste the triple dots as these are just signalling where we need to insert the base64-encoded font data itself later.
 # Use the `base64` command (or some similar tool) to encode `fontawesome-webfont.woff` in the required textual base64 format: `$base64 --wrap=0 fontawesome-webfont.woff > fontawesome-webfont.base64`
 # Paste the resulting text file `fontawesome-webfont.base64` into the [[$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome]] and there into the ``src`` definition from the ``@font-face`` rule. The Base64-encoded contents need to be pasted after the ``base64,`` and before the terminating ``) format("woff");``. Be careful to only copy and paste the portion ''after'' ``base64,`` ''up to but not including'' the final quote from the top example result field.
 #* Make sure to paste from a text editor that is able to handle single text lines of more than hundred kilobytes.
+#* TiddlyWiki's integrated text editor itself will handle extremely long lines well, so no need to worry here.
 # Save your ~TiddlyWiki.
 # Reload. Just to be sure -- you don't really need to reload as ~TiddlyWiki automatically brings any CSS changes from stylesheet tiddlers live as soon as you update them. So sweet!
 
