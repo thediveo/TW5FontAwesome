@@ -1,7 +1,12 @@
 created: 20140901110931199
-modified: 20170224202016083
+modified: 20170227163705202
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
+
+* ''1.0.4''
+** improved display of link adornments by removing the link underlining from the adornments.
+** fixed CSS class name bug in `fa-lbox` macro. Also added new `fa-lbadge` macro. Added documentation.
+** oh, the magic of the `list-after` field, when applied to CSS tiddlers, avoids overuse of CSS `!important` declarations.
 
 * ''1.0.3''
 ** fixed CSS to ensure that our embedded Font Awesome font always takes precendence over any system-installed Font Awesome font. This ensures a consistent user experience, especially when the local Font Awesome would be an older version.

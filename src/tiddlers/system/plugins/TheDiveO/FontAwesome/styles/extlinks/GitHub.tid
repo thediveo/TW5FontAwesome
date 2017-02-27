@@ -1,11 +1,12 @@
 created: 20170223102202986
-modified: 20170223102424975
+list-after: $:/plugins/TheDiveO/FontAwesome/styles/extlinks
+modified: 20170227162055736
 tags: $:/tags/Stylesheet
 title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks/GitHub
 type: text/css
 
 a[href^="http://"][href*="github.com"]:before {
   font-family: 'FontAwesome';
-  font-size: 90% !important;
-  content: '\f09b\202f' !important;
+  font-size: 90%;
+  content: '\f09b\202f';
 }
