@@ -1,0 +1,25 @@
+created: 20170301201914393
+modified: 20170301202030243
+tags: $:/tags/Stylesheet
+title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks/doctypes
+type: text/css
+
+a[href$=".pdf"]:before {
+  font-family: 'FontAwesome';
+  content: '\f1c1\202f';
+  display: inline-block;
+}
+
+a[href$=".gz"]:before, a[href$=".zip"]:before, a[href$=".7z"]:before {
+  font-family: 'FontAwesome';
+  content: '\f1c6\202f';
+  display: inline-block;
+}
+
+a[href$=".jpg"]:before, a[href$=".jpeg"]:before,
+a[href$=".png"]:before, a[href$=".gif"]:before,
+a[href$=".tif"]:before, a[href$=".tiff"]:before {
+  font-family: 'FontAwesome';
+  content: '\f1c5\202f';
+  display: inline-block;
+}
