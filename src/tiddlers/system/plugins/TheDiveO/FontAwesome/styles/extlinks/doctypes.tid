@@ -1,25 +1,30 @@
 created: 20170301201914393
 list-after: $:/plugins/TheDiveO/FontAwesome/styles/extlinks
-modified: 20170302084546109
+modified: 20170315205341381
 tags: $:/tags/Stylesheet
 title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks/doctypes
 type: text/css
 
-a[href$=".pdf"]:before {
+a[href$=".pdf"].tc-tiddlylink-external:before {
   font-family: 'FontAwesome';
   content: '\f1c1\202f';
   display: inline-block;
 }
 
-a[href$=".gz"]:before, a[href$=".zip"]:before, a[href$=".7z"]:before {
+a[href$=".gz"].tc-tiddlylink-external:before, 
+a[href$=".zip"].tc-tiddlylink-external:before,
+a[href$=".7z"].tc-tiddlylink-external:before {
   font-family: 'FontAwesome';
   content: '\f1c6\202f';
   display: inline-block;
 }
 
-a[href$=".jpg"]:before, a[href$=".jpeg"]:before,
-a[href$=".png"]:before, a[href$=".gif"]:before,
-a[href$=".tif"]:before, a[href$=".tiff"]:before {
+a[href$=".jpg"].tc-tiddlylink-external:before,
+a[href$=".jpeg"].tc-tiddlylink-external:before,
+a[href$=".png"].tc-tiddlylink-external:before,
+a[href$=".gif"].tc-tiddlylink-external:before,
+a[href$=".tif"].tc-tiddlylink-external:before,
+a[href$=".tiff"].tc-tiddlylink-external:before {
   font-family: 'FontAwesome';
   content: '\f1c5\202f';
   display: inline-block;
