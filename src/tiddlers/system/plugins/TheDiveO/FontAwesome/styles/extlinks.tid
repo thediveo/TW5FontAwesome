@@ -1,17 +1,17 @@
 created: 20170223100043117
-modified: 20170223101200322
+modified: 20171230202213771
 tags: $:/tags/Stylesheet
 title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks
 type: text/css
 
 a[href^="http://"]:before {
-  font-family: 'FontAwesome';
+  font-family: 'Font Awesome 5 Free';
   font-size: 80%;
-  content: '\f08e\202f';
+  content: '\f35d\f08e\202f';
 }
 
 a[href^="https://"]:before {
-  font-family: 'FontAwesome';
+  font-family: 'Font Awesome 5 Free';
   font-size: 80%;
   content: '\f023\202f';
 }
