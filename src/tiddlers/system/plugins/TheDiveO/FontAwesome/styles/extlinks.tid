@@ -8,10 +8,12 @@ a[href^="http://"]:before {
   font-family: 'Font Awesome 5 Free';
   font-size: 80%;
   content: '\f35d\f08e\202f';
+  display: inline-block;
 }
 
 a[href^="https://"]:before {
   font-family: 'Font Awesome 5 Free';
   font-size: 80%;
   content: '\f023\202f';
+  display: inline-block;
 }

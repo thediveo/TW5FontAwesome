@@ -1,0 +1,31 @@
+created: 20170301201914393
+list-after: $:/plugins/TheDiveO/FontAwesome/styles/extlinks
+modified: 20170315205341381
+tags: $:/tags/Stylesheet
+title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks/doctypes
+type: text/css
+
+a[href$=".pdf"].tc-tiddlylink-external:before {
+  font-family: 'FontAwesome';
+  content: '\f1c1\202f';
+  display: inline-block;
+}
+
+a[href$=".gz"].tc-tiddlylink-external:before, 
+a[href$=".zip"].tc-tiddlylink-external:before,
+a[href$=".7z"].tc-tiddlylink-external:before {
+  font-family: 'FontAwesome';
+  content: '\f1c6\202f';
+  display: inline-block;
+}
+
+a[href$=".jpg"].tc-tiddlylink-external:before,
+a[href$=".jpeg"].tc-tiddlylink-external:before,
+a[href$=".png"].tc-tiddlylink-external:before,
+a[href$=".gif"].tc-tiddlylink-external:before,
+a[href$=".tif"].tc-tiddlylink-external:before,
+a[href$=".tiff"].tc-tiddlylink-external:before {
+  font-family: 'FontAwesome';
+  content: '\f1c5\202f';
+  display: inline-block;
+}

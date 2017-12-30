@@ -8,6 +8,10 @@ type: text/vnd.tiddlywiki
 <i class="$fam$ fa-2x pull-left fa-border $glyph$"></i>
 \end
 
+\define fa-lbadge(glyph:"fa-flag",fam:"fas")
+<span class="fa-stack fa-lg fa-pull-left" style="margin-right: .3em;"><i class="$fam$ fa-circle fa-stack-2x"></i><i class="$fam$ fa-stack-1x fa-inverse $glyph$"></i></span>
+\end
+
 \define fa-clear()
 <div style="clear:both;"/>
 \end
