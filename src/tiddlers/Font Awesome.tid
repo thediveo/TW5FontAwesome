@@ -1,11 +1,13 @@
 created: 20140829114514693
 creator: TheDiveO
-modified: 20171230204529072
+modified: 20171230212309397
 modifier: TheDiveO
 title: Font Awesome
 type: text/vnd.tiddlywiki
 
-<<fa-lbadge glyph:"fa-font-awesome-flag" fam:"fab">> This tiny [[TiddlyWiki 5|http://tiddlywiki.com]] brings you support for [[Font Awesome|http://fontawesome.io/Font-Awesome/]]. Normally, all you need to do to use this font in your own projects is to drag the tiddler [[$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome]] from this wiki into your own ~TiddlyWiki&nbsp;5 instances. You don't need to install the font in your operating system. The Font Awesome is embedded into this ~TiddlyWiki itself and is then automatically detected by your web browser (assuming a recent major browser).
+<<fa-lbadge glyph:"fa-font-awesome-flag" fam:"fab">> This tiny [[TiddlyWiki 5|https://tiddlywiki.com]] brings you support for [[Font Awesome|http://fontawesome.io/Font-Awesome/]] 5.0. Normally, all you need to do to use this font in your own projects is to drag the plugin [[$:/plugins/TheDiveO/FontAwesome]] from this wiki into your own ~TiddlyWiki&nbsp;5 instances.
+
+Yes, you ''don't need to install'' the font(s) in your operating system. The Font Awesome is already embedded into this ~TiddlyWiki itself and is then automatically detected by your web browser (assuming a recent major browser).
 
 <<fa-lbadge glyph:"fa-info">> You don't need to install the //Font Awesome// font itself in your operating system in order to use it in your ~TiddlyWikis. Instead, //Font Awesome// is already embedded into the TW5FontAwesome plugin itself and is automatically loaded by your web browser -- assuming a modestly recent major browser.
 
@@ -17,11 +19,9 @@ Further plugin information:
 * [[Plugin license|$:/plugins/TheDiveO/FontAwesome/license]]
 * [[User macro documentation|$:/plugins/TheDiveO/FontAwesome/macros/fa/doc]]
 
-* For background information, such as updating to a newer font version yourself, please refer to this small and integrated [[FontAwesome documentation|$:/plugins/TheDiveO/FontAwesome/fonts/FontAwesome/doc]].
-
 If everything here works correctly, then you should see the waving flag (<i class="fas fa-flag"></i>&nbsp;) that is the symbol of Font Awesome.
 
 <<fa-lbadge glyph:"fa-hand-point-right">>Please note that your browser needs to support so-called [[WOFF web fonts|http://en.wikipedia.org/wiki/Web_Open_Font_Format]] (Wikipedia). All recent major browsers do so.
 
 <<fa-clear>>
-<<fa-lbadge glyph:"fa-cog">>This is the //~FontAwesome// plugin version "<$view tiddler="$:/plugins/TheDiveO/FontAwesome" field="version" />" (<$list filter="[[$:/plugins/TheDiveO/FontAwesome/readme]is[shadow]]" emptyMessage="<span style='color: #c00; font-weight: bold'>development</span>">release</$list> wiki).
+<<fa-lbadge glyph:"fa-cog">>This is the //~FontAwesome// plugin version "<$view tiddler="$:/plugins/TheDiveO/FontAwesome" field="version" />" (<$list filter="[[$:/plugins/TheDiveO/FontAwesome/readme]is[shadow]]" emptyMessage="<span style='color: #c00; font-weight: bold'>development</span>">release</$list> wiki) embedding Font Awesome "<$view tiddler="$:/plugins/TheDiveO/FontAwesome" field="fa-version" />".

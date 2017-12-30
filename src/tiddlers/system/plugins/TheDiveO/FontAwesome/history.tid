@@ -1,11 +1,12 @@
 created: 20140901110931199
-modified: 20171230205218254
+modified: 20171230211843311
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
 * ''1.1.0''
 ** upgrades to Font Awesome 5.0.2.
 ** upgrades user macros to allow to specify the Font Awesome font family: `fas` (//Font Awesome Solid//), `far` (//Font Awesome Regular//), and `fab` (//Font Awesome Brands//).
+** upgrades stylesheets to new Font Awesome font mess, introduces [[$:/plugins/TheDiveO/FontAwesome/macros/css settings]] shorthand macros to avoid lengthy CSS properties assignments in CSS rules using Font Awesome.
 * ''1.0.7''
 ** fix overly greedy image URL adornments, so that they don't apply to TW5-internal images. Now, an internal [[tree.jpeg]] doesn't get adornment, while [[http://thediveo.github.io/TW5FontAwesome/fa-flag.png]] still does, so the type of document can be glanced quickly.
 ** small visual improvement to `fa-lbadge` which adds a small right margin to the badge, so that the adjacent text doesn't seem to visually collide with the badge anymore.

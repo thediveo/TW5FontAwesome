@@ -1,5 +1,5 @@
 created: 20170223100401008
-modified: 20170223102754789
+modified: 20171230210318947
 tags: 
 title: External Links Styling
 type: text/vnd.tiddlywiki
@@ -9,5 +9,9 @@ type: text/vnd.tiddlywiki
 
 * Wikipedia: [[http://en.wikipedia.org]]
 * ~GitHub: [[http://github.com]]
+
+* PDF: [[http://example.org/document.pdf]]
+* GNU ZIP archive: [[http://example.org/document.gz]]
+* PNG image: [[http://example.org/document.png]]
 
 These styles are defined in the plugin tiddlers [[$:/plugins/TheDiveO/FontAwesome/styles/extlinks]] (including sub tiddlers).
