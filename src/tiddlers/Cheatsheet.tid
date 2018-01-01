@@ -1,0 +1,32 @@
+created: 20180101192101902
+modified: 20180101221132764
+tags: 
+title: Cheatsheet
+type: text/vnd.tiddlywiki
+
+\define fa-size() 4x
+\define fa-glyphs-filter() [prefix[$:/fontawesome/glyph/]]
+\define fa-icon(fam, id, size, classes)
+<i class="$fam$ fa-$id$ fa-$size$ $classes$"></i>
+\end
+
+\define icon-box()
+  <div class="chsh-glyph-box">
+    <div class="chsh-glyph-icon"><$macrocall $name="fa-icon" fam=<<glyph-fam>> id=<<glyph-id>> size=<<fa-size>>/></div>
+    <div class="chsh-glyph-id">fa-<<glyph-id>></div>
+  </div>
+\end
+
+<$count filter=<<fa-glyphs-filter>>/> icon(s)
+
+<div class="chsh-glyph-grid">
+  <$list filter=<<fa-glyphs-filter>>>
+    <$set name="glyph-fam" value={{!!fa-default-style}}>
+      <$set name="glyph-id" filter="[all[current]removeprefix[$:/fontawesome/glyph/]]">
+        <$list filter="[all[current]list[!!fa-styles]]">
+          <<icon-box>>
+        </$list>
+      </$set>
+    </$set>
+  </$list>
+</div>

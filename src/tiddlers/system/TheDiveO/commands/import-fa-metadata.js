@@ -77,7 +77,8 @@ Command.prototype.execute = function() {
       // ...additional Font Awesome related fields
       "fa-unicode": glyph["unicode"],
       "fa-label": glyph["label"],
-      "fa-styles": $tw.utils.stringifyList(glyph["styles"])
+      "fa-styles": $tw.utils.stringifyList(glyph["styles"]),
+      "fa-default-style": defaultstyle
     });
     $tw.wiki.addTiddler(tiddler);
   });

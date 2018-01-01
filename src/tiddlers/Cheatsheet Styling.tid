@@ -1,0 +1,28 @@
+created: 20180101214352355
+modified: 20180101215256931
+tags: $:/tags/Stylesheet
+title: Cheatsheet Styling
+type: text/css
+
+div.chsh-glyph-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+div.chsh-glyph-box {
+  width: 10em;
+  margin: 3ex 0.5em;
+  text-align: center;
+}
+
+div.chsh-glyph-icon {
+  margin: 0 auto;
+}
+
+div.chsh-glyph-id {
+  margin: 0 auto;
+  opacity: 0.5;
+  font-size: 75%;
+  margin-top: 2ex;
+}
