@@ -1,3 +1,7 @@
+fa-label: Connect Develop
+fa-styles: brands
+fa-unicode: f20e
+tags: brands
 title: $:/fontawesome/glyph/connectdevelop
 
--placeholder-
+<i class='fab fa-connectdevelop fa-10x'></i>

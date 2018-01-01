@@ -1,3 +1,7 @@
+fa-label: Alernate Sign In
+fa-styles: solid
+fa-unicode: f2f6
+tags: enter join [[log in]] login [[sign up]] [[sign in]] signin signup arrow sign-in solid
 title: $:/fontawesome/glyph/sign-in-alt
 
--placeholder-
+<i class='fas fa-sign-in-alt fa-10x'></i>

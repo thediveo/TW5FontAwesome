@@ -1,3 +1,7 @@
+fa-label: Area Chart
+fa-styles: solid
+fa-unicode: f1fe
+tags: graph analytics area-chart solid
 title: $:/fontawesome/glyph/chart-area
 
--placeholder-
+<i class='fas fa-chart-area fa-10x'></i>

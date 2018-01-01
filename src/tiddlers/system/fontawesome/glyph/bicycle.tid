@@ -1,3 +1,7 @@
+fa-label: Bicycle
+fa-styles: solid
+fa-unicode: f206
+tags: vehicle bike solid
 title: $:/fontawesome/glyph/bicycle
 
--placeholder-
+<i class='fas fa-bicycle fa-10x'></i>

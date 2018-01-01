@@ -1,3 +1,7 @@
+fa-label: Cloud Download-alt
+fa-styles: solid
+fa-unicode: f381
+tags: cloud-download solid
 title: $:/fontawesome/glyph/cloud-download-alt
 
--placeholder-
+<i class='fas fa-cloud-download-alt fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Check Circle
+fa-styles: solid regular
+fa-unicode: f058
+tags: todo done agree accept confirm ok solid regular
 title: $:/fontawesome/glyph/check-circle
 
--placeholder-
+<i class='fas fa-check-circle fa-10x'></i>

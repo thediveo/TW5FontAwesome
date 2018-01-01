@@ -1,3 +1,7 @@
+fa-label: angle-right
+fa-styles: solid
+fa-unicode: f105
+tags: next forward arrow solid
 title: $:/fontawesome/glyph/angle-right
 
--placeholder-
+<i class='fas fa-angle-right fa-10x'></i>

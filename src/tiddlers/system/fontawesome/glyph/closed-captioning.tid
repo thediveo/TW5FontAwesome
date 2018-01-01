@@ -1,3 +1,7 @@
+fa-label: Closed Captioning
+fa-styles: solid regular
+fa-unicode: f20a
+tags: cc solid regular
 title: $:/fontawesome/glyph/closed-captioning
 
--placeholder-
+<i class='fas fa-closed-captioning fa-10x'></i>

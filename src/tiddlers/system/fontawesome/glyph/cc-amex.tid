@@ -1,3 +1,7 @@
+fa-label: American Express Credit Card
+fa-styles: brands
+fa-unicode: f1f3
+tags: amex brands
 title: $:/fontawesome/glyph/cc-amex
 
--placeholder-
+<i class='fab fa-cc-amex fa-10x'></i>

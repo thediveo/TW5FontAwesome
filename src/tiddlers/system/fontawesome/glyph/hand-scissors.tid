@@ -1,3 +1,7 @@
+fa-label: Scissors (Hand)
+fa-styles: solid regular
+fa-unicode: f257
+tags: solid regular
 title: $:/fontawesome/glyph/hand-scissors
 
--placeholder-
+<i class='fas fa-hand-scissors fa-10x'></i>

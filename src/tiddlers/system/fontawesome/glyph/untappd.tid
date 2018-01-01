@@ -1,3 +1,7 @@
+fa-label: Untappd
+fa-styles: brands
+fa-unicode: f405
+tags: brands
 title: $:/fontawesome/glyph/untappd
 
--placeholder-
+<i class='fab fa-untappd fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: text-height
+fa-styles: solid
+fa-unicode: f034
+tags: solid
 title: $:/fontawesome/glyph/text-height
 
--placeholder-
+<i class='fas fa-text-height fa-10x'></i>

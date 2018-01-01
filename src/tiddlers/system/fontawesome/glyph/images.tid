@@ -1,3 +1,7 @@
+fa-label: Images
+fa-styles: solid regular
+fa-unicode: f302
+tags: photo album picture solid regular
 title: $:/fontawesome/glyph/images
 
--placeholder-
+<i class='fas fa-images fa-10x'></i>

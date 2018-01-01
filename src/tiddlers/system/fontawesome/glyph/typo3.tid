@@ -1,3 +1,7 @@
+fa-label: Typo3
+fa-styles: brands
+fa-unicode: f42b
+tags: brands
 title: $:/fontawesome/glyph/typo3
 
--placeholder-
+<i class='fab fa-typo3 fa-10x'></i>

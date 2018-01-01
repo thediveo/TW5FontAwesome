@@ -1,3 +1,7 @@
+fa-label: Download
+fa-styles: solid
+fa-unicode: f019
+tags: import solid
 title: $:/fontawesome/glyph/download
 
--placeholder-
+<i class='fas fa-download fa-10x'></i>

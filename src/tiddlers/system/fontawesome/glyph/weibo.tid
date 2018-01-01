@@ -1,3 +1,7 @@
+fa-label: Weibo
+fa-styles: brands
+fa-unicode: f18a
+tags: brands
 title: $:/fontawesome/glyph/weibo
 
--placeholder-
+<i class='fab fa-weibo fa-10x'></i>

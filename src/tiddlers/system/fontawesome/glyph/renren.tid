@@ -1,3 +1,7 @@
+fa-label: Renren
+fa-styles: brands
+fa-unicode: f18b
+tags: brands
 title: $:/fontawesome/glyph/renren
 
--placeholder-
+<i class='fab fa-renren fa-10x'></i>

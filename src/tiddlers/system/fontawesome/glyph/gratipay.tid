@@ -1,3 +1,7 @@
+fa-label: Gratipay (Gittip)
+fa-styles: brands
+fa-unicode: f184
+tags: heart like favorite love brands
 title: $:/fontawesome/glyph/gratipay
 
--placeholder-
+<i class='fab fa-gratipay fa-10x'></i>

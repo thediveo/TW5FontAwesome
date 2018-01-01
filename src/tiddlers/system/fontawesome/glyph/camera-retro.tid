@@ -1,3 +1,7 @@
+fa-label: Retro Camera
+fa-styles: solid
+fa-unicode: f083
+tags: photo picture record solid
 title: $:/fontawesome/glyph/camera-retro
 
--placeholder-
+<i class='fas fa-camera-retro fa-10x'></i>

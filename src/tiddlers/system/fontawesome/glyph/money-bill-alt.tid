@@ -1,3 +1,7 @@
+fa-label: Money Bill-alt
+fa-styles: solid regular
+fa-unicode: f3d1
+tags: money solid regular
 title: $:/fontawesome/glyph/money-bill-alt
 
--placeholder-
+<i class='fas fa-money-bill-alt fa-10x'></i>

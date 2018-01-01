@@ -1,3 +1,7 @@
+fa-label: Snapchat Ghost
+fa-styles: brands
+fa-unicode: f2ac
+tags: brands
 title: $:/fontawesome/glyph/snapchat-ghost
 
--placeholder-
+<i class='fab fa-snapchat-ghost fa-10x'></i>

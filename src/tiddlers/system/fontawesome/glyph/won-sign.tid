@@ -1,3 +1,7 @@
+fa-label: Won Sign
+fa-styles: solid
+fa-unicode: f159
+tags: krw solid
 title: $:/fontawesome/glyph/won-sign
 
--placeholder-
+<i class='fas fa-won-sign fa-10x'></i>

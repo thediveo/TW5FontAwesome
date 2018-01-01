@@ -1,3 +1,7 @@
+fa-label: Amazon
+fa-styles: brands
+fa-unicode: f270
+tags: brands
 title: $:/fontawesome/glyph/amazon
 
--placeholder-
+<i class='fab fa-amazon fa-10x'></i>

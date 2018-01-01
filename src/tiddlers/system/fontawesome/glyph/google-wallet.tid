@@ -1,3 +1,7 @@
+fa-label: Google Wallet
+fa-styles: brands
+fa-unicode: f1ee
+tags: brands
 title: $:/fontawesome/glyph/google-wallet
 
--placeholder-
+<i class='fab fa-google-wallet fa-10x'></i>

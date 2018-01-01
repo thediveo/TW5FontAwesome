@@ -1,3 +1,7 @@
+fa-label: step-forward
+fa-styles: solid
+fa-unicode: f051
+tags: next end last solid
 title: $:/fontawesome/glyph/step-forward
 
--placeholder-
+<i class='fas fa-step-forward fa-10x'></i>

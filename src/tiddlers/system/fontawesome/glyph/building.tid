@@ -1,3 +1,7 @@
+fa-label: Building
+fa-styles: solid regular
+fa-unicode: f1ad
+tags: work business apartment office company solid regular
 title: $:/fontawesome/glyph/building
 
--placeholder-
+<i class='fas fa-building fa-10x'></i>

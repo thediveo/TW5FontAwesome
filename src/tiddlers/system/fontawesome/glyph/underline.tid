@@ -1,3 +1,7 @@
+fa-label: Underline
+fa-styles: solid
+fa-unicode: f0cd
+tags: solid
 title: $:/fontawesome/glyph/underline
 
--placeholder-
+<i class='fas fa-underline fa-10x'></i>

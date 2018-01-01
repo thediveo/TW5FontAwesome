@@ -1,3 +1,7 @@
+fa-label: Graduation Cap
+fa-styles: solid
+fa-unicode: f19d
+tags: learning school student solid
 title: $:/fontawesome/glyph/graduation-cap
 
--placeholder-
+<i class='fas fa-graduation-cap fa-10x'></i>

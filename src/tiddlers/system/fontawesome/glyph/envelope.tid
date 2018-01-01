@@ -1,3 +1,7 @@
+fa-label: Envelope
+fa-styles: solid regular
+fa-unicode: f0e0
+tags: email e-mail letter support mail message notification solid regular
 title: $:/fontawesome/glyph/envelope
 
--placeholder-
+<i class='fas fa-envelope fa-10x'></i>

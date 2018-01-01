@@ -1,3 +1,7 @@
+fa-label: Child
+fa-styles: solid
+fa-unicode: f1ae
+tags: solid
 title: $:/fontawesome/glyph/child
 
--placeholder-
+<i class='fas fa-child fa-10x'></i>

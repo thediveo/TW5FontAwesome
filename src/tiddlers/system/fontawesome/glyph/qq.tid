@@ -1,3 +1,7 @@
+fa-label: QQ
+fa-styles: brands
+fa-unicode: f1d6
+tags: brands
 title: $:/fontawesome/glyph/qq
 
--placeholder-
+<i class='fab fa-qq fa-10x'></i>

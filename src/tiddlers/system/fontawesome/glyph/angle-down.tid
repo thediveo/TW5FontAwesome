@@ -1,3 +1,7 @@
+fa-label: angle-down
+fa-styles: solid
+fa-unicode: f107
+tags: arrow solid
 title: $:/fontawesome/glyph/angle-down
 
--placeholder-
+<i class='fas fa-angle-down fa-10x'></i>

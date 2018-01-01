@@ -1,3 +1,7 @@
+fa-label: Mars Double
+fa-styles: solid
+fa-unicode: f227
+tags: solid
 title: $:/fontawesome/glyph/mars-double
 
--placeholder-
+<i class='fas fa-mars-double fa-10x'></i>

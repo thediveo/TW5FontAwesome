@@ -1,3 +1,7 @@
+fa-label: User
+fa-styles: solid regular
+fa-unicode: f007
+tags: person man head profile solid regular
 title: $:/fontawesome/glyph/user
 
--placeholder-
+<i class='fas fa-user fa-10x'></i>

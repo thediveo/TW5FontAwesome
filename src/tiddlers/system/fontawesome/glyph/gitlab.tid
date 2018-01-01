@@ -1,3 +1,7 @@
+fa-label: GitLab
+fa-styles: brands
+fa-unicode: f296
+tags: Axosoft brands
 title: $:/fontawesome/glyph/gitlab
 
--placeholder-
+<i class='fab fa-gitlab fa-10x'></i>

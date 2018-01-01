@@ -1,3 +1,7 @@
+fa-label: Wordpress Simple
+fa-styles: brands
+fa-unicode: f411
+tags: brands
 title: $:/fontawesome/glyph/wordpress-simple
 
--placeholder-
+<i class='fab fa-wordpress-simple fa-10x'></i>

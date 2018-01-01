@@ -1,3 +1,7 @@
+fa-label: Windows
+fa-styles: brands
+fa-unicode: f17a
+tags: microsoft brands
 title: $:/fontawesome/glyph/windows
 
--placeholder-
+<i class='fab fa-windows fa-10x'></i>

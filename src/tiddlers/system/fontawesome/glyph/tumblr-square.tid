@@ -1,3 +1,7 @@
+fa-label: Tumblr Square
+fa-styles: brands
+fa-unicode: f174
+tags: brands
 title: $:/fontawesome/glyph/tumblr-square
 
--placeholder-
+<i class='fab fa-tumblr-square fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Alternate Pied Piper Logo
+fa-styles: brands
+fa-unicode: f1a8
+tags: brands
 title: $:/fontawesome/glyph/pied-piper-alt
 
--placeholder-
+<i class='fab fa-pied-piper-alt fa-10x'></i>

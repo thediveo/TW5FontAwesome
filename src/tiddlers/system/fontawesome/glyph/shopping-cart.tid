@@ -1,3 +1,7 @@
+fa-label: shopping-cart
+fa-styles: solid
+fa-unicode: f07a
+tags: checkout buy purchase payment solid
 title: $:/fontawesome/glyph/shopping-cart
 
--placeholder-
+<i class='fas fa-shopping-cart fa-10x'></i>

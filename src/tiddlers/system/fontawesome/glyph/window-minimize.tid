@@ -1,3 +1,7 @@
+fa-label: Window Minimize
+fa-styles: solid
+fa-unicode: f2d1
+tags: solid
 title: $:/fontawesome/glyph/window-minimize
 
--placeholder-
+<i class='fas fa-window-minimize fa-10x'></i>

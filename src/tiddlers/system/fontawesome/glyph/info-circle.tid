@@ -1,3 +1,7 @@
+fa-label: Info Circle
+fa-styles: solid
+fa-unicode: f05a
+tags: help information more details solid
 title: $:/fontawesome/glyph/info-circle
 
--placeholder-
+<i class='fas fa-info-circle fa-10x'></i>

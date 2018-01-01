@@ -1,3 +1,7 @@
+fa-label: Language
+fa-styles: solid
+fa-unicode: f1ab
+tags: solid
 title: $:/fontawesome/glyph/language
 
--placeholder-
+<i class='fas fa-language fa-10x'></i>

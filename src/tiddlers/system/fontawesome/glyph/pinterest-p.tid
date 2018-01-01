@@ -1,3 +1,7 @@
+fa-label: Pinterest P
+fa-styles: brands
+fa-unicode: f231
+tags: brands
 title: $:/fontawesome/glyph/pinterest-p
 
--placeholder-
+<i class='fab fa-pinterest-p fa-10x'></i>

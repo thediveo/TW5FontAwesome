@@ -1,3 +1,7 @@
+fa-label: Accessible Icon
+fa-styles: brands
+fa-unicode: f368
+tags: accessibility wheelchair handicap person wheelchair-alt brands
 title: $:/fontawesome/glyph/accessible-icon
 
--placeholder-
+<i class='fab fa-accessible-icon fa-10x'></i>

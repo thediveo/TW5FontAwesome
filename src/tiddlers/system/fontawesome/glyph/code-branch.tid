@@ -1,3 +1,7 @@
+fa-label: Code Branch
+fa-styles: solid
+fa-unicode: f126
+tags: git fork vcs svn github rebase version branch code-fork solid
 title: $:/fontawesome/glyph/code-branch
 
--placeholder-
+<i class='fas fa-code-branch fa-10x'></i>

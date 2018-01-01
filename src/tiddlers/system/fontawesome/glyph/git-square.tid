@@ -1,3 +1,7 @@
+fa-label: Git Square
+fa-styles: brands
+fa-unicode: f1d2
+tags: brands
 title: $:/fontawesome/glyph/git-square
 
--placeholder-
+<i class='fab fa-git-square fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: thumbs-up
+fa-styles: solid regular
+fa-unicode: f164
+tags: like favorite approve agree hand thumbs-o-up solid regular
 title: $:/fontawesome/glyph/thumbs-up
 
--placeholder-
+<i class='fas fa-thumbs-up fa-10x'></i>

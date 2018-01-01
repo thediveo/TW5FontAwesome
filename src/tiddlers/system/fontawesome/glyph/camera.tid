@@ -1,3 +1,7 @@
+fa-label: camera
+fa-styles: solid
+fa-unicode: f030
+tags: photo picture record solid
 title: $:/fontawesome/glyph/camera
 
--placeholder-
+<i class='fas fa-camera fa-10x'></i>

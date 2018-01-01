@@ -1,3 +1,7 @@
+fa-label: Excel File
+fa-styles: solid regular
+fa-unicode: f1c3
+tags: solid regular
 title: $:/fontawesome/glyph/file-excel
 
--placeholder-
+<i class='fas fa-file-excel fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Digital Ocean
+fa-styles: brands
+fa-unicode: f391
+tags: brands
 title: $:/fontawesome/glyph/digital-ocean
 
--placeholder-
+<i class='fab fa-digital-ocean fa-10x'></i>

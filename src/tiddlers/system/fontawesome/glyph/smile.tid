@@ -1,3 +1,7 @@
+fa-label: Smile
+fa-styles: solid regular
+fa-unicode: f118
+tags: face emoticon happy approve satisfied rating solid regular
 title: $:/fontawesome/glyph/smile
 
--placeholder-
+<i class='fas fa-smile fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Turkish Lira Sign
+fa-styles: solid
+fa-unicode: f195
+tags: try turkish solid
 title: $:/fontawesome/glyph/lira-sign
 
--placeholder-
+<i class='fas fa-lira-sign fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Circle
+fa-styles: solid regular
+fa-unicode: f111
+tags: dot notification circle-thin solid regular
 title: $:/fontawesome/glyph/circle
 
--placeholder-
+<i class='fas fa-circle fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Laptop
+fa-styles: solid
+fa-unicode: f109
+tags: demo computer device solid
 title: $:/fontawesome/glyph/laptop
 
--placeholder-
+<i class='fas fa-laptop fa-10x'></i>

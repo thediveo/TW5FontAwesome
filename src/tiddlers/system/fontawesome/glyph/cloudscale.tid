@@ -1,3 +1,7 @@
+fa-label: cloudscale.ch
+fa-styles: brands
+fa-unicode: f383
+tags: brands
 title: $:/fontawesome/glyph/cloudscale
 
--placeholder-
+<i class='fab fa-cloudscale fa-10x'></i>

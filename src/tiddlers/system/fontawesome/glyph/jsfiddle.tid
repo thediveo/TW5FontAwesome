@@ -1,3 +1,7 @@
+fa-label: jsFiddle
+fa-styles: brands
+fa-unicode: f1cc
+tags: brands
 title: $:/fontawesome/glyph/jsfiddle
 
--placeholder-
+<i class='fab fa-jsfiddle fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Film
+fa-styles: solid
+fa-unicode: f008
+tags: movie solid
 title: $:/fontawesome/glyph/film
 
--placeholder-
+<i class='fas fa-film fa-10x'></i>

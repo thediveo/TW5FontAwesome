@@ -1,3 +1,7 @@
+fa-label: Map
+fa-styles: solid regular
+fa-unicode: f279
+tags: solid regular
 title: $:/fontawesome/glyph/map
 
--placeholder-
+<i class='fas fa-map fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Goodreads G
+fa-styles: brands
+fa-unicode: f3a9
+tags: brands
 title: $:/fontawesome/glyph/goodreads-g
 
--placeholder-
+<i class='fab fa-goodreads-g fa-10x'></i>

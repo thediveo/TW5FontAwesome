@@ -1,3 +1,7 @@
+fa-label: Sticky Note
+fa-styles: solid regular
+fa-unicode: f249
+tags: solid regular
 title: $:/fontawesome/glyph/sticky-note
 
--placeholder-
+<i class='fas fa-sticky-note fa-10x'></i>

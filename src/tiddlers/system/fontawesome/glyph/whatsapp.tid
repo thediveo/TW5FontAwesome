@@ -1,3 +1,7 @@
+fa-label: What's App
+fa-styles: brands
+fa-unicode: f232
+tags: brands
 title: $:/fontawesome/glyph/whatsapp
 
--placeholder-
+<i class='fab fa-whatsapp fa-10x'></i>

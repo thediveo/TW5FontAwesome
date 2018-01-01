@@ -1,3 +1,7 @@
+fa-label: Font Awesome
+fa-styles: brands
+fa-unicode: f2b4
+tags: meanpath brands
 title: $:/fontawesome/glyph/font-awesome
 
--placeholder-
+<i class='fab fa-font-awesome fa-10x'></i>

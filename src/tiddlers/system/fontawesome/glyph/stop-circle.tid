@@ -1,3 +1,7 @@
+fa-label: Stop Circle
+fa-styles: solid regular
+fa-unicode: f28d
+tags: solid regular
 title: $:/fontawesome/glyph/stop-circle
 
--placeholder-
+<i class='fas fa-stop-circle fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Spock (Hand)
+fa-styles: solid regular
+fa-unicode: f259
+tags: solid regular
 title: $:/fontawesome/glyph/hand-spock
 
--placeholder-
+<i class='fas fa-hand-spock fa-10x'></i>

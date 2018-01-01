@@ -1,3 +1,7 @@
+fa-label: Vertical Ellipsis
+fa-styles: solid
+fa-unicode: f142
+tags: dots solid
 title: $:/fontawesome/glyph/ellipsis-v
 
--placeholder-
+<i class='fas fa-ellipsis-v fa-10x'></i>

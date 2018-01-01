@@ -1,3 +1,7 @@
+fa-label: Bullseye
+fa-styles: solid
+fa-unicode: f140
+tags: target solid
 title: $:/fontawesome/glyph/bullseye
 
--placeholder-
+<i class='fas fa-bullseye fa-10x'></i>

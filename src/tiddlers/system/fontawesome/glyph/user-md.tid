@@ -1,3 +1,7 @@
+fa-label: user-md
+fa-styles: solid
+fa-unicode: f0f0
+tags: doctor profile medical nurse solid
 title: $:/fontawesome/glyph/user-md
 
--placeholder-
+<i class='fas fa-user-md fa-10x'></i>

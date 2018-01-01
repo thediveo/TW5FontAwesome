@@ -1,3 +1,7 @@
+fa-label: Battery 3/4 Full
+fa-styles: solid
+fa-unicode: f241
+tags: power solid
 title: $:/fontawesome/glyph/battery-three-quarters
 
--placeholder-
+<i class='fas fa-battery-three-quarters fa-10x'></i>

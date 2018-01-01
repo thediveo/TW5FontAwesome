@@ -1,3 +1,7 @@
+fa-label: Angle Double Left
+fa-styles: solid
+fa-unicode: f100
+tags: laquo quote previous back arrows solid
 title: $:/fontawesome/glyph/angle-double-left
 
--placeholder-
+<i class='fas fa-angle-double-left fa-10x'></i>

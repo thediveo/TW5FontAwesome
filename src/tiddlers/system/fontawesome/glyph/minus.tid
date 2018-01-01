@@ -1,3 +1,7 @@
+fa-label: minus
+fa-styles: solid
+fa-unicode: f068
+tags: hide minify delete remove trash collapse solid
 title: $:/fontawesome/glyph/minus
 
--placeholder-
+<i class='fas fa-minus fa-10x'></i>

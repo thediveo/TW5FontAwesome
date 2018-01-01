@@ -1,3 +1,7 @@
+fa-label: Contao
+fa-styles: brands
+fa-unicode: f26d
+tags: brands
 title: $:/fontawesome/glyph/contao
 
--placeholder-
+<i class='fab fa-contao fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Venus Double
+fa-styles: solid
+fa-unicode: f226
+tags: solid
 title: $:/fontawesome/glyph/venus-double
 
--placeholder-
+<i class='fas fa-venus-double fa-10x'></i>

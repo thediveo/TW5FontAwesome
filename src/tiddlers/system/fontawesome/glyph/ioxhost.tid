@@ -1,3 +1,7 @@
+fa-label: ioxhost
+fa-styles: brands
+fa-unicode: f208
+tags: brands
 title: $:/fontawesome/glyph/ioxhost
 
--placeholder-
+<i class='fab fa-ioxhost fa-10x'></i>

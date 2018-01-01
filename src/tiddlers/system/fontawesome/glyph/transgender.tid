@@ -1,3 +1,7 @@
+fa-label: Transgender
+fa-styles: solid
+fa-unicode: f224
+tags: intersex solid
 title: $:/fontawesome/glyph/transgender
 
--placeholder-
+<i class='fas fa-transgender fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Caret Up
+fa-styles: solid
+fa-unicode: f0d8
+tags: [[triangle up]] arrow solid
 title: $:/fontawesome/glyph/caret-up
 
--placeholder-
+<i class='fas fa-caret-up fa-10x'></i>

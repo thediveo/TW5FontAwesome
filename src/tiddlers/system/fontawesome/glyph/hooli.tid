@@ -1,3 +1,7 @@
+fa-label: Hooli
+fa-styles: brands
+fa-unicode: f427
+tags: brands
 title: $:/fontawesome/glyph/hooli
 
--placeholder-
+<i class='fab fa-hooli fa-10x'></i>

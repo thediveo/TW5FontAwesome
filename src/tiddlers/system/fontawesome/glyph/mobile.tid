@@ -1,3 +1,7 @@
+fa-label: Mobile Phone
+fa-styles: solid
+fa-unicode: f10b
+tags: [[cell phone]] cellphone text call iphone number telephone solid
 title: $:/fontawesome/glyph/mobile
 
--placeholder-
+<i class='fas fa-mobile fa-10x'></i>

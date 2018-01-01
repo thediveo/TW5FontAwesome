@@ -1,3 +1,7 @@
+fa-label: Node.js JS
+fa-styles: brands
+fa-unicode: f3d3
+tags: brands
 title: $:/fontawesome/glyph/node-js
 
--placeholder-
+<i class='fab fa-node-js fa-10x'></i>

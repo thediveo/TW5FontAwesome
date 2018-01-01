@@ -1,3 +1,7 @@
+fa-label: Stack Exchange
+fa-styles: brands
+fa-unicode: f18d
+tags: brands
 title: $:/fontawesome/glyph/stack-exchange
 
--placeholder-
+<i class='fab fa-stack-exchange fa-10x'></i>

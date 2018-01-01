@@ -1,3 +1,7 @@
+fa-label: Tree
+fa-styles: solid
+fa-unicode: f1bb
+tags: solid
 title: $:/fontawesome/glyph/tree
 
--placeholder-
+<i class='fas fa-tree fa-10x'></i>

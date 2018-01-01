@@ -1,3 +1,7 @@
+fa-label: Plus Circle
+fa-styles: solid
+fa-unicode: f055
+tags: add new create expand solid
 title: $:/fontawesome/glyph/plus-circle
 
--placeholder-
+<i class='fas fa-plus-circle fa-10x'></i>

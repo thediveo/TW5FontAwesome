@@ -1,3 +1,7 @@
+fa-label: Thermometer 1/4 Full
+fa-styles: solid
+fa-unicode: f2ca
+tags: solid
 title: $:/fontawesome/glyph/thermometer-quarter
 
--placeholder-
+<i class='fas fa-thermometer-quarter fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Chrome
+fa-styles: brands
+fa-unicode: f268
+tags: browser brands
 title: $:/fontawesome/glyph/chrome
 
--placeholder-
+<i class='fab fa-chrome fa-10x'></i>

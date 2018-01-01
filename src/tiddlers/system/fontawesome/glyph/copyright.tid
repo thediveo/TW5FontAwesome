@@ -1,3 +1,7 @@
+fa-label: Copyright
+fa-styles: solid regular
+fa-unicode: f1f9
+tags: solid regular
 title: $:/fontawesome/glyph/copyright
 
--placeholder-
+<i class='fas fa-copyright fa-10x'></i>

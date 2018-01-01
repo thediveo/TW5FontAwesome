@@ -1,3 +1,7 @@
+fa-label: Vimeo
+fa-styles: brands
+fa-unicode: f27d
+tags: vimeo brands
 title: $:/fontawesome/glyph/vimeo-v
 
--placeholder-
+<i class='fab fa-vimeo-v fa-10x'></i>

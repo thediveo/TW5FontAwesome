@@ -1,3 +1,7 @@
+fa-label: Cut
+fa-styles: solid
+fa-unicode: f0c4
+tags: scissors solid
 title: $:/fontawesome/glyph/cut
 
--placeholder-
+<i class='fas fa-cut fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Alternate Arrow Circle Down
+fa-styles: solid regular
+fa-unicode: f358
+tags: download arrow-circle-o-down solid regular
 title: $:/fontawesome/glyph/arrow-alt-circle-down
 
--placeholder-
+<i class='fas fa-arrow-alt-circle-down fa-10x'></i>

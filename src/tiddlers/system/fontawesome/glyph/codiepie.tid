@@ -1,3 +1,7 @@
+fa-label: Codie Pie
+fa-styles: brands
+fa-unicode: f284
+tags: brands
 title: $:/fontawesome/glyph/codiepie
 
--placeholder-
+<i class='fab fa-codiepie fa-10x'></i>

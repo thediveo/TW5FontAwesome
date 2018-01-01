@@ -1,3 +1,7 @@
+fa-label: Slideshare
+fa-styles: brands
+fa-unicode: f1e7
+tags: brands
 title: $:/fontawesome/glyph/slideshare
 
--placeholder-
+<i class='fab fa-slideshare fa-10x'></i>

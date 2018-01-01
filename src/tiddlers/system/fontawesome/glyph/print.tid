@@ -1,3 +1,7 @@
+fa-label: print
+fa-styles: solid
+fa-unicode: f02f
+tags: solid
 title: $:/fontawesome/glyph/print
 
--placeholder-
+<i class='fas fa-print fa-10x'></i>

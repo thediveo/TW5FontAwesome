@@ -1,3 +1,7 @@
+fa-label: Genderless
+fa-styles: solid
+fa-unicode: f22d
+tags: solid
 title: $:/fontawesome/glyph/genderless
 
--placeholder-
+<i class='fas fa-genderless fa-10x'></i>

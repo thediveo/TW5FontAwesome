@@ -1,3 +1,7 @@
+fa-label: qrcode
+fa-styles: solid
+fa-unicode: f029
+tags: scan solid
 title: $:/fontawesome/glyph/qrcode
 
--placeholder-
+<i class='fas fa-qrcode fa-10x'></i>

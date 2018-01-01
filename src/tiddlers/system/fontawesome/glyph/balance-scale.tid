@@ -1,3 +1,7 @@
+fa-label: Balance Scale
+fa-styles: solid
+fa-unicode: f24e
+tags: solid
 title: $:/fontawesome/glyph/balance-scale
 
--placeholder-
+<i class='fas fa-balance-scale fa-10x'></i>

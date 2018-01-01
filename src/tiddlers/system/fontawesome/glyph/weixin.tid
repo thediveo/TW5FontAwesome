@@ -1,3 +1,7 @@
+fa-label: Weixin (WeChat)
+fa-styles: brands
+fa-unicode: f1d7
+tags: brands
 title: $:/fontawesome/glyph/weixin
 
--placeholder-
+<i class='fab fa-weixin fa-10x'></i>

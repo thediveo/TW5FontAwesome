@@ -1,3 +1,7 @@
+fa-label: LinkedIn
+fa-styles: brands
+fa-unicode: f08c
+tags: linkedin-square brands
 title: $:/fontawesome/glyph/linkedin
 
--placeholder-
+<i class='fab fa-linkedin fa-10x'></i>

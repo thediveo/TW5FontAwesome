@@ -1,3 +1,7 @@
+fa-label: MRT
+fa-styles: brands
+fa-unicode: f3c8
+tags: brands
 title: $:/fontawesome/glyph/medrt
 
--placeholder-
+<i class='fab fa-medrt fa-10x'></i>

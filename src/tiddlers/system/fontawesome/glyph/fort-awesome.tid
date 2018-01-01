@@ -1,3 +1,7 @@
+fa-label: Fort Awesome
+fa-styles: brands
+fa-unicode: f286
+tags: brands
 title: $:/fontawesome/glyph/fort-awesome
 
--placeholder-
+<i class='fab fa-fort-awesome fa-10x'></i>

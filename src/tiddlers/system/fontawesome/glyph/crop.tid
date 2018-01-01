@@ -1,3 +1,7 @@
+fa-label: crop
+fa-styles: solid
+fa-unicode: f125
+tags: solid
 title: $:/fontawesome/glyph/crop
 
--placeholder-
+<i class='fas fa-crop fa-10x'></i>

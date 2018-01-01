@@ -1,3 +1,7 @@
+fa-label: Odnoklassniki
+fa-styles: brands
+fa-unicode: f263
+tags: brands
 title: $:/fontawesome/glyph/odnoklassniki
 
--placeholder-
+<i class='fab fa-odnoklassniki fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: book
+fa-styles: solid
+fa-unicode: f02d
+tags: read documentation solid
 title: $:/fontawesome/glyph/book
 
--placeholder-
+<i class='fas fa-book fa-10x'></i>

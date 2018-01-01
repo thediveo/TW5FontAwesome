@@ -1,3 +1,7 @@
+fa-label: Code
+fa-styles: solid
+fa-unicode: f121
+tags: html brackets solid
 title: $:/fontawesome/glyph/code
 
--placeholder-
+<i class='fas fa-code fa-10x'></i>

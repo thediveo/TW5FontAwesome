@@ -1,3 +1,7 @@
+fa-label: Search
+fa-styles: solid
+fa-unicode: f002
+tags: magnify zoom enlarge bigger solid
 title: $:/fontawesome/glyph/search
 
--placeholder-
+<i class='fas fa-search fa-10x'></i>

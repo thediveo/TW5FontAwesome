@@ -1,3 +1,7 @@
+fa-label: Gavel
+fa-styles: solid
+fa-unicode: f0e3
+tags: judge lawyer opinion solid
 title: $:/fontawesome/glyph/gavel
 
--placeholder-
+<i class='fas fa-gavel fa-10x'></i>

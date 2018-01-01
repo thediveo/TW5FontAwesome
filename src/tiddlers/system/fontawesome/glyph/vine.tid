@@ -1,3 +1,7 @@
+fa-label: Vine
+fa-styles: brands
+fa-unicode: f1ca
+tags: brands
 title: $:/fontawesome/glyph/vine
 
--placeholder-
+<i class='fab fa-vine fa-10x'></i>

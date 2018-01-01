@@ -1,3 +1,7 @@
+fa-label: rocket
+fa-styles: solid
+fa-unicode: f135
+tags: app solid
 title: $:/fontawesome/glyph/rocket
 
--placeholder-
+<i class='fas fa-rocket fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Hand Pointing Up
+fa-styles: solid regular
+fa-unicode: f0a6
+tags: point finger hand-o-up solid regular
 title: $:/fontawesome/glyph/hand-point-up
 
--placeholder-
+<i class='fas fa-hand-point-up fa-10x'></i>

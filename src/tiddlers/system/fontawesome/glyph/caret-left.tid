@@ -1,3 +1,7 @@
+fa-label: Caret Left
+fa-styles: solid
+fa-unicode: f0d9
+tags: previous back [[triangle left]] arrow solid
 title: $:/fontawesome/glyph/caret-left
 
--placeholder-
+<i class='fas fa-caret-left fa-10x'></i>

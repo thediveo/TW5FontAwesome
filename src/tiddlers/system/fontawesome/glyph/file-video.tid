@@ -1,3 +1,7 @@
+fa-label: Video File
+fa-styles: solid regular
+fa-unicode: f1c8
+tags: solid regular
 title: $:/fontawesome/glyph/file-video
 
--placeholder-
+<i class='fas fa-file-video fa-10x'></i>

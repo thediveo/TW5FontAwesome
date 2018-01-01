@@ -1,3 +1,7 @@
+fa-label: Facebook F
+fa-styles: brands
+fa-unicode: f39e
+tags: facebook brands
 title: $:/fontawesome/glyph/facebook-f
 
--placeholder-
+<i class='fab fa-facebook-f fa-10x'></i>

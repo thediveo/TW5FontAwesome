@@ -1,3 +1,7 @@
+fa-label: beer
+fa-styles: solid
+fa-unicode: f0fc
+tags: alcohol stein drink mug bar liquor solid
 title: $:/fontawesome/glyph/beer
 
--placeholder-
+<i class='fas fa-beer fa-10x'></i>

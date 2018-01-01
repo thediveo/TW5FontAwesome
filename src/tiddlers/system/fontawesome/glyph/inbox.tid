@@ -1,3 +1,7 @@
+fa-label: inbox
+fa-styles: solid
+fa-unicode: f01c
+tags: solid
 title: $:/fontawesome/glyph/inbox
 
--placeholder-
+<i class='fas fa-inbox fa-10x'></i>

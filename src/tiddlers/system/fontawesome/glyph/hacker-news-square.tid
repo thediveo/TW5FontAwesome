@@ -1,3 +1,7 @@
+fa-label: Hacker News Square
+fa-styles: brands
+fa-unicode: f3af
+tags: brands
 title: $:/fontawesome/glyph/hacker-news-square
 
--placeholder-
+<i class='fab fa-hacker-news-square fa-10x'></i>

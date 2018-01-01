@@ -1,3 +1,7 @@
+fa-label: Upload
+fa-styles: solid
+fa-unicode: f093
+tags: import solid
 title: $:/fontawesome/glyph/upload
 
--placeholder-
+<i class='fas fa-upload fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Caret Square Up
+fa-styles: solid regular
+fa-unicode: f151
+tags: caret-square-o-up solid regular
 title: $:/fontawesome/glyph/caret-square-up
 
--placeholder-
+<i class='fas fa-caret-square-up fa-10x'></i>

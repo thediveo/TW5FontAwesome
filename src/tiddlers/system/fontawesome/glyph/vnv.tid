@@ -1,3 +1,7 @@
+fa-label: VNV
+fa-styles: brands
+fa-unicode: f40b
+tags: brands
 title: $:/fontawesome/glyph/vnv
 
--placeholder-
+<i class='fab fa-vnv fa-10x'></i>

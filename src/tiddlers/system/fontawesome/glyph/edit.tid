@@ -1,3 +1,7 @@
+fa-label: Edit
+fa-styles: solid regular
+fa-unicode: f044
+tags: write edit update pencil pen solid regular
 title: $:/fontawesome/glyph/edit
 
--placeholder-
+<i class='fas fa-edit fa-10x'></i>

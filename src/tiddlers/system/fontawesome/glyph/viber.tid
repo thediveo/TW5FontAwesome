@@ -1,3 +1,7 @@
+fa-label: Viber
+fa-styles: brands
+fa-unicode: f409
+tags: brands
 title: $:/fontawesome/glyph/viber
 
--placeholder-
+<i class='fab fa-viber fa-10x'></i>

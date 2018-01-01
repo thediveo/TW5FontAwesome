@@ -1,3 +1,7 @@
+fa-label: deviantART
+fa-styles: brands
+fa-unicode: f1bd
+tags: brands
 title: $:/fontawesome/glyph/deviantart
 
--placeholder-
+<i class='fab fa-deviantart fa-10x'></i>

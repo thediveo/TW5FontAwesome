@@ -1,3 +1,7 @@
+fa-label: Binoculars
+fa-styles: solid
+fa-unicode: f1e5
+tags: solid
 title: $:/fontawesome/glyph/binoculars
 
--placeholder-
+<i class='fas fa-binoculars fa-10x'></i>

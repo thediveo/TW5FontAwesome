@@ -1,3 +1,7 @@
+fa-label: Forumbee
+fa-styles: brands
+fa-unicode: f211
+tags: brands
 title: $:/fontawesome/glyph/forumbee
 
--placeholder-
+<i class='fab fa-forumbee fa-10x'></i>

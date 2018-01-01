@@ -1,3 +1,7 @@
+fa-label: Arrow Circle Left
+fa-styles: solid
+fa-unicode: f0a8
+tags: previous back solid
 title: $:/fontawesome/glyph/arrow-circle-left
 
--placeholder-
+<i class='fas fa-arrow-circle-left fa-10x'></i>

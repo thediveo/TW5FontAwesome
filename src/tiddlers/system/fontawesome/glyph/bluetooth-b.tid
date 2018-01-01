@@ -1,3 +1,7 @@
+fa-label: Bluetooth
+fa-styles: brands
+fa-unicode: f294
+tags: brands
 title: $:/fontawesome/glyph/bluetooth-b
 
--placeholder-
+<i class='fab fa-bluetooth-b fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Paper Plane
+fa-styles: solid regular
+fa-unicode: f1d8
+tags: solid regular
 title: $:/fontawesome/glyph/paper-plane
 
--placeholder-
+<i class='fas fa-paper-plane fa-10x'></i>

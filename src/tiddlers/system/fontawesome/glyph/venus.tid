@@ -1,3 +1,7 @@
+fa-label: Venus
+fa-styles: solid
+fa-unicode: f221
+tags: female solid
 title: $:/fontawesome/glyph/venus
 
--placeholder-
+<i class='fas fa-venus fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Users
+fa-styles: solid
+fa-unicode: f0c0
+tags: people profiles persons solid
 title: $:/fontawesome/glyph/users
 
--placeholder-
+<i class='fas fa-users fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Sun
+fa-styles: solid regular
+fa-unicode: f185
+tags: weather contrast lighter brighten day solid regular
 title: $:/fontawesome/glyph/sun
 
--placeholder-
+<i class='fas fa-sun fa-10x'></i>

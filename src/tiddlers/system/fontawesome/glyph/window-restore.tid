@@ -1,3 +1,7 @@
+fa-label: Window Restore
+fa-styles: solid regular
+fa-unicode: f2d2
+tags: solid regular
 title: $:/fontawesome/glyph/window-restore
 
--placeholder-
+<i class='fas fa-window-restore fa-10x'></i>

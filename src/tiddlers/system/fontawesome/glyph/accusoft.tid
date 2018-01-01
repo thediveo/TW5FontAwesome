@@ -1,3 +1,7 @@
+fa-label: Accusoft
+fa-styles: brands
+fa-unicode: f369
+tags: brands
 title: $:/fontawesome/glyph/accusoft
 
--placeholder-
+<i class='fab fa-accusoft fa-10x'></i>

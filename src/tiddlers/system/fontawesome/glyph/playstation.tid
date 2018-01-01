@@ -1,3 +1,7 @@
+fa-label: PlayStation
+fa-styles: brands
+fa-unicode: f3df
+tags: brands
 title: $:/fontawesome/glyph/playstation
 
--placeholder-
+<i class='fab fa-playstation fa-10x'></i>

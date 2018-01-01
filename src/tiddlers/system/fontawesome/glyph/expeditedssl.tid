@@ -1,3 +1,7 @@
+fa-label: ExpeditedSSL
+fa-styles: brands
+fa-unicode: f23e
+tags: brands
 title: $:/fontawesome/glyph/expeditedssl
 
--placeholder-
+<i class='fab fa-expeditedssl fa-10x'></i>

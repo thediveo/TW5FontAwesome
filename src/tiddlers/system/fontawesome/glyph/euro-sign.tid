@@ -1,3 +1,7 @@
+fa-label: Euro Sign
+fa-styles: solid
+fa-unicode: f153
+tags: eur solid
 title: $:/fontawesome/glyph/euro-sign
 
--placeholder-
+<i class='fas fa-euro-sign fa-10x'></i>

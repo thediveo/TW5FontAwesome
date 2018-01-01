@@ -1,3 +1,7 @@
+fa-label: Mizuni
+fa-styles: brands
+fa-unicode: f3cc
+tags: brands
 title: $:/fontawesome/glyph/mizuni
 
--placeholder-
+<i class='fab fa-mizuni fa-10x'></i>

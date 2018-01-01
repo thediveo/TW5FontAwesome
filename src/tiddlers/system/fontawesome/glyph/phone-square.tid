@@ -1,3 +1,7 @@
+fa-label: Phone Square
+fa-styles: solid
+fa-unicode: f098
+tags: call voice number support telephone solid
 title: $:/fontawesome/glyph/phone-square
 
--placeholder-
+<i class='fas fa-phone-square fa-10x'></i>

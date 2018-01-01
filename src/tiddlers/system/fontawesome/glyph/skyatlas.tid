@@ -1,3 +1,7 @@
+fa-label: skyatlas
+fa-styles: brands
+fa-unicode: f216
+tags: brands
 title: $:/fontawesome/glyph/skyatlas
 
--placeholder-
+<i class='fab fa-skyatlas fa-10x'></i>

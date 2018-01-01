@@ -1,3 +1,7 @@
+fa-label: Dollar Sign
+fa-styles: solid
+fa-unicode: f155
+tags: usd solid
 title: $:/fontawesome/glyph/dollar-sign
 
--placeholder-
+<i class='fas fa-dollar-sign fa-10x'></i>

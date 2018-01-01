@@ -1,3 +1,7 @@
+fa-label: Coffee
+fa-styles: solid
+fa-unicode: f0f4
+tags: morning mug breakfast tea drink cafe solid
 title: $:/fontawesome/glyph/coffee
 
--placeholder-
+<i class='fas fa-coffee fa-10x'></i>

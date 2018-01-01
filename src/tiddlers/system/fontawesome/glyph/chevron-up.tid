@@ -1,3 +1,7 @@
+fa-label: chevron-up
+fa-styles: solid
+fa-unicode: f077
+tags: solid
 title: $:/fontawesome/glyph/chevron-up
 
--placeholder-
+<i class='fas fa-chevron-up fa-10x'></i>

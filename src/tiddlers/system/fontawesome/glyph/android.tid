@@ -1,3 +1,7 @@
+fa-label: Android
+fa-styles: brands
+fa-unicode: f17b
+tags: robot brands
 title: $:/fontawesome/glyph/android
 
--placeholder-
+<i class='fab fa-android fa-10x'></i>

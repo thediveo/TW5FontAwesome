@@ -1,3 +1,7 @@
+fa-label: Heart
+fa-styles: solid regular
+fa-unicode: f004
+tags: love like favorite solid regular
 title: $:/fontawesome/glyph/heart
 
--placeholder-
+<i class='fas fa-heart fa-10x'></i>

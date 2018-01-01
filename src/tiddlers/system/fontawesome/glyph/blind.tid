@@ -1,3 +1,7 @@
+fa-label: Blind
+fa-styles: solid
+fa-unicode: f29d
+tags: solid
 title: $:/fontawesome/glyph/blind
 
--placeholder-
+<i class='fas fa-blind fa-10x'></i>

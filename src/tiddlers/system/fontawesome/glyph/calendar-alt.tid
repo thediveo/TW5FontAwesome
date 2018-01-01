@@ -1,3 +1,7 @@
+fa-label: Alternate Calendar
+fa-styles: solid regular
+fa-unicode: f073
+tags: date time when event calendar solid regular
 title: $:/fontawesome/glyph/calendar-alt
 
--placeholder-
+<i class='fas fa-calendar-alt fa-10x'></i>

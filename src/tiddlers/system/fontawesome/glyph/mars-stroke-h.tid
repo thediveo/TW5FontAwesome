@@ -1,3 +1,7 @@
+fa-label: Mars Stroke Horizontal
+fa-styles: solid
+fa-unicode: f22b
+tags: solid
 title: $:/fontawesome/glyph/mars-stroke-h
 
--placeholder-
+<i class='fas fa-mars-stroke-h fa-10x'></i>

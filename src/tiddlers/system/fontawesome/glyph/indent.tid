@@ -1,3 +1,7 @@
+fa-label: Indent
+fa-styles: solid
+fa-unicode: f03c
+tags: solid
 title: $:/fontawesome/glyph/indent
 
--placeholder-
+<i class='fas fa-indent fa-10x'></i>

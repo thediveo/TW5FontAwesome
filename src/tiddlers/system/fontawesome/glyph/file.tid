@@ -1,3 +1,7 @@
+fa-label: File
+fa-styles: solid regular
+fa-unicode: f15b
+tags: new page pdf document solid regular
 title: $:/fontawesome/glyph/file
 
--placeholder-
+<i class='fas fa-file fa-10x'></i>

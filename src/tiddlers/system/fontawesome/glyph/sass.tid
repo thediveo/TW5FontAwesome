@@ -1,3 +1,7 @@
+fa-label: Sass
+fa-styles: brands
+fa-unicode: f41e
+tags: brands
 title: $:/fontawesome/glyph/sass
 
--placeholder-
+<i class='fab fa-sass fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Dot Circle
+fa-styles: solid regular
+fa-unicode: f192
+tags: target bullseye notification solid regular
 title: $:/fontawesome/glyph/dot-circle
 
--placeholder-
+<i class='fas fa-dot-circle fa-10x'></i>

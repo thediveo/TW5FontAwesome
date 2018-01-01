@@ -1,3 +1,7 @@
+fa-label: Life Ring
+fa-styles: solid regular
+fa-unicode: f1cd
+tags: support solid regular
 title: $:/fontawesome/glyph/life-ring
 
--placeholder-
+<i class='fas fa-life-ring fa-10x'></i>

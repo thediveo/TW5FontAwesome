@@ -1,3 +1,7 @@
+fa-label: Uber
+fa-styles: brands
+fa-unicode: f402
+tags: brands
 title: $:/fontawesome/glyph/uber
 
--placeholder-
+<i class='fab fa-uber fa-10x'></i>

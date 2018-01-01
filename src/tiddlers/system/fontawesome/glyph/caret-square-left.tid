@@ -1,3 +1,7 @@
+fa-label: Caret Square Left
+fa-styles: solid regular
+fa-unicode: f191
+tags: previous back caret-square-o-left solid regular
 title: $:/fontawesome/glyph/caret-square-left
 
--placeholder-
+<i class='fas fa-caret-square-left fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: 500px
+fa-styles: brands
+fa-unicode: f26e
+tags: brands
 title: $:/fontawesome/glyph/500px
 
--placeholder-
+<i class='fab fa-500px fa-10x'></i>

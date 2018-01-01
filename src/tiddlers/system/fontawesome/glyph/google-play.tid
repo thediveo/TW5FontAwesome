@@ -1,3 +1,7 @@
+fa-label: Google Play
+fa-styles: brands
+fa-unicode: f3ab
+tags: brands
 title: $:/fontawesome/glyph/google-play
 
--placeholder-
+<i class='fab fa-google-play fa-10x'></i>

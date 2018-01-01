@@ -1,3 +1,7 @@
+fa-label: Gem
+fa-styles: solid regular
+fa-unicode: f3a5
+tags: diamond solid regular
 title: $:/fontawesome/glyph/gem
 
--placeholder-
+<i class='fas fa-gem fa-10x'></i>

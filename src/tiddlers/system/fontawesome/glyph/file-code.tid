@@ -1,3 +1,7 @@
+fa-label: Code File
+fa-styles: solid regular
+fa-unicode: f1c9
+tags: solid regular
 title: $:/fontawesome/glyph/file-code
 
--placeholder-
+<i class='fas fa-file-code fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Paint Brush
+fa-styles: solid
+fa-unicode: f1fc
+tags: solid
 title: $:/fontawesome/glyph/paint-brush
 
--placeholder-
+<i class='fas fa-paint-brush fa-10x'></i>

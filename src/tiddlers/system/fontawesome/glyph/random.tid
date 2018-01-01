@@ -1,3 +1,7 @@
+fa-label: random
+fa-styles: solid
+fa-unicode: f074
+tags: sort shuffle solid
 title: $:/fontawesome/glyph/random
 
--placeholder-
+<i class='fas fa-random fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Alternate Arrow Circle Up
+fa-styles: solid regular
+fa-unicode: f35b
+tags: arrow-circle-o-up solid regular
 title: $:/fontawesome/glyph/arrow-alt-circle-up
 
--placeholder-
+<i class='fas fa-arrow-alt-circle-up fa-10x'></i>

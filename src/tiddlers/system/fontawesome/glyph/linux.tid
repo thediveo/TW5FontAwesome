@@ -1,3 +1,7 @@
+fa-label: Linux
+fa-styles: brands
+fa-unicode: f17c
+tags: tux brands
 title: $:/fontawesome/glyph/linux
 
--placeholder-
+<i class='fab fa-linux fa-10x'></i>

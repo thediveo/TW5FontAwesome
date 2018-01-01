@@ -1,3 +1,7 @@
+fa-label: Word File
+fa-styles: solid regular
+fa-unicode: f1c2
+tags: solid regular
 title: $:/fontawesome/glyph/file-word
 
--placeholder-
+<i class='fas fa-file-word fa-10x'></i>

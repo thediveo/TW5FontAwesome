@@ -1,3 +1,7 @@
+fa-label: Paperclip
+fa-styles: solid
+fa-unicode: f0c6
+tags: attachment solid
 title: $:/fontawesome/glyph/paperclip
 
--placeholder-
+<i class='fas fa-paperclip fa-10x'></i>

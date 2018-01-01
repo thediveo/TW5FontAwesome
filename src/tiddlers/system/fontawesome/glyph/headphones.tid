@@ -1,3 +1,7 @@
+fa-label: headphones
+fa-styles: solid
+fa-unicode: f025
+tags: sound listen music audio solid
 title: $:/fontawesome/glyph/headphones
 
--placeholder-
+<i class='fas fa-headphones fa-10x'></i>

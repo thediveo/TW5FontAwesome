@@ -1,3 +1,7 @@
+fa-label: Square
+fa-styles: solid regular
+fa-unicode: f0c8
+tags: block box solid regular
 title: $:/fontawesome/glyph/square
 
--placeholder-
+<i class='fas fa-square fa-10x'></i>

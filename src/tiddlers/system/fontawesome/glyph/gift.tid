@@ -1,3 +1,7 @@
+fa-label: gift
+fa-styles: solid
+fa-unicode: f06b
+tags: present solid
 title: $:/fontawesome/glyph/gift
 
--placeholder-
+<i class='fas fa-gift fa-10x'></i>

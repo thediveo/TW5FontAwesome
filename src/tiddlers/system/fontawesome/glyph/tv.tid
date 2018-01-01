@@ -1,3 +1,7 @@
+fa-label: Television
+fa-styles: solid
+fa-unicode: f26c
+tags: display computer monitor television solid
 title: $:/fontawesome/glyph/tv
 
--placeholder-
+<i class='fas fa-tv fa-10x'></i>

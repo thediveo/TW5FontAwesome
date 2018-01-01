@@ -1,3 +1,7 @@
+fa-label: Address Card
+fa-styles: solid regular
+fa-unicode: f2bb
+tags: solid regular
 title: $:/fontawesome/glyph/address-card
 
--placeholder-
+<i class='fas fa-address-card fa-10x'></i>

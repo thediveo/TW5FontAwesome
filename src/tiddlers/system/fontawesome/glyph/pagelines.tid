@@ -1,3 +1,7 @@
+fa-label: Pagelines
+fa-styles: brands
+fa-unicode: f18c
+tags: leaf leaves tree plant eco nature brands
 title: $:/fontawesome/glyph/pagelines
 
--placeholder-
+<i class='fab fa-pagelines fa-10x'></i>

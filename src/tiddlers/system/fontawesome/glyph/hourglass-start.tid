@@ -1,3 +1,7 @@
+fa-label: Hourglass Start
+fa-styles: solid
+fa-unicode: f251
+tags: solid
 title: $:/fontawesome/glyph/hourglass-start
 
--placeholder-
+<i class='fas fa-hourglass-start fa-10x'></i>

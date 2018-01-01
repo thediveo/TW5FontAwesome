@@ -1,3 +1,7 @@
+fa-label: GitHub
+fa-styles: brands
+fa-unicode: f09b
+tags: octocat brands
 title: $:/fontawesome/glyph/github
 
--placeholder-
+<i class='fab fa-github fa-10x'></i>

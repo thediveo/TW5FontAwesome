@@ -1,3 +1,7 @@
+fa-label: Chevron Circle Down
+fa-styles: solid
+fa-unicode: f13a
+tags: more dropdown menu arrow solid
 title: $:/fontawesome/glyph/chevron-circle-down
 
--placeholder-
+<i class='fas fa-chevron-circle-down fa-10x'></i>

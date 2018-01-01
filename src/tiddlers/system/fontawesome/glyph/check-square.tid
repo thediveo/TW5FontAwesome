@@ -1,3 +1,7 @@
+fa-label: Check Square
+fa-styles: solid regular
+fa-unicode: f14a
+tags: checkmark done todo agree accept confirm ok solid regular
 title: $:/fontawesome/glyph/check-square
 
--placeholder-
+<i class='fas fa-check-square fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Futbol
+fa-styles: solid regular
+fa-unicode: f1e3
+tags: solid regular
 title: $:/fontawesome/glyph/futbol
 
--placeholder-
+<i class='fas fa-futbol fa-10x'></i>

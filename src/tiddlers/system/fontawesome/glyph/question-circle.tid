@@ -1,3 +1,7 @@
+fa-label: Question Circle
+fa-styles: solid regular
+fa-unicode: f059
+tags: help information unknown support solid regular
 title: $:/fontawesome/glyph/question-circle
 
--placeholder-
+<i class='fas fa-question-circle fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Bus
+fa-styles: solid
+fa-unicode: f207
+tags: vehicle solid
 title: $:/fontawesome/glyph/bus
 
--placeholder-
+<i class='fas fa-bus fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Ravelry
+fa-styles: brands
+fa-unicode: f2d9
+tags: brands
 title: $:/fontawesome/glyph/ravelry
 
--placeholder-
+<i class='fab fa-ravelry fa-10x'></i>

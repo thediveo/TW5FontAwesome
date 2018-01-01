@@ -1,3 +1,7 @@
+fa-label: Pinterest Square
+fa-styles: brands
+fa-unicode: f0d3
+tags: brands
 title: $:/fontawesome/glyph/pinterest-square
 
--placeholder-
+<i class='fab fa-pinterest-square fa-10x'></i>

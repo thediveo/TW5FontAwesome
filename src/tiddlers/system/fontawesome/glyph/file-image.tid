@@ -1,3 +1,7 @@
+fa-label: Image File
+fa-styles: solid regular
+fa-unicode: f1c5
+tags: solid regular
 title: $:/fontawesome/glyph/file-image
 
--placeholder-
+<i class='fas fa-file-image fa-10x'></i>

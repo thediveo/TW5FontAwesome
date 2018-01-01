@@ -1,3 +1,7 @@
+fa-label: signal
+fa-styles: solid
+fa-unicode: f012
+tags: graph bars solid
 title: $:/fontawesome/glyph/signal
 
--placeholder-
+<i class='fas fa-signal fa-10x'></i>

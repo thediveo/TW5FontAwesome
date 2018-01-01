@@ -1,3 +1,7 @@
+fa-label: list-alt
+fa-styles: solid regular
+fa-unicode: f022
+tags: ul ol checklist finished completed done todo solid regular
 title: $:/fontawesome/glyph/list-alt
 
--placeholder-
+<i class='fas fa-list-alt fa-10x'></i>

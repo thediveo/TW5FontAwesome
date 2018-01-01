@@ -1,3 +1,7 @@
+fa-label: Stripe Credit Card
+fa-styles: brands
+fa-unicode: f1f5
+tags: brands
 title: $:/fontawesome/glyph/cc-stripe
 
--placeholder-
+<i class='fab fa-cc-stripe fa-10x'></i>

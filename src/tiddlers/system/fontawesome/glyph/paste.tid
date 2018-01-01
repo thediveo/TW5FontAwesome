@@ -1,3 +1,7 @@
+fa-label: Paste
+fa-styles: solid
+fa-unicode: f0ea
+tags: copy clipboard solid
 title: $:/fontawesome/glyph/paste
 
--placeholder-
+<i class='fas fa-paste fa-10x'></i>

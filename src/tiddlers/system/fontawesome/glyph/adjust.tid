@@ -1,3 +1,7 @@
+fa-label: adjust
+fa-styles: solid
+fa-unicode: f042
+tags: contrast solid
 title: $:/fontawesome/glyph/adjust
 
--placeholder-
+<i class='fas fa-adjust fa-10x'></i>

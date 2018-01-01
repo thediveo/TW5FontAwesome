@@ -1,3 +1,7 @@
+fa-label: Times
+fa-styles: solid
+fa-unicode: f00d
+tags: close exit x cross solid
 title: $:/fontawesome/glyph/times
 
--placeholder-
+<i class='fas fa-times fa-10x'></i>

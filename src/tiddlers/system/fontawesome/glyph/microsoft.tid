@@ -1,3 +1,7 @@
+fa-label: Microsoft
+fa-styles: brands
+fa-unicode: f3ca
+tags: brands
 title: $:/fontawesome/glyph/microsoft
 
--placeholder-
+<i class='fab fa-microsoft fa-10x'></i>

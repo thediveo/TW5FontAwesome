@@ -1,3 +1,7 @@
+fa-label: cogs
+fa-styles: solid
+fa-unicode: f085
+tags: settings solid
 title: $:/fontawesome/glyph/cogs
 
--placeholder-
+<i class='fas fa-cogs fa-10x'></i>

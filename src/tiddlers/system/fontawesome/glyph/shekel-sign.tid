@@ -1,3 +1,7 @@
+fa-label: Shekel Sign
+fa-styles: solid
+fa-unicode: f20b
+tags: ils solid
 title: $:/fontawesome/glyph/shekel-sign
 
--placeholder-
+<i class='fas fa-shekel-sign fa-10x'></i>

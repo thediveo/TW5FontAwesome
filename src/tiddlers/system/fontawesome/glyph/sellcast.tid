@@ -1,3 +1,7 @@
+fa-label: Sellcast
+fa-styles: brands
+fa-unicode: f2da
+tags: eercast brands
 title: $:/fontawesome/glyph/sellcast
 
--placeholder-
+<i class='fab fa-sellcast fa-10x'></i>

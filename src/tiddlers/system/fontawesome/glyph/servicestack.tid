@@ -1,3 +1,7 @@
+fa-label: Servicestack
+fa-styles: brands
+fa-unicode: f3ec
+tags: brands
 title: $:/fontawesome/glyph/servicestack
 
--placeholder-
+<i class='fab fa-servicestack fa-10x'></i>

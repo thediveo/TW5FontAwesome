@@ -1,3 +1,7 @@
+fa-label: Puzzle Piece
+fa-styles: solid
+fa-unicode: f12e
+tags: addon add-on section solid
 title: $:/fontawesome/glyph/puzzle-piece
 
--placeholder-
+<i class='fas fa-puzzle-piece fa-10x'></i>

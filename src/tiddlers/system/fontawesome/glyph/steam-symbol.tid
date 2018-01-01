@@ -1,3 +1,7 @@
+fa-label: Steam Symbol
+fa-styles: brands
+fa-unicode: f3f6
+tags: brands
 title: $:/fontawesome/glyph/steam-symbol
 
--placeholder-
+<i class='fab fa-steam-symbol fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Ruble Sign
+fa-styles: solid
+fa-unicode: f158
+tags: rub solid
 title: $:/fontawesome/glyph/ruble-sign
 
--placeholder-
+<i class='fas fa-ruble-sign fa-10x'></i>

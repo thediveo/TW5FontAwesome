@@ -1,3 +1,7 @@
+fa-label: Phone Volume
+fa-styles: solid
+fa-unicode: f2a0
+tags: telephone volume-control-phone solid
 title: $:/fontawesome/glyph/phone-volume
 
--placeholder-
+<i class='fas fa-phone-volume fa-10x'></i>

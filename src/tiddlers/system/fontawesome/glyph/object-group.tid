@@ -1,3 +1,7 @@
+fa-label: Object Group
+fa-styles: solid regular
+fa-unicode: f247
+tags: solid regular
 title: $:/fontawesome/glyph/object-group
 
--placeholder-
+<i class='fas fa-object-group fa-10x'></i>

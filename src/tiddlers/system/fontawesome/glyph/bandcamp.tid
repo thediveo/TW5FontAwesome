@@ -1,3 +1,7 @@
+fa-label: Bandcamp
+fa-styles: brands
+fa-unicode: f2d5
+tags: brands
 title: $:/fontawesome/glyph/bandcamp
 
--placeholder-
+<i class='fab fa-bandcamp fa-10x'></i>

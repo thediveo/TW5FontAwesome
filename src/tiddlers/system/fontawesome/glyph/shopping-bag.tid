@@ -1,3 +1,7 @@
+fa-label: Shopping Bag
+fa-styles: solid
+fa-unicode: f290
+tags: solid
 title: $:/fontawesome/glyph/shopping-bag
 
--placeholder-
+<i class='fas fa-shopping-bag fa-10x'></i>

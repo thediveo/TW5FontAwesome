@@ -1,3 +1,7 @@
+fa-label: page4 Corporation
+fa-styles: brands
+fa-unicode: f3d7
+tags: brands
 title: $:/fontawesome/glyph/page4
 
--placeholder-
+<i class='fab fa-page4 fa-10x'></i>

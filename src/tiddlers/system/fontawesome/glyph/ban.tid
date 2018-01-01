@@ -1,3 +1,7 @@
+fa-label: ban
+fa-styles: solid
+fa-unicode: f05e
+tags: delete remove trash hide block stop abort cancel solid
 title: $:/fontawesome/glyph/ban
 
--placeholder-
+<i class='fas fa-ban fa-10x'></i>

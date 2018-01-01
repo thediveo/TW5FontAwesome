@@ -1,3 +1,7 @@
+fa-label: Birthday Cake
+fa-styles: solid
+fa-unicode: f1fd
+tags: solid
 title: $:/fontawesome/glyph/birthday-cake
 
--placeholder-
+<i class='fas fa-birthday-cake fa-10x'></i>

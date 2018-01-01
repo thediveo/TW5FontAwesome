@@ -1,3 +1,7 @@
+fa-label: superscript
+fa-styles: solid
+fa-unicode: f12b
+tags: exponential solid
 title: $:/fontawesome/glyph/superscript
 
--placeholder-
+<i class='fas fa-superscript fa-10x'></i>

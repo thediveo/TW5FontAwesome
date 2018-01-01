@@ -1,3 +1,7 @@
+fa-label: Spotify
+fa-styles: brands
+fa-unicode: f1bc
+tags: brands
 title: $:/fontawesome/glyph/spotify
 
--placeholder-
+<i class='fab fa-spotify fa-10x'></i>

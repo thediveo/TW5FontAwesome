@@ -1,3 +1,7 @@
+fa-label: Twitch
+fa-styles: brands
+fa-unicode: f1e8
+tags: brands
 title: $:/fontawesome/glyph/twitch
 
--placeholder-
+<i class='fab fa-twitch fa-10x'></i>

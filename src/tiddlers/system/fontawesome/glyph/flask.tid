@@ -1,3 +1,7 @@
+fa-label: Flask
+fa-styles: solid
+fa-unicode: f0c3
+tags: science beaker experimental labs solid
 title: $:/fontawesome/glyph/flask
 
--placeholder-
+<i class='fas fa-flask fa-10x'></i>

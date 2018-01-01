@@ -1,3 +1,7 @@
+fa-label: Calculator
+fa-styles: solid
+fa-unicode: f1ec
+tags: solid
 title: $:/fontawesome/glyph/calculator
 
--placeholder-
+<i class='fas fa-calculator fa-10x'></i>

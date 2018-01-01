@@ -1,3 +1,7 @@
+fa-label: Sync
+fa-styles: solid
+fa-unicode: f021
+tags: reload refresh solid
 title: $:/fontawesome/glyph/sync
 
--placeholder-
+<i class='fas fa-sync fa-10x'></i>

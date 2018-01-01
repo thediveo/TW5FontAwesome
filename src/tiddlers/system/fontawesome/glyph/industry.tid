@@ -1,3 +1,7 @@
+fa-label: Industry
+fa-styles: solid
+fa-unicode: f275
+tags: factory solid
 title: $:/fontawesome/glyph/industry
 
--placeholder-
+<i class='fas fa-industry fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Alternate Arrows Horizontal
+fa-styles: solid
+fa-unicode: f337
+tags: resize arrows-h solid
 title: $:/fontawesome/glyph/arrows-alt-h
 
--placeholder-
+<i class='fas fa-arrows-alt-h fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: th-large
+fa-styles: solid
+fa-unicode: f009
+tags: blocks squares boxes grid solid
 title: $:/fontawesome/glyph/th-large
 
--placeholder-
+<i class='fas fa-th-large fa-10x'></i>

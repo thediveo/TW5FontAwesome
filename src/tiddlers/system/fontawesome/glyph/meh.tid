@@ -1,3 +1,7 @@
+fa-label: Meh
+fa-styles: solid regular
+fa-unicode: f11a
+tags: face emoticon rating neutral solid regular
 title: $:/fontawesome/glyph/meh
 
--placeholder-
+<i class='fas fa-meh fa-10x'></i>

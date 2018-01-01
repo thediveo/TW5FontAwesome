@@ -1,3 +1,7 @@
+fa-label: Battery Empty
+fa-styles: solid
+fa-unicode: f244
+tags: power solid
 title: $:/fontawesome/glyph/battery-empty
 
--placeholder-
+<i class='fas fa-battery-empty fa-10x'></i>

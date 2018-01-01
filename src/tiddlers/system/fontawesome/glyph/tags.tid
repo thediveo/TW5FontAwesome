@@ -1,3 +1,7 @@
+fa-label: tags
+fa-styles: solid
+fa-unicode: f02c
+tags: labels solid
 title: $:/fontawesome/glyph/tags
 
--placeholder-
+<i class='fas fa-tags fa-10x'></i>

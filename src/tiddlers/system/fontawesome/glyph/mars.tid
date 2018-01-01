@@ -1,3 +1,7 @@
+fa-label: Mars
+fa-styles: solid
+fa-unicode: f222
+tags: male solid
 title: $:/fontawesome/glyph/mars
 
--placeholder-
+<i class='fas fa-mars fa-10x'></i>

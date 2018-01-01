@@ -1,3 +1,7 @@
+fa-label: Audio Description
+fa-styles: solid
+fa-unicode: f29e
+tags: solid
 title: $:/fontawesome/glyph/audio-description
 
--placeholder-
+<i class='fas fa-audio-description fa-10x'></i>

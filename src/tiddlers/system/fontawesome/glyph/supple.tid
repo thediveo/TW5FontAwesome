@@ -1,3 +1,7 @@
+fa-label: Supple
+fa-styles: brands
+fa-unicode: f3f9
+tags: brands
 title: $:/fontawesome/glyph/supple
 
--placeholder-
+<i class='fab fa-supple fa-10x'></i>

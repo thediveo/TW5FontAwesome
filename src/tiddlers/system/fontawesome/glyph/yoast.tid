@@ -1,3 +1,7 @@
+fa-label: Yoast
+fa-styles: brands
+fa-unicode: f2b1
+tags: brands
 title: $:/fontawesome/glyph/yoast
 
--placeholder-
+<i class='fab fa-yoast fa-10x'></i>

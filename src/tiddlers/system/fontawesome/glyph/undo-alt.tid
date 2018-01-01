@@ -1,3 +1,7 @@
+fa-label: Alternate Undo
+fa-styles: solid
+fa-unicode: f2ea
+tags: back solid
 title: $:/fontawesome/glyph/undo-alt
 
--placeholder-
+<i class='fas fa-undo-alt fa-10x'></i>

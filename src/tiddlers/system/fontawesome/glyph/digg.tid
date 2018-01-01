@@ -1,3 +1,7 @@
+fa-label: Digg Logo
+fa-styles: brands
+fa-unicode: f1a6
+tags: brands
 title: $:/fontawesome/glyph/digg
 
--placeholder-
+<i class='fab fa-digg fa-10x'></i>

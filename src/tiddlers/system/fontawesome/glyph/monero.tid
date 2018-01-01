@@ -1,3 +1,7 @@
+fa-label: Monero
+fa-styles: brands
+fa-unicode: f3d0
+tags: brands
 title: $:/fontawesome/glyph/monero
 
--placeholder-
+<i class='fab fa-monero fa-10x'></i>

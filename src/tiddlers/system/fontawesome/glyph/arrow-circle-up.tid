@@ -1,3 +1,7 @@
+fa-label: Arrow Circle Up
+fa-styles: solid
+fa-unicode: f0aa
+tags: solid
 title: $:/fontawesome/glyph/arrow-circle-up
 
--placeholder-
+<i class='fas fa-arrow-circle-up fa-10x'></i>

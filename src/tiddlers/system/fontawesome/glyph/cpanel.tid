@@ -1,3 +1,7 @@
+fa-label: cPanel
+fa-styles: brands
+fa-unicode: f388
+tags: brands
 title: $:/fontawesome/glyph/cpanel
 
--placeholder-
+<i class='fab fa-cpanel fa-10x'></i>

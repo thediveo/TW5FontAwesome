@@ -1,3 +1,7 @@
+fa-label: Get Pocket
+fa-styles: brands
+fa-unicode: f265
+tags: brands
 title: $:/fontawesome/glyph/get-pocket
 
--placeholder-
+<i class='fab fa-get-pocket fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Envira Gallery
+fa-styles: brands
+fa-unicode: f299
+tags: leaf brands
 title: $:/fontawesome/glyph/envira
 
--placeholder-
+<i class='fab fa-envira fa-10x'></i>

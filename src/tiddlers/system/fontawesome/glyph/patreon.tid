@@ -1,3 +1,7 @@
+fa-label: Patreon
+fa-styles: brands
+fa-unicode: f3d9
+tags: brands
 title: $:/fontawesome/glyph/patreon
 
--placeholder-
+<i class='fab fa-patreon fa-10x'></i>

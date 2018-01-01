@@ -1,3 +1,7 @@
+fa-label: Delicious Logo
+fa-styles: brands
+fa-unicode: f1a5
+tags: brands
 title: $:/fontawesome/glyph/delicious
 
--placeholder-
+<i class='fab fa-delicious fa-10x'></i>

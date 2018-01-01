@@ -1,3 +1,7 @@
+fa-label: Dribbble
+fa-styles: brands
+fa-unicode: f17d
+tags: brands
 title: $:/fontawesome/glyph/dribbble
 
--placeholder-
+<i class='fab fa-dribbble fa-10x'></i>

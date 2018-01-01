@@ -1,3 +1,7 @@
+fa-label: Motorcycle
+fa-styles: solid
+fa-unicode: f21c
+tags: vehicle bike solid
 title: $:/fontawesome/glyph/motorcycle
 
--placeholder-
+<i class='fas fa-motorcycle fa-10x'></i>

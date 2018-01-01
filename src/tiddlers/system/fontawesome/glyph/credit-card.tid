@@ -1,3 +1,7 @@
+fa-label: Credit Card
+fa-styles: solid regular
+fa-unicode: f09d
+tags: money buy debit checkout purchase payment credit-card-alt solid regular
 title: $:/fontawesome/glyph/credit-card
 
--placeholder-
+<i class='fas fa-credit-card fa-10x'></i>

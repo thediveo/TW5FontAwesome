@@ -1,3 +1,7 @@
+fa-label: Power Off
+fa-styles: solid
+fa-unicode: f011
+tags: on solid
 title: $:/fontawesome/glyph/power-off
 
--placeholder-
+<i class='fas fa-power-off fa-10x'></i>

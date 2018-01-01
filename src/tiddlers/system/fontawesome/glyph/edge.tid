@@ -1,3 +1,7 @@
+fa-label: Edge Browser
+fa-styles: brands
+fa-unicode: f282
+tags: browser ie brands
 title: $:/fontawesome/glyph/edge
 
--placeholder-
+<i class='fab fa-edge fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Nutritionix
+fa-styles: brands
+fa-unicode: f3d6
+tags: brands
 title: $:/fontawesome/glyph/nutritionix
 
--placeholder-
+<i class='fab fa-nutritionix fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Bug
+fa-styles: solid
+fa-unicode: f188
+tags: report insect solid
 title: $:/fontawesome/glyph/bug
 
--placeholder-
+<i class='fas fa-bug fa-10x'></i>

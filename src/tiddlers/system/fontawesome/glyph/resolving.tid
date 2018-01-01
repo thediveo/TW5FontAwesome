@@ -1,3 +1,7 @@
+fa-label: Resolving
+fa-styles: brands
+fa-unicode: f3e7
+tags: brands
 title: $:/fontawesome/glyph/resolving
 
--placeholder-
+<i class='fab fa-resolving fa-10x'></i>

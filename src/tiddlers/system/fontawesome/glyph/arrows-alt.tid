@@ -1,3 +1,7 @@
+fa-label: Alternate Arrows
+fa-styles: solid
+fa-unicode: f0b2
+tags: expand enlarge fullscreen bigger move reorder resize arrow arrows solid
 title: $:/fontawesome/glyph/arrows-alt
 
--placeholder-
+<i class='fas fa-arrows-alt fa-10x'></i>

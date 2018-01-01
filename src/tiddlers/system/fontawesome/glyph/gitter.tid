@@ -1,3 +1,7 @@
+fa-label: Gitter
+fa-styles: brands
+fa-unicode: f426
+tags: brands
 title: $:/fontawesome/glyph/gitter
 
--placeholder-
+<i class='fab fa-gitter fa-10x'></i>

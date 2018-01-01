@@ -1,3 +1,7 @@
+fa-label: Docker
+fa-styles: brands
+fa-unicode: f395
+tags: brands
 title: $:/fontawesome/glyph/docker
 
--placeholder-
+<i class='fab fa-docker fa-10x'></i>

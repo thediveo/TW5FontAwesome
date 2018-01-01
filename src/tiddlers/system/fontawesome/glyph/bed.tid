@@ -1,3 +1,7 @@
+fa-label: Bed
+fa-styles: solid
+fa-unicode: f236
+tags: travel solid
 title: $:/fontawesome/glyph/bed
 
--placeholder-
+<i class='fas fa-bed fa-10x'></i>

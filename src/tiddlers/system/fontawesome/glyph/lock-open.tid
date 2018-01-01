@@ -1,3 +1,7 @@
+fa-label: Lock Open
+fa-styles: solid
+fa-unicode: f3c1
+tags: protect admin password lock open solid
 title: $:/fontawesome/glyph/lock-open
 
--placeholder-
+<i class='fas fa-lock-open fa-10x'></i>

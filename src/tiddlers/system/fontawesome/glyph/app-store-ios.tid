@@ -1,3 +1,7 @@
+fa-label: iOS App Store
+fa-styles: brands
+fa-unicode: f370
+tags: brands
 title: $:/fontawesome/glyph/app-store-ios
 
--placeholder-
+<i class='fab fa-app-store-ios fa-10x'></i>

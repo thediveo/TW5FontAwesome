@@ -1,3 +1,7 @@
+fa-label: barcode
+fa-styles: solid
+fa-unicode: f02a
+tags: scan solid
 title: $:/fontawesome/glyph/barcode
 
--placeholder-
+<i class='fas fa-barcode fa-10x'></i>

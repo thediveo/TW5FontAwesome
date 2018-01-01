@@ -1,3 +1,7 @@
+fa-label: Universal Access
+fa-styles: solid
+fa-unicode: f29a
+tags: solid
 title: $:/fontawesome/glyph/universal-access
 
--placeholder-
+<i class='fas fa-universal-access fa-10x'></i>

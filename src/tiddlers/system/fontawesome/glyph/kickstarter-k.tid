@@ -1,3 +1,7 @@
+fa-label: Kickstarter K
+fa-styles: brands
+fa-unicode: f3bc
+tags: brands
 title: $:/fontawesome/glyph/kickstarter-k
 
--placeholder-
+<i class='fab fa-kickstarter-k fa-10x'></i>

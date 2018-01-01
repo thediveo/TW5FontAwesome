@@ -1,3 +1,7 @@
+fa-label: tablet
+fa-styles: solid
+fa-unicode: f10a
+tags: ipad device solid
 title: $:/fontawesome/glyph/tablet
 
--placeholder-
+<i class='fas fa-tablet fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: UIkit
+fa-styles: brands
+fa-unicode: f403
+tags: brands
 title: $:/fontawesome/glyph/uikit
 
--placeholder-
+<i class='fab fa-uikit fa-10x'></i>

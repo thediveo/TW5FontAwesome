@@ -1,3 +1,7 @@
+fa-label: Gamepad
+fa-styles: solid
+fa-unicode: f11b
+tags: controller solid
 title: $:/fontawesome/glyph/gamepad
 
--placeholder-
+<i class='fas fa-gamepad fa-10x'></i>

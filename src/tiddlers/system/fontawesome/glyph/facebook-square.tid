@@ -1,3 +1,7 @@
+fa-label: Facebook Square
+fa-styles: brands
+fa-unicode: f082
+tags: [[social network]] brands
 title: $:/fontawesome/glyph/facebook-square
 
--placeholder-
+<i class='fab fa-facebook-square fa-10x'></i>

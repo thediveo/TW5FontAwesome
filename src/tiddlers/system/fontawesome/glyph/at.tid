@@ -1,3 +1,7 @@
+fa-label: At
+fa-styles: solid
+fa-unicode: f1fa
+tags: email e-mail solid
 title: $:/fontawesome/glyph/at
 
--placeholder-
+<i class='fas fa-at fa-10x'></i>

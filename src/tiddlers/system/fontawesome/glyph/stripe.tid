@@ -1,3 +1,7 @@
+fa-label: Stripe
+fa-styles: brands
+fa-unicode: f429
+tags: brands
 title: $:/fontawesome/glyph/stripe
 
--placeholder-
+<i class='fab fa-stripe fa-10x'></i>

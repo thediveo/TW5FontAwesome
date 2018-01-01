@@ -1,3 +1,7 @@
+fa-label: Calendar Plus
+fa-styles: solid regular
+fa-unicode: f271
+tags: solid regular
 title: $:/fontawesome/glyph/calendar-plus
 
--placeholder-
+<i class='fas fa-calendar-plus fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: WiFi
+fa-styles: solid
+fa-unicode: f1eb
+tags: solid
 title: $:/fontawesome/glyph/wifi
 
--placeholder-
+<i class='fas fa-wifi fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Exclamation Circle
+fa-styles: solid
+fa-unicode: f06a
+tags: warning error problem notification notify alert solid
 title: $:/fontawesome/glyph/exclamation-circle
 
--placeholder-
+<i class='fas fa-exclamation-circle fa-10x'></i>

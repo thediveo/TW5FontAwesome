@@ -1,3 +1,7 @@
+fa-label: road
+fa-styles: solid
+fa-unicode: f018
+tags: street solid
 title: $:/fontawesome/glyph/road
 
--placeholder-
+<i class='fas fa-road fa-10x'></i>

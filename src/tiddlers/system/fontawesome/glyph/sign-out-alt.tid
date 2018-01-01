@@ -1,3 +1,7 @@
+fa-label: Alernate Sign Out
+fa-styles: solid
+fa-unicode: f2f5
+tags: [[log out]] logout leave exit arrow sign-out solid
 title: $:/fontawesome/glyph/sign-out-alt
 
--placeholder-
+<i class='fas fa-sign-out-alt fa-10x'></i>

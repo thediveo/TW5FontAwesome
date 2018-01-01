@@ -1,3 +1,7 @@
+fa-label: Alternate Expand Arrows
+fa-styles: solid
+fa-unicode: f31e
+tags: enlarge bigger resize move arrows-alt solid
 title: $:/fontawesome/glyph/expand-arrows-alt
 
--placeholder-
+<i class='fas fa-expand-arrows-alt fa-10x'></i>

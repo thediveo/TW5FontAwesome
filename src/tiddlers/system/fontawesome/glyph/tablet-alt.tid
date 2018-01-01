@@ -1,3 +1,7 @@
+fa-label: Alternate Tablet
+fa-styles: solid
+fa-unicode: f3fa
+tags: tablet solid
 title: $:/fontawesome/glyph/tablet-alt
 
--placeholder-
+<i class='fas fa-tablet-alt fa-10x'></i>

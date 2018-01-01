@@ -1,3 +1,7 @@
+fa-label: Bath
+fa-styles: solid
+fa-unicode: f2cd
+tags: solid
 title: $:/fontawesome/glyph/bath
 
--placeholder-
+<i class='fas fa-bath fa-10x'></i>

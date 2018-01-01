@@ -1,3 +1,7 @@
+fa-label: Desktop
+fa-styles: solid
+fa-unicode: f108
+tags: monitor screen desktop computer demo device solid
 title: $:/fontawesome/glyph/desktop
 
--placeholder-
+<i class='fas fa-desktop fa-10x'></i>

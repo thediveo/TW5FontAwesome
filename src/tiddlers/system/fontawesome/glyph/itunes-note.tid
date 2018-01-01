@@ -1,3 +1,7 @@
+fa-label: Itunes Note
+fa-styles: brands
+fa-unicode: f3b5
+tags: brands
 title: $:/fontawesome/glyph/itunes-note
 
--placeholder-
+<i class='fab fa-itunes-note fa-10x'></i>

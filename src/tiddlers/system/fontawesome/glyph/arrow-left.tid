@@ -1,3 +1,7 @@
+fa-label: arrow-left
+fa-styles: solid
+fa-unicode: f060
+tags: previous back solid
 title: $:/fontawesome/glyph/arrow-left
 
--placeholder-
+<i class='fas fa-arrow-left fa-10x'></i>

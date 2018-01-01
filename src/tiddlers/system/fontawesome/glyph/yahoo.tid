@@ -1,3 +1,7 @@
+fa-label: Yahoo Logo
+fa-styles: brands
+fa-unicode: f19e
+tags: brands
 title: $:/fontawesome/glyph/yahoo
 
--placeholder-
+<i class='fab fa-yahoo fa-10x'></i>

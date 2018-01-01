@@ -1,3 +1,7 @@
+fa-label: Caret Square Down
+fa-styles: solid regular
+fa-unicode: f150
+tags: more dropdown menu caret-square-o-down solid regular
 title: $:/fontawesome/glyph/caret-square-down
 
--placeholder-
+<i class='fas fa-caret-square-down fa-10x'></i>

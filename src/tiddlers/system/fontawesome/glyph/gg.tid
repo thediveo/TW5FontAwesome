@@ -1,3 +1,7 @@
+fa-label: GG Currency
+fa-styles: brands
+fa-unicode: f260
+tags: brands
 title: $:/fontawesome/glyph/gg
 
--placeholder-
+<i class='fab fa-gg fa-10x'></i>

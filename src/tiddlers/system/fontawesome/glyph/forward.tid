@@ -1,3 +1,7 @@
+fa-label: forward
+fa-styles: solid
+fa-unicode: f04e
+tags: forward next solid
 title: $:/fontawesome/glyph/forward
 
--placeholder-
+<i class='fas fa-forward fa-10x'></i>

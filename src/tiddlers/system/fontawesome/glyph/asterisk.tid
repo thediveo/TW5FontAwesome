@@ -1,3 +1,7 @@
+fa-label: asterisk
+fa-styles: solid
+fa-unicode: f069
+tags: details solid
 title: $:/fontawesome/glyph/asterisk
 
--placeholder-
+<i class='fas fa-asterisk fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Discourse
+fa-styles: brands
+fa-unicode: f393
+tags: brands
 title: $:/fontawesome/glyph/discourse
 
--placeholder-
+<i class='fab fa-discourse fa-10x'></i>

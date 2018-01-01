@@ -1,3 +1,7 @@
+fa-label: Internet-explorer
+fa-styles: brands
+fa-unicode: f26b
+tags: browser ie brands
 title: $:/fontawesome/glyph/internet-explorer
 
--placeholder-
+<i class='fab fa-internet-explorer fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Lightbulb
+fa-styles: solid regular
+fa-unicode: f0eb
+tags: idea inspiration solid regular
 title: $:/fontawesome/glyph/lightbulb
 
--placeholder-
+<i class='fas fa-lightbulb fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Horizontal Ellipsis
+fa-styles: solid
+fa-unicode: f141
+tags: dots solid
 title: $:/fontawesome/glyph/ellipsis-h
 
--placeholder-
+<i class='fas fa-ellipsis-h fa-10x'></i>

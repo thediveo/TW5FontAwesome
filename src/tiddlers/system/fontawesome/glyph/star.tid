@@ -1,3 +1,7 @@
+fa-label: Star
+fa-styles: solid regular
+fa-unicode: f005
+tags: award achievement night rating score favorite solid regular
 title: $:/fontawesome/glyph/star
 
--placeholder-
+<i class='fas fa-star fa-10x'></i>

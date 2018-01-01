@@ -1,3 +1,7 @@
+fa-label: Exclamation Triangle
+fa-styles: solid
+fa-unicode: f071
+tags: warning error problem notification notify alert solid
 title: $:/fontawesome/glyph/exclamation-triangle
 
--placeholder-
+<i class='fas fa-exclamation-triangle fa-10x'></i>

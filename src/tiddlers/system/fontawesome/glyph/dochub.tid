@@ -1,3 +1,7 @@
+fa-label: DocHub
+fa-styles: brands
+fa-unicode: f394
+tags: brands
 title: $:/fontawesome/glyph/dochub
 
--placeholder-
+<i class='fab fa-dochub fa-10x'></i>

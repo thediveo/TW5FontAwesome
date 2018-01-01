@@ -1,3 +1,7 @@
+fa-label: Sort Numeric Up
+fa-styles: solid
+fa-unicode: f163
+tags: numbers sort-numeric-desc solid
 title: $:/fontawesome/glyph/sort-numeric-up
 
--placeholder-
+<i class='fas fa-sort-numeric-up fa-10x'></i>

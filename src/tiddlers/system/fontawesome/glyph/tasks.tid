@@ -1,3 +1,7 @@
+fa-label: Tasks
+fa-styles: solid
+fa-unicode: f0ae
+tags: progress loading downloading downloads settings solid
 title: $:/fontawesome/glyph/tasks
 
--placeholder-
+<i class='fas fa-tasks fa-10x'></i>

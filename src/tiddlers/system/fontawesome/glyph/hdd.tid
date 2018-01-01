@@ -1,3 +1,7 @@
+fa-label: HDD
+fa-styles: solid regular
+fa-unicode: f0a0
+tags: harddrive [[hard drive]] storage save solid regular
 title: $:/fontawesome/glyph/hdd
 
--placeholder-
+<i class='fas fa-hdd fa-10x'></i>

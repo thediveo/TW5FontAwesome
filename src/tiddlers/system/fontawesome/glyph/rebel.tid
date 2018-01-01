@@ -1,3 +1,7 @@
+fa-label: Rebel Alliance
+fa-styles: brands
+fa-unicode: f1d0
+tags: brands
 title: $:/fontawesome/glyph/rebel
 
--placeholder-
+<i class='fab fa-rebel fa-10x'></i>

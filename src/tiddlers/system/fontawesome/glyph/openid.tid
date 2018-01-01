@@ -1,3 +1,7 @@
+fa-label: OpenID
+fa-styles: brands
+fa-unicode: f19b
+tags: brands
 title: $:/fontawesome/glyph/openid
 
--placeholder-
+<i class='fab fa-openid fa-10x'></i>

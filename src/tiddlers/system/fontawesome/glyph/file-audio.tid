@@ -1,3 +1,7 @@
+fa-label: Audio File
+fa-styles: solid regular
+fa-unicode: f1c7
+tags: solid regular
 title: $:/fontawesome/glyph/file-audio
 
--placeholder-
+<i class='fas fa-file-audio fa-10x'></i>

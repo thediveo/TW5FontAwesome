@@ -1,3 +1,7 @@
+fa-label: Taxi
+fa-styles: solid
+fa-unicode: f1ba
+tags: vehicle solid
 title: $:/fontawesome/glyph/taxi
 
--placeholder-
+<i class='fas fa-taxi fa-10x'></i>

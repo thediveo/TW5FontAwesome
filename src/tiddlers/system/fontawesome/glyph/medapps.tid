@@ -1,3 +1,7 @@
+fa-label: MedApps
+fa-styles: brands
+fa-unicode: f3c6
+tags: brands
 title: $:/fontawesome/glyph/medapps
 
--placeholder-
+<i class='fab fa-medapps fa-10x'></i>

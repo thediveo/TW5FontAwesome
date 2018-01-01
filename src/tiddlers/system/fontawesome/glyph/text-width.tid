@@ -1,3 +1,7 @@
+fa-label: text-width
+fa-styles: solid
+fa-unicode: f035
+tags: solid
 title: $:/fontawesome/glyph/text-width
 
--placeholder-
+<i class='fas fa-text-width fa-10x'></i>

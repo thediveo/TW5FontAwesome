@@ -1,3 +1,7 @@
+fa-label: Yelp
+fa-styles: brands
+fa-unicode: f1e9
+tags: brands
 title: $:/fontawesome/glyph/yelp
 
--placeholder-
+<i class='fab fa-yelp fa-10x'></i>

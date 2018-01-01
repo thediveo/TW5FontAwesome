@@ -1,3 +1,7 @@
+fa-label: Window Maximize
+fa-styles: solid regular
+fa-unicode: f2d0
+tags: solid regular
 title: $:/fontawesome/glyph/window-maximize
 
--placeholder-
+<i class='fas fa-window-maximize fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Newspaper
+fa-styles: solid regular
+fa-unicode: f1ea
+tags: press solid regular
 title: $:/fontawesome/glyph/newspaper
 
--placeholder-
+<i class='fas fa-newspaper fa-10x'></i>

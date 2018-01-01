@@ -1,3 +1,7 @@
+fa-label: H Square
+fa-styles: solid
+fa-unicode: f0fd
+tags: hospital hotel solid
 title: $:/fontawesome/glyph/h-square
 
--placeholder-
+<i class='fas fa-h-square fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: HireAHelper
+fa-styles: brands
+fa-unicode: f3b0
+tags: brands
 title: $:/fontawesome/glyph/hire-a-helper
 
--placeholder-
+<i class='fab fa-hire-a-helper fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: eraser
+fa-styles: solid
+fa-unicode: f12d
+tags: remove delete solid
 title: $:/fontawesome/glyph/eraser
 
--placeholder-
+<i class='fas fa-eraser fa-10x'></i>

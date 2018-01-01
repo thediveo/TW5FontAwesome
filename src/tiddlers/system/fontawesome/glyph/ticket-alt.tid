@@ -1,3 +1,7 @@
+fa-label: Alernate Ticket
+fa-styles: solid
+fa-unicode: f3ff
+tags: ticket solid
 title: $:/fontawesome/glyph/ticket-alt
 
--placeholder-
+<i class='fas fa-ticket-alt fa-10x'></i>

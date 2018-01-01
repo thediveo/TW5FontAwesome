@@ -1,3 +1,7 @@
+fa-label: home
+fa-styles: solid
+fa-unicode: f015
+tags: main house solid
 title: $:/fontawesome/glyph/home
 
--placeholder-
+<i class='fas fa-home fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Laravel
+fa-styles: brands
+fa-unicode: f3bd
+tags: brands
 title: $:/fontawesome/glyph/laravel
 
--placeholder-
+<i class='fab fa-laravel fa-10x'></i>

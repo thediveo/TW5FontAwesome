@@ -1,3 +1,7 @@
+fa-label: Crosshairs
+fa-styles: solid
+fa-unicode: f05b
+tags: picker solid
 title: $:/fontawesome/glyph/crosshairs
 
--placeholder-
+<i class='fas fa-crosshairs fa-10x'></i>

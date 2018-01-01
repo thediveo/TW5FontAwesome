@@ -1,3 +1,7 @@
+fa-label: Sort
+fa-styles: solid
+fa-unicode: f0dc
+tags: order solid
 title: $:/fontawesome/glyph/sort
 
--placeholder-
+<i class='fas fa-sort fa-10x'></i>

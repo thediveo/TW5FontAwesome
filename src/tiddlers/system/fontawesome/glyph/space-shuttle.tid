@@ -1,3 +1,7 @@
+fa-label: Space Shuttle
+fa-styles: solid
+fa-unicode: f197
+tags: solid
 title: $:/fontawesome/glyph/space-shuttle
 
--placeholder-
+<i class='fas fa-space-shuttle fa-10x'></i>

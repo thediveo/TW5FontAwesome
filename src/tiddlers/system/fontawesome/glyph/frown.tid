@@ -1,3 +1,7 @@
+fa-label: Frown
+fa-styles: solid regular
+fa-unicode: f119
+tags: face emoticon sad disapprove rating solid regular
 title: $:/fontawesome/glyph/frown
 
--placeholder-
+<i class='fas fa-frown fa-10x'></i>

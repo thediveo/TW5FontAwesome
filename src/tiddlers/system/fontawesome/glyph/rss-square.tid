@@ -1,3 +1,7 @@
+fa-label: RSS Square
+fa-styles: solid
+fa-unicode: f143
+tags: feed blog solid
 title: $:/fontawesome/glyph/rss-square
 
--placeholder-
+<i class='fas fa-rss-square fa-10x'></i>

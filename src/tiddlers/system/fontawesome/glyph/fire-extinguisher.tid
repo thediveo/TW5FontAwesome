@@ -1,3 +1,7 @@
+fa-label: fire-extinguisher
+fa-styles: solid
+fa-unicode: f134
+tags: solid
 title: $:/fontawesome/glyph/fire-extinguisher
 
--placeholder-
+<i class='fas fa-fire-extinguisher fa-10x'></i>

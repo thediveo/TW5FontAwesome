@@ -1,3 +1,7 @@
+fa-label: Folder
+fa-styles: solid regular
+fa-unicode: f07b
+tags: solid regular
 title: $:/fontawesome/glyph/folder
 
--placeholder-
+<i class='fas fa-folder fa-10x'></i>

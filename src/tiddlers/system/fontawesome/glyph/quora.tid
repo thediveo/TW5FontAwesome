@@ -1,3 +1,7 @@
+fa-label: Quora
+fa-styles: brands
+fa-unicode: f2c4
+tags: brands
 title: $:/fontawesome/glyph/quora
 
--placeholder-
+<i class='fab fa-quora fa-10x'></i>

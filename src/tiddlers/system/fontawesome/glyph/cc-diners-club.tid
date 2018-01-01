@@ -1,3 +1,7 @@
+fa-label: Diner's Club Credit Card
+fa-styles: brands
+fa-unicode: f24c
+tags: brands
 title: $:/fontawesome/glyph/cc-diners-club
 
--placeholder-
+<i class='fab fa-cc-diners-club fa-10x'></i>

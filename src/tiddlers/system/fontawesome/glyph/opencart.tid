@@ -1,3 +1,7 @@
+fa-label: OpenCart
+fa-styles: brands
+fa-unicode: f23d
+tags: brands
 title: $:/fontawesome/glyph/opencart
 
--placeholder-
+<i class='fab fa-opencart fa-10x'></i>

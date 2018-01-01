@@ -1,3 +1,7 @@
+fa-label: medkit
+fa-styles: solid
+fa-unicode: f0fa
+tags: [[first aid]] firstaid help support health solid
 title: $:/fontawesome/glyph/medkit
 
--placeholder-
+<i class='fas fa-medkit fa-10x'></i>

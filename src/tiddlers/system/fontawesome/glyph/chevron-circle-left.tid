@@ -1,3 +1,7 @@
+fa-label: Chevron Circle Left
+fa-styles: solid
+fa-unicode: f137
+tags: previous back arrow solid
 title: $:/fontawesome/glyph/chevron-circle-left
 
--placeholder-
+<i class='fas fa-chevron-circle-left fa-10x'></i>

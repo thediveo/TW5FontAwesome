@@ -1,3 +1,7 @@
+fa-label: Indian Rupee Sign
+fa-styles: solid
+fa-unicode: f156
+tags: indian inr solid
 title: $:/fontawesome/glyph/rupee-sign
 
--placeholder-
+<i class='fas fa-rupee-sign fa-10x'></i>

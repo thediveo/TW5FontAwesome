@@ -1,3 +1,7 @@
+fa-label: stop
+fa-styles: solid
+fa-unicode: f04d
+tags: block box square solid
 title: $:/fontawesome/glyph/stop
 
--placeholder-
+<i class='fas fa-stop fa-10x'></i>

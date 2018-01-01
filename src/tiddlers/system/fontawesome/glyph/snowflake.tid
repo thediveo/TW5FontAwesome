@@ -1,3 +1,7 @@
+fa-label: Snowflake
+fa-styles: solid regular
+fa-unicode: f2dc
+tags: solid regular
 title: $:/fontawesome/glyph/snowflake
 
--placeholder-
+<i class='fas fa-snowflake fa-10x'></i>

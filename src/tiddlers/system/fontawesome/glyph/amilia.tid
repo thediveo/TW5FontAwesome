@@ -1,3 +1,7 @@
+fa-label: Amilia
+fa-styles: brands
+fa-unicode: f36d
+tags: brands
 title: $:/fontawesome/glyph/amilia
 
--placeholder-
+<i class='fab fa-amilia fa-10x'></i>

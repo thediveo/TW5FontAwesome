@@ -1,3 +1,7 @@
+fa-label: Cuttlefish
+fa-styles: brands
+fa-unicode: f38c
+tags: brands
 title: $:/fontawesome/glyph/cuttlefish
 
--placeholder-
+<i class='fab fa-cuttlefish fa-10x'></i>

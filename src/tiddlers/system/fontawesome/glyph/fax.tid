@@ -1,3 +1,7 @@
+fa-label: Fax
+fa-styles: solid
+fa-unicode: f1ac
+tags: solid
 title: $:/fontawesome/glyph/fax
 
--placeholder-
+<i class='fas fa-fax fa-10x'></i>

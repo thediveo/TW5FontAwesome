@@ -1,3 +1,7 @@
+fa-label: Rock (Hand)
+fa-styles: solid regular
+fa-unicode: f255
+tags: solid regular
 title: $:/fontawesome/glyph/hand-rock
 
--placeholder-
+<i class='fas fa-hand-rock fa-10x'></i>

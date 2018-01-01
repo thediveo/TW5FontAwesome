@@ -1,3 +1,7 @@
+fa-label: arrow-down
+fa-styles: solid
+fa-unicode: f063
+tags: download solid
 title: $:/fontawesome/glyph/arrow-down
 
--placeholder-
+<i class='fas fa-arrow-down fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: BTC
+fa-styles: brands
+fa-unicode: f15a
+tags: brands
 title: $:/fontawesome/glyph/btc
 
--placeholder-
+<i class='fab fa-btc fa-10x'></i>

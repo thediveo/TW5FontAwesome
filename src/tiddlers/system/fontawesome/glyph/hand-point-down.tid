@@ -1,3 +1,7 @@
+fa-label: Hand Pointing Down
+fa-styles: solid regular
+fa-unicode: f0a7
+tags: point finger hand-o-down solid regular
 title: $:/fontawesome/glyph/hand-point-down
 
--placeholder-
+<i class='fas fa-hand-point-down fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Filter
+fa-styles: solid
+fa-unicode: f0b0
+tags: funnel options solid
 title: $:/fontawesome/glyph/filter
 
--placeholder-
+<i class='fas fa-filter fa-10x'></i>

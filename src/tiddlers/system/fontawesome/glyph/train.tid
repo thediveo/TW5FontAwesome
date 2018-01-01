@@ -1,3 +1,7 @@
+fa-label: Train
+fa-styles: solid
+fa-unicode: f238
+tags: solid
 title: $:/fontawesome/glyph/train
 
--placeholder-
+<i class='fas fa-train fa-10x'></i>

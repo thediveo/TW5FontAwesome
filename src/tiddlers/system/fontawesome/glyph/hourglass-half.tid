@@ -1,3 +1,7 @@
+fa-label: Hourglass Half
+fa-styles: solid
+fa-unicode: f252
+tags: solid
 title: $:/fontawesome/glyph/hourglass-half
 
--placeholder-
+<i class='fas fa-hourglass-half fa-10x'></i>

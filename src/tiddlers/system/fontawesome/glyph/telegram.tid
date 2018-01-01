@@ -1,3 +1,7 @@
+fa-label: Telegram
+fa-styles: brands
+fa-unicode: f2c6
+tags: brands
 title: $:/fontawesome/glyph/telegram
 
--placeholder-
+<i class='fab fa-telegram fa-10x'></i>

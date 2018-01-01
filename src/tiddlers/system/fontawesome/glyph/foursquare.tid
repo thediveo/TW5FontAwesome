@@ -1,3 +1,7 @@
+fa-label: Foursquare
+fa-styles: brands
+fa-unicode: f180
+tags: brands
 title: $:/fontawesome/glyph/foursquare
 
--placeholder-
+<i class='fab fa-foursquare fa-10x'></i>

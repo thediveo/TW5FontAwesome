@@ -1,3 +1,7 @@
+fa-label: Snapchat
+fa-styles: brands
+fa-unicode: f2ab
+tags: brands
 title: $:/fontawesome/glyph/snapchat
 
--placeholder-
+<i class='fab fa-snapchat fa-10x'></i>

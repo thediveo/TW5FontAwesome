@@ -1,3 +1,7 @@
+fa-label: Assistive Listening Systems
+fa-styles: solid
+fa-unicode: f2a2
+tags: solid
 title: $:/fontawesome/glyph/assistive-listening-systems
 
--placeholder-
+<i class='fas fa-assistive-listening-systems fa-10x'></i>

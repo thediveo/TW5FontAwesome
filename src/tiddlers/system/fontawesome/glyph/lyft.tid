@@ -1,3 +1,7 @@
+fa-label: lyft
+fa-styles: brands
+fa-unicode: f3c3
+tags: brands
 title: $:/fontawesome/glyph/lyft
 
--placeholder-
+<i class='fab fa-lyft fa-10x'></i>

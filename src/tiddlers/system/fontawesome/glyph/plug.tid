@@ -1,3 +1,7 @@
+fa-label: Plug
+fa-styles: solid
+fa-unicode: f1e6
+tags: power connect solid
 title: $:/fontawesome/glyph/plug
 
--placeholder-
+<i class='fas fa-plug fa-10x'></i>

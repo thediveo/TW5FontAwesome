@@ -1,3 +1,7 @@
+fa-label: deploy.dog
+fa-styles: brands
+fa-unicode: f38e
+tags: brands
 title: $:/fontawesome/glyph/deploydog
 
--placeholder-
+<i class='fab fa-deploydog fa-10x'></i>

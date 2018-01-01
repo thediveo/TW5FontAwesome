@@ -1,3 +1,7 @@
+fa-label: magic
+fa-styles: solid
+fa-unicode: f0d0
+tags: wizard automatic autocomplete solid
 title: $:/fontawesome/glyph/magic
 
--placeholder-
+<i class='fas fa-magic fa-10x'></i>

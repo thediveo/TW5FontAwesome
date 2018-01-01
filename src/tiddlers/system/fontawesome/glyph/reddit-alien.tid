@@ -1,3 +1,7 @@
+fa-label: reddit Alien
+fa-styles: brands
+fa-unicode: f281
+tags: brands
 title: $:/fontawesome/glyph/reddit-alien
 
--placeholder-
+<i class='fab fa-reddit-alien fa-10x'></i>

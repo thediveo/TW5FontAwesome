@@ -1,3 +1,7 @@
+fa-label: Music
+fa-styles: solid
+fa-unicode: f001
+tags: note sound solid
 title: $:/fontawesome/glyph/music
 
--placeholder-
+<i class='fas fa-music fa-10x'></i>

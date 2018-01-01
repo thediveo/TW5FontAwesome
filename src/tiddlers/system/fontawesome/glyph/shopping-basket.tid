@@ -1,3 +1,7 @@
+fa-label: Shopping Basket
+fa-styles: solid
+fa-unicode: f291
+tags: solid
 title: $:/fontawesome/glyph/shopping-basket
 
--placeholder-
+<i class='fas fa-shopping-basket fa-10x'></i>

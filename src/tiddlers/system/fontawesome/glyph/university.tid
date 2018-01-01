@@ -1,3 +1,7 @@
+fa-label: University
+fa-styles: solid
+fa-unicode: f19c
+tags: solid
 title: $:/fontawesome/glyph/university
 
--placeholder-
+<i class='fas fa-university fa-10x'></i>

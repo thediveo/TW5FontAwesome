@@ -1,3 +1,7 @@
+fa-label: User Circle
+fa-styles: solid regular
+fa-unicode: f2bd
+tags: solid regular
 title: $:/fontawesome/glyph/user-circle
 
--placeholder-
+<i class='fas fa-user-circle fa-10x'></i>

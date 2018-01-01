@@ -1,3 +1,7 @@
+fa-label: Instagram
+fa-styles: brands
+fa-unicode: f16d
+tags: brands
 title: $:/fontawesome/glyph/instagram
 
--placeholder-
+<i class='fab fa-instagram fa-10x'></i>

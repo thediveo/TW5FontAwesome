@@ -1,3 +1,7 @@
+fa-label: angle-left
+fa-styles: solid
+fa-unicode: f104
+tags: previous back arrow solid
 title: $:/fontawesome/glyph/angle-left
 
--placeholder-
+<i class='fas fa-angle-left fa-10x'></i>

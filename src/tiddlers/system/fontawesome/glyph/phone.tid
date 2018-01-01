@@ -1,3 +1,7 @@
+fa-label: Phone
+fa-styles: solid
+fa-unicode: f095
+tags: call voice number support earphone telephone solid
 title: $:/fontawesome/glyph/phone
 
--placeholder-
+<i class='fas fa-phone fa-10x'></i>

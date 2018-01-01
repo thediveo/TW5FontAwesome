@@ -1,3 +1,7 @@
+fa-label: Yen Sign
+fa-styles: solid
+fa-unicode: f157
+tags: jpy solid
 title: $:/fontawesome/glyph/yen-sign
 
--placeholder-
+<i class='fas fa-yen-sign fa-10x'></i>

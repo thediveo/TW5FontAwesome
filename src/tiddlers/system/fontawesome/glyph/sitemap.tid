@@ -1,3 +1,7 @@
+fa-label: Sitemap
+fa-styles: solid
+fa-unicode: f0e8
+tags: directory hierarchy organization solid
 title: $:/fontawesome/glyph/sitemap
 
--placeholder-
+<i class='fas fa-sitemap fa-10x'></i>

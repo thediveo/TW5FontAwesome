@@ -1,3 +1,7 @@
+fa-label: eject
+fa-styles: solid
+fa-unicode: f052
+tags: solid
 title: $:/fontawesome/glyph/eject
 
--placeholder-
+<i class='fas fa-eject fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: reddit Logo
+fa-styles: brands
+fa-unicode: f1a1
+tags: brands
 title: $:/fontawesome/glyph/reddit
 
--placeholder-
+<i class='fab fa-reddit fa-10x'></i>

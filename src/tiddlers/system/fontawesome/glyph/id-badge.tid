@@ -1,3 +1,7 @@
+fa-label: Identification Badge
+fa-styles: solid regular
+fa-unicode: f2c1
+tags: solid regular
 title: $:/fontawesome/glyph/id-badge
 
--placeholder-
+<i class='fas fa-id-badge fa-10x'></i>

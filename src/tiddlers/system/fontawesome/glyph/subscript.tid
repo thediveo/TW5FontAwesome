@@ -1,3 +1,7 @@
+fa-label: subscript
+fa-styles: solid
+fa-unicode: f12c
+tags: solid
 title: $:/fontawesome/glyph/subscript
 
--placeholder-
+<i class='fas fa-subscript fa-10x'></i>

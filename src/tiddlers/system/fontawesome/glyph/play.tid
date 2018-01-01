@@ -1,3 +1,7 @@
+fa-label: play
+fa-styles: solid
+fa-unicode: f04b
+tags: start playing music sound solid
 title: $:/fontawesome/glyph/play
 
--placeholder-
+<i class='fas fa-play fa-10x'></i>

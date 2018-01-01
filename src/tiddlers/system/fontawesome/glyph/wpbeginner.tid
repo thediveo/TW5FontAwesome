@@ -1,3 +1,7 @@
+fa-label: WPBeginner
+fa-styles: brands
+fa-unicode: f297
+tags: brands
 title: $:/fontawesome/glyph/wpbeginner
 
--placeholder-
+<i class='fab fa-wpbeginner fa-10x'></i>

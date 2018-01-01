@@ -1,3 +1,7 @@
+fa-label: Grunt
+fa-styles: brands
+fa-unicode: f3ad
+tags: brands
 title: $:/fontawesome/glyph/grunt
 
--placeholder-
+<i class='fab fa-grunt fa-10x'></i>

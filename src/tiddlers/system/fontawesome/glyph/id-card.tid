@@ -1,3 +1,7 @@
+fa-label: Identification Card
+fa-styles: solid regular
+fa-unicode: f2c2
+tags: solid regular
 title: $:/fontawesome/glyph/id-card
 
--placeholder-
+<i class='fas fa-id-card fa-10x'></i>

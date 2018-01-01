@@ -1,3 +1,7 @@
+fa-label: Paper (Hand)
+fa-styles: solid regular
+fa-unicode: f256
+tags: stop solid regular
 title: $:/fontawesome/glyph/hand-paper
 
--placeholder-
+<i class='fas fa-hand-paper fa-10x'></i>

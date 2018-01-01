@@ -1,3 +1,7 @@
+fa-label: Ship
+fa-styles: solid
+fa-unicode: f21a
+tags: boat sea solid
 title: $:/fontawesome/glyph/ship
 
--placeholder-
+<i class='fas fa-ship fa-10x'></i>

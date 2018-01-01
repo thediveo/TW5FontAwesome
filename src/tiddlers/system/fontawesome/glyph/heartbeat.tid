@@ -1,3 +1,7 @@
+fa-label: Heartbeat
+fa-styles: solid
+fa-unicode: f21e
+tags: ekg solid
 title: $:/fontawesome/glyph/heartbeat
 
--placeholder-
+<i class='fas fa-heartbeat fa-10x'></i>

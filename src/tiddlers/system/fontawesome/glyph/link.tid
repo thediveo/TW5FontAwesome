@@ -1,3 +1,7 @@
+fa-label: Link
+fa-styles: solid
+fa-unicode: f0c1
+tags: chain solid
 title: $:/fontawesome/glyph/link
 
--placeholder-
+<i class='fas fa-link fa-10x'></i>

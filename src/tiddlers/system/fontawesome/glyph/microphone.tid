@@ -1,3 +1,7 @@
+fa-label: microphone
+fa-styles: solid
+fa-unicode: f130
+tags: record voice sound solid
 title: $:/fontawesome/glyph/microphone
 
--placeholder-
+<i class='fas fa-microphone fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Chevron Circle Right
+fa-styles: solid
+fa-unicode: f138
+tags: next forward arrow solid
 title: $:/fontawesome/glyph/chevron-circle-right
 
--placeholder-
+<i class='fas fa-chevron-circle-right fa-10x'></i>

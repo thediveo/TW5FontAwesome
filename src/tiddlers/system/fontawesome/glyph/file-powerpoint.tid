@@ -1,3 +1,7 @@
+fa-label: Powerpoint File
+fa-styles: solid regular
+fa-unicode: f1c4
+tags: solid regular
 title: $:/fontawesome/glyph/file-powerpoint
 
--placeholder-
+<i class='fas fa-file-powerpoint fa-10x'></i>

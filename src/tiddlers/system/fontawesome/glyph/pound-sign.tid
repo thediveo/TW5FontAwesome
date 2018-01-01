@@ -1,3 +1,7 @@
+fa-label: Pound Sign
+fa-styles: solid
+fa-unicode: f154
+tags: gbp solid
 title: $:/fontawesome/glyph/pound-sign
 
--placeholder-
+<i class='fas fa-pound-sign fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Firefox
+fa-styles: brands
+fa-unicode: f269
+tags: browser brands
 title: $:/fontawesome/glyph/firefox
 
--placeholder-
+<i class='fab fa-firefox fa-10x'></i>

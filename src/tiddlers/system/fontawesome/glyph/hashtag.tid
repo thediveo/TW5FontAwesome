@@ -1,3 +1,7 @@
+fa-label: Hashtag
+fa-styles: solid
+fa-unicode: f292
+tags: solid
 title: $:/fontawesome/glyph/hashtag
 
--placeholder-
+<i class='fas fa-hashtag fa-10x'></i>

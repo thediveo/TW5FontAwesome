@@ -1,3 +1,7 @@
+fa-label: DashCube
+fa-styles: brands
+fa-unicode: f210
+tags: brands
 title: $:/fontawesome/glyph/dashcube
 
--placeholder-
+<i class='fab fa-dashcube fa-10x'></i>

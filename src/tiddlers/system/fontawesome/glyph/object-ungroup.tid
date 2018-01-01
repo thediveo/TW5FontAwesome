@@ -1,3 +1,7 @@
+fa-label: Object Ungroup
+fa-styles: solid regular
+fa-unicode: f248
+tags: solid regular
 title: $:/fontawesome/glyph/object-ungroup
 
--placeholder-
+<i class='fas fa-object-ungroup fa-10x'></i>

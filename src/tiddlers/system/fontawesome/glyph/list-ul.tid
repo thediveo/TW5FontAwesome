@@ -1,3 +1,7 @@
+fa-label: list-ul
+fa-styles: solid
+fa-unicode: f0ca
+tags: ul ol checklist todo list solid
 title: $:/fontawesome/glyph/list-ul
 
--placeholder-
+<i class='fas fa-list-ul fa-10x'></i>

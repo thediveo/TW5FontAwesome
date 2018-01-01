@@ -1,3 +1,7 @@
+fa-label: Utensil Spoon
+fa-styles: solid
+fa-unicode: f2e5
+tags: spoon solid
 title: $:/fontawesome/glyph/utensil-spoon
 
--placeholder-
+<i class='fas fa-utensil-spoon fa-10x'></i>

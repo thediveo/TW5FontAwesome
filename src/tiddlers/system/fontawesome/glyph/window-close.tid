@@ -1,3 +1,7 @@
+fa-label: Window Close
+fa-styles: solid regular
+fa-unicode: f410
+tags: solid regular
 title: $:/fontawesome/glyph/window-close
 
--placeholder-
+<i class='fas fa-window-close fa-10x'></i>

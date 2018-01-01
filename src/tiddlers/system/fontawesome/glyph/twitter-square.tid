@@ -1,3 +1,7 @@
+fa-label: Twitter Square
+fa-styles: brands
+fa-unicode: f081
+tags: tweet [[social network]] brands
 title: $:/fontawesome/glyph/twitter-square
 
--placeholder-
+<i class='fab fa-twitter-square fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Battery 1/2 Full
+fa-styles: solid
+fa-unicode: f242
+tags: power solid
 title: $:/fontawesome/glyph/battery-half
 
--placeholder-
+<i class='fas fa-battery-half fa-10x'></i>

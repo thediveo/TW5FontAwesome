@@ -1,3 +1,7 @@
+fa-label: arrow-right
+fa-styles: solid
+fa-unicode: f061
+tags: next forward solid
 title: $:/fontawesome/glyph/arrow-right
 
--placeholder-
+<i class='fas fa-arrow-right fa-10x'></i>

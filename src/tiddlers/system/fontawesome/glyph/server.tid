@@ -1,3 +1,7 @@
+fa-label: Server
+fa-styles: solid
+fa-unicode: f233
+tags: solid
 title: $:/fontawesome/glyph/server
 
--placeholder-
+<i class='fas fa-server fa-10x'></i>

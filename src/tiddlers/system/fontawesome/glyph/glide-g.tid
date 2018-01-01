@@ -1,3 +1,7 @@
+fa-label: Glide G
+fa-styles: brands
+fa-unicode: f2a6
+tags: brands
 title: $:/fontawesome/glyph/glide-g
 
--placeholder-
+<i class='fab fa-glide-g fa-10x'></i>

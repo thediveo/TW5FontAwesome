@@ -1,3 +1,7 @@
+fa-label: Info
+fa-styles: solid
+fa-unicode: f129
+tags: help information more details solid
 title: $:/fontawesome/glyph/info
 
--placeholder-
+<i class='fas fa-info fa-10x'></i>

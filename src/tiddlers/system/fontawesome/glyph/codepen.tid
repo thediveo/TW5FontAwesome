@@ -1,3 +1,7 @@
+fa-label: Codepen
+fa-styles: brands
+fa-unicode: f1cb
+tags: brands
 title: $:/fontawesome/glyph/codepen
 
--placeholder-
+<i class='fab fa-codepen fa-10x'></i>

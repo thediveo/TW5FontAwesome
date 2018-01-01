@@ -1,3 +1,7 @@
+fa-label: Columns
+fa-styles: solid
+fa-unicode: f0db
+tags: split panes solid
 title: $:/fontawesome/glyph/columns
 
--placeholder-
+<i class='fas fa-columns fa-10x'></i>

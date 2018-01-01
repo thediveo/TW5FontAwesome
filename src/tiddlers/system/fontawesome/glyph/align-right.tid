@@ -1,3 +1,7 @@
+fa-label: align-right
+fa-styles: solid
+fa-unicode: f038
+tags: text solid
 title: $:/fontawesome/glyph/align-right
 
--placeholder-
+<i class='fas fa-align-right fa-10x'></i>

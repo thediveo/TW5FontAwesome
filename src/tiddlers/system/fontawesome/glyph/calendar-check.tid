@@ -1,3 +1,7 @@
+fa-label: Calendar Check
+fa-styles: solid regular
+fa-unicode: f274
+tags: ok solid regular
 title: $:/fontawesome/glyph/calendar-check
 
--placeholder-
+<i class='fas fa-calendar-check fa-10x'></i>

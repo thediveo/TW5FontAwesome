@@ -1,3 +1,7 @@
+fa-label: Amazon Web Services (AWS)
+fa-styles: brands
+fa-unicode: f375
+tags: brands
 title: $:/fontawesome/glyph/aws
 
--placeholder-
+<i class='fab fa-aws fa-10x'></i>

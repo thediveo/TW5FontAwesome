@@ -1,3 +1,7 @@
+fa-label: Font Awesome Flag
+fa-styles: brands
+fa-unicode: f425
+tags: brands
 title: $:/fontawesome/glyph/font-awesome-flag
 
--placeholder-
+<i class='fab fa-font-awesome-flag fa-10x'></i>

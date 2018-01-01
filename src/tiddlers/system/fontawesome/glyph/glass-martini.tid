@@ -1,3 +1,7 @@
+fa-label: Martini Glass
+fa-styles: solid
+fa-unicode: f000
+tags: martini drink bar alcohol liquor glass solid
 title: $:/fontawesome/glyph/glass-martini
 
--placeholder-
+<i class='fas fa-glass-martini fa-10x'></i>

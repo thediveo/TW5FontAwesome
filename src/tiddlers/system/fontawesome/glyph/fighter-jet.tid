@@ -1,3 +1,7 @@
+fa-label: fighter-jet
+fa-styles: solid
+fa-unicode: f0fb
+tags: fly plane airplane quick fast travel solid
 title: $:/fontawesome/glyph/fighter-jet
 
--placeholder-
+<i class='fas fa-fighter-jet fa-10x'></i>

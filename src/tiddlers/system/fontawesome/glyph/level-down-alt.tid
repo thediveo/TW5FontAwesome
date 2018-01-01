@@ -1,3 +1,7 @@
+fa-label: Level Down-alt
+fa-styles: solid
+fa-unicode: f3be
+tags: level-down solid
 title: $:/fontawesome/glyph/level-down-alt
 
--placeholder-
+<i class='fas fa-level-down-alt fa-10x'></i>

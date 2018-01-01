@@ -1,3 +1,7 @@
+fa-label: Mercury
+fa-styles: solid
+fa-unicode: f223
+tags: transgender solid
 title: $:/fontawesome/glyph/mercury
 
--placeholder-
+<i class='fas fa-mercury fa-10x'></i>

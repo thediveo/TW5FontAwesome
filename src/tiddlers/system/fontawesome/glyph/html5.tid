@@ -1,3 +1,7 @@
+fa-label: HTML 5 Logo
+fa-styles: brands
+fa-unicode: f13b
+tags: brands
 title: $:/fontawesome/glyph/html5
 
--placeholder-
+<i class='fab fa-html5 fa-10x'></i>

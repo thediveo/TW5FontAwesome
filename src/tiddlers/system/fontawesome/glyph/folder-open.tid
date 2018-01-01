@@ -1,3 +1,7 @@
+fa-label: Folder Open
+fa-styles: solid regular
+fa-unicode: f07c
+tags: solid regular
 title: $:/fontawesome/glyph/folder-open
 
--placeholder-
+<i class='fas fa-folder-open fa-10x'></i>

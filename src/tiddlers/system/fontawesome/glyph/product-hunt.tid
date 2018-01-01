@@ -1,3 +1,7 @@
+fa-label: Product Hunt
+fa-styles: brands
+fa-unicode: f288
+tags: brands
 title: $:/fontawesome/glyph/product-hunt
 
--placeholder-
+<i class='fab fa-product-hunt fa-10x'></i>

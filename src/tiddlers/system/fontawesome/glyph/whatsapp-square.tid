@@ -1,3 +1,7 @@
+fa-label: What's App Square
+fa-styles: brands
+fa-unicode: f40c
+tags: brands
 title: $:/fontawesome/glyph/whatsapp-square
 
--placeholder-
+<i class='fab fa-whatsapp-square fa-10x'></i>

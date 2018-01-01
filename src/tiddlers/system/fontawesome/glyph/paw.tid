@@ -1,3 +1,7 @@
+fa-label: Paw
+fa-styles: solid
+fa-unicode: f1b0
+tags: pet solid
 title: $:/fontawesome/glyph/paw
 
--placeholder-
+<i class='fas fa-paw fa-10x'></i>

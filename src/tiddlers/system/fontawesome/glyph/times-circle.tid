@@ -1,3 +1,7 @@
+fa-label: Times Circle
+fa-styles: solid regular
+fa-unicode: f057
+tags: close exit x solid regular
 title: $:/fontawesome/glyph/times-circle
 
--placeholder-
+<i class='fas fa-times-circle fa-10x'></i>

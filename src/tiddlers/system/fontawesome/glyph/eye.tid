@@ -1,3 +1,7 @@
+fa-label: Eye
+fa-styles: solid
+fa-unicode: f06e
+tags: show visible views solid
 title: $:/fontawesome/glyph/eye
 
--placeholder-
+<i class='fas fa-eye fa-10x'></i>

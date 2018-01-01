@@ -1,3 +1,7 @@
+fa-label: Bars
+fa-styles: solid
+fa-unicode: f0c9
+tags: menu drag reorder settings list ul ol checklist todo hamburger solid
 title: $:/fontawesome/glyph/bars
 
--placeholder-
+<i class='fas fa-bars fa-10x'></i>

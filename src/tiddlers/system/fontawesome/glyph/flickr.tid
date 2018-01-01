@@ -1,3 +1,7 @@
+fa-label: Flickr
+fa-styles: brands
+fa-unicode: f16e
+tags: brands
 title: $:/fontawesome/glyph/flickr
 
--placeholder-
+<i class='fab fa-flickr fa-10x'></i>

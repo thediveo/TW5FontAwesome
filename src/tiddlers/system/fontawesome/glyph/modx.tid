@@ -1,3 +1,7 @@
+fa-label: MODX
+fa-styles: brands
+fa-unicode: f285
+tags: brands
 title: $:/fontawesome/glyph/modx
 
--placeholder-
+<i class='fab fa-modx fa-10x'></i>

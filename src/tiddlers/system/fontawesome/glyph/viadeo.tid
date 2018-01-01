@@ -1,3 +1,7 @@
+fa-label: Viadeo
+fa-styles: brands
+fa-unicode: f2a9
+tags: brands
 title: $:/fontawesome/glyph/viadeo
 
--placeholder-
+<i class='fab fa-viadeo fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: hospital
+fa-styles: solid regular
+fa-unicode: f0f8
+tags: building solid regular
 title: $:/fontawesome/glyph/hospital
 
--placeholder-
+<i class='fas fa-hospital fa-10x'></i>

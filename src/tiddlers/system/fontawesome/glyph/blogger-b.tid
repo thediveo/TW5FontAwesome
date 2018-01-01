@@ -1,3 +1,7 @@
+fa-label: Blogger B
+fa-styles: brands
+fa-unicode: f37d
+tags: brands
 title: $:/fontawesome/glyph/blogger-b
 
--placeholder-
+<i class='fab fa-blogger-b fa-10x'></i>

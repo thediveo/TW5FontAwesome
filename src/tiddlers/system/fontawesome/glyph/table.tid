@@ -1,3 +1,7 @@
+fa-label: table
+fa-styles: solid
+fa-unicode: f0ce
+tags: data excel spreadsheet solid
 title: $:/fontawesome/glyph/table
 
--placeholder-
+<i class='fas fa-table fa-10x'></i>

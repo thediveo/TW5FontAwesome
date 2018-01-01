@@ -1,3 +1,7 @@
+fa-label: Neuter
+fa-styles: solid
+fa-unicode: f22c
+tags: solid
 title: $:/fontawesome/glyph/neuter
 
--placeholder-
+<i class='fas fa-neuter fa-10x'></i>

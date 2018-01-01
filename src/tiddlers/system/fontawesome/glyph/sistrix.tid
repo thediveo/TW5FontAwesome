@@ -1,3 +1,7 @@
+fa-label: SISTRIX
+fa-styles: brands
+fa-unicode: f3ee
+tags: brands
 title: $:/fontawesome/glyph/sistrix
 
--placeholder-
+<i class='fab fa-sistrix fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Fonticons Fi
+fa-styles: brands
+fa-unicode: f3a2
+tags: brands
 title: $:/fontawesome/glyph/fonticons-fi
 
--placeholder-
+<i class='fab fa-fonticons-fi fa-10x'></i>

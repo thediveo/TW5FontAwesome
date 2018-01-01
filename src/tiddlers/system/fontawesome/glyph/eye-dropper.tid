@@ -1,3 +1,7 @@
+fa-label: Eye Dropper
+fa-styles: solid
+fa-unicode: f1fb
+tags: eyedropper solid
 title: $:/fontawesome/glyph/eye-dropper
 
--placeholder-
+<i class='fas fa-eye-dropper fa-10x'></i>

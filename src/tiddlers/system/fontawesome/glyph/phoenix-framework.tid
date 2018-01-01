@@ -1,3 +1,7 @@
+fa-label: Phoenix Framework
+fa-styles: brands
+fa-unicode: f3dc
+tags: brands
 title: $:/fontawesome/glyph/phoenix-framework
 
--placeholder-
+<i class='fab fa-phoenix-framework fa-10x'></i>

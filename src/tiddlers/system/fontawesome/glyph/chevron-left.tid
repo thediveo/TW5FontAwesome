@@ -1,3 +1,7 @@
+fa-label: chevron-left
+fa-styles: solid
+fa-unicode: f053
+tags: bracket previous back solid
 title: $:/fontawesome/glyph/chevron-left
 
--placeholder-
+<i class='fas fa-chevron-left fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Lizard (Hand)
+fa-styles: solid regular
+fa-unicode: f258
+tags: solid regular
 title: $:/fontawesome/glyph/hand-lizard
 
--placeholder-
+<i class='fas fa-hand-lizard fa-10x'></i>

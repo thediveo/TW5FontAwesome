@@ -1,3 +1,7 @@
+fa-label: Map Marker-alt
+fa-styles: solid
+fa-unicode: f3c5
+tags: map-marker solid
 title: $:/fontawesome/glyph/map-marker-alt
 
--placeholder-
+<i class='fas fa-map-marker-alt fa-10x'></i>

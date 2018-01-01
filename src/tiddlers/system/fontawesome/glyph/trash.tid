@@ -1,3 +1,7 @@
+fa-label: Trash
+fa-styles: solid
+fa-unicode: f1f8
+tags: garbage delete remove hide solid
 title: $:/fontawesome/glyph/trash
 
--placeholder-
+<i class='fas fa-trash fa-10x'></i>

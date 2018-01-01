@@ -1,3 +1,7 @@
+fa-label: GitHub Square
+fa-styles: brands
+fa-unicode: f092
+tags: octocat brands
 title: $:/fontawesome/glyph/github-square
 
--placeholder-
+<i class='fab fa-github-square fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Earlybirds
+fa-styles: brands
+fa-unicode: f39a
+tags: brands
 title: $:/fontawesome/glyph/earlybirds
 
--placeholder-
+<i class='fab fa-earlybirds fa-10x'></i>

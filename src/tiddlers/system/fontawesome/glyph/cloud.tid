@@ -1,3 +1,7 @@
+fa-label: Cloud
+fa-styles: solid
+fa-unicode: f0c2
+tags: save solid
 title: $:/fontawesome/glyph/cloud
 
--placeholder-
+<i class='fas fa-cloud fa-10x'></i>

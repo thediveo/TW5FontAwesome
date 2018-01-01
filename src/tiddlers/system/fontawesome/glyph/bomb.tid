@@ -1,3 +1,7 @@
+fa-label: Bomb
+fa-styles: solid
+fa-unicode: f1e2
+tags: solid
 title: $:/fontawesome/glyph/bomb
 
--placeholder-
+<i class='fas fa-bomb fa-10x'></i>

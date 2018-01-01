@@ -1,3 +1,7 @@
+fa-label: Shower
+fa-styles: solid
+fa-unicode: f2cc
+tags: solid
 title: $:/fontawesome/glyph/shower
 
--placeholder-
+<i class='fas fa-shower fa-10x'></i>

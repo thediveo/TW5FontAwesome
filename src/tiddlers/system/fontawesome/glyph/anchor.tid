@@ -1,3 +1,7 @@
+fa-label: Anchor
+fa-styles: solid
+fa-unicode: f13d
+tags: link solid
 title: $:/fontawesome/glyph/anchor
 
--placeholder-
+<i class='fas fa-anchor fa-10x'></i>

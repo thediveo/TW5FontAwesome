@@ -1,3 +1,7 @@
+fa-label: Superpowers
+fa-styles: brands
+fa-unicode: f2dd
+tags: brands
 title: $:/fontawesome/glyph/superpowers
 
--placeholder-
+<i class='fab fa-superpowers fa-10x'></i>

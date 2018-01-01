@@ -1,3 +1,7 @@
+fa-label: Etsy
+fa-styles: brands
+fa-unicode: f2d7
+tags: brands
 title: $:/fontawesome/glyph/etsy
 
--placeholder-
+<i class='fab fa-etsy fa-10x'></i>

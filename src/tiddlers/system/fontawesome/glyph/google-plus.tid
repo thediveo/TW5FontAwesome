@@ -1,3 +1,7 @@
+fa-label: Google Plus
+fa-styles: brands
+fa-unicode: f2b3
+tags: google-plus-circle google-plus-official brands
 title: $:/fontawesome/glyph/google-plus
 
--placeholder-
+<i class='fab fa-google-plus fa-10x'></i>

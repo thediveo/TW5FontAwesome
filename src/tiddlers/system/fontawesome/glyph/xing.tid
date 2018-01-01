@@ -1,3 +1,7 @@
+fa-label: Xing
+fa-styles: brands
+fa-unicode: f168
+tags: brands
 title: $:/fontawesome/glyph/xing
 
--placeholder-
+<i class='fab fa-xing fa-10x'></i>

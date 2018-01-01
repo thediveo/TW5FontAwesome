@@ -1,3 +1,7 @@
+fa-label: unlink
+fa-styles: solid
+fa-unicode: f127
+tags: remove chain chain-broken solid
 title: $:/fontawesome/glyph/unlink
 
--placeholder-
+<i class='fas fa-unlink fa-10x'></i>

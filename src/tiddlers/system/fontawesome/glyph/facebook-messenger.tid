@@ -1,3 +1,7 @@
+fa-label: Facebook Messenger
+fa-styles: brands
+fa-unicode: f39f
+tags: brands
 title: $:/fontawesome/glyph/facebook-messenger
 
--placeholder-
+<i class='fab fa-facebook-messenger fa-10x'></i>

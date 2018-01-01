@@ -1,3 +1,7 @@
+fa-label: Clone
+fa-styles: solid regular
+fa-unicode: f24d
+tags: copy solid regular
 title: $:/fontawesome/glyph/clone
 
--placeholder-
+<i class='fas fa-clone fa-10x'></i>

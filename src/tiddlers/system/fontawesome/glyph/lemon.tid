@@ -1,3 +1,7 @@
+fa-label: Lemon
+fa-styles: solid regular
+fa-unicode: f094
+tags: food solid regular
 title: $:/fontawesome/glyph/lemon
 
--placeholder-
+<i class='fas fa-lemon fa-10x'></i>

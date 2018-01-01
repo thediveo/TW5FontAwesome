@@ -1,3 +1,7 @@
+fa-label: Rockrms
+fa-styles: brands
+fa-unicode: f3e9
+tags: brands
 title: $:/fontawesome/glyph/rockrms
 
--placeholder-
+<i class='fab fa-rockrms fa-10x'></i>

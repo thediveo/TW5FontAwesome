@@ -1,3 +1,7 @@
+fa-label: th
+fa-styles: solid
+fa-unicode: f00a
+tags: blocks squares boxes grid solid
 title: $:/fontawesome/glyph/th
 
--placeholder-
+<i class='fas fa-th fa-10x'></i>

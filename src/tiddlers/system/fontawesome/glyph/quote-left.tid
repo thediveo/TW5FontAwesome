@@ -1,3 +1,7 @@
+fa-label: quote-left
+fa-styles: solid
+fa-unicode: f10d
+tags: solid
 title: $:/fontawesome/glyph/quote-left
 
--placeholder-
+<i class='fas fa-quote-left fa-10x'></i>

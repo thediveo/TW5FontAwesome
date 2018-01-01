@@ -1,3 +1,7 @@
+fa-label: Sort Down (Descending)
+fa-styles: solid
+fa-unicode: f0dd
+tags: arrow descending sort-desc solid
 title: $:/fontawesome/glyph/sort-down
 
--placeholder-
+<i class='fas fa-sort-down fa-10x'></i>

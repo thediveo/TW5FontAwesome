@@ -1,3 +1,7 @@
+fa-label: Circle Notched
+fa-styles: solid
+fa-unicode: f1ce
+tags: circle-o-notch solid
 title: $:/fontawesome/glyph/circle-notch
 
--placeholder-
+<i class='fas fa-circle-notch fa-10x'></i>

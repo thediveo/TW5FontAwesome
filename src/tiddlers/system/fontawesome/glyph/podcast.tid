@@ -1,3 +1,7 @@
+fa-label: Podcast
+fa-styles: solid
+fa-unicode: f2ce
+tags: solid
 title: $:/fontawesome/glyph/podcast
 
--placeholder-
+<i class='fas fa-podcast fa-10x'></i>

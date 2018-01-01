@@ -1,3 +1,7 @@
+fa-label: Save
+fa-styles: solid regular
+fa-unicode: f0c7
+tags: floppy floppy-o solid regular
 title: $:/fontawesome/glyph/save
 
--placeholder-
+<i class='fas fa-save fa-10x'></i>

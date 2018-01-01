@@ -1,3 +1,7 @@
+fa-label: I Beam Cursor
+fa-styles: solid
+fa-unicode: f246
+tags: solid
 title: $:/fontawesome/glyph/i-cursor
 
--placeholder-
+<i class='fas fa-i-cursor fa-10x'></i>

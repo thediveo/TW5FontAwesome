@@ -1,3 +1,7 @@
+fa-label: Amazon Pay Credit Card
+fa-styles: brands
+fa-unicode: f42d
+tags: brands
 title: $:/fontawesome/glyph/cc-amazon-pay
 
--placeholder-
+<i class='fab fa-cc-amazon-pay fa-10x'></i>

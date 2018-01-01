@@ -1,3 +1,7 @@
+fa-label: Lightning Bolt
+fa-styles: solid
+fa-unicode: f0e7
+tags: lightning weather solid
 title: $:/fontawesome/glyph/bolt
 
--placeholder-
+<i class='fas fa-bolt fa-10x'></i>

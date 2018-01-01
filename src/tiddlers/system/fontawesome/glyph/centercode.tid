@@ -1,3 +1,7 @@
+fa-label: Centercode
+fa-styles: brands
+fa-unicode: f380
+tags: brands
 title: $:/fontawesome/glyph/centercode
 
--placeholder-
+<i class='fab fa-centercode fa-10x'></i>

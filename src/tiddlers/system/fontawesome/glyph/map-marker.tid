@@ -1,3 +1,7 @@
+fa-label: map-marker
+fa-styles: solid
+fa-unicode: f041
+tags: map pin location coordinates localize address travel where place solid
 title: $:/fontawesome/glyph/map-marker
 
--placeholder-
+<i class='fas fa-map-marker fa-10x'></i>

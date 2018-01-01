@@ -1,3 +1,7 @@
+fa-label: StumbleUpon Logo
+fa-styles: brands
+fa-unicode: f1a4
+tags: brands
 title: $:/fontawesome/glyph/stumbleupon
 
--placeholder-
+<i class='fab fa-stumbleupon fa-10x'></i>

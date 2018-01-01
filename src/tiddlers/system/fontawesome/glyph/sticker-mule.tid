@@ -1,3 +1,7 @@
+fa-label: Sticker Mule
+fa-styles: brands
+fa-unicode: f3f7
+tags: brands
 title: $:/fontawesome/glyph/sticker-mule
 
--placeholder-
+<i class='fab fa-sticker-mule fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: affiliatetheme
+fa-styles: brands
+fa-unicode: f36b
+tags: brands
 title: $:/fontawesome/glyph/affiliatetheme
 
--placeholder-
+<i class='fab fa-affiliatetheme fa-10x'></i>

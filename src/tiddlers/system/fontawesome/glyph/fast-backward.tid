@@ -1,3 +1,7 @@
+fa-label: fast-backward
+fa-styles: solid
+fa-unicode: f049
+tags: rewind previous beginning start first solid
 title: $:/fontawesome/glyph/fast-backward
 
--placeholder-
+<i class='fas fa-fast-backward fa-10x'></i>

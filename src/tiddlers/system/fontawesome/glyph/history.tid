@@ -1,3 +1,7 @@
+fa-label: History
+fa-styles: solid
+fa-unicode: f1da
+tags: solid
 title: $:/fontawesome/glyph/history
 
--placeholder-
+<i class='fas fa-history fa-10x'></i>

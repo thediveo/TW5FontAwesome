@@ -1,3 +1,7 @@
+fa-label: Pointer (Hand)
+fa-styles: solid regular
+fa-unicode: f25a
+tags: solid regular
 title: $:/fontawesome/glyph/hand-pointer
 
--placeholder-
+<i class='fas fa-hand-pointer fa-10x'></i>

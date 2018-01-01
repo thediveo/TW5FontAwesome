@@ -1,3 +1,7 @@
+fa-label: Sort Alpha Up
+fa-styles: solid
+fa-unicode: f15e
+tags: sort-alpha-desc solid
 title: $:/fontawesome/glyph/sort-alpha-up
 
--placeholder-
+<i class='fas fa-sort-alpha-up fa-10x'></i>

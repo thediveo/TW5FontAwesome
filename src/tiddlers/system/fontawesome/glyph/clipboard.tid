@@ -1,3 +1,7 @@
+fa-label: Clipboard
+fa-styles: solid regular
+fa-unicode: f328
+tags: paste solid regular
 title: $:/fontawesome/glyph/clipboard
 
--placeholder-
+<i class='fas fa-clipboard fa-10x'></i>

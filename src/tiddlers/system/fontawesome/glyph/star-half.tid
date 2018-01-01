@@ -1,3 +1,7 @@
+fa-label: star-half
+fa-styles: solid regular
+fa-unicode: f089
+tags: award achievement rating score star-half-empty star-half-full solid regular
 title: $:/fontawesome/glyph/star-half
 
--placeholder-
+<i class='fas fa-star-half fa-10x'></i>

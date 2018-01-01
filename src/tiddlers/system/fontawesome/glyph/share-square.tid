@@ -1,3 +1,7 @@
+fa-label: Share Square
+fa-styles: solid regular
+fa-unicode: f14d
+tags: social send solid regular
 title: $:/fontawesome/glyph/share-square
 
--placeholder-
+<i class='fas fa-share-square fa-10x'></i>

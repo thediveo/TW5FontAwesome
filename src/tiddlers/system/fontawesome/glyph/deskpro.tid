@@ -1,3 +1,7 @@
+fa-label: Deskpro
+fa-styles: brands
+fa-unicode: f38f
+tags: brands
 title: $:/fontawesome/glyph/deskpro
 
--placeholder-
+<i class='fab fa-deskpro fa-10x'></i>

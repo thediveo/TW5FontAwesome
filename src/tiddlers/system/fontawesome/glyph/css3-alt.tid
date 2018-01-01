@@ -1,3 +1,7 @@
+fa-label: Alternate CSS3 Logo
+fa-styles: brands
+fa-unicode: f38b
+tags: brands
 title: $:/fontawesome/glyph/css3-alt
 
--placeholder-
+<i class='fab fa-css3-alt fa-10x'></i>

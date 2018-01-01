@@ -1,3 +1,7 @@
+fa-label: MasterCard Credit Card
+fa-styles: brands
+fa-unicode: f1f1
+tags: brands
 title: $:/fontawesome/glyph/cc-mastercard
 
--placeholder-
+<i class='fab fa-cc-mastercard fa-10x'></i>

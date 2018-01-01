@@ -1,3 +1,7 @@
+fa-label: App.net
+fa-styles: brands
+fa-unicode: f170
+tags: brands
 title: $:/fontawesome/glyph/adn
 
--placeholder-
+<i class='fab fa-adn fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: location-arrow
+fa-styles: solid
+fa-unicode: f124
+tags: map coordinates location address place where solid
 title: $:/fontawesome/glyph/location-arrow
 
--placeholder-
+<i class='fas fa-location-arrow fa-10x'></i>

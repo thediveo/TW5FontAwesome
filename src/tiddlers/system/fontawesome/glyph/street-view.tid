@@ -1,3 +1,7 @@
+fa-label: Street View
+fa-styles: solid
+fa-unicode: f21d
+tags: map solid
 title: $:/fontawesome/glyph/street-view
 
--placeholder-
+<i class='fas fa-street-view fa-10x'></i>

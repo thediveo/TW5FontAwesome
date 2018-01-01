@@ -1,3 +1,7 @@
+fa-label: Level Up-alt
+fa-styles: solid
+fa-unicode: f3bf
+tags: level-up solid
 title: $:/fontawesome/glyph/level-up-alt
 
--placeholder-
+<i class='fas fa-level-up-alt fa-10x'></i>

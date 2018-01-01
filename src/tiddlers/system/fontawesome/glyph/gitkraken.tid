@@ -1,3 +1,7 @@
+fa-label: GitKraken
+fa-styles: brands
+fa-unicode: f3a6
+tags: brands
 title: $:/fontawesome/glyph/gitkraken
 
--placeholder-
+<i class='fab fa-gitkraken fa-10x'></i>

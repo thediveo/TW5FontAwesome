@@ -1,3 +1,7 @@
+fa-label: Less
+fa-styles: brands
+fa-unicode: f41d
+tags: brands
 title: $:/fontawesome/glyph/less
 
--placeholder-
+<i class='fab fa-less fa-10x'></i>

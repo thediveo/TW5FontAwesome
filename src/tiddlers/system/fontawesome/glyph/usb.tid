@@ -1,3 +1,7 @@
+fa-label: USB
+fa-styles: brands
+fa-unicode: f287
+tags: brands
 title: $:/fontawesome/glyph/usb
 
--placeholder-
+<i class='fab fa-usb fa-10x'></i>

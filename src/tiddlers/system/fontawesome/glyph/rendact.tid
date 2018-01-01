@@ -1,3 +1,7 @@
+fa-label: Rendact
+fa-styles: brands
+fa-unicode: f3e4
+tags: brands
 title: $:/fontawesome/glyph/rendact
 
--placeholder-
+<i class='fab fa-rendact fa-10x'></i>

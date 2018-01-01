@@ -1,3 +1,7 @@
+fa-label: Archive
+fa-styles: solid
+fa-unicode: f187
+tags: box storage solid
 title: $:/fontawesome/glyph/archive
 
--placeholder-
+<i class='fas fa-archive fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Erlang
+fa-styles: brands
+fa-unicode: f39d
+tags: brands
 title: $:/fontawesome/glyph/erlang
 
--placeholder-
+<i class='fab fa-erlang fa-10x'></i>

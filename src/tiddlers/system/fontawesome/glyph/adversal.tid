@@ -1,3 +1,7 @@
+fa-label: Adversal
+fa-styles: brands
+fa-unicode: f36a
+tags: brands
 title: $:/fontawesome/glyph/adversal
 
--placeholder-
+<i class='fab fa-adversal fa-10x'></i>

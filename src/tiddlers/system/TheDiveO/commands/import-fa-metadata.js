@@ -55,10 +55,29 @@ Command.prototype.execute = function() {
   var glyphs = 0;
   $tw.utils.each(glyphmd, function(glyph, glyphid) {
     ++glyphs;
-    self.logger.log("glyphid", JSON.stringify(glyphid));
+
+    // Derive the default CSS class to use for a given glyph/icon...
+    var defaultstyle = {
+      "brands": "fab",
+      "solid": "fas",
+      "regular": "far"
+    }[glyph["styles"][0]];
+
+    // Knock together suitable (search) tags...
+    var terms = glyph["search"]["terms"];
+    terms.push.apply(terms, glyph["styles"]);
+
+    // We can finally create the glyp metadata tiddler.
     var tiddler = new $tw.Tiddler({
-      title: "$:/fontawesome/glyph/" + glyphid,
-      text: "-placeholder-"
+      // ...standard tiddler fields
+      "title": "$:/fontawesome/glyph/" + glyphid,
+      "tags": $tw.utils.stringifyList(terms),
+      "text": "<i class='" + defaultstyle + " fa-" + glyphid + " fa-10x'></i>",
+
+      // ...additional Font Awesome related fields
+      "fa-unicode": glyph["unicode"],
+      "fa-label": glyph["label"],
+      "fa-styles": $tw.utils.stringifyList(glyph["styles"])
     });
     $tw.wiki.addTiddler(tiddler);
   });

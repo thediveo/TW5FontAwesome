@@ -1,3 +1,7 @@
+fa-label: Mixcloud
+fa-styles: brands
+fa-unicode: f289
+tags: brands
 title: $:/fontawesome/glyph/mixcloud
 
--placeholder-
+<i class='fab fa-mixcloud fa-10x'></i>

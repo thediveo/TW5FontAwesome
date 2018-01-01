@@ -1,3 +1,7 @@
+fa-label: Cloud Upload-alt
+fa-styles: solid
+fa-unicode: f382
+tags: cloud-upload solid
 title: $:/fontawesome/glyph/cloud-upload-alt
 
--placeholder-
+<i class='fas fa-cloud-upload-alt fa-10x'></i>

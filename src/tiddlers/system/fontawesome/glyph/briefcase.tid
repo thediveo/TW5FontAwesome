@@ -1,3 +1,7 @@
+fa-label: Briefcase
+fa-styles: solid
+fa-unicode: f0b1
+tags: work business office luggage bag solid
 title: $:/fontawesome/glyph/briefcase
 
--placeholder-
+<i class='fas fa-briefcase fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: Registered Trademark
+fa-styles: solid regular
+fa-unicode: f25d
+tags: solid regular
 title: $:/fontawesome/glyph/registered
 
--placeholder-
+<i class='fas fa-registered fa-10x'></i>

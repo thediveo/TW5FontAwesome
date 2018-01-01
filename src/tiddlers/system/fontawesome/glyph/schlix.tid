@@ -1,3 +1,7 @@
+fa-label: SCHLIX
+fa-styles: brands
+fa-unicode: f3ea
+tags: brands
 title: $:/fontawesome/glyph/schlix
 
--placeholder-
+<i class='fab fa-schlix fa-10x'></i>

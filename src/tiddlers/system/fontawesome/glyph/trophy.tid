@@ -1,3 +1,7 @@
+fa-label: trophy
+fa-styles: solid
+fa-unicode: f091
+tags: award achievement cup winner game solid
 title: $:/fontawesome/glyph/trophy
 
--placeholder-
+<i class='fas fa-trophy fa-10x'></i>

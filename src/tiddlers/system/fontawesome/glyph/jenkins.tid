@@ -1,3 +1,7 @@
+fa-label: Jenkis
+fa-styles: brands
+fa-unicode: f3b6
+tags: brands
 title: $:/fontawesome/glyph/jenkins
 
--placeholder-
+<i class='fab fa-jenkins fa-10x'></i>

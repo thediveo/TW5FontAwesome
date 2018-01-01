@@ -1,3 +1,7 @@
+fa-label: Calendar Times
+fa-styles: solid regular
+fa-unicode: f273
+tags: solid regular
 title: $:/fontawesome/glyph/calendar-times
 
--placeholder-
+<i class='fas fa-calendar-times fa-10x'></i>

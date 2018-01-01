@@ -1,3 +1,7 @@
+fa-label: fire
+fa-styles: solid
+fa-unicode: f06d
+tags: flame hot popular solid
 title: $:/fontawesome/glyph/fire
 
--placeholder-
+<i class='fas fa-fire fa-10x'></i>

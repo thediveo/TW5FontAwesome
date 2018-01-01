@@ -1,3 +1,7 @@
+fa-label: Moon
+fa-styles: solid regular
+fa-unicode: f186
+tags: night darker contrast solid regular
 title: $:/fontawesome/glyph/moon
 
--placeholder-
+<i class='fas fa-moon fa-10x'></i>

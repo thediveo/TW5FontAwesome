@@ -1,3 +1,7 @@
+fa-label: Amazon Pay
+fa-styles: brands
+fa-unicode: f42c
+tags: brands
 title: $:/fontawesome/glyph/amazon-pay
 
--placeholder-
+<i class='fab fa-amazon-pay fa-10x'></i>

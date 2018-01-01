@@ -1,3 +1,7 @@
+fa-label: ambulance
+fa-styles: solid
+fa-unicode: f0f9
+tags: vehicle support help solid
 title: $:/fontawesome/glyph/ambulance
 
--placeholder-
+<i class='fas fa-ambulance fa-10x'></i>

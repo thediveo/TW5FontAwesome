@@ -1,3 +1,7 @@
+fa-label: arrow-up
+fa-styles: solid
+fa-unicode: f062
+tags: solid
 title: $:/fontawesome/glyph/arrow-up
 
--placeholder-
+<i class='fas fa-arrow-up fa-10x'></i>

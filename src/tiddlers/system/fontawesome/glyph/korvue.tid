@@ -1,3 +1,7 @@
+fa-label: KORVUE
+fa-styles: brands
+fa-unicode: f42f
+tags: brands
 title: $:/fontawesome/glyph/korvue
 
--placeholder-
+<i class='fab fa-korvue fa-10x'></i>

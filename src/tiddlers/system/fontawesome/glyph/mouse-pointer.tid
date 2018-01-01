@@ -1,3 +1,7 @@
+fa-label: Mouse Pointer
+fa-styles: solid
+fa-unicode: f245
+tags: solid
 title: $:/fontawesome/glyph/mouse-pointer
 
--placeholder-
+<i class='fas fa-mouse-pointer fa-10x'></i>

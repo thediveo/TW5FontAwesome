@@ -1,3 +1,7 @@
+fa-label: StumbleUpon Circle
+fa-styles: brands
+fa-unicode: f1a3
+tags: brands
 title: $:/fontawesome/glyph/stumbleupon-circle
 
--placeholder-
+<i class='fab fa-stumbleupon-circle fa-10x'></i>

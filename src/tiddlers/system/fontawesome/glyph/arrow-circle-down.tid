@@ -1,3 +1,7 @@
+fa-label: Arrow Circle Down
+fa-styles: solid
+fa-unicode: f0ab
+tags: download solid
 title: $:/fontawesome/glyph/arrow-circle-down
 
--placeholder-
+<i class='fas fa-arrow-circle-down fa-10x'></i>

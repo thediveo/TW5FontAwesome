@@ -1,3 +1,7 @@
+fa-label: red river
+fa-styles: brands
+fa-unicode: f3e3
+tags: brands
 title: $:/fontawesome/glyph/red-river
 
--placeholder-
+<i class='fab fa-red-river fa-10x'></i>

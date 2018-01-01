@@ -1,3 +1,7 @@
+fa-label: Telegram Plane
+fa-styles: brands
+fa-unicode: f3fe
+tags: brands
 title: $:/fontawesome/glyph/telegram-plane
 
--placeholder-
+<i class='fab fa-telegram-plane fa-10x'></i>

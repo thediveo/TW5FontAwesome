@@ -1,3 +1,7 @@
+fa-label: Angle Double Right
+fa-styles: solid
+fa-unicode: f101
+tags: raquo quote next forward arrows solid
 title: $:/fontawesome/glyph/angle-double-right
 
--placeholder-
+<i class='fas fa-angle-double-right fa-10x'></i>

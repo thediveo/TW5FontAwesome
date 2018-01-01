@@ -1,3 +1,7 @@
+fa-label: Vue.js
+fa-styles: brands
+fa-unicode: f41f
+tags: brands
 title: $:/fontawesome/glyph/vuejs
 
--placeholder-
+<i class='fab fa-vuejs fa-10x'></i>

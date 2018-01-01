@@ -1,3 +1,7 @@
+fa-label: Microchip
+fa-styles: solid
+fa-unicode: f2db
+tags: solid
 title: $:/fontawesome/glyph/microchip
 
--placeholder-
+<i class='fas fa-microchip fa-10x'></i>

@@ -1,3 +1,7 @@
+fa-label: CSS 3 Logo
+fa-styles: brands
+fa-unicode: f13c
+tags: code brands
 title: $:/fontawesome/glyph/css3
 
--placeholder-
+<i class='fab fa-css3 fa-10x'></i>

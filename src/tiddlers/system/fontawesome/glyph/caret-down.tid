@@ -1,3 +1,7 @@
+fa-label: Caret Down
+fa-styles: solid
+fa-unicode: f0d7
+tags: more dropdown menu [[triangle down]] arrow solid
 title: $:/fontawesome/glyph/caret-down
 
--placeholder-
+<i class='fas fa-caret-down fa-10x'></i>
