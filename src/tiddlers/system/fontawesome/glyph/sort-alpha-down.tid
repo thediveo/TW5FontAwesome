@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Sort Alpha Down
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f15d
 tags: sort-alpha-asc solid

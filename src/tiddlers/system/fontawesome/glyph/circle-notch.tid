@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Circle Notched
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1ce
 tags: circle-o-notch solid

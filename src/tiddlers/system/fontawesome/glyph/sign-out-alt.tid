@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alernate Sign Out
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2f5
 tags: [[log out]] logout leave exit arrow sign-out solid

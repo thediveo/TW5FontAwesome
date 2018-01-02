@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Credit Card
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f09d
 tags: money buy debit checkout purchase payment credit-card-alt solid regular

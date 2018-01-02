@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Crosshairs
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f05b
 tags: picker solid

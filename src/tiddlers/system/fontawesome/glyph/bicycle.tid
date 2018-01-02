@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Bicycle
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f206
 tags: vehicle bike solid

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: map-marker
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f041
 tags: map pin location coordinates localize address travel where place solid

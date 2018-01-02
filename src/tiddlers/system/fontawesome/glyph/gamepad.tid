@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Gamepad
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f11b
 tags: controller solid

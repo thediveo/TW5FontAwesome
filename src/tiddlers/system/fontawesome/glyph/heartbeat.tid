@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Heartbeat
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f21e
 tags: ekg solid

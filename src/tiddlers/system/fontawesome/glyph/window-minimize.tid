@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Window Minimize
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2d1
 tags: solid

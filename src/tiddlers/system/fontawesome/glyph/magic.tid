@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: magic
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0d0
 tags: wizard automatic autocomplete solid

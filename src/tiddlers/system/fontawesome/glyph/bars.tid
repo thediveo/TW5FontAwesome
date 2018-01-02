@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Bars
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0c9
 tags: menu drag reorder settings list ul ol checklist todo hamburger solid

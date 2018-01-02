@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Sun
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f185
 tags: weather contrast lighter brighten day solid regular

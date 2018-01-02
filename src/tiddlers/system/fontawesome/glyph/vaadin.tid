@@ -1,5 +1,6 @@
 fa-default-style: fab
 fa-label: Vaadin
+fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f408
 tags: brands

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Search
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f002
 tags: magnify zoom enlarge bigger solid

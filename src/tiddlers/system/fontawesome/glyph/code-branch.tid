@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Code Branch
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f126
 tags: git fork vcs svn github rebase version branch code-fork solid

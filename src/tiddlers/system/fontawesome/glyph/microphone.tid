@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: microphone
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f130
 tags: record voice sound solid

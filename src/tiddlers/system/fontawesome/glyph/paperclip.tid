@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Paperclip
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0c6
 tags: attachment solid

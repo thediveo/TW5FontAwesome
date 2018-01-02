@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Paste
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0ea
 tags: copy clipboard solid

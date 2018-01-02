@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Sync
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f021
 tags: reload refresh solid

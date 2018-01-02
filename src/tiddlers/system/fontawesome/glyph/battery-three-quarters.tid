@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Battery 3/4 Full
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f241
 tags: power solid

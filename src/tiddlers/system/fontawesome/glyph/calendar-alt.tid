@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alternate Calendar
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f073
 tags: date time when event calendar solid regular

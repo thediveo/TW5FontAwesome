@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Caret Up
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0d8
 tags: [[triangle up]] arrow solid

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Tasks
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0ae
 tags: progress loading downloading downloads settings solid

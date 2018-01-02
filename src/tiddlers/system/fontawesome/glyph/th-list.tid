@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: th-list
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f00b
 tags: ul ol checklist finished completed done todo solid

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: italic
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f033
 tags: italics solid

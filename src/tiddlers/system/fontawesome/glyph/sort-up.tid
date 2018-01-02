@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Sort Up (Ascending)
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0de
 tags: arrow ascending sort-asc solid

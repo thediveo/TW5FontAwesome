@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Phone Volume
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2a0
 tags: telephone volume-control-phone solid

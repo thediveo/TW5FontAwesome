@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Exclamation Circle
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f06a
 tags: warning error problem notification notify alert solid

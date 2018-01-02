@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Phone
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f095
 tags: call voice number support earphone telephone solid

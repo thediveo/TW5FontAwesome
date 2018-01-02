@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Caret Down
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0d7
 tags: more dropdown menu [[triangle down]] arrow solid

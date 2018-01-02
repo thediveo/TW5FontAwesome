@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Caret Left
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0d9
 tags: previous back [[triangle left]] arrow solid

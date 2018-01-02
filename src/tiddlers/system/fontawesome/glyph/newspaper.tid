@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Newspaper
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1ea
 tags: press solid regular

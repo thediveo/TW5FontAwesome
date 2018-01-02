@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: shopping-cart
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f07a
 tags: checkout buy purchase payment solid

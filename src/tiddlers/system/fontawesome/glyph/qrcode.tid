@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: qrcode
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f029
 tags: scan solid

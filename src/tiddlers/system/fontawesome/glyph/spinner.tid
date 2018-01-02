@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Spinner
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f110
 tags: loading progress solid

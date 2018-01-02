@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alternate Arrow Circle Left
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f359
 tags: previous back arrow-circle-o-left solid regular

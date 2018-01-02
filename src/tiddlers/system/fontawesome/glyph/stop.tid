@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: stop
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f04d
 tags: block box square solid

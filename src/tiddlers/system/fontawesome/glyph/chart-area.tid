@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Area Chart
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1fe
 tags: graph analytics area-chart solid

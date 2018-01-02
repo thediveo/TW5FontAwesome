@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Map Marker-alt
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3c5
 tags: map-marker solid

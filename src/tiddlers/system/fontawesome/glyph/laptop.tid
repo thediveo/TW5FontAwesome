@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Laptop
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f109
 tags: demo computer device solid

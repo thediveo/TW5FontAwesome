@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Street View
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f21d
 tags: map solid

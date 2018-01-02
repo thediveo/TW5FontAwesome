@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Thumbtack
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f08d
 tags: marker pin location coordinates thumb-tack solid

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: unlock
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f09c
 tags: protect admin password lock solid

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Rock (Hand)
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f255
 tags: solid regular

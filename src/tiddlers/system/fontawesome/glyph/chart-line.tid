@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Line Chart
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f201
 tags: graph analytics line-chart solid

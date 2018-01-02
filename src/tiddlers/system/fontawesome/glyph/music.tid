@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Music
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f001
 tags: note sound solid

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Pie Chart
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f200
 tags: graph analytics pie-chart solid

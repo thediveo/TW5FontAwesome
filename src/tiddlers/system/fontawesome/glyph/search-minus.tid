@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Search Minus
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f010
 tags: magnify minify zoom smaller solid

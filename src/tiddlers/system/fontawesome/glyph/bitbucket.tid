@@ -1,5 +1,6 @@
 fa-default-style: fab
 fa-label: Bitbucket
+fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f171
 tags: git bitbucket-square brands

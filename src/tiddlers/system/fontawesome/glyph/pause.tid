@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: pause
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f04c
 tags: wait solid

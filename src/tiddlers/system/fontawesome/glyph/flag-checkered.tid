@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: flag-checkered
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f11e
 tags: report notification notify solid

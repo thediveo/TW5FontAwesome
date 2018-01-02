@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: chevron-left
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f053
 tags: bracket previous back solid

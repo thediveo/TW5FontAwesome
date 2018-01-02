@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Phone Square
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f098
 tags: call voice number support telephone solid

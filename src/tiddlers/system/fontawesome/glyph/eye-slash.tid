@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Eye Slash
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f070
 tags: toggle show hide visible visiblity views solid regular

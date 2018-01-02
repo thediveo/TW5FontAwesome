@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Moon
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f186
 tags: night darker contrast solid regular

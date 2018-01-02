@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Caret Square Right
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f152
 tags: next forward caret-square-o-right solid regular

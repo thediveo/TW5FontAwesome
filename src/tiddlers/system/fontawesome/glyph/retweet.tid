@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Retweet
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f079
 tags: refresh reload share solid

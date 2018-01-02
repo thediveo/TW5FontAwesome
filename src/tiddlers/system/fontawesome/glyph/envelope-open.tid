@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Envelope Open
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2b6
 tags: email e-mail letter support mail message notification solid regular

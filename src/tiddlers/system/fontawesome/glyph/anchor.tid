@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Anchor
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f13d
 tags: link solid

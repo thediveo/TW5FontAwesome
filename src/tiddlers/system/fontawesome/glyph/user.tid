@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: User
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f007
 tags: person man head profile solid regular

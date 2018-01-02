@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: superscript
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f12b
 tags: exponential solid

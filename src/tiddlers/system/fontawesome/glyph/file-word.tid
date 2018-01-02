@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Word File
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1c2
 tags: solid regular

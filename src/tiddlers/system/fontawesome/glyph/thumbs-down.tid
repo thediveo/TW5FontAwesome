@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: thumbs-down
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f165
 tags: dislike disapprove disagree hand thumbs-o-down solid regular

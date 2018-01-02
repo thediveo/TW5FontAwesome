@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: barcode
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f02a
 tags: scan solid

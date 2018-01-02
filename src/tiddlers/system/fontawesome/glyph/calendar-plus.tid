@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Calendar Plus
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f271
 tags: solid regular

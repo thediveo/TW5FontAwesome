@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Closed Captioning
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f20a
 tags: cc solid regular

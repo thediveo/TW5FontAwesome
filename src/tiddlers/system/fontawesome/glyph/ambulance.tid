@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: ambulance
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0f9
 tags: vehicle support help solid

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alternate Arrow Circle Up
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f35b
 tags: arrow-circle-o-up solid regular

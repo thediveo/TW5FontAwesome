@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Download
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f019
 tags: import solid

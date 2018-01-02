@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Window Restore
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2d2
 tags: solid regular

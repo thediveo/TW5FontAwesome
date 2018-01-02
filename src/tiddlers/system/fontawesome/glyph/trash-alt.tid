@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alternate Trash
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2ed
 tags: garbage delete remove hide trash trash-o solid regular

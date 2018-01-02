@@ -53,15 +53,22 @@ Command.prototype.execute = function() {
   // Each glyph/icon gets its own top-level property. We use this for the
   // data tiddler title.
   var glyphs = 0;
+  var fontclassenames = {
+    "brands": "fab",
+    "solid": "fas",
+    "regular": "far"
+  };
   $tw.utils.each(glyphmd, function(glyph, glyphid) {
     ++glyphs;
 
     // Derive the default CSS class to use for a given glyph/icon...
-    var defaultstyle = {
-      "brands": "fab",
-      "solid": "fas",
-      "regular": "far"
-    }[glyph["styles"][0]];
+    var defaultstyle = fontclassenames[glyph["styles"][0]];
+
+    // Which font variants are available...?
+    var fontcssclasses = [];
+    $tw.utils.each(glyph["styles"], function(style) {
+      fontcssclasses.push(fontclassenames[style]);
+    });
 
     // Knock together suitable (search) tags...
     var terms = glyph["search"]["terms"];
@@ -78,6 +85,7 @@ Command.prototype.execute = function() {
       "fa-unicode": glyph["unicode"],
       "fa-label": glyph["label"],
       "fa-styles": $tw.utils.stringifyList(glyph["styles"]),
+      "fa-style-classes": fontcssclasses.join(" "),
       "fa-default-style": defaultstyle
     });
     $tw.wiki.addTiddler(tiddler);

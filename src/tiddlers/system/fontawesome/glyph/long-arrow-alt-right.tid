@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alternate Long Arrow Right
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f30b
 tags: long-arrow-right solid

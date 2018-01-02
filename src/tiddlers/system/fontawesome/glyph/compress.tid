@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Compress
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f066
 tags: collapse combine contract merge smaller solid

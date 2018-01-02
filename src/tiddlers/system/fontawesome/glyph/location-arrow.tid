@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: location-arrow
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f124
 tags: map coordinates location address place where solid

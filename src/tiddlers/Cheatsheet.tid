@@ -1,32 +1,48 @@
+brand-filter: brands
 created: 20180101192101902
-modified: 20180101221132764
+f-accessability: accessability
+f-accessibility: 
+f-brand: 
+f-regular: 
+f-solid: 
+modified: 20180102111651755
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
 
 \define fa-size() 4x
-\define fa-glyphs-filter() [prefix[$:/fontawesome/glyph/]]
+\define fa-glyph-path() $:/fontawesome/glyph/
+
 \define fa-icon(fam, id, size, classes)
 <i class="$fam$ fa-$id$ fa-$size$ $classes$"></i>
 \end
 
-\define icon-box()
+\define icon-box(fam, id)
   <div class="chsh-glyph-box">
-    <div class="chsh-glyph-icon"><$macrocall $name="fa-icon" fam=<<glyph-fam>> id=<<glyph-id>> size=<<fa-size>>/></div>
-    <div class="chsh-glyph-id">fa-<<glyph-id>></div>
+    <div class="chsh-glyph-icon"><$macrocall $name="fa-icon" fam=$fam$ id=$id$ size=<<fa-size>>/></div>
+    <div class="chsh-glyph-id">$fam$ fa-$id$</div>
   </div>
 \end
 
-<$count filter=<<fa-glyphs-filter>>/> icon(s)
+<$checkbox field="f-brand" checked="brands" unchecked=""> Brands</$checkbox>
+<$checkbox field="f-solid" checked="solid" unchecked=""> Solid</$checkbox>
+<$checkbox field="f-regular" checked="regular" unchecked=""> Regular</$checkbox>
 
-<div class="chsh-glyph-grid">
-  <$list filter=<<fa-glyphs-filter>>>
-    <$set name="glyph-fam" value={{!!fa-default-style}}>
-      <$set name="glyph-id" filter="[all[current]removeprefix[$:/fontawesome/glyph/]]">
-        <$list filter="[all[current]list[!!fa-styles]]">
-          <<icon-box>>
-        </$list>
+<$checkbox field="f-accessibility" checked="accessibility" unchecked=""> Accessability</$checkbox>
+
+
+<$set name="filters" value="[tag:strict{!!f-brand}tag:strict{!!f-solid}tag:strict{!!f-regular}tag:strict{!!f-accessibility}] [tag{!!f-brand}] [tag{!!f-solid}] [tag{!!f-regular}] [tag{!!f-accessibility}] +[prefix<fa-glyph-path>] +[each:list-item[]]" >
+  <$count filter=<<filters>>/> icon(s)
+
+  <div class="chsh-glyph-grid">
+    <$list filter=<<filters>> >
+      <$set name="glyph-fam" value={{!!fa-default-style}}>
+        <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-path>]">
+          <$list filter="[all[current]list[!!fa-style-classes]]" variable="glyph-fam">
+            <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> />
+          </$list>
+        </$set>
       </$set>
-    </$set>
-  </$list>
-</div>
+    </$list>
+  </div>
+</$set>

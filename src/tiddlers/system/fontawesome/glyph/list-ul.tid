@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: list-ul
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0ca
 tags: ul ol checklist todo list solid

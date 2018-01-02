@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: tag
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f02b
 tags: label solid

@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Money Bill-alt
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f3d1
 tags: money solid regular

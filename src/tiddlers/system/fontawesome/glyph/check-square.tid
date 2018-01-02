@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Check Square
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f14a
 tags: checkmark done todo agree accept confirm ok solid regular

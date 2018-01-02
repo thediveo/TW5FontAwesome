@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alternate Tachometer
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3fd
 tags: tachometer solid

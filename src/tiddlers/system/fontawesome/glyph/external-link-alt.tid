@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alternate External Link
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f35d
 tags: open new external-link solid

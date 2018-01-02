@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Alternate Arrows Vertical
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f338
 tags: resize arrows-v solid

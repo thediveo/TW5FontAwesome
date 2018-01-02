@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: Clock
+fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f017
 tags: watch timer late timestamp date solid regular

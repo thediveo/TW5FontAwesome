@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: th
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f00a
 tags: blocks squares boxes grid solid

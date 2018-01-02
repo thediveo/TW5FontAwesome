@@ -1,5 +1,6 @@
 fa-default-style: fas
 fa-label: inbox
+fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f01c
 tags: solid
