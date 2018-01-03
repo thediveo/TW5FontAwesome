@@ -75,33 +75,51 @@ Command.prototype.execute = function() {
         fontfile: "fa-brands-400",
         fontfamily: "Font Awesome 5 Brands",
         fontstyle: "normal",
-        fontweight: "normal"
+        fontweight: "normal",
+        cssclass: ".fab",
+        title: "Font Awesome 5 Free Brands"
       }, {
         fontfile: "fa-regular-400",
         fontfamily: "Font Awesome 5 Free",
         fontstyle: "normal",
-        fontweight: "400"
+        fontweight: "400",
+        cssclass: ".far",
+        title: "Font Awesome 5 Free Regular"
       }, {
         fontfile: "fa-solid-900",
         fontfamily: "Font Awesome 5 Free",
         fontstyle: "normal",
-        fontweight: "900"
+        fontweight: "900",
+        cssclass: ".fa, .fas",
+        title: "Font Awesome 5 Free Solid"
       }
     ], function(font) {
       self.logger.log("extracting", font.fontfile);
       var woffname = faroot + "/web-fonts-with-css/webfonts/" + font.fontfile + ".woff"
-      var woff = fazip.readFile(woffname);
-      if (woff === null) {
+      var woffb64 = fazip.readAsText(woffname, "base64");
+      if (woffb64 === null) {
         return "missing WOFF web font file " + woffname;
       }
-      var text = "@font-face { ";
-      text += "font-family: '" + font.fontfamily + "'; ";
-      text += "font-style: '" + font.fontstyle + "'; ";
-      text += "font-weight: '" + font.fontweight + "'; ";
-      text += "src: url(data:application/font-woff;charset=utf-8;base64,"
-        + woff.toString("base64")
-        + ") format ('woff'); ";
-      text += "}";
+      var text = "@font-face {\n";
+      text += "  font-family: '" + font.fontfamily + "';\n";
+      text += "  font-style: " + font.fontstyle + ";\n";
+      text += "  font-weight: " + font.fontweight + ";\n";
+      text += "  src: url(data:application/font-woff;charset=utf-8;base64,"
+        + woffb64 + ") format ('woff');\n";
+      text += "}\n\n";
+      text += font.cssclass + " {\n";
+      text += "  font-family: '" + font.fontfamily + "';\n";
+      text += "  font-style: " + font.fontstyle + ";\n";
+      text += "  font-weight: " + font.fontweight + ";\n";
+      text += "}\n";
+
+      var csstiddler = new $tw.Tiddler({
+        title: "$:/plugins/TheDiveO/FontAwesome/fonts/" + font.title + ".css",
+        type: "text/css",
+        tags: "$:/tags/Stylesheet",
+        text : text
+      });
+      wiki.addTiddler(csstiddler);
   });
 
   self.logger.log("...update succeeded");
