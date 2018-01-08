@@ -1,8 +1,12 @@
 created: 20140901110931199
-modified: 20171230211843311
+modified: 20180108213609171
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
+* ''1.1.1''
+** adds update/import command to ~FontAwesome 5 demo ~TiddlyWiki to update from a Font Awesome zip package. Use `--update-fontawesome` when running the plugin development ~TiddlyWiki under Node.js.
+*** The `--update-fontawesome` command expects the (path and) name of a Font Awesome zip package from which it will update itself. For instance: `tiddlywiki editions/develop --verbose --update-fontawesome ~/Downloads/fontawesome-free-5.0.2-zip --server 8080 $:/core/save/all text/plain text/html`
+*** If for some reason you need to re-update from the same Font Awesome zip package, specify an additional `force` parameter after the zip package file name parameter. For instance: `tiddlywiki editions/develop --verbose --update-fontawesome ~/Downloads/fontawesome-free-5.0.2-zip force --server 8080 $:/core/save/all text/plain text/html`
 * ''1.1.0''
 ** upgrades to Font Awesome 5.0.2.
 ** upgrades user macros to allow to specify the Font Awesome font family: `fas` (//Font Awesome Solid//), `far` (//Font Awesome Regular//), and `fab` (//Font Awesome Brands//).

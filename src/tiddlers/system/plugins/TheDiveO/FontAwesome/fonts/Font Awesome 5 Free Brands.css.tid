@@ -2,6 +2,7 @@ tags: $:/tags/Stylesheet
 title: $:/plugins/TheDiveO/FontAwesome/fonts/Font Awesome 5 Free Brands.css
 type: text/css
 
+/* autoimported retrieved from 'fontawesome-free-5.0.2' */
 @font-face {
   font-family: 'Font Awesome 5 Brands';
   font-style: normal;

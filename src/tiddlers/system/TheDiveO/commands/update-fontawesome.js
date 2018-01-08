@@ -107,7 +107,8 @@ Command.prototype.execute = function() {
       var woffb64 = woff.toString("base64");
 			self.logger.log("WOFF font binary size", Buffer.byteLength(woff),
 				"/", "base64-encoded size", woffb64.length);
-      var text = "@font-face {\n";
+      var text = "/* autoimported retrieved from '" + faroot + "' */\n";
+			text += "@font-face {\n";
       text += "  font-family: '" + font.fontfamily + "';\n";
       text += "  font-style: " + font.fontstyle + ";\n";
       text += "  font-weight: " + font.fontweight + ";\n";
@@ -120,14 +121,30 @@ Command.prototype.execute = function() {
       text += "  font-weight: " + font.fontweight + ";\n";
       text += "}\n";
 
-      var csstiddler = new $tw.Tiddler({
+      var fontcsstiddler = new $tw.Tiddler({
         title: "$:/plugins/TheDiveO/FontAwesome/fonts/" + font.title + ".css",
         type: "text/css",
         tags: "$:/tags/Stylesheet",
         text : text
       });
-      wiki.addTiddler(csstiddler);
+      wiki.addTiddler(fontcsstiddler);
   });
+
+	// Retrieve the Font Awesome CSS file containing all the nifty
+	// class definitions...
+	self.logger.log("updating plugin styles/fontawesome 5.css");
+	var fa5css = fazip.readAsText(faroot + "/web-fonts-with-css/css/fontawesome.css");
+	if (fa5css === null) {
+		return "zip package misses fontawesome.css file";
+	}
+	var csstiddler = new $tw.Tiddler({
+		title: "$:/plugins/TheDiveO/FontAwesome/styles/fontawesome 5.css",
+		type: "text/css",
+		tags: "$:/tags/Stylesheet",
+		text: "/* autoimported from '" + faroot + "' */\n"
+			+ fa5css
+	});
+	wiki.addTiddler(csstiddler);
 
   self.logger.log("...update succeeded; plugin Font Awesome upgraded to version:", faversion);
 	return null; // done & okay
