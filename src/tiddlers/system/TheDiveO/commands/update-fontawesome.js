@@ -60,11 +60,11 @@ Command.prototype.execute = function() {
     return "cannot autodetect Font Awesome version from path root " + faroot;
   }
   var faversion = match[1];
-  self.logger.log("autodetected Font Awesome version", faversion);
+  self.logger.log("autodetected Font Awesome version in zip package:", faversion);
 
   // Check if newer than plugin...
   var faversionplugin = wiki.getTiddler("$:/plugins/TheDiveO/FontAwesome").fields["fa-version"];
-  self.logger.log("plugin Font Awesome version", faversionplugin);
+  self.logger.log("current plugin Font Awesome version:", faversionplugin);
   if (versioning(faversionplugin, faversion) >=  0 && !force) {
     return "update not possible: zip package is older or equal to plugin";
   }
@@ -98,14 +98,15 @@ Command.prototype.execute = function() {
         title: "Font Awesome 5 Free Solid"
       }
     ], function(font) {
-      self.logger.log("extracting", font.fontfile);
+      self.logger.log("extracting Font Awesome font file", font.fontfile + ".woff");
       var woffname = faroot + "/web-fonts-with-css/webfonts/" + font.fontfile + ".woff";
       var woff = fazip.readFile(woffname);
 			if (woff === null) {
-        return "missing WOFF web font file " + woffname;
+        return "zip package misses WOFF web font file " + woffname;
       }
       var woffb64 = woff.toString("base64");
-			self.logger.log("WOFF size", Buffer.byteLength(woff), "/", "Base64 size", woffb64.length);
+			self.logger.log("WOFF font binary size", Buffer.byteLength(woff),
+				"/", "base64-encoded size", woffb64.length);
       var text = "@font-face {\n";
       text += "  font-family: '" + font.fontfamily + "';\n";
       text += "  font-style: " + font.fontstyle + ";\n";
@@ -128,7 +129,7 @@ Command.prototype.execute = function() {
       wiki.addTiddler(csstiddler);
   });
 
-  self.logger.log("...update succeeded");
+  self.logger.log("...update succeeded; plugin Font Awesome upgraded to version:", faversion);
 	return null; // done & okay
 };
 
