@@ -69,7 +69,11 @@ Command.prototype.execute = function() {
     return "update not possible: zip package is older or equal to plugin";
   }
 
-  // Embedd the font files...
+  // Embedd the Font Awesome font files...
+  // ...please note that we deal with the free package only. If you need
+  // pro support, then please fork this project, make the necessary additions,
+  // and create a PR (pull request) -- do NOT check-in the FA pro font files or
+  // FA pro tiddlers to GitHub. Don't create PRs that contain FA pro fonts.
   $tw.utils.each([
       {
         fontfile: "fa-brands-400",
@@ -95,17 +99,19 @@ Command.prototype.execute = function() {
       }
     ], function(font) {
       self.logger.log("extracting", font.fontfile);
-      var woffname = faroot + "/web-fonts-with-css/webfonts/" + font.fontfile + ".woff"
-      var woffb64 = fazip.readAsText(woffname, "base64");
-      if (woffb64 === null) {
+      var woffname = faroot + "/web-fonts-with-css/webfonts/" + font.fontfile + ".woff";
+      var woff = fazip.readFile(woffname);
+			if (woff === null) {
         return "missing WOFF web font file " + woffname;
       }
+      var woffb64 = woff.toString("base64");
+			self.logger.log("WOFF size", Buffer.byteLength(woff), "/", "Base64 size", woffb64.length);
       var text = "@font-face {\n";
       text += "  font-family: '" + font.fontfamily + "';\n";
       text += "  font-style: " + font.fontstyle + ";\n";
       text += "  font-weight: " + font.fontweight + ";\n";
-      text += "  src: url(data:application/font-woff;charset=utf-8;base64,"
-        + woffb64 + ") format ('woff');\n";
+      text += "  src: url('data:application/font-woff;charset=utf-8;base64,"
+        + woffb64 + "') format('woff');\n";
       text += "}\n\n";
       text += font.cssclass + " {\n";
       text += "  font-family: '" + font.fontfamily + "';\n";

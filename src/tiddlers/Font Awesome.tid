@@ -1,6 +1,6 @@
 created: 20140829114514693
 creator: TheDiveO
-modified: 20180101215617789
+modified: 20180108210514946
 modifier: TheDiveO
 title: Font Awesome
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 <<fa-lbadge glyph:"fa-font-awesome-flag" fam:"fab">>
 ! About
 
-This tiny [[TiddlyWiki 5|https://tiddlywiki.com]] brings you support for [[Font Awesome|http://fontawesome.io/Font-Awesome/]] 5.0. Normally, all you need to do to use this font in your own projects is to drag the plugin [[$:/plugins/TheDiveO/FontAwesome]] from this wiki into your own ~TiddlyWiki&nbsp;5 instances.
+This tiny [[TiddlyWiki 5|https://tiddlywiki.com]] brings you support for [[Font Awesome|http://fontawesome.io/Font-Awesome/]] 5.x. Normally, all you need to do to use this font in your own projects is to drag the plugin [[$:/plugins/TheDiveO/FontAwesome]] from this wiki into your own ~TiddlyWiki&nbsp;5 instances.
 
 Yes, you ''don't need to install'' the font(s) in your operating system. The Font Awesome is already embedded into this ~TiddlyWiki itself and is then automatically detected by your web browser (assuming a recent major browser).
 
