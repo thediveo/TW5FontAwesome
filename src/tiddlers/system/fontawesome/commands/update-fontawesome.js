@@ -66,11 +66,18 @@ Command.prototype.execute = function() {
   self.logger.log("autodetected Font Awesome version in zip package:", faversion);
 
   // Check if newer than plugin...
-  var faversionplugin = wiki.getTiddler("$:/plugins/TheDiveO/FontAwesome").fields["fa-version"];
+	var faplugin = wiki.getTiddler("$:/plugins/TheDiveO/FontAwesome")
+  var faversionplugin = faplugin.fields["fa-version"];
   self.logger.log("current plugin Font Awesome version:", faversionplugin);
   if (versioning(faversionplugin, faversion) >=  0 && !force) {
     return "update not possible: zip package is older or equal to plugin";
   }
+	// Update plugin Font Awesome metadata info...
+	var plugintiddler = new $tw.Tiddler(faplugin, {
+		"fa-version": faversion
+	});
+	self.logger.log("updated plugin Font Awesome version info to:", faversion);
+	wiki.addTiddler(plugintiddler);
 
   // Embedd the Font Awesome font files...
   // ...please note that we deal with the free package only. If you need

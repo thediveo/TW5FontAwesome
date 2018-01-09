@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Elementor
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f430
+tags: brands
+title: $:/fontawesome/glyph/elementor
+
+<i class='fab fa-elementor fa-10x'></i>

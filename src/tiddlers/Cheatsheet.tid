@@ -5,7 +5,7 @@ f-accessibility:
 f-brand: 
 f-regular: 
 f-solid: 
-modified: 20180103155057661
+modified: 20180109172448866
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -27,8 +27,6 @@ type: text/vnd.tiddlywiki
 <$checkbox field="f-brand" checked="brands" unchecked=""> Brands</$checkbox>
 <$checkbox field="f-solid" checked="solid" unchecked=""> Solid</$checkbox>
 <$checkbox field="f-regular" checked="regular" unchecked=""> Regular</$checkbox>
-
-<$checkbox field="f-accessibility" checked="accessibility" unchecked=""> Accessability</$checkbox>
 
 <hr/>
 

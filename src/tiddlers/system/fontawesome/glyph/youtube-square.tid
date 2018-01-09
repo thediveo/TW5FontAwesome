@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: YouTube Square
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f431
+tags: brands
+title: $:/fontawesome/glyph/youtube-square
+
+<i class='fab fa-youtube-square fa-10x'></i>
