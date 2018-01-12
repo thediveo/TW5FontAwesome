@@ -1,11 +1,5 @@
-brand-filter: brands
 created: 20180101192101902
-f-accessability: accessability
-f-accessibility: 
-f-brand: 
-f-regular: 
-f-solid: 
-modified: 20180109172448866
+modified: 20180112195730017
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -24,15 +18,17 @@ type: text/vnd.tiddlywiki
   </div>
 \end
 
-<$checkbox field="f-brand" checked="brands" unchecked=""> Brands</$checkbox>
-<$checkbox field="f-solid" checked="solid" unchecked=""> Solid</$checkbox>
-<$checkbox field="f-regular" checked="regular" unchecked=""> Regular</$checkbox>
+<$checkbox tiddler="$:/temp/brand" field="text" checked="brands" unchecked=""> Brands</$checkbox>
+<$checkbox tiddler="$:/temp/solid" field="text" checked="solid" unchecked=""> Solid</$checkbox>
+<$checkbox tiddler="$:/temp/regular" field="text" checked="regular" unchecked=""> Regular</$checkbox>
+
+<$edit-text tiddler="$:/temp/glyphsearch" type="search" tag="input" placeholder="Search icons for..." default="" size="40"/>
 
 <hr/>
 
-<$set name="family-filter-tag-list" filter="[get[f-brand]] [get[f-solid]] [get[f-regular]]" >
+<$set name="family-filter-tag-list" filter="[title[$:/temp/brand]get[text]] [title[$:/temp/solid]get[text]] [title[$:/temp/regular]get[text]]" >
   <$set name="filter-tag-list" filter="[get[f-accessibility]]" >
-    <$set name="filter-expr" value="[all[tiddlers]prefix<fa-glyph-path>bytags<family-filter-tag-list>bytags<filter-tag-list>]">
+    <$set name="filter-expr" value="[all[tiddlers]prefix<fa-glyph-path>bytags<family-filter-tag-list>bytags<filter-tag-list>regexp:tags{$:/temp/glyphsearch}]">
       <$count filter=<<filter-expr>>/> Awesome icon(s)
 
       <div class="chsh-glyph-grid">
