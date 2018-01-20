@@ -1,0 +1,25 @@
+created: 20180120131656473
+description: Vehicles
+modified: 20180120131723265
+tags: 
+title: $:/fontawesome/class/vehicles
+type: text/vnd.tiddlywiki
+
+accessible-icon
+ambulance
+bicycle
+bus
+car
+fighter-jet
+motorcycle
+paper-plane
+plane
+rocket
+ship
+shopping-cart
+space-shuttle
+subway
+taxi
+train
+truck
+wheelchair

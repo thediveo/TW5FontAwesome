@@ -1,5 +1,5 @@
 created: 20180101192101902
-modified: 20180112195730017
+modified: 20180120140355519
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -18,30 +18,46 @@ type: text/vnd.tiddlywiki
   </div>
 \end
 
-<$checkbox tiddler="$:/temp/brand" field="text" checked="brands" unchecked=""> Brands</$checkbox>
-<$checkbox tiddler="$:/temp/solid" field="text" checked="solid" unchecked=""> Solid</$checkbox>
-<$checkbox tiddler="$:/temp/regular" field="text" checked="regular" unchecked=""> Regular</$checkbox>
+<div class="chsh">
 
-<$edit-text tiddler="$:/temp/glyphsearch" type="search" tag="input" placeholder="Search icons for..." default="" size="40"/>
+  <div class="chsh-filter-bar">
+    <$checkbox tiddler="$:/temp/solid" field="text" checked="solid" unchecked=""> Solid</$checkbox>
+    <br/>
+    <$checkbox tiddler="$:/temp/regular" field="text" checked="regular" unchecked=""> Regular</$checkbox>
+    <br/>
+    <$checkbox tiddler="$:/temp/brand" field="text" checked="brands" unchecked=""> Brands</$checkbox>
+    <p/>
 
-<hr/>
+    <$list filter="[prefix[$:/fontawesome/class/]]">
+      <$checkbox class="chsh-filter"><$view field="description"/></$checkbox>
+      <br/>
+    </$list>
+  </div>
 
-<$set name="family-filter-tag-list" filter="[title[$:/temp/brand]get[text]] [title[$:/temp/solid]get[text]] [title[$:/temp/regular]get[text]]" >
-  <$set name="filter-tag-list" filter="[get[f-accessibility]]" >
-    <$set name="filter-expr" value="[all[tiddlers]prefix<fa-glyph-path>bytags<family-filter-tag-list>bytags<filter-tag-list>regexp:tags{$:/temp/glyphsearch}]">
-      <$count filter=<<filter-expr>>/> Awesome icon(s)
+  <div class="chsh-content">
+    <$edit-text tiddler="$:/temp/glyphsearch" type="search" tag="input" placeholder="Search icons for..." default="" size="40"/>
 
-      <div class="chsh-glyph-grid">
-        <$list filter=<<filter-expr>> >
-          <$set name="glyph-fam" value={{!!fa-default-style}}>
-            <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-path>]">
-              <$list filter="[all[current]list[!!fa-style-classes]]" variable="glyph-fam">
-                <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> />
-              </$list>
-            </$set>
-          </$set>
-        </$list>
-      </div>
+    <hr/>
+
+    <$set name="family-filter-tag-list" filter="[title[$:/temp/brand]get[text]] [title[$:/temp/solid]get[text]] [title[$:/temp/regular]get[text]]" >
+      <$set name="filter-tag-list" filter="[get[f-accessibility]]" >
+        <$set name="filter-expr" value="[all[tiddlers]prefix<fa-glyph-path>bytags<family-filter-tag-list>bytags<filter-tag-list>regexp:tags{$:/temp/glyphsearch}]">
+          <$count filter=<<filter-expr>>/> Awesome icon(s)
+
+          <div class="chsh-glyph-grid">
+            <$list filter=<<filter-expr>> >
+              <$set name="glyph-fam" value={{!!fa-default-style}}>
+                <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-path>]">
+                  <$list filter="[all[current]list[!!fa-style-classes]]" variable="glyph-fam">
+                    <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> />
+                  </$list>
+                </$set>
+              </$set>
+            </$list>
+          </div>
+        </$set>
+      </$set>
     </$set>
-  </$set>
-</$set>
+  </div>
+
+</div>

@@ -1,0 +1,63 @@
+created: 20180120124543294
+description: Editors
+modified: 20180120125221496
+tags: 
+title: $:/fontawesome/class/editors
+type: text/vnd.tiddlywiki
+
+align-center
+align-justify
+align-left
+align-right
+bold
+clipboard
+clone
+columns
+copy
+cut
+edit
+eraser
+file
+file-alt
+font
+heading
+i-cursor
+indent
+italic
+link
+list
+list-alt
+list-ol
+list-ul
+outdent
+paper-plane
+paperclip
+paragraph
+paste
+pencil-alt
+print
+quote-left
+quote-right
+redo
+redo-alt
+reply
+reply-all
+share
+strikethrough
+subscript
+superscript
+sync
+sync-alt
+table
+tasks
+text-height
+text-width
+th
+th-large
+th-list
+trash
+trash-alt
+underline
+undo
+undo-alt
+unlink
