@@ -1,5 +1,5 @@
 created: 20180101192101902
-modified: 20180120140355519
+modified: 20180120141910978
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -21,16 +21,14 @@ type: text/vnd.tiddlywiki
 <div class="chsh">
 
   <div class="chsh-filter-bar">
-    <$checkbox tiddler="$:/temp/solid" field="text" checked="solid" unchecked=""> Solid</$checkbox>
-    <br/>
-    <$checkbox tiddler="$:/temp/regular" field="text" checked="regular" unchecked=""> Regular</$checkbox>
-    <br/>
-    <$checkbox tiddler="$:/temp/brand" field="text" checked="brands" unchecked=""> Brands</$checkbox>
+    <$checkbox class="chsh-filter" tiddler="$:/temp/solid" field="text" checked="solid" unchecked="">Solid</$checkbox>
+    <$checkbox class="chsh-filter" tiddler="$:/temp/regular" field="text" checked="regular" unchecked="">Regular</$checkbox>
+    <$checkbox class="chsh-filter" tiddler="$:/temp/brand" field="text" checked="brands" unchecked="">Brands</$checkbox>
+    
     <p/>
 
     <$list filter="[prefix[$:/fontawesome/class/]]">
       <$checkbox class="chsh-filter"><$view field="description"/></$checkbox>
-      <br/>
     </$list>
   </div>
 

@@ -1,5 +1,5 @@
 created: 20180101214352355
-modified: 20180120140335987
+modified: 20180120141938672
 tags: $:/tags/Stylesheet
 title: $:/fontawesome/ui/Cheatsheet Styling
 type: text/css
@@ -13,7 +13,7 @@ div.chsh {
 div.chsh-filter-bar {
   flex-grow: 0;
   
-  width: 11em;
+  width: 10em;
   height: 100%; /* needed only due interspersed <p> due to parsing */
   
   border-right: #ddd solid 1px;
@@ -22,13 +22,14 @@ div.chsh-filter-bar {
 }
 
 .chsh-filter {
-  display: flex;
-}
-
-.chsh-filter span {
+  display: block;
+  margin-left: 1.7em;
+  margin-bottom: 0.75ex;
 }
 
 .chsh-filter input {
+  width: 1.7em;
+  margin-left: -1.7em;
 }
 
 div.chsh-content {
