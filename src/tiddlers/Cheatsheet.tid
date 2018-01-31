@@ -1,5 +1,5 @@
 created: 20180101192101902
-modified: 20180120141910978
+modified: 20180121213204822
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -18,6 +18,8 @@ type: text/vnd.tiddlywiki
   </div>
 \end
 
+\define filtertag-title(prefix:"$:/temp/filtertag") $prefix$/$(currentTiddler)$
+
 <div class="chsh">
 
   <div class="chsh-filter-bar">
@@ -28,7 +30,9 @@ type: text/vnd.tiddlywiki
     <p/>
 
     <$list filter="[prefix[$:/fontawesome/class/]]">
-      <$checkbox class="chsh-filter"><$view field="description"/></$checkbox>
+      <$set name="tagname" filter="[removeprefix[$:/fontawesome/class]]">
+        <$checkbox class="chsh-filter" tiddler=<<filtertag-title>> field="text" checked=<<tagname>> unchecked=""><$view field="description"/></$checkbox>
+      </$set>
     </$list>
   </div>
 
