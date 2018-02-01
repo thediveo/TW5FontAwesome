@@ -4,7 +4,7 @@ type: application/javascript
 module-type: command
 
 The `update-fontawesome` command takes a locally downloaded
-[[Font Awesome 5.x Free zip package|https://fontawesome.com/?utm_source=font_awesome_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner]]
+[[Font Awesome 5.x Free zip package|https://fontawesome.com/]]
 and then extracts the WOFF font files as well as some CSS files
 in order to update the FontAwesome plugin tiddlers.
 
@@ -21,33 +21,75 @@ need to be installed:
 /*global $tw: false */
 "use strict";
 
+
+// Declare the --update-fontawesome command that updates directly from a
+// Font Awesome package. This package might be either in the local filesystem,
+// or a download link may be given. Because of this feature, the command
+// needs to be run asynchronously.
 exports.info = {
 	name: "update-fontawesome",
-	synchronous: true
+	synchronous: false
 };
 
-var Command = function(params, commander) {
+
+// Good Stuff(tm) we need.
+var fs = require("fs");
+var zip = require("adm-zip");
+var versioning = require("compare-versions");
+var url = require("url");
+var request = require("request");
+
+
+// Create a new command instance; besides the parameters which we've got
+// handed over here is the callback which we need to call when we either
+// succeeded or failed.
+var Command = function(params, commander, callback) {
 	this.params = params;
 	this.commander = commander;
+	this.callback = callback;
 	this.logger = new $tw.utils.Logger("--" + exports.info.name);
 };
 
-/*
-*/
+
+// Run the update command.
 Command.prototype.execute = function() {
   if (this.params.length < 1) {
 		return "Missing Font Awesome path and file name";
 	}
-  var force = false;
-  if (this.params.length >= 2 && this.params[1] === "force") {
-    force = true;
-  }
+  var force = (this.params.length >= 2 && this.params[1] === "force");
 
-	var wiki = this.commander.wiki,
-		self = this,
-		fs = require("fs"),
-    zip = require("adm-zip"),
-    versioning = require("compare-versions");
+	var wiki = this.commander.wiki;
+ 	var self = this;
+	var fazip = null;
+
+	// Find out whether this is a local file location, or an URL. In the
+	// latter case, we accept file: for local file locations, and http: and
+	// https: as valid protocols.
+	var u = url.parse(this.params[0]);
+	if (u.protocol === null || u.protocol === "file:") {
+		self.logger.log("opening zip package:", u.pathname);
+	  fazip = new zip(u.pathname);
+	} else if (u.protocol === "http:" || u.protocol === "https:") {
+		self.logger.log("fetching zip package from:", u.href);
+		request.get({
+			uri: u.href,
+			encoding: null
+		}, function(err, response, body) {
+			if (err) {
+				console.log("err:", err);
+				self.callback("failed to download zip package; err: " + err);
+				return;
+			}
+			if (response.statusCode != 200) {
+				console.log("HTTP(S) status:", response.statusCode);
+				self.callback("failed to download zip package with HTTP error: " + response.statusCode);
+				return;
+			}
+			self.logger.log("downloaded zip package, size:", body.length);
+			self.logger.log("body:", typeof body, Buffer.isBuffer(body));
+			fazip = new zip(body);
+		});
+	}
 
 	self.logger.log("updating plugin from local Font Awesome zip package...");
   self.logger.log("opening zip package:", self.params[0]);

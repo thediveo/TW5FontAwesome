@@ -1,0 +1,35 @@
+{
+  "name": "TW5FontAwesome",
+  "version": "1.1.1",
+  "author": "TheDiveO",
+  "description": "Font Awesome 5 for TiddlyWiki 5",
+  "homepage": "https://github.com/TheDiveO/TW5FontAwesome.git",
+  "license": "(MIT)",
+  "bugs": "https://github.com/TheDiveO/TW5FontAwesome/issues",
+
+  "main": "twtube.js",
+
+  "scripts": {
+    "start": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html & echo $! > tw.pid",
+    "stop": "kill `cat tw.pid` && rm tw.pid",
+    "develop": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html",
+    "release": "tiddlywiki editions/release --verbose --build release"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheDiveO/TW5FontAwesome.git"
+  },
+
+  "dependencies": {
+    "tiddlywiki": ">=5.1.15",
+    "adm-zip": ">=0.4.7",
+    "compare-versions": ">=3.1.0",
+    "request": ">=2.83.0"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "engines": {
+    "node": ">=0.8.2"
+  }
+}
