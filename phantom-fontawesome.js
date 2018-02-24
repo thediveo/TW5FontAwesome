@@ -1,59 +1,75 @@
 "use strict";
 
 var Phantom = require("phantom");
-var phantom;
-var fa5com;
+var phantomBrowser;
+var fa5comPage;
+var fa5version;
 
 Phantom.create()
-  .then(function phantomWebbrowserCreated(ph) {
-    phantom = ph;
-    return phantom.createPage();
+  .then(function phantomWebbrowserCreated(browser) {
+    phantomBrowser = browser;
+    return phantomBrowser.createPage();
   })
   .then(function openFontAwesomeWebpage(page) {
     console.log("Fetching Font Awesome 5 home page...")
-    fa5com = page;
-    return fa5com.open("https://fontawesome.com/");
+    fa5comPage = page;
+    return fa5comPage.open("https://fontawesome.com/");
   })
   .then(function pageStatus(status) {
-    console.log("Status:", status);
-    return fa5com.property("content");
+    if (status !== "success") {
+      return Promise.reject("failed to load page fontawesome.com");
+    }
+    return fa5comPage.property("content");
   })
   .then(function contentReady(content) {
-    console.log("Content ready.");
-
     function checkPageCompleteExecutor(resolve, reject) {
       // Remember that evaluating a script injected into the
       // web page will be asynchronous, so we only get a promise
       // here at this time.
-      fa5com.evaluate(function() {
+      fa5comPage.evaluate(function() {
         return document.readyState;
       })
       // The promise was fulfilled, and we now get the result from
       // the script evaluation inside the web page: which is the
       // readyState of the web page.
       .then(function(readyState) {
-        console.log("Checked:", readyState);
         if (readyState === "complete") {
           resolve(readyState);
         }
         setTimeout(checkPageCompleteExecutor, 500, resolve, reject);
       });
     };
-
     return new Promise(checkPageCompleteExecutor);
   })
-  .then(function() {
-    console.log("Page complete.");
+  .then(function pageCompletelyLoaded(readyState) {
+    console.log("Page completely loaded");
+    try {
+      return fa5comPage.evaluate(function() {
+        return document
+          .querySelector("a[href^='https://use.fontawesome.com/releases/']")
+            .href;
+      });
+    } catch(err) {
+      return Promise.reject("FAIL:" + err);
+    }
+  })
+  .then(function(downloadUrl) {
+    console.log("Font Awesome 5 Free download URL:", downloadUrl);
+    fa5version = /free-(.*\..*\..*)\.zip$/.exec(downloadUrl)[1];
+    console.log("Font Awesome 5 version:", fa5version);
     console.log("Closing page.");
-    return fa5com.close();
+    return fa5comPage.close();
+  })
+  .then(function() {
+    console.log("Page closed.");
   })
   .catch(function(err) {
     console.log("That didn't work:", err);
   })
   /*finally*/
   .then(function() {
-    if (phantom) {
-      phantom.exit();
+    if (phantomBrowser) {
+      phantomBrowser.exit();
     }
   })
   ;
