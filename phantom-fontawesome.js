@@ -5,6 +5,9 @@
 
 var Phantom = require("phantom");
 
+// Returns a promise to retrieve the Font Awesome 5 Free package
+// download information: the URL from which the package can be
+// downloaded, as well as the package version (in "x.y.z" format).
 function FontAwesome5DownloadInfo() {
   return new Promise(function(resolve, reject) {
 
@@ -104,13 +107,15 @@ function FontAwesome5DownloadInfo() {
           phantomBrowser.exit();
           phantomBrowser = null;
         }
+        // Finally resolve or reject the overall FA5 package download
+        // information retrieval promise...
         if (fa5url && fa5version) {
           resolve({
             url: fa5url,
             version: fa5version
           });
         } else {
-          reject("could not retrieve Font Awesome 5 download information");
+          reject("could not retrieve Font Awesome 5 Free package download information");
         }
       })
       ;
