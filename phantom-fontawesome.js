@@ -32,12 +32,19 @@ Phantom.create()
       // The promise was fulfilled, and we now get the result from
       // the script evaluation inside the web page: which is the
       // readyState of the web page.
-      .then(function(readyState) {
+      .then(function retrievedReadyState(readyState) {
         if (readyState === "complete") {
           resolve(readyState);
         }
         setTimeout(checkPageCompleteExecutor, 500, resolve, reject);
-      });
+      })
+      // Argh! Node.js is slowly cranking up the temperature to
+      // have all promise code not only handling the "good" case,
+      // but also the "bad" case, that is: .catch().
+      .catch(function() {
+        reject("Failed to retrieve page's readyState");
+      })
+      ;
     };
     return new Promise(checkPageCompleteExecutor);
   })
