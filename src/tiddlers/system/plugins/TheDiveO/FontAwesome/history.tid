@@ -1,10 +1,12 @@
 created: 20140901110931199
-modified: 20180201173331338
+modified: 20180225195912529
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
 * ''develop''
+** adds category filtering to the cheatsheet.
 ** adds Font Awesome 5 category meta data.
+** refactors development command `--update-fontawesome` to directly download the most recent Font Awesome 5 Free package .zip from https://fontawesome.com. The only optional parameter to this command is `force` which forces re-updating, even if the font currently installed in the dev wiki is the same version as the one downloaded.
 
 * ''1.1.2''
 ** fixes ~TiddlyWiki-internal links to system tiddlers not showing the gear symbol in the tiddler editor preview pane.
