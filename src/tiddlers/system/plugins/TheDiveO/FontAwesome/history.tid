@@ -3,8 +3,12 @@ modified: 20180201173331338
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
+* ''develop''
+** adds Font Awesome 5 category meta data.
+
 * ''1.1.2''
 ** fixes ~TiddlyWiki-internal links to system tiddlers not showing the gear symbol in the tiddler editor preview pane.
+
 * ''1.1.1''
 ** upgrades to Font Awesome 5.0.4.
 ** adds update/import command to ~FontAwesome 5 demo ~TiddlyWiki to update from a Font Awesome zip package. Use `--update-fontawesome` when running the plugin development ~TiddlyWiki under Node.js.
@@ -28,7 +32,7 @@ $ tiddlywiki editions/develop --verbose --update-fontawesome ~/Downloads/fontawe
 ** fix overly greedy image URL adornments, so that they don't apply to TW5-internal images. Now, an internal [[tree.jpeg]] doesn't get adornment, while [[http://thediveo.github.io/TW5FontAwesome/fa-flag.png]] still does, so the type of document can be glanced quickly.
 ** small visual improvement to `fa-lbadge` which adds a small right margin to the badge, so that the adjacent text doesn't seem to visually collide with the badge anymore.
 * ''1.0.6''
-** link adornments for image URLs (`.jpg`/`.jpeg`, `.png`, `.gif`, `.tif`/`.tiff`) 
+** link adornments for image URLs (`.jpg`/`.jpeg`, `.png`, `.gif`, `.tif`/`.tiff`)
 * ''1.0.5''
 ** maintenance: upgrade ThirdFlow plugin to 1.1.11.
 * ''1.0.4''
