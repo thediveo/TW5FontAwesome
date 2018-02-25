@@ -8,13 +8,16 @@ var Phantom = require("phantom");
 // Returns a promise to retrieve the Font Awesome 5 Free package
 // download information: the URL from which the package can be
 // downloaded, as well as the package version (in "x.y.z" format).
-function FontAwesome5DownloadInfo() {
+function FontAwesome5PackageDownloadInfo() {
   return new Promise(function(resolve, reject) {
 
     var phantomBrowser;
     var fa5comPage;
-    var fa5version;
-    var fa5url;
+
+    // Download information about the Font Awesome 5 Free package
+    // we're going to collect.
+    var fa5PackageVersion;
+    var fa5PackageUrl;
 
     Phantom.create()
       // Phantom headless webbrowser created...
@@ -81,10 +84,10 @@ function FontAwesome5DownloadInfo() {
       // We've got the FA5 package download URL: so we now can extract the
       // package version information from this URL.
       .then(function(downloadUrl) {
-        fa5url = downloadUrl;
-        console.log("Font Awesome 5 Free download URL:", fa5url);
-        fa5version = /free-(.*\..*\..*)\.zip$/.exec(downloadUrl)[1];
-        console.log("Guessed Font Awesome 5 download version:", fa5version);
+        fa5PackageUrl = downloadUrl;
+        console.log("Font Awesome 5 Free download URL:", fa5PackageUrl);
+        fa5PackageVersion = /free-(.*\..*\..*)\.zip$/.exec(downloadUrl)[1];
+        console.log("Guessed Font Awesome 5 download version:", fa5PackageVersion);
         // We're done, so let's now clean up all those things not needed
         // anymore: we start by disposing the web page (tab)...
         return fa5comPage.close();
@@ -109,10 +112,10 @@ function FontAwesome5DownloadInfo() {
         }
         // Finally resolve or reject the overall FA5 package download
         // information retrieval promise...
-        if (fa5url && fa5version) {
+        if (fa5PackageUrl && fa5PackageVersion) {
           resolve({
-            url: fa5url,
-            version: fa5version
+            url: fa5PackageUrl,
+            version: fa5PackageVersion
           });
         } else {
           reject("could not retrieve Font Awesome 5 Free package download information");
@@ -123,7 +126,7 @@ function FontAwesome5DownloadInfo() {
     ;
 }
 
-FontAwesome5DownloadInfo()
+FontAwesome5PackageDownloadInfo()
   .then(function (info) {
     console.log("INFO:", JSON.stringify(info));
   })
