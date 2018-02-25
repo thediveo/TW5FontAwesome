@@ -1,5 +1,5 @@
 /output/tw5fontawesome.html
-node_modules
+/node_modules
 *.directory
-src/tiddlers/drafts/*
 src/tiddlers/system/StoryList.tid
+src/tiddlers/drafts
