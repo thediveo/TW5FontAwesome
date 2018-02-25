@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Quidditch
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f458
+tags: solid
+title: $:/fontawesome/glyph/quidditch
+
+<i class='fas fa-quidditch fa-10x'></i>

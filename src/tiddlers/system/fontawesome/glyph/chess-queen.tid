@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Chess Queen
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f445
+tags: solid
+title: $:/fontawesome/glyph/chess-queen
+
+<i class='fas fa-chess-queen fa-10x'></i>

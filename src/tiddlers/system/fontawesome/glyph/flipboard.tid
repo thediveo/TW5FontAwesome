@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Flipboard
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f44d
+tags: brands
+title: $:/fontawesome/glyph/flipboard
+
+<i class='fab fa-flipboard fa-10x'></i>
