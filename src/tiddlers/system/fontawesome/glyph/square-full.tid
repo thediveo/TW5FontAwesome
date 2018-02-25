@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Square Full
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f45c
+tags: solid
+title: $:/fontawesome/glyph/square-full
+
+<i class='fas fa-square-full fa-10x'></i>

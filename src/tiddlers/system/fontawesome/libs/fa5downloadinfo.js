@@ -1,14 +1,27 @@
-// Finds out the URL and current version of the Font Awesome 5 Free
-// download package, as offered as a download from fontawesome.com.
+/*\
+title: $:/fontawesome/libs/fa5downloadinfo.js
+type: application/javascript
+module-type: library
 
+Finds out the URL and current version of the Font Awesome 5 Free
+download package, as offered as a download from fontawesome.com.
+
+\*/
+(function(){
+
+/*jslint node: true, browser: true */
+/*global $tw: false */
 "use strict";
 
-var Phantom = require("phantom");
+// Get the real AWESOME stuff ... a, erm, *headless* browser...
+if ($tw.node) {
+  var Phantom = require("phantom");
+}
 
 // Returns a promise to retrieve the Font Awesome 5 Free package
 // download information: the URL from which the package can be
 // downloaded, as well as the package version (in "x.y.z" format).
-function FontAwesome5PackageDownloadInfo() {
+exports.fontAwesome5PackageDownloadInfo = function(logger) {
   return new Promise(function(resolve, reject) {
 
     var phantomBrowser;
@@ -27,7 +40,7 @@ function FontAwesome5PackageDownloadInfo() {
       })
       // New page ("tab") created...
       .then(function openFontAwesomeWebpage(page) {
-        console.log("Fetching Font Awesome 5 home page...")
+        logger.log("Fetching Font Awesome 5 home page...")
         fa5comPage = page;
         return fa5comPage.open("https://fontawesome.com/");
       })
@@ -74,7 +87,7 @@ function FontAwesome5PackageDownloadInfo() {
       // and dynamic stuff having been loaded and run to completion. Only
       // now we can start retrieving the FA5 package download URL...
       .then(function pageCompletelyLoaded(readyState) {
-        console.log("Font Awesome 5 home page completely loaded.");
+        logger.log("Font Awesome 5 home page completely loaded.");
           return fa5comPage.evaluate(function() {
             return document
               .querySelector("a[href^='https://use.fontawesome.com/releases/']")
@@ -85,9 +98,9 @@ function FontAwesome5PackageDownloadInfo() {
       // package version information from this URL.
       .then(function(downloadUrl) {
         fa5PackageUrl = downloadUrl;
-        console.log("Font Awesome 5 Free download URL:", fa5PackageUrl);
-        fa5PackageVersion = /free-(.*\..*\..*)\.zip$/.exec(downloadUrl)[1];
-        console.log("Guessed Font Awesome 5 download version:", fa5PackageVersion);
+        logger.log("Extracted Font Awesome 5 Free download URL:", fa5PackageUrl);
+        fa5PackageVersion = /\/fontawesome-.*-(\d+\.\d+\.\d+)\.zip$/.exec(fa5PackageUrl)[1];
+        logger.log("Extracted Font Awesome 5 Free version:", fa5PackageVersion);
         // We're done, so let's now clean up all those things not needed
         // anymore: we start by disposing the web page (tab)...
         return fa5comPage.close();
@@ -98,7 +111,7 @@ function FontAwesome5PackageDownloadInfo() {
       })
       // Catch all that went wrong during the above sequence.
       .catch(function(err) {
-        console.log("That didn't work:", err);
+        logger.log("That didn't work:", err);
       })
       // Ensure to always correctly get rid of the phantom web browser,
       // as otherwise it would keep running in the background ... and
@@ -126,11 +139,4 @@ function FontAwesome5PackageDownloadInfo() {
     ;
 }
 
-FontAwesome5PackageDownloadInfo()
-  .then(function (info) {
-    console.log("INFO:", JSON.stringify(info));
-  })
-  .catch(function(err) {
-    console.log("ERR:", err);
-  })
-  ;
+})();

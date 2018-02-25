@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Volleyball Ball
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f45f
+tags: solid
+title: $:/fontawesome/glyph/volleyball-ball
+
+<i class='fas fa-volleyball-ball fa-10x'></i>

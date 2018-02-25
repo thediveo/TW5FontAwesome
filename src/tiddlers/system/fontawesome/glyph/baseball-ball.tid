@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Baseball Ball
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f433
+tags: solid
+title: $:/fontawesome/glyph/baseball-ball
+
+<i class='fas fa-baseball-ball fa-10x'></i>

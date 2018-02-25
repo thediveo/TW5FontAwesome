@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Hips
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f452
+tags: brands
+title: $:/fontawesome/glyph/hips
+
+<i class='fab fa-hips fa-10x'></i>
