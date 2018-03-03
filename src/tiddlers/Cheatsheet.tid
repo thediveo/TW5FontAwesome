@@ -1,5 +1,5 @@
 created: 20180101192101902
-modified: 20180303181512679
+modified: 20180303183145694
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -53,6 +53,11 @@ type: text/vnd.tiddlywiki
   <div class="chsh-content">
 	<!-- search field -->
 	<$edit-text tiddler="$:/temp/glyphsearch" type="search" tag="input" placeholder="Search icons for..." default="" size="40"/>
+    &nbsp;
+    <$button class="tc-btn-invisible" aria-label="clear search" tooltip="clear search">
+      <$action-setfield $tiddler="$:/temp/glyphsearch" text="" />
+      {{$:/core/images/close-button}}
+    </$button>
 
 	<p/>
     <hr/>
