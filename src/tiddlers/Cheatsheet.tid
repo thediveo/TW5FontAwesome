@@ -1,10 +1,10 @@
 created: 20180101192101902
-modified: 20180303183145694
+modified: 20180303190407960
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
 
-\define fa-size() 4x
+\define fa-size() 3x
 
 \define fa-glyph-base() $:/fontawesome/glyph/
 \define fa-class-base() $:/fontawesome/class/

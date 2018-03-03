@@ -1,0 +1,16 @@
+created: 20180303185913436
+description: Chess
+modified: 20180303185933882
+tags: 
+title: $:/fontawesome/class/chess
+type: text/vnd.tiddlywiki
+
+chess
+chess-bishop
+chess-board
+chess-king
+chess-knight
+chess-pawn
+chess-queen
+chess-rook
+square-full
