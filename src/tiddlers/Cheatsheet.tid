@@ -1,5 +1,5 @@
 created: 20180101192101902
-modified: 20180303164938816
+modified: 20180303173006892
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -29,7 +29,7 @@ type: text/vnd.tiddlywiki
   <div class="chsh-filter-bar">
     <!-- 1st filter set: list all families -->
     <$list filter="[prefix<fa-family-base>sort[description]]">
-      <$set name="famname" filter="[<currentTiddler>removeprefix<fa-family-base>]">
+      <$set name="famname" filter="[all[current]removeprefix<fa-family-base>]">
       <$set name="famfilter-statetiddler" filter="[<fa-familyfilter-base>addsuffix<famname>]">
         <$checkbox class="chsh-filter" tiddler=<<famfilter-statetiddler>> field="text" checked=<<famname>> unchecked=""><$view field="description"/></$checkbox>
       </$set>
@@ -40,7 +40,7 @@ type: text/vnd.tiddlywiki
     
     <!-- 2nd filter set: icon categories (=classes) -->
     <$list filter="[prefix<fa-class-base>sort[description]]">
-      <$set name="classname" filter="[<currentTiddler>removeprefix<fa-class-base>]"> 
+      <$set name="classname" filter="[all[current]removeprefix<fa-class-base>]"> 
       <$set name="classfilter-statetiddler" filter="[<fa-classfilter-base>addsuffix<classname>]">
       <$set name="class-tiddler" filter="[<fa-class-base>addsuffix<classname>]">
         <$checkbox class="chsh-filter" tiddler=<<classfilter-statetiddler>> field="text" checked=<<class-tiddler>> unchecked=""><$view field="description"/></$checkbox>
@@ -59,7 +59,8 @@ type: text/vnd.tiddlywiki
   
     <!-- search/filter results -->
     
-    <$set name="family-filter-tags" filter="[removeprefix<fa-family-base>addprefix<fa-familyfilter-base>get[text]]">    
+    <$set name="family-filter-tags" filter="[removeprefix<fa-family-base>addprefix<fa-familyfilter-base>get[text]]">
+    <$set name="css-filters" filter="[enlist<family-filter-tags>lookup[$:/fontawesome/lookup/css/bytag/]]" emptyValue="fab far fas">
     <$set name="all-glyphs" filter="[prefix<fa-glyph-base>]">
     <$set name="classified-glyphs" filter="[prefix<fa-classfilter-base>get[text]enlisttitlesfield[]addprefix<fa-glyph-base>each[]]" emptyValue=<<all-glyphs>> >
     <$set name="glyphs" filter="[enlist<classified-glyphs>bytags<family-filter-tags>sort[]]">
@@ -71,7 +72,7 @@ type: text/vnd.tiddlywiki
 		  <!-- -->
           <$set name="glyph-fam" value={{!!fa-default-style}}>
             <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-base>]">
-              <$list variable="glyph-fam" filter="[all[current]list[!!fa-style-classes]]">
+              <$list variable="glyph-fam" filter="[all[current]list[!!fa-style-classes]inlist<css-filters>]">
                 <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> />
               </$list>
             </$set>
@@ -80,6 +81,7 @@ type: text/vnd.tiddlywiki
         </$list>
       </div>
     
+    </$set>
     </$set>
     </$set>
     </$set>
