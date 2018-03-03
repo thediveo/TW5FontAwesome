@@ -3,7 +3,7 @@ fa-label: Pointer (Hand)
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f25a
-tags: solid regular
+tags: select solid regular
 title: $:/fontawesome/glyph/hand-pointer
 
 <i class='fas fa-hand-pointer fa-10x'></i>

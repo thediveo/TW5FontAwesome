@@ -3,7 +3,7 @@ fa-label: Alternate Tachometer
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3fd
-tags: tachometer solid
+tags: tachometer dashboard solid
 title: $:/fontawesome/glyph/tachometer-alt
 
 <i class='fas fa-tachometer-alt fa-10x'></i>

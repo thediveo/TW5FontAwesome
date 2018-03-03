@@ -3,7 +3,7 @@ fa-label: Thermometer 3/4 Full
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2c8
-tags: solid
+tags: status solid
 title: $:/fontawesome/glyph/thermometer-three-quarters
 
 <i class='fas fa-thermometer-three-quarters fa-10x'></i>

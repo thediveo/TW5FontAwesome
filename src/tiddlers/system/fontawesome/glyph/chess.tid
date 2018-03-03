@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Chess
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f439
+tags: solid
+title: $:/fontawesome/glyph/chess
+
+<i class='fas fa-chess fa-10x'></i>

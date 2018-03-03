@@ -1,20 +1,19 @@
 {
     "includeWikis": [
-		"../../src"
+		    "../../src"
     ],
     "config": {
-		"disable-hfs": "yes"
+		    "disable-hfs": "yes"
     },
     "plugins": [
         "tiddlywiki/codemirror",
         "tiddlywiki/highlight"
     ],
     "build": {
-		"release": [
-			"--packplugin", "$:/plugins/TheDiveO/FontAwesome",
-			"--rendertemplatedtiddler", "$:/plugins/TheDiveO/FontAwesome", "$:/core/templates/tid-tiddler", "fontawesome.tid", "", "text/plain",
-			"--rendertiddler", "$:/plugins/TheDiveO/ThirdFlow/templates/save-all-wo-plugin-sources", "fontawesome.html", "text/plain"
-		]
+    		"release": [
+            "--releaseplugins",
+            "--releasedemowiki"
+    		]
     },
     "themes": [
         "tiddlywiki/vanilla",
