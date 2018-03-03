@@ -3,7 +3,7 @@ fa-label: Male
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f183
-tags: man user person profile solid
+tags: man human user person profile solid
 title: $:/fontawesome/glyph/male
 
 <i class='fas fa-male fa-10x'></i>

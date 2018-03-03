@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Shipping Fast
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f48b
+tags: solid
+title: $:/fontawesome/glyph/shipping-fast
+
+<i class='fas fa-shipping-fast fa-10x'></i>

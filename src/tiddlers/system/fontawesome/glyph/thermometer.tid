@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Thermometer
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f491
+tags: temperature fever solid
+title: $:/fontawesome/glyph/thermometer
+
+<i class='fas fa-thermometer fa-10x'></i>

@@ -1,5 +1,5 @@
 created: 20180101192101902
-modified: 20180303173006892
+modified: 20180303181512679
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -35,12 +35,12 @@ type: text/vnd.tiddlywiki
       </$set>
       </$set>
     </$list>
-    
+
 	<p style="padding-bottom: 1.5ex;"/>
-    
+
     <!-- 2nd filter set: icon categories (=classes) -->
     <$list filter="[prefix<fa-class-base>sort[description]]">
-      <$set name="classname" filter="[all[current]removeprefix<fa-class-base>]"> 
+      <$set name="classname" filter="[all[current]removeprefix<fa-class-base>]">
       <$set name="classfilter-statetiddler" filter="[<fa-classfilter-base>addsuffix<classname>]">
       <$set name="class-tiddler" filter="[<fa-class-base>addsuffix<classname>]">
         <$checkbox class="chsh-filter" tiddler=<<classfilter-statetiddler>> field="text" checked=<<class-tiddler>> unchecked=""><$view field="description"/></$checkbox>
@@ -56,15 +56,22 @@ type: text/vnd.tiddlywiki
 
 	<p/>
     <hr/>
-  
+
     <!-- search/filter results -->
-    
+
+	<!-- list of set family filters -->
     <$set name="family-filter-tags" filter="[removeprefix<fa-family-base>addprefix<fa-familyfilter-base>get[text]]">
-    <$set name="css-filters" filter="[enlist<family-filter-tags>lookup[$:/fontawesome/lookup/css/bytag/]]" emptyValue="fab far fas">
+    <!-- (never empty!) list of CSS fa class filters -->
+    <$set name="css-class-filters" filter="[enlist<family-filter-tags>lookup[$:/fontawesome/lookup/css/bytag/]]" emptyValue="fab far fas">
+    <!-- list of all glyphs needed as default list when no glyph class filters are set -->
     <$set name="all-glyphs" filter="[prefix<fa-glyph-base>]">
+    <!-- filtered list of glyphs; filtered by class (not: CSS class) -->
     <$set name="classified-glyphs" filter="[prefix<fa-classfilter-base>get[text]enlisttitlesfield[]addprefix<fa-glyph-base>each[]]" emptyValue=<<all-glyphs>> >
-    <$set name="glyphs" filter="[enlist<classified-glyphs>bytags<family-filter-tags>sort[]]">
-    
+    <$set name="regex" filter="[[(?i)]addprefix{$:/temp/glyphsearch}]">
+    <$set name="glyphs" filter="[enlist<classified-glyphs>taglisted<family-filter-tags>]">
+    <!-- finally filter by matching search(es), without duplicates, and sorted -->
+    <$set name="glyphs" filter="[enlist<glyphs>regexp:fa-label<regex>] [enlist<glyphs>regexp:tags<regex>] +[each[]sort[]]">
+
       <div><$count filter="[enlist<glyphs>]"/> Awesome icon(s)</div>
 
 	  <div class="chsh-glyph-grid">
@@ -72,7 +79,7 @@ type: text/vnd.tiddlywiki
 		  <!-- -->
           <$set name="glyph-fam" value={{!!fa-default-style}}>
             <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-base>]">
-              <$list variable="glyph-fam" filter="[all[current]list[!!fa-style-classes]inlist<css-filters>]">
+              <$list variable="glyph-fam" filter="[all[current]list[!!fa-style-classes]inlist<css-class-filters>]">
                 <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> />
               </$list>
             </$set>
@@ -80,7 +87,9 @@ type: text/vnd.tiddlywiki
 		  <!-- -->
         </$list>
       </div>
-    
+
+    </$set>
+    </$set>
     </$set>
     </$set>
     </$set>

@@ -1,11 +1,15 @@
 created: 20140901110931199
-modified: 20180225205801664
+modified: 20180303174537162
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
 * ''develop''
 ** adds category filtering to the cheatsheet.
 ** adds Font Awesome 5 category meta data.
+** brings a new automatic update mechanism:
+*** use `$ npm run update-fontawesome` to update the development files to the newest Font Awesome version that is available online.
+*** use `$ npm run release` to create the plugin release file(s).
+** upgrades to new ThirdFlow plugin version with its new automated release mechanism.
 ** refactors development command `--update-fontawesome` to directly download the most recent Font Awesome 5 Free package .zip from https://fontawesome.com. The only optional parameter to this command is `force` which forces re-updating, even if the font currently installed in the dev wiki is the same version as the one downloaded.
 ** upgrades ThirdFlow plugin and now uses the new automated release file generation mechanism.
 

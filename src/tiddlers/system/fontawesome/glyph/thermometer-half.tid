@@ -3,7 +3,7 @@ fa-label: Thermometer 1/2 Full
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2c9
-tags: solid
+tags: status solid
 title: $:/fontawesome/glyph/thermometer-half
 
 <i class='fas fa-thermometer-half fa-10x'></i>

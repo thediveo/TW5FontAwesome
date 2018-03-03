@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: DNA
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f471
+tags: [[double helix]] helix solid
+title: $:/fontawesome/glyph/dna
+
+<i class='fas fa-dna fa-10x'></i>

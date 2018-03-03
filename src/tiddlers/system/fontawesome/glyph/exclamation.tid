@@ -3,7 +3,7 @@ fa-label: exclamation
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f12a
-tags: warning error problem notification notify alert solid
+tags: warning error problem notification notify alert danger solid
 title: $:/fontawesome/glyph/exclamation
 
 <i class='fas fa-exclamation fa-10x'></i>

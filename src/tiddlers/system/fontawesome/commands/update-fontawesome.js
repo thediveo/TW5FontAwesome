@@ -3,10 +3,24 @@ title: $:/fontawesome/commands/update-fontawesome.js
 type: application/javascript
 module-type: command
 
-The `update-fontawesome` command takes a locally downloaded
-[[Font Awesome 5.x Free zip package|https://fontawesome.com/]]
-and then extracts the WOFF font files as well as some CSS files
-in order to update the FontAwesome plugin tiddlers.
+The `update-fontawesome` command tries to update this TW5FontAwesome
+development wiki with the latest online version of Font Awesome 5.x.
+Please note that you cannot update the TW5FontAwesome plugin inside
+normal user wikis. Instead, this command is for proparation of a
+plugin update release.
+
+To update, run in a terminal/shell:
+
+```bash
+$ npm run update-fontawesome
+```
+
+Wait for the update process to be completed, and for the updates
+to be synced back into your repository file tree. Then:
+
+```bash
+$ npm run release
+```
 
 \*/
 (function(){

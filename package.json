@@ -11,7 +11,9 @@
     "start": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html & echo $! > tw.pid",
     "stop": "kill `cat tw.pid` && rm tw.pid",
     "develop": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html",
-    "release": "tiddlywiki editions/release --verbose --build release"
+    "release": "tiddlywiki editions/release --verbose --build release",
+    "update": "tiddlywiki editions/develop --verbose --update-fontawesome --server 8080 $:/core/save/all text/plain text/html",
+    "forceupdate": "tiddlywiki editions/develop --verbose --update-fontawesome force --server 8080 $:/core/save/all text/plain text/html"
   },
   "repository": {
     "type": "git",

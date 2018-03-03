@@ -1,7 +1,7 @@
 /*\
 created: 20180103142516447
 type: application/javascript
-title: $:/fontawesome/filters/bytags
+title: $:/fontawesome/filters/taglisted
 modified: 20180103142558093
 module-type: filteroperator
 
@@ -15,7 +15,7 @@ list) is empty, then all tiddlers from the source are returned.
 
 "use strict";
 
-exports.bytags = function(source, operator, options) {
+exports.taglisted = function(source, operator, options) {
   var tags = $tw.utils.parseStringArray(operator.operand);
   var results = [];
 

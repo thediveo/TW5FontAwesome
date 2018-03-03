@@ -3,7 +3,7 @@ fa-label: Mouse Pointer
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f245
-tags: solid
+tags: select solid
 title: $:/fontawesome/glyph/mouse-pointer
 
 <i class='fas fa-mouse-pointer fa-10x'></i>
