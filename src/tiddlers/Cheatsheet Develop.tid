@@ -1,16 +1,15 @@
 created: 20180303144745923
-modified: 20180303153323850
+modified: 20180303155355192
 tags: 
 title: Cheatsheet Develop
 type: text/vnd.tiddlywiki
 
 \define fa-size() 4x
 
-\define fa-glyph-path() $:/fontawesome/glyph/
-\define fa-class-path() $:/fontawesome/class/
+\define fa-glyph-base() $:/fontawesome/glyph/
+\define fa-class-base() $:/fontawesome/class/
 
-\define class-filter-statetiddler() $:/temp/classfilter/$(classname)$
-\define class-tiddler() $(fa-class-path)$$(classname)$
+\define fa-classfilter-base() $:/temp/classfilter/
 
 \define fa-icon(fam, id, size, classes)
 <i class="$fam$ fa-$id$ fa-$size$ $classes$"></i>
@@ -26,16 +25,20 @@ type: text/vnd.tiddlywiki
 <div class="chsh">
 
   <div class="chsh-filter-bar">
-    <$list filter="[prefix[$:/fontawesome/class/]sort[description]]">
-      <$set name="classname" filter="[all[current]removeprefix<fa-class-path>]">
-        <$checkbox class="chsh-filter" tiddler=<<class-filter-statetiddler>> field="text" checked=<<class-tiddler>> unchecked=""><$view field="description"/></$checkbox>
+    <$list filter="[prefix<fa-class-base>sort[description]]">
+      <$set name="classname" filter="[<currentTiddler>removeprefix<fa-class-base>]"> 
+      <$set name="classfilter-statetiddler" filter="[<fa-classfilter-base>addsuffix<classname>]">
+      <$set name="class-tiddler" filter="[<fa-class-base>addsuffix<classname>]">
+        <$checkbox class="chsh-filter" tiddler=<<classfilter-statetiddler>> field="text" checked=<<class-tiddler>> unchecked=""><$view field="description"/></$checkbox>
+      </$set>
+      </$set>
       </$set>
     </$list>
   </div>
 
   <div class="chsh-content">
   
-    <$set name="glyphs" filter="[prefix[$:/temp/classfilter/]get[text]enlisttitlesfield[]addprefix[$:/fontawesome/glyph/]sort[]]">
+    <$set name="glyphs" filter="[prefix<fa-classfilter-base>get[text]enlisttitlesfield[]addprefix<fa-glyph-base>sort[]]">
     
       <div><$count filter="[enlist<glyphs>]"/> Awesome icon(s)</div>
 
@@ -43,8 +46,8 @@ type: text/vnd.tiddlywiki
         <$list filter="[enlist<glyphs>]">
 
           <$set name="glyph-fam" value={{!!fa-default-style}}>
-            <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-path>]">
-              <$list filter="[all[current]list[!!fa-style-classes]]" variable="glyph-fam">
+            <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-base>]">
+              <$list variable="glyph-fam" filter="[all[current]list[!!fa-style-classes]]">
                 <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> />
               </$list>
             </$set>
