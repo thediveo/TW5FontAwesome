@@ -1,0 +1,28 @@
+created: 20180303144745923
+modified: 20180303151816707
+tags: 
+title: Cheatsheet Develop
+type: text/vnd.tiddlywiki
+
+\define class-filter-statetiddler() $:/temp/classfilter/$(classname)$
+\define class-tiddler() $:/fontawesome/class/$(classname)$
+
+<div class="chsh">
+
+  <div class="chsh-filter-bar">
+    <$list filter="[prefix[$:/fontawesome/class/]sort[description]]">
+      <$set name="classname" filter="[all[current]removeprefix[$:/fontawesome/class/]]">
+        <$checkbox class="chsh-filter" tiddler=<<class-filter-statetiddler>> field="text" checked=<<class-tiddler>> unchecked=""><$view field="description"/></$checkbox>
+      </$set>
+    </$list>
+  </div>
+
+  <div class="chsh-content">
+  
+    <$list filter="[prefix[$:/temp/classfilter/]get[text]enlisttitlesfield[]addprefix[$:/fontawesome/glyph/]sort[]]">
+      <<currentTiddler>><br/>
+    </$list>
+
+  </div>
+
+</div>
