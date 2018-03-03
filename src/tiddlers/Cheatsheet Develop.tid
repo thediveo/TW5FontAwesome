@@ -1,17 +1,33 @@
 created: 20180303144745923
-modified: 20180303151816707
+modified: 20180303153323850
 tags: 
 title: Cheatsheet Develop
 type: text/vnd.tiddlywiki
 
+\define fa-size() 4x
+
+\define fa-glyph-path() $:/fontawesome/glyph/
+\define fa-class-path() $:/fontawesome/class/
+
 \define class-filter-statetiddler() $:/temp/classfilter/$(classname)$
-\define class-tiddler() $:/fontawesome/class/$(classname)$
+\define class-tiddler() $(fa-class-path)$$(classname)$
+
+\define fa-icon(fam, id, size, classes)
+<i class="$fam$ fa-$id$ fa-$size$ $classes$"></i>
+\end
+
+\define icon-box(fam, id)
+  <div class="chsh-glyph-box">
+    <div class="chsh-glyph-icon"><$macrocall $name="fa-icon" fam=$fam$ id=$id$ size=<<fa-size>>/></div>
+    <div class="chsh-glyph-id">$fam$ fa-$id$</div>
+  </div>
+\end
 
 <div class="chsh">
 
   <div class="chsh-filter-bar">
     <$list filter="[prefix[$:/fontawesome/class/]sort[description]]">
-      <$set name="classname" filter="[all[current]removeprefix[$:/fontawesome/class/]]">
+      <$set name="classname" filter="[all[current]removeprefix<fa-class-path>]">
         <$checkbox class="chsh-filter" tiddler=<<class-filter-statetiddler>> field="text" checked=<<class-tiddler>> unchecked=""><$view field="description"/></$checkbox>
       </$set>
     </$list>
@@ -19,9 +35,25 @@ type: text/vnd.tiddlywiki
 
   <div class="chsh-content">
   
-    <$list filter="[prefix[$:/temp/classfilter/]get[text]enlisttitlesfield[]addprefix[$:/fontawesome/glyph/]sort[]]">
-      <<currentTiddler>><br/>
-    </$list>
+    <$set name="glyphs" filter="[prefix[$:/temp/classfilter/]get[text]enlisttitlesfield[]addprefix[$:/fontawesome/glyph/]sort[]]">
+    
+      <div><$count filter="[enlist<glyphs>]"/> Awesome icon(s)</div>
+
+	  <div class="chsh-glyph-grid">
+        <$list filter="[enlist<glyphs>]">
+
+          <$set name="glyph-fam" value={{!!fa-default-style}}>
+            <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-path>]">
+              <$list filter="[all[current]list[!!fa-style-classes]]" variable="glyph-fam">
+                <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> />
+              </$list>
+            </$set>
+          </$set>
+
+        </$list>
+      </div>
+    
+    </$set>
 
   </div>
 
