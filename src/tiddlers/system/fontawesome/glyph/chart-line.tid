@@ -3,7 +3,7 @@ fa-label: Line Chart
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f201
-tags: graph analytics line-chart solid
+tags: graph analytics line-chart dashboard solid
 title: $:/fontawesome/glyph/chart-line
 
 <i class='fas fa-chart-line fa-10x'></i>

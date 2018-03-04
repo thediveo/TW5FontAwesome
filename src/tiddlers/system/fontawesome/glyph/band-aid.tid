@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Band-Aid
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f462
+tags: bandage ouch [[boo boo]] solid
+title: $:/fontawesome/glyph/band-aid
+
+<i class='fas fa-band-aid fa-10x'></i>

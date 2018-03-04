@@ -3,7 +3,7 @@ fa-label: Toggle On
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f205
-tags: solid
+tags: switch solid
 title: $:/fontawesome/glyph/toggle-on
 
 <i class='fas fa-toggle-on fa-10x'></i>

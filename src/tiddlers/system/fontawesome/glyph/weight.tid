@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Weight
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f496
+tags: scale solid
+title: $:/fontawesome/glyph/weight
+
+<i class='fas fa-weight fa-10x'></i>

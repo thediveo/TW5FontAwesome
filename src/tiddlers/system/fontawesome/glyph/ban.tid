@@ -3,7 +3,7 @@ fa-label: ban
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f05e
-tags: delete remove trash hide block stop abort cancel solid
+tags: delete remove trash hide block stop abort cancel ban prohibit solid
 title: $:/fontawesome/glyph/ban
 
 <i class='fas fa-ban fa-10x'></i>

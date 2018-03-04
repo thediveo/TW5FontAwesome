@@ -1,9 +1,9 @@
 fa-default-style: fas
-fa-label: Map Marker-alt
+fa-label: Map Marker Alternate
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3c5
-tags: map-marker solid
+tags: map-marker gps solid
 title: $:/fontawesome/glyph/map-marker-alt
 
 <i class='fas fa-map-marker-alt fa-10x'></i>

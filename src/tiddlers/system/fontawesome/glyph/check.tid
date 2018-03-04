@@ -3,7 +3,7 @@ fa-label: Check
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f00c
-tags: checkmark done todo agree accept confirm tick ok solid
+tags: checkmark done todo agree accept confirm tick ok select solid
 title: $:/fontawesome/glyph/check
 
 <i class='fas fa-check fa-10x'></i>

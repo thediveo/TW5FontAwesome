@@ -3,7 +3,7 @@ fa-label: Thermometer Empty
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2cb
-tags: solid
+tags: status solid
 title: $:/fontawesome/glyph/thermometer-empty
 
 <i class='fas fa-thermometer-empty fa-10x'></i>

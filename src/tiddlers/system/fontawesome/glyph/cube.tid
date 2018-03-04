@@ -3,7 +3,7 @@ fa-label: Cube
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1b2
-tags: solid
+tags: package solid
 title: $:/fontawesome/glyph/cube
 
 <i class='fas fa-cube fa-10x'></i>

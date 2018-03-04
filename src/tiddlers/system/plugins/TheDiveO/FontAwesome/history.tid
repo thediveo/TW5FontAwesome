@@ -1,11 +1,19 @@
 created: 20140901110931199
-modified: 20180225205801664
+modified: 20180303190536975
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
 * ''develop''
+** adds missing new classes Chess and Logistics.
+
+* ''1.2.0''
+** updates to Font Awesome Free 5.0.8.
 ** adds category filtering to the cheatsheet.
 ** adds Font Awesome 5 category meta data.
+** brings a new (fully) automatic update and release mechanism:
+*** use `$ npm run update-fontawesome` to update the development files to the newest Font Awesome version that is available online.
+*** use `$ npm run release` to create the plugin release file(s).
+** upgrades to most recent version of the [[ThirdFlow|http://thediveo.github.io/ThirdFlow/]] plugin: this comes with a new automated release mechanism.
 ** refactors development command `--update-fontawesome` to directly download the most recent Font Awesome 5 Free package .zip from https://fontawesome.com. The only optional parameter to this command is `force` which forces re-updating, even if the font currently installed in the dev wiki is the same version as the one downloaded.
 ** upgrades ThirdFlow plugin and now uses the new automated release file generation mechanism.
 
@@ -14,19 +22,20 @@ type: text/vnd.tiddlywiki
 
 * ''1.1.1''
 ** upgrades to Font Awesome 5.0.4.
-** adds update/import command to ~FontAwesome 5 demo ~TiddlyWiki to update from a Font Awesome zip package. Use `--update-fontawesome` when running the plugin development ~TiddlyWiki under Node.js.
-*** The `--update-fontawesome` command expects the (path and) name of a Font Awesome zip package from which it will then update itself. There is no need to unpack the zip package. For instance:<div>
+** adds update/import command to ~FontAwesome 5 demo ~TiddlyWiki to update ~~from a Font Awesome zip package~~ [//online//]. Use `--update-fontawesome` when running the plugin development ~TiddlyWiki under Node.js.
+*** The `--update-fontawesome` command ~~expects the (path and) name of a Font Awesome zip package from which it will then update itself~~ [//has no parameters, or alternatively a single parameter `force`//]. ~~There is no need to unpack the zip package.~~ For instance:<div><strike>
 
 ```bash
 $ tiddlywiki editions/develop --verbose --update-fontawesome ~/Downloads/fontawesome-free-5.0.2-zip --server 8080 $:/core/save/all text/plain text/html
 ```
-</div>
-*** If for some reason you need to re-update from the same Font Awesome zip package, specify an additional `force` parameter after the zip package file name parameter. For instance:<div>
+
+</strike></div>
+*** If for some reason you need to re-update from the same Font Awesome zip package, specify an additional `force` parameter after the zip package file name parameter. For instance:<div><strike>
 
 ```bash
 $ tiddlywiki editions/develop --verbose --update-fontawesome ~/Downloads/fontawesome-free-5.0.2-zip force --server 8080 $:/core/save/all text/plain text/html
 ```
-</div>
+</strike></div>
 * ''1.1.0''
 ** upgrades to Font Awesome 5.0.2.
 ** upgrades user macros to allow to specify the Font Awesome font family: `fas` (//Font Awesome Solid//), `far` (//Font Awesome Regular//), and `fab` (//Font Awesome Brands//).

@@ -3,7 +3,7 @@ fa-label: Retweet
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f079
-tags: refresh reload share solid
+tags: refresh reload share swap solid
 title: $:/fontawesome/glyph/retweet
 
 <i class='fas fa-retweet fa-10x'></i>

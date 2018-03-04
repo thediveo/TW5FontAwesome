@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Box
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f466
+tags: solid
+title: $:/fontawesome/glyph/box
+
+<i class='fas fa-box fa-10x'></i>

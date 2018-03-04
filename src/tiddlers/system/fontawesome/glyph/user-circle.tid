@@ -3,7 +3,7 @@ fa-label: User Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2bd
-tags: solid regular
+tags: person man head profile account solid regular
 title: $:/fontawesome/glyph/user-circle
 
 <i class='fas fa-user-circle fa-10x'></i>
