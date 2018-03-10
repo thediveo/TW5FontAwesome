@@ -41,7 +41,7 @@ before_install:
 
 script:
   - npm test
-  - npm run update
+  #- npm run update
   - npm run release
     # Copy release files to our GitHub Pages for this project.
   - cp $OUTPUT_DIR/fontawesome.tid $GH_PAGES_OUTPUT_DIR
