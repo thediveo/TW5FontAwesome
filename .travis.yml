@@ -1,0 +1,78 @@
+# TW5FontAwesome: Travis Continous Integration
+#
+# Testing is only done in a very simplistic manner by running a TiddlyWiki
+# under Node.js which in turns loads all stuff. If that succeeds, the test
+# is considered to be good.
+#
+# Building first runs the --update-fontawesome command on this TiddlyWiki,
+# to ensure that the font files, as well as the associated meta data are
+# up-to-date.
+#
+# Building next runs the --release command on this TiddlyWiki, which then uses
+# ThirdFlow's automated release mechnism to generate the release files.
+#
+# Deploying consists of two things:
+# 1. Uploading the release files to the GitHub Pages for this GitHub project.
+# 2. Drafting a new release and attaching the release files to it.
+
+language: node_js
+node_js: 'node' # latest stable Node.js release
+
+branches:
+  only:
+    - /^\d+\.\d+\.\d+*$/
+
+env:
+  global:
+    - OUTPUT_DIR=editions/release/output
+    - GH_PAGES_DIR=gh-pages
+    - GH_PAGES_OUTPUT_DIR=$GH_PAGES_DIR/output
+
+cache:
+  directories:
+    - "node_modules"
+
+before_install:
+  # As we only want to update the release files in our GitHub Pages, we
+  # need to get the gh-pages branch first. Later, after updating the release
+  # files, the deployment will check in the complete gh-pages branch again
+  # -- including the updated release files.
+  - git clone --branch gh-pages --single-branch --depth 1 https://github.com/$TRAVIS_REPO_SLUG gh-pages
+
+script:
+  - npm test
+  - npm run update
+  - npm run release
+    # Copy release files to our GitHub Pages for this project.
+  - cp $OUTPUT_DIR/fontawesome.tid $GH_PAGES_OUTPUT_DIR
+  - cp $OUTPUT_DIR/fontawesome.html $GH_PAGES_OUTPUT_DIR
+
+deploy:
+  # Uploads new release files to GitHub pages...
+  - provider: pages
+    github-token:
+      secure: PlSVyfbiiItRmVcTMwgqibjMcWur9zzTyL60IKt/pXTOQi9vE3ggJhj1gqoMrmlNlpdQ+om7wFdIzmyEtogRT0PzvvUt+A6BCYfu/Wcy1ts5E3Eq7jvY5PVx3G3fNrlEbZlzDRub+ymRUdojqerCPSrRvC2gAkUx1x4ZmCnmlIcEK/2ibIbk0M8gr9UlrtdvtKenLJcwNO2lKx453tXxYtf/k/i8iFN1PD2p7DNdzg0Y4/qtH7E0mMhe+a9y1nbsET8t8fQYBo0h3VDnWLr7kIB89dB1kj4hv8W2eGmGY8hTivgAsV7cUbWhB+zrLDuAuuJRDxOu4lORhczoWHXm9IGD2D279a33IR4b90BT+wgICZqEzLen++7DWOCsiEjLzvL8lw/NtOGeqvXi+JO0ro5vYA9OpRxlTHqZbZIKx50roM1inGf7fBqG9vHw87VdAjS4jRm8WOQHg0WMgYz0KWSN28r4RM3jsy8r+dQIY8wiGk0BXy5hpHIlEXRktYH/LR8xIVB7YMApNzkv5kefFYNA2jmjEQ/NkX/f+FCytvVkwy7I1jrH9+yZ6MRICeUu1SCWYvctMu+ysPKiPV+xposgEOiG+tIezCLqshxVRD2SvE6qmblB31lnsOuUBMe/CEsbZsnwydH1gjQjBYiRONR4qPtaVCiZjUNmj1R7jdY=
+    skip_cleanup: true
+    keep-history: true
+    on:
+      repo: TheDiveO/ThirdFlow
+      tags: true
+    local-dir: $GH_PAGES_DIR
+
+  # Drafts a new release and attaches the release files...
+  - provider: releases
+    api_key:
+      secure: PlSVyfbiiItRmVcTMwgqibjMcWur9zzTyL60IKt/pXTOQi9vE3ggJhj1gqoMrmlNlpdQ+om7wFdIzmyEtogRT0PzvvUt+A6BCYfu/Wcy1ts5E3Eq7jvY5PVx3G3fNrlEbZlzDRub+ymRUdojqerCPSrRvC2gAkUx1x4ZmCnmlIcEK/2ibIbk0M8gr9UlrtdvtKenLJcwNO2lKx453tXxYtf/k/i8iFN1PD2p7DNdzg0Y4/qtH7E0mMhe+a9y1nbsET8t8fQYBo0h3VDnWLr7kIB89dB1kj4hv8W2eGmGY8hTivgAsV7cUbWhB+zrLDuAuuJRDxOu4lORhczoWHXm9IGD2D279a33IR4b90BT+wgICZqEzLen++7DWOCsiEjLzvL8lw/NtOGeqvXi+JO0ro5vYA9OpRxlTHqZbZIKx50roM1inGf7fBqG9vHw87VdAjS4jRm8WOQHg0WMgYz0KWSN28r4RM3jsy8r+dQIY8wiGk0BXy5hpHIlEXRktYH/LR8xIVB7YMApNzkv5kefFYNA2jmjEQ/NkX/f+FCytvVkwy7I1jrH9+yZ6MRICeUu1SCWYvctMu+ysPKiPV+xposgEOiG+tIezCLqshxVRD2SvE6qmblB31lnsOuUBMe/CEsbZsnwydH1gjQjBYiRONR4qPtaVCiZjUNmj1R7jdY=
+    skip_cleanup: true
+    target_commitish: $TRAVIS_COMMIT
+    tag_name: $TRAVIS_TAG
+    overwrite: true # overwrite existing release files
+    file:
+      - $OUTPUT_DIR/thirdflow.html
+      - $OUTPUT_DIR/thirdflow.tid
+    on:
+      repo: TheDiveO/ThirdFlow
+      tags: true
+    name: ThirdFlow plugin release $TRAVIS_TAG
+    body: 'see RELEASE.md'
+    draft: true
