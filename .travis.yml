@@ -68,8 +68,8 @@ deploy:
     tag_name: $TRAVIS_TAG
     overwrite: true # overwrite existing release files
     file:
-      - $OUTPUT_DIR/thirdflow.html
-      - $OUTPUT_DIR/thirdflow.tid
+      - $OUTPUT_DIR/fontawesome.html
+      - $OUTPUT_DIR/fontawesome.tid
     on:
       repo: TheDiveO/ThirdFlow
       tags: true
