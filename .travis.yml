@@ -55,7 +55,7 @@ deploy:
     skip_cleanup: true
     keep-history: true
     on:
-      repo: TheDiveO/ThirdFlow
+      repo: TheDiveO/TW5FontAwesome
       tags: true
     local-dir: $GH_PAGES_DIR
 
