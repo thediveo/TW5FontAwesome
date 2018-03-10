@@ -91,7 +91,7 @@ exports.fontAwesome5PackageDownloadInfo = function(logger) {
           return fa5comPage.evaluate(function() {
             return document
               .querySelector("a[href^='https://use.fontawesome.com/releases/']")
-                .href;
+              .href;
           });
       })
       // We've got the FA5 package download URL: so we now can extract the
