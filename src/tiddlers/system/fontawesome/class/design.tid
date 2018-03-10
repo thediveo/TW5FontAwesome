@@ -1,25 +1,24 @@
-created: 20180120124508325
 description: Design
-modified: 20180120125247600
-tags: 
 title: $:/fontawesome/class/design
-type: text/vnd.tiddlywiki
 
-adjust
-clone
-copy
-crop
-crosshairs
-cut
-edit
-eraser
-eye
-eye-dropper
+pen
 eye-slash
-object-group
+cut
+clone
 object-ungroup
-paint-brush
-paste
-pencil-alt
-save
+adjust
+eye
+pen-alt
+crosshairs
 tint
+edit
+copy
+object-group
+crop
+eye-dropper
+eraser
+pencil
+paste
+save
+paint-brush
+pencil-alt

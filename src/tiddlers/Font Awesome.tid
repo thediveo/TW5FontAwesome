@@ -1,6 +1,6 @@
 created: 20140829114514693
 creator: TheDiveO
-modified: 20180201173423222
+modified: 20180310183651199
 modifier: TheDiveO
 title: Font Awesome
 type: text/vnd.tiddlywiki
@@ -22,6 +22,7 @@ See our awesome [[Cheatsheet]].
 
 |!Font Awesome fonts version |"<$view tiddler="$:/plugins/TheDiveO/FontAwesome" field="fa-version" />" |
 |!# of free icons |<$count filter="[prefix[$:/fontawesome/glyph/]]"/> |
+|!# of icon categories |<$count filter="[prefix[$:/fontawesome/class/]]"/> |
 
 <<fa-lbadge glyph:"fa-info">>
 ! Information

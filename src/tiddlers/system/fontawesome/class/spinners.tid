@@ -1,18 +1,16 @@
-created: 20180120130254564
 description: Spinners
-modified: 20180120130322631
-tags: 
 title: $:/fontawesome/class/spinners
-type: text/vnd.tiddlywiki
 
-asterisk
-certificate
-circle-notch
-cog
-compass
-crosshairs
+badge
 life-ring
 snowflake
-spinner
+certificate
+cog
+crosshairs
 sun
+circle-notch
+spinner
+compass
 sync
+spinner-third
+asterisk

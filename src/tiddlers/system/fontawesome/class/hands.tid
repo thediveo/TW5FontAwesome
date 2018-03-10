@@ -1,21 +1,17 @@
-created: 20180120125358355
 description: Hands
-modified: 20180120125440811
-tags: 
 title: $:/fontawesome/class/hands
-type: text/vnd.tiddlywiki
 
-hand-lizard
-hand-paper
-hand-peace
-hand-point-down
-hand-point-left
 hand-point-right
-hand-point-up
-hand-pointer
-hand-rock
-hand-scissors
-hand-spock
+hand-point-down
+hand-peace
+hand-paper
+hand-point-left
 handshake
-thumbs-down
+hand-spock
+hand-pointer
+hand-point-up
+hand-lizard
 thumbs-up
+hand-scissors
+thumbs-down
+hand-rock

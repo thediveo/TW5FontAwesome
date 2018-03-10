@@ -1,21 +1,20 @@
-created: 20180120124349098
 description: Currency
-modified: 20180120125324250
-tags: 
 title: $:/fontawesome/class/currency
-type: text/vnd.tiddlywiki
 
+money-bill-alt
+ruble-sign
+yen-sign
 bitcoin
-btc
+shekel-sign
+usd-square
+won-sign
+gg-circle
+rupee-sign
+usd-circle
+lira-sign
+money-bill
 dollar-sign
+pound-sign
 euro-sign
 gg
-gg-circle
-lira-sign
-money-bill-alt
-pound-sign
-ruble-sign
-rupee-sign
-shekel-sign
-won-sign
-yen-sign
+btc

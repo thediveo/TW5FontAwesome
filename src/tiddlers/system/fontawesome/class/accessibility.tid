@@ -1,22 +1,18 @@
-created: 20180120123553229
 description: Accessibility
-modified: 20180120124755784
-tags: 
 title: $:/fontawesome/class/accessibility
-type: text/vnd.tiddlywiki
 
-accessible-icon
-american-sign-language-interpreting
-assistive-listening-systems
 audio-description
-blind
-braille
-closed-captioning
+accessible-icon
 deaf
+closed-captioning
+braille
+american-sign-language-interpreting
 low-vision
-phone-volume
-question-circle
+assistive-listening-systems
 sign-language
-tty
+blind
 universal-access
+question-circle
+tty
 wheelchair
+phone-volume
