@@ -1,26 +1,32 @@
-created: 20180120125523015
 description: Images
-modified: 20180120125548516
-tags: 
 title: $:/fontawesome/class/images
-type: text/vnd.tiddlywiki
 
-adjust
-bolt
-camera
-camera-retro
-clone
-clone
-compress
-expand
-eye
-eye-dropper
+portrait
 eye-slash
-file-image
-film
-id-badge
-id-card
+rectangle-landscape
+camera
 image
-images
-sliders-h
+clone
+adjust
+eye
+compress-wide
+sliders-v
+film
 tint
+id-badge
+sliders-v-square
+sliders-h-square
+file-image
+rectangle-wide
+eye-dropper
+images
+expand-wide
+film-alt
+rectangle-portrait
+camera-alt
+compress
+id-card
+expand
+bolt
+camera-retro
+sliders-h

@@ -1,20 +1,28 @@
-created: 20180120130104328
 description: Shapes
-modified: 20180120130251489
-tags: 
 title: $:/fontawesome/class/shapes
-type: text/vnd.tiddlywiki
 
-bookmark
-calendar
-certificate
 circle
-cloud
+badge
+bookmark
 comment
-file
-folder
-heart
+rectangle-landscape
 map-marker
-play
-square
+spade
+cloud
+diamond
+certificate
+ticket
+shield
 star
+triangle
+calendar
+octagon
+file
+heart
+rectangle-wide
+hexagon
+folder
+rectangle-portrait
+square
+play
+club

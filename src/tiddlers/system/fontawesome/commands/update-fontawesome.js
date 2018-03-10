@@ -78,13 +78,13 @@ Command.prototype.execute = function() {
 		;
 	})
 	.then(function(fa5pkginfo) {
-		self.logger.log("downloading zip package...");
+		self.logger.log("Downloading Font Awesome 5 Free zip package...");
 		return request.get({
 			uri: fa5pkginfo.url,
 			encoding: null // !!!IMPORTANT
 		})
 		.then(function(body) {
-			self.logger.log("downloaded zip package, size:", body.length);
+			self.logger.log("Downloaded zip package, size:", body.length);
 			fazip = new zip(body);
 
 			// Autodetect the Font Awesome version from the package contents.
@@ -248,6 +248,17 @@ Command.prototype.execute = function() {
 		  });
 
 		  self.logger.log("imported", glyphs, "glyphs");
+
+			// import class/category information
+			$tw.utils.each(fa5pkginfo.categories, function(category) {
+				self.logger.log("category:", category.label);
+				var tiddler = new $tw.Tiddler({
+					"title": "$:/fontawesome/class/" + category.name,
+					"description": category.label,
+					"text": category.icons.join("\r\n")
+				});
+				$tw.wiki.addTiddler(tiddler);
+			});
 
 		  self.logger.log("...update succeeded; plugin Font Awesome upgraded to version:", faversion);
 		})

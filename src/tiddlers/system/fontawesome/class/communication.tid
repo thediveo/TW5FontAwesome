@@ -1,38 +1,40 @@
-created: 20180120124212656
 description: Communication
-modified: 20180120125104350
-tags: 
 title: $:/fontawesome/class/communication
-type: text/vnd.tiddlywiki
 
-address-book
-address-card
-american-sign-language-interpreting
-assistive-listening-systems
-at
-bell
-bell-slash
-bluetooth
-bluetooth-b
-bullhorn
+phone-slash
 comment
-comment-alt
-comments
-envelope
-envelope-open
-envelope-square
-fax
-inbox
-language
-microphone
-microphone-slash
-mobile
-mobile-alt
-paper-plane
+bell-slash
 phone
+mobile-android
+envelope-open
+fax
+mobile-android-alt
+address-book
+bullhorn
+inbox-out
+paper-plane
+rss-square
+comment-alt
+address-card
+mobile-alt
+comments
+bluetooth
+wifi
+american-sign-language-interpreting
+at
+assistive-listening-systems
+language
+inbox-in
+envelope
+bluetooth-b
+bell
+microphone-slash
+microphone
+envelope-square
+mobile
+microphone-alt
+tty
 phone-square
 phone-volume
 rss
-rss-square
-tty
-wifi
+inbox

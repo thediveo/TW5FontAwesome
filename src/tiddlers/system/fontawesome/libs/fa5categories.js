@@ -96,7 +96,7 @@ exports.fontAwesome5Categories = function(logger) {
             getCategories(request.url);
           }
         });
-        return fa5comIconsPage.open("http://fontawesome.com/icons");
+        return fa5comIconsPage.open("https://fontawesome.com/icons");
       })
       // The icons web page has been loaded. We now wait for the
       // icon categories query to become fulfilled (or, resolved

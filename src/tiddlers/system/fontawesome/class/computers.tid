@@ -1,25 +1,27 @@
-created: 20180120124325196
 description: Computers
-modified: 20180120125120197
-tags: 
 title: $:/fontawesome/class/computers
-type: text/vnd.tiddlywiki
 
-desktop
-download
-hdd
-headphones
+tablet-alt
+mobile-android
+tablet-android-alt
 keyboard
-laptop
-microchip
-mobile
-mobile-alt
-plug
+upload
+mobile-android-alt
+desktop-alt
+tablet-android
 power-off
+headphones
+plug
+microchip
+desktop
+mobile-alt
+laptop
+tv-retro
+server
+hdd
+download
 print
 save
-server
+mobile
 tablet
-tablet-alt
 tv
-upload

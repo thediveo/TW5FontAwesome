@@ -1,16 +1,20 @@
-created: 20180303185913436
 description: Chess
-modified: 20180303185933882
-tags: 
 title: $:/fontawesome/class/chess
-type: text/vnd.tiddlywiki
 
-chess
-chess-bishop
-chess-board
-chess-king
-chess-knight
-chess-pawn
 chess-queen
-chess-rook
 square-full
+chess-pawn-alt
+chess-king-alt
+chess-knight-alt
+chess-bishop-alt
+chess-rook-alt
+chess-king
+chess-clock
+chess-pawn
+chess-bishop
+chess-knight
+chess-queen-alt
+chess-clock-alt
+chess-board
+chess-rook
+chess
