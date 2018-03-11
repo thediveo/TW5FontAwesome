@@ -1,5 +1,6 @@
-/output/tw5fontawesome.html
-/node_modules
+output/tw5fontawesome.html
+node_modules
 *.directory
 src/tiddlers/system/StoryList.tid
 src/tiddlers/drafts
+package-lock.json
