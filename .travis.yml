@@ -40,8 +40,8 @@ before_install:
   - git clone --branch gh-pages --single-branch --depth 1 https://github.com/$TRAVIS_REPO_SLUG gh-pages
 
 script:
-  - npm test
-  #- npm run update
+  #- npm test
+  - npm run update
   - npm run release
     # Copy release files to our GitHub Pages for this project.
   - cp $OUTPUT_DIR/fontawesome.tid $GH_PAGES_OUTPUT_DIR
@@ -50,8 +50,6 @@ script:
 deploy:
   # Uploads new release files to GitHub pages...
   - provider: pages
-    edge:             # temporary fix
-      branch: v1.8.47 # temporary fix
     github-token:
       secure: nUm4FY23wMQeriLJ/SPJkWsA5cdz7y9zZVCI5wh8No6TjZXJKStWrUXdD/LYpix7OHnFNQeAGsNLnF8ShB7j290JaNWzThU9I3K5aTr9Jj8VwPt7g+dQZYFM1CWyKxdlPLDzTPTLespcu+9/Q5CjhyaiLVfcALIuZ3OB/4vbmmjTv1mJl3XiLBtQuPk9/itpn/6KR09CAdI+18DeDqxRGkAkz3v/GBnPrYtzsbV7ExbQz+qrbmKdrZ7Ni/v+Dm+OCBd7gtQWoNstUY2ZHsz2fTRqpXtLbziSgiSQ02LYvQojrQw8v7bkIkxe1eKHGdK3WhtgGi0kH35jK75C6gFAStfwvhVNh5/Nx1WHmTJVU0EFlyocCHDF85mhltQUaYWaqaayuTab9jsZ/65uRv3L9TlaPNrCY8jenmdKjwo5w7M3uvWx6/WrOFMJvInP8howqBMdWlrGZtomqd8uQFhFBJvV1uu9D07tfOPNy2FtVQlVd45+AvZ2LgN1I0v+H0qDo3mtypVdaj5JSzpM/cnEE0ah5yzf4FGSxZiOIhAvPKuRLEEzY5q5e26ztyVVYdmCX+mpiMp4KzzCvwWFHkDxa4O0OjOncl97g7aLAjZbuOM2dgbMKSPd5TMxDm2wZJ6giVw9ZXqY3YtVxmCfHMNILbPj8el+HfCbzYmIxGx1OnY=
     skip_cleanup: true
