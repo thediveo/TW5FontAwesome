@@ -56,7 +56,7 @@ deploy:
     skip_cleanup: true
     keep-history: true
     on:
-      repo: TheDiveO/TW5FontAwesome
+      repo: $TRAVIS_REPO_SLUG
       tags: true
     local-dir: $GH_PAGES_DIR
 
@@ -72,8 +72,8 @@ deploy:
       - $OUTPUT_DIR/fontawesome.html
       - $OUTPUT_DIR/fontawesome.tid
     on:
-      repo: TheDiveO/ThirdFlow
+      repo: $TRAVIS_REPO_SLUG
       tags: true
-    name: ThirdFlow plugin release $TRAVIS_TAG
+    name: TW5FontAwesome plugin release $TRAVIS_TAG
     body: 'see RELEASE.md'
     draft: true
