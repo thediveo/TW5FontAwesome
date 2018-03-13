@@ -20,6 +20,7 @@ node_js: 'node' # latest stable Node.js release
 
 branches:
   only:
+    - master
     - /^\d+\.\d+\.\d+*$/
 
 env:
