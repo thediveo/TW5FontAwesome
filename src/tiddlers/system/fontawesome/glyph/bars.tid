@@ -3,7 +3,7 @@ fa-label: Bars
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0c9
-tags: menu drag reorder settings list ul ol checklist todo hamburger solid
+tags: menu drag reorder settings list ul ol checklist todo hamburger navigation nav solid
 title: $:/fontawesome/glyph/bars
 
 <i class='fas fa-bars fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Procedures
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f487
+tags: solid
+title: $:/fontawesome/glyph/procedures
+
+<i class='fas fa-procedures fa-10x'></i>

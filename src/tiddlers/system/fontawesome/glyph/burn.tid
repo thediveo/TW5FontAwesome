@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Burn
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f46a
+tags: energy solid
+title: $:/fontawesome/glyph/burn
+
+<i class='fas fa-burn fa-10x'></i>

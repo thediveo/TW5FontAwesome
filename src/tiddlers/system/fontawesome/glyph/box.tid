@@ -3,7 +3,7 @@ fa-label: Box
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f466
-tags: solid
+tags: package solid
 title: $:/fontawesome/glyph/box
 
 <i class='fas fa-box fa-10x'></i>

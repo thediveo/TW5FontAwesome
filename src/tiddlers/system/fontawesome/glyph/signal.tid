@@ -3,7 +3,7 @@ fa-label: signal
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f012
-tags: graph bars status solid
+tags: graph bars status online solid
 title: $:/fontawesome/glyph/signal
 
 <i class='fas fa-signal fa-10x'></i>

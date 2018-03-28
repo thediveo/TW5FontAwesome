@@ -3,7 +3,7 @@ fa-label: HDD
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f0a0
-tags: harddrive [[hard drive]] storage save solid regular
+tags: harddrive [[hard drive]] storage save machine solid regular
 title: $:/fontawesome/glyph/hdd
 
 <i class='fas fa-hdd fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Medical Briefcase
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f469
+tags: [[health briefcase]] solid
+title: $:/fontawesome/glyph/briefcase-medical
+
+<i class='fas fa-briefcase-medical fa-10x'></i>

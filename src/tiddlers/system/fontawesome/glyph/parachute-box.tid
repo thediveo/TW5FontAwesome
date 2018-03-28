@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Parachute Box
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4cd
+tags: aid assistance rescue supplies solid
+title: $:/fontawesome/glyph/parachute-box
+
+<i class='fas fa-parachute-box fa-10x'></i>

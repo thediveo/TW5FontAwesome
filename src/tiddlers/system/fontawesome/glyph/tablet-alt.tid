@@ -3,7 +3,7 @@ fa-label: Alternate Tablet
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3fa
-tags: tablet solid
+tags: device screen apple ipad kindle solid
 title: $:/fontawesome/glyph/tablet-alt
 
 <i class='fas fa-tablet-alt fa-10x'></i>

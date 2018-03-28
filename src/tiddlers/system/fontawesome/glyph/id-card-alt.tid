@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Identification Card Alternate
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f47f
+tags: demographics solid
+title: $:/fontawesome/glyph/id-card-alt
+
+<i class='fas fa-id-card-alt fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: ReadMe
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4d5
+tags: brands
+title: $:/fontawesome/glyph/readme
+
+<i class='fab fa-readme fa-10x'></i>

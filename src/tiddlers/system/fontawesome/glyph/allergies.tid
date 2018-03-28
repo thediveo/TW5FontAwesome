@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Allergies
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f461
+tags: intolerances pox hand freckles spots solid
+title: $:/fontawesome/glyph/allergies
+
+<i class='fas fa-allergies fa-10x'></i>

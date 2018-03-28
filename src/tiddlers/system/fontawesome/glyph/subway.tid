@@ -3,7 +3,7 @@ fa-label: Subway
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f239
-tags: solid
+tags: vehicle train railway machine transportation solid
 title: $:/fontawesome/glyph/subway
 
 <i class='fas fa-subway fa-10x'></i>

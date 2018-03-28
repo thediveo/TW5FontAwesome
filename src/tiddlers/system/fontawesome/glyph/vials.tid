@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Vials
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f493
+tags: [[lab results]] [[test tubes]] solid
+title: $:/fontawesome/glyph/vials
+
+<i class='fas fa-vials fa-10x'></i>
