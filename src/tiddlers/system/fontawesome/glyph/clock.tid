@@ -3,7 +3,7 @@ fa-label: Clock
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f017
-tags: watch timer late timestamp date solid regular
+tags: watch timer late timestamp date schedule solid regular
 title: $:/fontawesome/glyph/clock
 
 <i class='fas fa-clock fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Wine Glass
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4e3
+tags: solid
+title: $:/fontawesome/glyph/wine-glass
+
+<i class='fas fa-wine-glass fa-10x'></i>

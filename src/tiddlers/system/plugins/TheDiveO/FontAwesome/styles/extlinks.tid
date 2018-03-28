@@ -1,10 +1,13 @@
 created: 20170223100043117
-modified: 20171230210919487
+modified: 20180328191133975
 tags: $:/tags/Stylesheet
 title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks
 type: text/vnd.tiddlywiki
 
 \rules only filteredtranscludeinline transcludeinline macrodef macrocallinline html
+
+<$set name="cfg" value=<<fa5-cfgpath "decorate-extlinks">> >
+<$list filter=<<fa5-cfgfilterexpr>> >
 
 a[href^="http://"]:before {
   <<fa-plugin-font-solid>>
@@ -19,3 +22,6 @@ a[href^="https://"]:before {
   content: '\f023\202f';
   display: inline-block;
 }
+
+</$list>
+</$set>

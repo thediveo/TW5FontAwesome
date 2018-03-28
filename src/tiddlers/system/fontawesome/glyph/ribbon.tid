@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Ribbon
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4d6
+tags: cause badge pin lapel solid
+title: $:/fontawesome/glyph/ribbon
+
+<i class='fas fa-ribbon fa-10x'></i>

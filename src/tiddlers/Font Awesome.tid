@@ -1,6 +1,6 @@
 created: 20140829114514693
 creator: TheDiveO
-modified: 20180310183651199
+modified: 20180328190236751
 modifier: TheDiveO
 title: Font Awesome
 type: text/vnd.tiddlywiki
@@ -16,6 +16,11 @@ Yes, you ''don't need to install'' the font(s) in your operating system. The Fon
 ! Icon Cheatsheet
 
 See our awesome [[Cheatsheet]].
+
+<<fa-lbadge glyph:"fa-sliders-h">>
+! Tweaks
+
+Enable or disable [[link decoration|$:/plugins/TheDiveO/FontAwesome/ui/ControlPanel/FontAwesome]].
 
 <<fa-lbadge glyph:"fa-tachometer-alt">>
 ! Lies & Statistics

@@ -3,7 +3,7 @@ fa-label: Search Minus
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f010
-tags: magnify minify zoom smaller solid
+tags: magnify minify zoom smaller [[zoom out]] solid
 title: $:/fontawesome/glyph/search-minus
 
 <i class='fas fa-search-minus fa-10x'></i>

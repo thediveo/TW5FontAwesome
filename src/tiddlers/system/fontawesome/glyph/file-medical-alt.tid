@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Medical File Alternate
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f478
+tags: solid
+title: $:/fontawesome/glyph/file-medical-alt
+
+<i class='fas fa-file-medical-alt fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Seedling
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4d8
+tags: solid
+title: $:/fontawesome/glyph/seedling
+
+<i class='fas fa-seedling fa-10x'></i>

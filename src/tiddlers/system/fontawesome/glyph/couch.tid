@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Couch
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4b8
+tags: solid
+title: $:/fontawesome/glyph/couch
+
+<i class='fas fa-couch fa-10x'></i>

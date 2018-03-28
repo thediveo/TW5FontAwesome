@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: X-Ray
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f497
+tags: [[radiological images]] radiology solid
+title: $:/fontawesome/glyph/x-ray
+
+<i class='fas fa-x-ray fa-10x'></i>

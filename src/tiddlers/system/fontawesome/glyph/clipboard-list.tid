@@ -3,7 +3,7 @@ fa-label: Clipboard List
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f46d
-tags: solid
+tags: todo ul ol checklist finished completed done schedule intinerary solid
 title: $:/fontawesome/glyph/clipboard-list
 
 <i class='fas fa-clipboard-list fa-10x'></i>

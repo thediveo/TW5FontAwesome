@@ -4,7 +4,10 @@
    package metadata "package.json".
 */
 var $tw = require("tiddlywiki").TiddlyWiki();
-var args = "editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html";
-console.log("Booting TW:", args);
-$tw.boot.argv = args.split(" ");
+if (process.argv.length > 2) {
+  $tw.boot.argv = process.argv.slice(2);
+} else {
+  $tw.boot.argv = "editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html".split(" ");
+}
+console.log("Booting TW:", $tw.boot.argv.join(" "));
 $tw.boot.boot();

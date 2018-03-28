@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Donate
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4b9
+tags: give generosity solid
+title: $:/fontawesome/glyph/donate
+
+<i class='fas fa-donate fa-10x'></i>

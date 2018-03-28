@@ -3,7 +3,7 @@ fa-label: Heartbeat
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f21e
-tags: ekg [[vital signs]] solid
+tags: ekg [[vital signs]] lifeline solid
 title: $:/fontawesome/glyph/heartbeat
 
 <i class='fas fa-heartbeat fa-10x'></i>

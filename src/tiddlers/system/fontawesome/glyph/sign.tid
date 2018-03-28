@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Sign
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4d9
+tags: solid
+title: $:/fontawesome/glyph/sign
+
+<i class='fas fa-sign fa-10x'></i>

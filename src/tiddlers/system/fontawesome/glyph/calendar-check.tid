@@ -3,7 +3,7 @@ fa-label: Calendar Check
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f274
-tags: ok solid regular
+tags: todo done agree accept confirm ok select success appointment correct solid regular
 title: $:/fontawesome/glyph/calendar-check
 
 <i class='fas fa-calendar-check fa-10x'></i>

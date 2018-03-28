@@ -3,7 +3,7 @@ fa-label: headphones
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f025
-tags: sound listen music audio solid
+tags: sound listen music audio speaker solid
 title: $:/fontawesome/glyph/headphones
 
 <i class='fas fa-headphones fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Calendar
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f133
-tags: date time when event calendar-o solid regular
+tags: date time when event calendar-o schedule solid regular
 title: $:/fontawesome/glyph/calendar
 
 <i class='fas fa-calendar fa-10x'></i>

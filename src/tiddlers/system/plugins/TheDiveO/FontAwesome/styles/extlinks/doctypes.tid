@@ -1,11 +1,14 @@
 created: 20170301201914393
 list-after: $:/plugins/TheDiveO/FontAwesome/styles/extlinks
-modified: 20171230211925255
+modified: 20180328191142557
 tags: $:/tags/Stylesheet
 title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks/doctypes
 type: text/vnd.tiddlywiki
 
 \rules only filteredtranscludeinline transcludeinline macrodef macrocallinline html
+
+<$set name="cfg" value=<<fa5-cfgpath "decorate-extdoclinks">> >
+<$list filter=<<fa5-cfgfilterexpr>> >
 
 a[href$=".pdf"].tc-tiddlylink-external:before {
   <<fa-plugin-font-regular>>
@@ -31,3 +34,6 @@ a[href$=".tiff"].tc-tiddlylink-external:before {
   content: '\f1c5\202f';
   display: inline-block;
 }
+
+</$list>
+</$set>

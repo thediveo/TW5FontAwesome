@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Comment Slash
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4b3
+tags: solid
+title: $:/fontawesome/glyph/comment-slash
+
+<i class='fas fa-comment-slash fa-10x'></i>
