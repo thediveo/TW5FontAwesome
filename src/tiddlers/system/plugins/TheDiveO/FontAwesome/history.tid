@@ -1,7 +1,11 @@
 created: 20140901110931199
-modified: 20180310185049452
+modified: 20180328182337269
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
+
+* ''next''
+** updates to Font Awesome Free 5.0.9.
+** adds new categories //Charity//, //Chat//, and //Moving//.
 
 * ''1.2.1''
 ** adds missing category information.
