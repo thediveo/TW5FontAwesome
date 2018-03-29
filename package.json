@@ -1,6 +1,6 @@
 {
-  "name": "TW5FontAwesome",
-  "version": "1.2.2",
+  "name": "tw5-fontawesome",
+  "version": "1.2.3",
   "author": "TheDiveO",
   "description": "Font Awesome 5 for TiddlyWiki 5",
   "homepage": "https://github.com/TheDiveO/TW5FontAwesome.git",
@@ -25,7 +25,8 @@
     "phantom": ">=4.0.0",
     "request": ">=2.83.0",
     "request-promise-native": "^1.0.5",
-    "tiddlywiki": ">=5.1.15"
+    "tiddlywiki": ">=5.1.15",
+    "tw5-thirdflow": ">=1.2.0"
   },
   "engines": {
     "node": ">=4.8.0"
