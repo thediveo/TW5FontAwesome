@@ -4,3 +4,4 @@ node_modules
 src/tiddlers/system/StoryList.tid
 src/tiddlers/drafts
 package-lock.json
+npm-debug.log

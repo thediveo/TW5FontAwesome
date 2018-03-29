@@ -4,16 +4,13 @@
 # under Node.js which in turns loads all stuff. If that succeeds, the test
 # is considered to be good.
 #
-# Building first runs the --update-fontawesome command on this TiddlyWiki,
-# to ensure that the font files, as well as the associated meta data are
-# up-to-date.
-#
-# Building next runs the --release command on this TiddlyWiki, which then uses
+# Building runs the --release command on this TiddlyWiki, which then uses
 # ThirdFlow's automated release mechnism to generate the release files.
 #
-# Deploying consists of two things:
+# Deploying does three things:
 # 1. Uploading the release files to the GitHub Pages for this GitHub project.
-# 2. Drafting a new release and attaching the release files to it.
+# 2. Publishing the package on NPM.
+# 3. Drafting a new GitHub release and attaching the release files to it.
 
 language: node_js
 node_js: 'node' # latest stable Node.js release
@@ -49,7 +46,7 @@ script:
   - cp $OUTPUT_DIR/fontawesome.html $GH_PAGES_OUTPUT_DIR
 
 deploy:
-  # Uploads new release files to GitHub pages...
+  # Uploads new release files to the GitHub pages of our project...
   - provider: pages
     github-token:
       secure: nUm4FY23wMQeriLJ/SPJkWsA5cdz7y9zZVCI5wh8No6TjZXJKStWrUXdD/LYpix7OHnFNQeAGsNLnF8ShB7j290JaNWzThU9I3K5aTr9Jj8VwPt7g+dQZYFM1CWyKxdlPLDzTPTLespcu+9/Q5CjhyaiLVfcALIuZ3OB/4vbmmjTv1mJl3XiLBtQuPk9/itpn/6KR09CAdI+18DeDqxRGkAkz3v/GBnPrYtzsbV7ExbQz+qrbmKdrZ7Ni/v+Dm+OCBd7gtQWoNstUY2ZHsz2fTRqpXtLbziSgiSQ02LYvQojrQw8v7bkIkxe1eKHGdK3WhtgGi0kH35jK75C6gFAStfwvhVNh5/Nx1WHmTJVU0EFlyocCHDF85mhltQUaYWaqaayuTab9jsZ/65uRv3L9TlaPNrCY8jenmdKjwo5w7M3uvWx6/WrOFMJvInP8howqBMdWlrGZtomqd8uQFhFBJvV1uu9D07tfOPNy2FtVQlVd45+AvZ2LgN1I0v+H0qDo3mtypVdaj5JSzpM/cnEE0ah5yzf4FGSxZiOIhAvPKuRLEEzY5q5e26ztyVVYdmCX+mpiMp4KzzCvwWFHkDxa4O0OjOncl97g7aLAjZbuOM2dgbMKSPd5TMxDm2wZJ6giVw9ZXqY3YtVxmCfHMNILbPj8el+HfCbzYmIxGx1OnY=
@@ -59,6 +56,16 @@ deploy:
       repo: $TRAVIS_REPO_SLUG
       tags: true
     local-dir: $GH_PAGES_DIR
+
+  # Publish new release on NPM registry
+  - provider: npm
+    email: thediveo@gmx.eu
+    api_key:
+      secure: TuwxzUNb9/Hu+QU4R8RRk2NlpXpSfSe9DiecDzJPjA1FHUT8gEwH91kb4vtIz3nHmav3yLHGFbRTApdGyzvWxysOau403BuJQvvaInwQwbss97rk9sJKrll0SdSLjXZLifYLA8Jjsn1OalcKBXRBivDAHSA9E/1+Gvz9chyEnFdhwYGjXQc77QbZ/efi8MPSfw8gGfE64iXxoDC8QM6Ius1v1YaV1o4PEI2AbcZgRFRijxK0dFOe7kZFHkY0hgu4gb12nKa9ACpfMKMgjTh+R1Hiz2dBNHUI5gTK3g8kTv/LYrDm3czChha5TFWMHBgdAvM6juFPHV5FU/yJyOtbyAFVlWaStI48IsambMuKI6l6hyBRsQL9Zu/OnGQ58dX6TZuwfcMd5Xx9A2hYJEqNN29W6tzexCmO5vgUH0CbVaFrXGMKd+sCI96FokLPpTY/oZdbRQg/3EkuW2ZAhyUqI3J6v+xog1mNOLonT9ydgYrDn8cfZwZmpaC+qzQjeeMgxWW+c/Rqo0Zabh98wGi+AJeM2bDji6m5b7MWsg4tz6Mfv+XxK/VNLNR3WDYrPh/ZQU0hX/THeAbr039jle1V5zIl7PDdYd8QxpDiLQTWAmMca+5ZLDxQdgc8eerZYDpge4YfmPLuPypupj1nbMXTJDR2fvXHZA/njRfuMx+TA4g=
+    skip_cleanup: true
+    on:
+      repo: TheDiveO/ThirdFlow
+      tags: true
 
   # Drafts a new release and attaches the release files...
   - provider: releases
@@ -75,5 +82,5 @@ deploy:
       repo: $TRAVIS_REPO_SLUG
       tags: true
     name: TW5FontAwesome plugin release $TRAVIS_TAG
-    body: 'see RELEASE.md'
+    body: 'see plugin history tiddler'
     draft: true
