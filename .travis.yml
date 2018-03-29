@@ -64,7 +64,7 @@ deploy:
       secure: TuwxzUNb9/Hu+QU4R8RRk2NlpXpSfSe9DiecDzJPjA1FHUT8gEwH91kb4vtIz3nHmav3yLHGFbRTApdGyzvWxysOau403BuJQvvaInwQwbss97rk9sJKrll0SdSLjXZLifYLA8Jjsn1OalcKBXRBivDAHSA9E/1+Gvz9chyEnFdhwYGjXQc77QbZ/efi8MPSfw8gGfE64iXxoDC8QM6Ius1v1YaV1o4PEI2AbcZgRFRijxK0dFOe7kZFHkY0hgu4gb12nKa9ACpfMKMgjTh+R1Hiz2dBNHUI5gTK3g8kTv/LYrDm3czChha5TFWMHBgdAvM6juFPHV5FU/yJyOtbyAFVlWaStI48IsambMuKI6l6hyBRsQL9Zu/OnGQ58dX6TZuwfcMd5Xx9A2hYJEqNN29W6tzexCmO5vgUH0CbVaFrXGMKd+sCI96FokLPpTY/oZdbRQg/3EkuW2ZAhyUqI3J6v+xog1mNOLonT9ydgYrDn8cfZwZmpaC+qzQjeeMgxWW+c/Rqo0Zabh98wGi+AJeM2bDji6m5b7MWsg4tz6Mfv+XxK/VNLNR3WDYrPh/ZQU0hX/THeAbr039jle1V5zIl7PDdYd8QxpDiLQTWAmMca+5ZLDxQdgc8eerZYDpge4YfmPLuPypupj1nbMXTJDR2fvXHZA/njRfuMx+TA4g=
     skip_cleanup: true
     on:
-      repo: TheDiveO/ThirdFlow
+      repo: $TRAVIS_REPO_SLUG
       tags: true
 
   # Drafts a new release and attaches the release files...
