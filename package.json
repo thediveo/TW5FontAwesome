@@ -1,11 +1,15 @@
 {
   "name": "tw5-fontawesome",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "author": "TheDiveO",
   "description": "Font Awesome 5 for TiddlyWiki 5",
   "homepage": "https://github.com/TheDiveO/TW5FontAwesome.git",
   "license": "(MIT)",
   "bugs": "https://github.com/TheDiveO/TW5FontAwesome/issues",
+  "keywords": [
+    "tiddlywiki", "tiddlywiki5", "wiki", "plugin",
+    "fontawesome", "fontawesome5"
+  ],
   "main": "twserver.js",
   "scripts": {
     "start": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html & echo $! > tw.pid",
