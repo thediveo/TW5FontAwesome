@@ -1,5 +1,5 @@
 created: 20180101192101902
-modified: 20180303190407960
+modified: 20180402165525277
 tags: 
 title: Cheatsheet
 type: text/vnd.tiddlywiki
@@ -17,10 +17,11 @@ type: text/vnd.tiddlywiki
 <i class="$fam$ fa-$id$ fa-$size$ $classes$"></i>
 \end
 
-\define icon-box(fam, id)
+\define icon-box(fam, id, unicodepoint)
   <div class="chsh-glyph-box">
     <div class="chsh-glyph-icon"><$macrocall $name="fa-icon" fam=$fam$ id=$id$ size=<<fa-size>>/></div>
     <div class="chsh-glyph-id">$fam$ fa-$id$</div>
+    <div class="chsh-unicode-codepoint">$unicodepoint$</div>
   </div>
 \end
 
@@ -83,11 +84,13 @@ type: text/vnd.tiddlywiki
         <$list filter="[enlist<glyphs>]">
 		  <!-- -->
           <$set name="glyph-fam" value={{!!fa-default-style}}>
-            <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-base>]">
-              <$list variable="glyph-fam" filter="[all[current]list[!!fa-style-classes]inlist<css-class-filters>]">
-                <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> />
-              </$list>
-            </$set>
+          <$set name="glyph-id" filter="[all[current]removeprefix<fa-glyph-base>]">
+          <$set name="unicodepoint" value={{!!fa-unicode}}>
+            <$list variable="glyph-fam" filter="[all[current]list[!!fa-style-classes]inlist<css-class-filters>]">
+              <$macrocall $name="icon-box" fam=<<glyph-fam>> id=<<glyph-id>> unicodepoint=<<unicodepoint>> />
+            </$list>
+          </$set>
+          </$set>
           </$set>
 		  <!-- -->
         </$list>
