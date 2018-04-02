@@ -1,5 +1,5 @@
 created: 20180101214352355
-modified: 20180120141938672
+modified: 20180402165608512
 tags: $:/tags/Stylesheet
 title: $:/fontawesome/ui/Cheatsheet Styling
 type: text/css
@@ -52,9 +52,12 @@ div.chsh-glyph-icon {
   margin: 0 auto;
 }
 
-div.chsh-glyph-id {
+div.chsh-glyph-id, div.chsh-unicode-codepoint {
   margin: 0 auto;
   opacity: 0.5;
   font-size: 75%;
+}
+
+div.chsh-glyph-id {
   margin-top: 2ex;
 }
