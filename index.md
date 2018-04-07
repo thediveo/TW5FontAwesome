@@ -7,7 +7,7 @@ and then drag and drop it into your TiddlyWiki in order to enjoy
 
 There is no need to install the font(s) into your operating system in order to use it with TiddlyWiki&nbsp;5. Instead, simply drop this plugin into your TiddlyWiki and that's it.
 
-Our <i class="fas fa-eye"/>&nbsp;[plugin demo wiki](output/fontawesome.html) even features an interactive icon cheatsheet...
+Our <i class="fas fa-eye"/>&nbsp;[plugin demo wiki](output/fontawesome.html) even features an interactive _offline_ icon cheatsheet...
 
 ![Screenshot Icon Cheatsheet of TW5FontAwesome Plugin](screenshot tw5fa5 cheatsheet.png)
 
