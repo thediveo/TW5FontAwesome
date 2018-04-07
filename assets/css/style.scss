@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import "media-narrow";
+
+div.download {
+  margin-bottom: 0;
+}
+
+div.download + div.download {
+  margin-top: 8px; // ugh, absolute pixel values :(
+}
+
+div.download + p {
+  margin-top: 16px;
+}
+
+// Tweak too-narrow line spacing in headings.
+h1, h2, h3 {
+    line-height: 1.3;
+}
+
+// Fix the broken hover rule which causes ugly reflows all the time.
+a:hover, a:focus {
+  text-decoration: underline !important;
+  font-weight: inherit !important;
+  text-decoration-skip-ink: auto !important;
+}
+
+// Make it look like the vanilla TW5 theme.
+code {
+  color: #dd1144;
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+  white-space: pre-wrap;
+  padding: 0 3px 2px;
+  border-radius: 3px;
+}
+
+@import "fontawesome-all";
+@import "fontawesome-site";

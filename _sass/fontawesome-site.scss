@@ -1,0 +1,19 @@
+header h1::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f1e6';
+  padding-right: 0.3ch;
+}
+
+header .download a::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f019';
+  padding-right: 0.3ch;
+}
+
+header .view a::before {
+  font-family: 'Font Awesome 5 Brands';
+  content: '\f09b';
+  padding-right: 0.3ch;
+}

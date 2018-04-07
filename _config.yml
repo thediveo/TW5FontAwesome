@@ -1,0 +1,14 @@
+title: TW5FontAwesome
+description: Brings Font Awesome Free 5 to TiddlyWiki 5.
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-minimal
+github:
+  zip_url: https://github.com/TheDiveO/TW5FontAwesome/zipball/master
+  tar_url: https://github.com/TheDiveO/TW5FontAwesome/tarball/master
+project_downloads:
+  fontawesome_plugin:
+    description: "TW5FontAwesome plugin"
+    url: output/fontawesome.tid
+gems:
+  - jekyll-mentions
