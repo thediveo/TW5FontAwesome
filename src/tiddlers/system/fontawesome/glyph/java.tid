@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Java
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4e4
+tags: brands
+title: $:/fontawesome/glyph/java
+
+<i class='fab fa-java fa-10x'></i>
