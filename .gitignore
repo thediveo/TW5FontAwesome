@@ -1,7 +1,9 @@
-output/tw5fontawesome.html
-node_modules
-*.directory
+.drafts/
+.directory
+.project
+node_modules/
+npm-debug.log
+package-lock.json
+Thumbs.db
 src/tiddlers/system/StoryList.tid
 src/tiddlers/drafts
-package-lock.json
-npm-debug.log

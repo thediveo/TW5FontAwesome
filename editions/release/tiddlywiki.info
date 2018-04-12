@@ -1,22 +1,22 @@
 {
-    "includeWikis": [
-		    "../../src"
-    ],
-    "config": {
-		    "disable-hfs": "yes"
-    },
-    "plugins": [
-        "tiddlywiki/codemirror",
-        "tiddlywiki/highlight"
-    ],
-    "build": {
-    		"release": [
-            "--releaseplugins",
-            "--releasedemowiki"
-    		]
-    },
-    "themes": [
-        "tiddlywiki/vanilla",
-        "tiddlywiki/snowwhite"
-    ]
+  "includeWikis": [
+    "../../src"
+  ],
+  "config": {
+    "disable-hfs": "yes"
+  },
+  "plugins": [
+    "tiddlywiki/codemirror",
+    "tiddlywiki/highlight"
+  ],
+  "build": {
+		"release": [
+      "--releaseplugins",
+      "--releasedemowiki"
+		]
+  },
+  "themes": [
+    "tiddlywiki/vanilla",
+    "tiddlywiki/snowwhite"
+  ]
 }
