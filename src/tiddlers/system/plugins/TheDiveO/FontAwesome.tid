@@ -2,7 +2,7 @@ author: TheDiveO
 core-version: >=5.1.0
 created: 20140901105647564
 description: FontAwesome embedded font support for TW5
-fa-version: 5.0.9
+fa-version: 5.0.10
 list: readme license history
 modified: 20180402165342923
 plugin-type: plugin

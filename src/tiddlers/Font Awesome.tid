@@ -1,6 +1,6 @@
 created: 20140829114514693
 creator: TheDiveO
-modified: 20180328190236751
+modified: 20180412161204226
 modifier: TheDiveO
 title: Font Awesome
 type: text/vnd.tiddlywiki
@@ -25,7 +25,7 @@ Enable or disable [[link decoration|$:/plugins/TheDiveO/FontAwesome/ui/ControlPa
 <<fa-lbadge glyph:"fa-tachometer-alt">>
 ! Lies & Statistics
 
-|!Font Awesome fonts version |"<$view tiddler="$:/plugins/TheDiveO/FontAwesome" field="fa-version" />" |
+|!Font Awesome fonts version |<code><$view tiddler="$:/plugins/TheDiveO/FontAwesome" field="fa-version" /></code> |
 |!# of free icons |<$count filter="[prefix[$:/fontawesome/glyph/]]"/> |
 |!# of icon categories |<$count filter="[prefix[$:/fontawesome/class/]]"/> |
 
