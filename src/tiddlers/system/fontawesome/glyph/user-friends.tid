@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Friends
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f500
+tags: solid
+title: $:/fontawesome/glyph/user-friends
+
+<i class='fas fa-user-friends fa-10x'></i>

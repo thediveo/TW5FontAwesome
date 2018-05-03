@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Creative Commons Remix
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4ee
+tags: brands
+title: $:/fontawesome/glyph/creative-commons-remix
+
+<i class='fab fa-creative-commons-remix fa-10x'></i>

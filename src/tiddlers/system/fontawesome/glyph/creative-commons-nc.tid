@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Creative Commons Noncommercial
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4e8
+tags: brands
+title: $:/fontawesome/glyph/creative-commons-nc
+
+<i class='fab fa-creative-commons-nc fa-10x'></i>

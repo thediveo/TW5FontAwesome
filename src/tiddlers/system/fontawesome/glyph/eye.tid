@@ -1,9 +1,9 @@
 fa-default-style: fas
 fa-label: Eye
-fa-style-classes: fas
-fa-styles: solid
+fa-style-classes: fas far
+fa-styles: solid regular
 fa-unicode: f06e
-tags: show visible views see seen sight optic solid
+tags: show visible views see seen sight optic solid regular
 title: $:/fontawesome/glyph/eye
 
 <i class='fas fa-eye fa-10x'></i>

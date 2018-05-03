@@ -2,13 +2,13 @@ author: TheDiveO
 core-version: >=5.1.0
 created: 20140901105647564
 description: FontAwesome embedded font support for TW5
-fa-version: 5.0.10
+fa-version: 5.0.11
 list: readme license history
-modified: 20180402165342923
+modified: 20180503154855855
 plugin-type: plugin
 source: https://github.com/TheDiveO/TW5FontAwesome
 title: $:/plugins/TheDiveO/FontAwesome
 type: application/json
-version: 1.2.4
+version: 1.2.6
 
 {"tiddlers":{}}

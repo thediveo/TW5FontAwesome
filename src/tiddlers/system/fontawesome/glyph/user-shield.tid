@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Shield
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f505
+tags: solid
+title: $:/fontawesome/glyph/user-shield
+
+<i class='fas fa-user-shield fa-10x'></i>

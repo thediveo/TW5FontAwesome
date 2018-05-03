@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Mastodon
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4f6
+tags: brands
+title: $:/fontawesome/glyph/mastodon
+
+<i class='fab fa-mastodon fa-10x'></i>
