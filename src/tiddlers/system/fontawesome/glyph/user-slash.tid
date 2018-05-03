@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Slash
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f506
+tags: solid
+title: $:/fontawesome/glyph/user-slash
+
+<i class='fas fa-user-slash fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Tie
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f508
+tags: solid
+title: $:/fontawesome/glyph/user-tie
+
+<i class='fas fa-user-tie fa-10x'></i>

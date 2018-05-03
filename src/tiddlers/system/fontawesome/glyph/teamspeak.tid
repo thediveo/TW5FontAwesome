@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: TeamSpeak
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4f9
+tags: brands
+title: $:/fontawesome/glyph/teamspeak
+
+<i class='fab fa-teamspeak fa-10x'></i>

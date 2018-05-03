@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: R
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4f7
+tags: brands
+title: $:/fontawesome/glyph/r
+
+<i class='fab fa-r fa-10x'></i>

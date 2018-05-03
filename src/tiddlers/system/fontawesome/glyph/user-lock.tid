@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Lock
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f502
+tags: solid
+title: $:/fontawesome/glyph/user-lock
+
+<i class='fas fa-user-lock fa-10x'></i>

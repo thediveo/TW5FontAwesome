@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Keybase
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4f5
+tags: brands
+title: $:/fontawesome/glyph/keybase
+
+<i class='fab fa-keybase fa-10x'></i>

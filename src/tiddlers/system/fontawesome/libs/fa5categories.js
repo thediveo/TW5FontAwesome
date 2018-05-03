@@ -45,7 +45,7 @@ exports.fontAwesome5Categories = function(logger) {
               "content-type": "application/x-www-form-urlencoded",
               "Origin": "https://fontawesome.com",
             },
-            data:               '{"params":"query=*&hitsPerPage=1000&page=0&facetFilters=%5B%5B%22type%3Acategory%22%5D%5D"}'
+            data: '{"params":"query=*&hitsPerPage=1000&page=0&facetFilters=%5B%5B%22type%3Acategory%22%5D%5D"}'
           })
           .then(function postStatus(status) {
             if (status !== "success") {
