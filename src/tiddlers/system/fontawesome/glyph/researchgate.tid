@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Researchgate
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4f8
+tags: brands
+title: $:/fontawesome/glyph/researchgate
+
+<i class='fab fa-researchgate fa-10x'></i>

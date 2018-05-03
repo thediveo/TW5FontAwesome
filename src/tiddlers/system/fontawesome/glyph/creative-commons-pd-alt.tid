@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Creative Commons Public Domain Alternate
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4ed
+tags: brands
+title: $:/fontawesome/glyph/creative-commons-pd-alt
+
+<i class='fab fa-creative-commons-pd-alt fa-10x'></i>

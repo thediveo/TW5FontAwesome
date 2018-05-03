@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Edit
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4ff
+tags: solid
+title: $:/fontawesome/glyph/user-edit
+
+<i class='fas fa-user-edit fa-10x'></i>

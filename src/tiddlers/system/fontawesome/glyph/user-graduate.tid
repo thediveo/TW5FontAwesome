@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Graduate
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f501
+tags: solid
+title: $:/fontawesome/glyph/user-graduate
+
+<i class='fas fa-user-graduate fa-10x'></i>

@@ -1,9 +1,9 @@
 fa-default-style: fas
 fa-label: Comment Dots
-fa-style-classes: fas
-fa-styles: solid
+fa-style-classes: fas far
+fa-styles: solid regular
 fa-unicode: f4ad
-tags: solid
+tags: solid regular
 title: $:/fontawesome/glyph/comment-dots
 
 <i class='fas fa-comment-dots fa-10x'></i>

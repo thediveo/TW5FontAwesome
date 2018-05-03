@@ -88,11 +88,15 @@ exports.fontAwesome5PackageDownloadInfo = function(logger) {
       // now we can start retrieving the FA5 package download URL...
       .then(function pageCompletelyLoaded(readyState) {
         logger.log("Font Awesome 5 home page completely loaded.");
-          return fa5comPage.evaluate(function() {
+          var url = fa5comPage.evaluate(function() {
             return document
               .querySelector("a[href^='https://use.fontawesome.com/releases/']")
               .href;
           });
+          if (!url) {
+            reject("Failed to locate release package download URL");
+          }
+          return url;
       })
       // We've got the FA5 package download URL: so we now can extract the
       // package version information from this URL.

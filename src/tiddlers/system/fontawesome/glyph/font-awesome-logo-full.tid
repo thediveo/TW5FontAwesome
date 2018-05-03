@@ -1,0 +1,9 @@
+fa-default-style: far
+fa-label: Font Awesome Full Logo
+fa-style-classes: far fas fab
+fa-styles: regular solid brands
+fa-unicode: f4e6
+tags: regular solid brands
+title: $:/fontawesome/glyph/font-awesome-logo-full
+
+<i class='far fa-font-awesome-logo-full fa-10x'></i>

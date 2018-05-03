@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Check
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4fc
+tags: solid
+title: $:/fontawesome/glyph/user-check
+
+<i class='fas fa-user-check fa-10x'></i>

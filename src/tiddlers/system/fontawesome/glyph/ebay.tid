@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: eBay
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f4f4
+tags: brands
+title: $:/fontawesome/glyph/ebay
+
+<i class='fab fa-ebay fa-10x'></i>
