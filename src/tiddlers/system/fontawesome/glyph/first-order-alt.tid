@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Alternate First Order
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f50a
+tags: brands
+title: $:/fontawesome/glyph/first-order-alt
+
+<i class='fab fa-first-order-alt fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Phoenix Squadron
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f511
+tags: brands
+title: $:/fontawesome/glyph/phoenix-squadron
+
+<i class='fab fa-phoenix-squadron fa-10x'></i>
