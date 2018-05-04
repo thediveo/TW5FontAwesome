@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Sith
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f512
+tags: brands
+title: $:/fontawesome/glyph/sith
+
+<i class='fab fa-sith fa-10x'></i>

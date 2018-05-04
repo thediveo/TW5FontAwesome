@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Old Republic
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f510
+tags: brands
+title: $:/fontawesome/glyph/old-republic
+
+<i class='fab fa-old-republic fa-10x'></i>

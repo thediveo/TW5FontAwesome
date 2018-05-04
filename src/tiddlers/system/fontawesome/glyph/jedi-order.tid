@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Jedi Order
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f50e
+tags: brands
+title: $:/fontawesome/glyph/jedi-order
+
+<i class='fab fa-jedi-order fa-10x'></i>
