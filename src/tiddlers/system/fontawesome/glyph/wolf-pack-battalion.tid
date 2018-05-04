@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Wolf Pack-battalion
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f514
+tags: brands
+title: $:/fontawesome/glyph/wolf-pack-battalion
+
+<i class='fab fa-wolf-pack-battalion fa-10x'></i>
