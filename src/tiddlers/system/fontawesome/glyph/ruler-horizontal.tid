@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Ruler Horizontal
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f547
+tags: solid
+title: $:/fontawesome/glyph/ruler-horizontal
+
+<i class='fas fa-ruler-horizontal fa-10x'></i>

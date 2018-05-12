@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Divide
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f529
+tags: solid
+title: $:/fontawesome/glyph/divide
+
+<i class='fas fa-divide fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Dice Six
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f526
+tags: gambling roll game chance solid
+title: $:/fontawesome/glyph/dice-six
+
+<i class='fas fa-dice-six fa-10x'></i>

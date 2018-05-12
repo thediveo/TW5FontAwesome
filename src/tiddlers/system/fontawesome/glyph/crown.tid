@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Crown
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f521
+tags: solid
+title: $:/fontawesome/glyph/crown
+
+<i class='fas fa-crown fa-10x'></i>
