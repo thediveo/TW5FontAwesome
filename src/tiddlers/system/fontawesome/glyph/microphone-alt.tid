@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Microphone
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f3c9
+tags: record voice sound solid
+title: $:/fontawesome/glyph/microphone-alt
+
+<i class='fas fa-microphone-alt fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Memory
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f538
+tags: RAM DIMM solid
+title: $:/fontawesome/glyph/memory
+
+<i class='fas fa-memory fa-10x'></i>

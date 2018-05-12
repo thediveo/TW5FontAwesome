@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Chalkboard
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f51b
+tags: school learning blackboard whiteboard writing teaching solid
+title: $:/fontawesome/glyph/chalkboard
+
+<i class='fas fa-chalkboard fa-10x'></i>

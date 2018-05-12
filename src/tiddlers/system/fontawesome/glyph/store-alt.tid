@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Store
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f54f
+tags: solid
+title: $:/fontawesome/glyph/store-alt
+
+<i class='fas fa-store-alt fa-10x'></i>

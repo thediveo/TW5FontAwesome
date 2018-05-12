@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Glasses
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f530
+tags: spectacles reading hipster sight foureyes nerd solid
+title: $:/fontawesome/glyph/glasses
+
+<i class='fas fa-glasses fa-10x'></i>

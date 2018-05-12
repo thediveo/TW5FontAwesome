@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Toolbox
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f552
+tags: tools repair fix container settings admin solid
+title: $:/fontawesome/glyph/toolbox
+
+<i class='fas fa-toolbox fa-10x'></i>

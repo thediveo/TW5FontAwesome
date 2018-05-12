@@ -4,9 +4,12 @@ title: $:/fontawesome/class/business
 phone-slash
 pen
 badge
+glasses
 cut
+wallet
 building
 phone
+balance-scale-right
 file-alt
 envelope-open
 fax
@@ -20,6 +23,7 @@ address-book
 bullhorn
 paperclip
 edit
+balance-scale-left
 calendar
 sitemap
 chart-bar
@@ -46,9 +50,11 @@ badge-check
 pen-square
 coffee
 folder
+stream
 tasks
 pencil
 paste
+project-diagram
 envelope
 save
 birthday-cake

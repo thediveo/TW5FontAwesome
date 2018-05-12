@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: School
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f549
+tags: solid
+title: $:/fontawesome/glyph/school
+
+<i class='fas fa-school fa-10x'></i>

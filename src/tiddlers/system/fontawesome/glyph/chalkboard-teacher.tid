@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Chalkboard Teacher
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f51c
+tags: school learning blackboard whiteboard writing instructor professor solid
+title: $:/fontawesome/glyph/chalkboard-teacher
+
+<i class='fas fa-chalkboard-teacher fa-10x'></i>

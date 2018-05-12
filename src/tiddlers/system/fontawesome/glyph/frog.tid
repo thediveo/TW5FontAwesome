@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Frog
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f52e
+tags: kermit wart prince kiss toad bullfrog solid
+title: $:/fontawesome/glyph/frog
+
+<i class='fas fa-frog fa-10x'></i>

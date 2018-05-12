@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Less Than Equal To
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f537
+tags: solid
+title: $:/fontawesome/glyph/less-than-equal
+
+<i class='fas fa-less-than-equal fa-10x'></i>

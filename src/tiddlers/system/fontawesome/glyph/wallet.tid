@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Wallet
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f555
+tags: solid
+title: $:/fontawesome/glyph/wallet
+
+<i class='fas fa-wallet fa-10x'></i>

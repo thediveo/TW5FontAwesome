@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Gas Pump
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f52f
+tags: solid
+title: $:/fontawesome/glyph/gas-pump
+
+<i class='fas fa-gas-pump fa-10x'></i>

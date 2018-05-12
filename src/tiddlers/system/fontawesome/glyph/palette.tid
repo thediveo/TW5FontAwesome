@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Palette
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f53f
+tags: solid
+title: $:/fontawesome/glyph/palette
+
+<i class='fas fa-palette fa-10x'></i>
