@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Book Open
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f518
+tags: [[open book]] reading solid
+title: $:/fontawesome/glyph/book-open
+
+<i class='fas fa-book-open fa-10x'></i>

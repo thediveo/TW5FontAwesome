@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Wavy Money Bill
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f53b
+tags: solid
+title: $:/fontawesome/glyph/money-bill-wave-alt
+
+<i class='fas fa-money-bill-wave-alt fa-10x'></i>

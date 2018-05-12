@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Dice Four
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f524
+tags: gambling roll game chance solid
+title: $:/fontawesome/glyph/dice-four
+
+<i class='fas fa-dice-four fa-10x'></i>

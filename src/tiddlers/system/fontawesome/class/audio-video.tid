@@ -4,6 +4,7 @@ title: $:/fontawesome/class/audio-video
 circle
 forward
 rectangle-landscape
+broadcast-tower
 repeat
 redo
 stop
@@ -37,6 +38,7 @@ film-alt
 repeat-1-alt
 volume-off
 rectangle-portrait
+microphone-alt-slash
 eject
 file-video
 video

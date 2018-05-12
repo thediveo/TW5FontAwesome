@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Feather
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f52d
+tags: solid
+title: $:/fontawesome/glyph/feather
+
+<i class='fas fa-feather fa-10x'></i>

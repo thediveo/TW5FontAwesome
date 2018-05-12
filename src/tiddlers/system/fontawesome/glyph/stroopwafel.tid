@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Stroopwafel
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f551
+tags: food sweets dessert waffle solid
+title: $:/fontawesome/glyph/stroopwafel
+
+<i class='fas fa-stroopwafel fa-10x'></i>

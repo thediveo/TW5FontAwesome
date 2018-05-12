@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Smoking Ban
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f54d
+tags: [[no smoking]] non-smoking solid
+title: $:/fontawesome/glyph/smoking-ban
+
+<i class='fas fa-smoking-ban fa-10x'></i>

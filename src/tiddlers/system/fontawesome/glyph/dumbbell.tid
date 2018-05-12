@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Dumbbell
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f44b
+tags: solid
+title: $:/fontawesome/glyph/dumbbell
+
+<i class='fas fa-dumbbell fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Robot
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f544
+tags: solid
+title: $:/fontawesome/glyph/robot
+
+<i class='fas fa-robot fa-10x'></i>

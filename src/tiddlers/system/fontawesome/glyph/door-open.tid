@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Door Open
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f52b
+tags: solid
+title: $:/fontawesome/glyph/door-open
+
+<i class='fas fa-door-open fa-10x'></i>

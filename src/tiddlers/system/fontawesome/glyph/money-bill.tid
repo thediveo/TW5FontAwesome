@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Money Bill
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f0d6
+tags: cash money buy checkout purchase payment price solid
+title: $:/fontawesome/glyph/money-bill
+
+<i class='fas fa-money-bill fa-10x'></i>
