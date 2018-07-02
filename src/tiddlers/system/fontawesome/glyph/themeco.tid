@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Themeco
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f5c6
+tags: brands
+title: $:/fontawesome/glyph/themeco
+
+<i class='fab fa-themeco fa-10x'></i>

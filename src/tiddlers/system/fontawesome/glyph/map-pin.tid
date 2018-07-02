@@ -3,7 +3,7 @@ fa-label: Map Pin
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f276
-tags: solid
+tags: address coordinates gps localize location map marker place position travel where solid
 title: $:/fontawesome/glyph/map-pin
 
 <i class='fas fa-map-pin fa-10x'></i>

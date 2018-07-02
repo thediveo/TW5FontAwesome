@@ -1,16 +1,16 @@
 description: Genders
 title: $:/fontawesome/class/gender
 
-mercury
 genderless
-mars-double
-neuter
-mars-stroke-v
-venus-double
 mars
-transgender-alt
-mars-stroke-h
-transgender
-venus-mars
+mars-double
 mars-stroke
+mars-stroke-h
+mars-stroke-v
+mercury
+neuter
+transgender
+transgender-alt
 venus
+venus-double
+venus-mars

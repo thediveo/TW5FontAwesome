@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: File Import
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f56f
+tags: solid
+title: $:/fontawesome/glyph/file-import
+
+<i class='fas fa-file-import fa-10x'></i>

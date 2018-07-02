@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Signature
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5b7
+tags: [[John Hancock]] cursive name writing solid
+title: $:/fontawesome/glyph/signature
+
+<i class='fas fa-signature fa-10x'></i>

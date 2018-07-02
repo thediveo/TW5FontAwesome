@@ -3,7 +3,7 @@ fa-label: Receipt
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f543
-tags: table check invoice solid
+tags: check invoice table solid
 title: $:/fontawesome/glyph/receipt
 
 <i class='fas fa-receipt fa-10x'></i>

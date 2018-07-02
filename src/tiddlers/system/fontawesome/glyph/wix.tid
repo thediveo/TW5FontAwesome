@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Wix
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f5cf
+tags: brands
+title: $:/fontawesome/glyph/wix
+
+<i class='fab fa-wix fa-10x'></i>

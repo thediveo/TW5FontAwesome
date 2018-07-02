@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Plane Departure
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5b0
+tags: airplane departing destination fly location mode [[take off]] [[taking off]] travel trip solid
+title: $:/fontawesome/glyph/plane-departure
+
+<i class='fas fa-plane-departure fa-10x'></i>

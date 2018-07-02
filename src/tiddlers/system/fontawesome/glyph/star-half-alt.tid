@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Star Half
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5c0
+tags: achievement award rating score star-half-empty star-half-full solid
+title: $:/fontawesome/glyph/star-half-alt
+
+<i class='fas fa-star-half-alt fa-10x'></i>

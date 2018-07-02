@@ -3,7 +3,7 @@ fa-label: Taxi
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1ba
-tags: vehicle machine transportation cab cabbie car uber lyft [[car service]] solid
+tags: cab cabbie car [[car service]] lyft machine transportation uber vehicle solid
 title: $:/fontawesome/glyph/taxi
 
 <i class='fas fa-taxi fa-10x'></i>

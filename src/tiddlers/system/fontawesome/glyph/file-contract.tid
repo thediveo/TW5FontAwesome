@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: File Contract
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f56c
+tags: agreement binding document legal signature solid
+title: $:/fontawesome/glyph/file-contract
+
+<i class='fas fa-file-contract fa-10x'></i>

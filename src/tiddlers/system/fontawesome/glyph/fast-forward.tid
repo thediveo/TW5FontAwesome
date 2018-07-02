@@ -3,7 +3,7 @@ fa-label: fast-forward
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f050
-tags: next end last solid
+tags: end last next solid
 title: $:/fontawesome/glyph/fast-forward
 
 <i class='fas fa-fast-forward fa-10x'></i>

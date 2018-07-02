@@ -3,7 +3,7 @@ fa-label: Alternate Sync
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2f1
-tags: reload refresh solid
+tags: refresh reload rotate solid
 title: $:/fontawesome/glyph/sync-alt
 
 <i class='fas fa-sync-alt fa-10x'></i>

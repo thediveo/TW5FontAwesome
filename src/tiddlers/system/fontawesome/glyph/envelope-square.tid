@@ -3,7 +3,7 @@ fa-label: Envelope Square
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f199
-tags: email e-mail letter support mail message notification solid
+tags: e-mail email letter mail message notification support solid
 title: $:/fontawesome/glyph/envelope-square
 
 <i class='fas fa-envelope-square fa-10x'></i>

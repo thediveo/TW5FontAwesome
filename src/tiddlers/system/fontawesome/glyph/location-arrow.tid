@@ -3,7 +3,7 @@ fa-label: location-arrow
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f124
-tags: map coordinates location address place where gps solid
+tags: address coordinates gps location map place where solid
 title: $:/fontawesome/glyph/location-arrow
 
 <i class='fas fa-location-arrow fa-10x'></i>

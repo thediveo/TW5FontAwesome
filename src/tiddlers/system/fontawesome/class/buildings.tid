@@ -1,12 +1,11 @@
 description: Buildings
 title: $:/fontawesome/class/buildings
 
-university
 building
-school
-hospital-alt
-industry-alt
+church
 home
 hospital
+hospital-alt
 industry
-church
+school
+university

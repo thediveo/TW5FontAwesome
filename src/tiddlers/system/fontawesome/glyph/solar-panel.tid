@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Solar Panel
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5ba
+tags: clean eco-friendly energy green sun solid
+title: $:/fontawesome/glyph/solar-panel
+
+<i class='fas fa-solar-panel fa-10x'></i>

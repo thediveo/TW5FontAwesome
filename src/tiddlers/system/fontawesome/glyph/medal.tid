@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Medal
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5a2
+tags: solid
+title: $:/fontawesome/glyph/medal
+
+<i class='fas fa-medal fa-10x'></i>

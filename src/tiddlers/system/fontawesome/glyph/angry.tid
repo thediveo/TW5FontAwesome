@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Angry Face
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f556
+tags: solid regular
+title: $:/fontawesome/glyph/angry
+
+<i class='fas fa-angry fa-10x'></i>

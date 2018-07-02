@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Suitcase Rolling
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5c1
+tags: solid
+title: $:/fontawesome/glyph/suitcase-rolling
+
+<i class='fas fa-suitcase-rolling fa-10x'></i>

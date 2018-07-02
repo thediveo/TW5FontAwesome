@@ -3,7 +3,7 @@ fa-label: Envelope
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f0e0
-tags: email e-mail letter support mail message notification solid regular
+tags: e-mail email letter mail message notification support solid regular
 title: $:/fontawesome/glyph/envelope
 
 <i class='fas fa-envelope fa-10x'></i>

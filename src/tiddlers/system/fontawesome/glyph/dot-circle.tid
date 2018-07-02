@@ -3,7 +3,7 @@ fa-label: Dot Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f192
-tags: target bullseye notification solid regular
+tags: bullseye notification target solid regular
 title: $:/fontawesome/glyph/dot-circle
 
 <i class='fas fa-dot-circle fa-10x'></i>

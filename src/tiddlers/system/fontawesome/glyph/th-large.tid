@@ -3,7 +3,7 @@ fa-label: th-large
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f009
-tags: blocks squares boxes grid solid
+tags: blocks boxes grid squares solid
 title: $:/fontawesome/glyph/th-large
 
 <i class='fas fa-th-large fa-10x'></i>

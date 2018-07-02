@@ -3,7 +3,7 @@ fa-label: magic
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0d0
-tags: wizard automatic autocomplete solid
+tags: autocomplete automatic wizard solid
 title: $:/fontawesome/glyph/magic
 
 <i class='fas fa-magic fa-10x'></i>

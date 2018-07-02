@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Pen
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f304
+tags: design edit update write solid
+title: $:/fontawesome/glyph/pen
+
+<i class='fas fa-pen fa-10x'></i>

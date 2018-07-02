@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Grinning Face With Big Eyes
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f599
+tags: solid regular
+title: $:/fontawesome/glyph/laugh
+
+<i class='fas fa-laugh fa-10x'></i>

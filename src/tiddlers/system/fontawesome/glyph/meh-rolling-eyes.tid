@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Face With Rolling Eyes
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f5a5
+tags: solid regular
+title: $:/fontawesome/glyph/meh-rolling-eyes
+
+<i class='fas fa-meh-rolling-eyes fa-10x'></i>

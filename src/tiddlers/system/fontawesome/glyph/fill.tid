@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Fill
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f575
+tags: solid
+title: $:/fontawesome/glyph/fill
+
+<i class='fas fa-fill fa-10x'></i>

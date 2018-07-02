@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Bezier Curve
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f55b
+tags: curves illustrator lines path vector solid
+title: $:/fontawesome/glyph/bezier-curve
+
+<i class='fas fa-bezier-curve fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Globe
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0ac
-tags: world planet map place travel earth global translate all language localize location coordinates country gps online solid
+tags: all coordinates country earth global gps language localize location map online place planet translate travel world solid
 title: $:/fontawesome/glyph/globe
 
 <i class='fas fa-globe fa-10x'></i>

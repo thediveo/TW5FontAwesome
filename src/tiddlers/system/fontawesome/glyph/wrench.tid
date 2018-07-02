@@ -3,7 +3,7 @@ fa-label: Wrench
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0ad
-tags: settings fix update spanner tool solid
+tags: fix settings spanner tool update solid
 title: $:/fontawesome/glyph/wrench
 
 <i class='fas fa-wrench fa-10x'></i>

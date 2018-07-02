@@ -3,7 +3,7 @@ fa-label: Female
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f182
-tags: woman human user person profile solid
+tags: human person profile user woman solid
 title: $:/fontawesome/glyph/female
 
 <i class='fas fa-female fa-10x'></i>

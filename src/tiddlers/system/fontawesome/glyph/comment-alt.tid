@@ -3,7 +3,7 @@ fa-label: Alternate Comment
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f27a
-tags: speech notification note chat bubble feedback message texting sms conversation commenting solid regular
+tags: bubble chat commenting conversation feedback message note notification sms speech texting solid regular
 title: $:/fontawesome/glyph/comment-alt
 
 <i class='fas fa-comment-alt fa-10x'></i>

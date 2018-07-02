@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Plane Arrival
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5af
+tags: airplane arriving destination fly land landing location mode travel trip solid
+title: $:/fontawesome/glyph/plane-arrival
+
+<i class='fas fa-plane-arrival fa-10x'></i>

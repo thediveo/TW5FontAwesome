@@ -3,7 +3,7 @@ fa-label: Hand Pointing Left
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f0a5
-tags: point left previous back finger hand-o-left solid regular
+tags: back finger hand-o-left left point previous solid regular
 title: $:/fontawesome/glyph/hand-point-left
 
 <i class='fas fa-hand-point-left fa-10x'></i>

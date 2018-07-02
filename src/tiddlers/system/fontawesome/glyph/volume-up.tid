@@ -3,7 +3,7 @@ fa-label: volume-up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f028
-tags: audio higher louder sound music speaker solid
+tags: audio higher louder music sound speaker solid
 title: $:/fontawesome/glyph/volume-up
 
 <i class='fas fa-volume-up fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: eraser
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f12d
-tags: remove delete solid
+tags: delete remove solid
 title: $:/fontawesome/glyph/eraser
 
 <i class='fas fa-eraser fa-10x'></i>

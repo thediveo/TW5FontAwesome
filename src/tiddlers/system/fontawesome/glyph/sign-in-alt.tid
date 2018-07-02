@@ -3,7 +3,7 @@ fa-label: Alternate Sign In
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2f6
-tags: enter join [[log in]] login [[sign up]] [[sign in]] signin signup arrow sign-in solid
+tags: arrow enter join [[log in]] login [[sign in]] [[sign up]] sign-in signin signup solid
 title: $:/fontawesome/glyph/sign-in-alt
 
 <i class='fas fa-sign-in-alt fa-10x'></i>

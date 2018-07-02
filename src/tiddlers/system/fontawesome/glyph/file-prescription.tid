@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: File Prescription
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f572
+tags: drugs medical medicine rx solid
+title: $:/fontawesome/glyph/file-prescription
+
+<i class='fas fa-file-prescription fa-10x'></i>

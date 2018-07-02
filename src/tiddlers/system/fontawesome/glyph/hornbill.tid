@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Hornbill
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f592
+tags: brands
+title: $:/fontawesome/glyph/hornbill
+
+<i class='fab fa-hornbill fa-10x'></i>

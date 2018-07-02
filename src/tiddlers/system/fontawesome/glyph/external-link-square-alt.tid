@@ -3,7 +3,7 @@ fa-label: Alternate External Link Square
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f360
-tags: open new external-link-square solid
+tags: external-link-square new open solid
 title: $:/fontawesome/glyph/external-link-square-alt
 
 <i class='fas fa-external-link-square-alt fa-10x'></i>

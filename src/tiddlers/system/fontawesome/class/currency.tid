@@ -1,24 +1,22 @@
 description: Currency
 title: $:/fontawesome/class/currency
 
-money-bill-alt
-ruble-sign
-money-check
-yen-sign
 bitcoin
-shekel-sign
-usd-square
-won-sign
-gg-circle
-rupee-sign
-usd-circle
-lira-sign
-money-bill
+btc
 dollar-sign
-money-bill-wave-alt
-pound-sign
 euro-sign
 gg
+gg-circle
+lira-sign
+money-bill
+money-bill-alt
 money-bill-wave
-btc
+money-bill-wave-alt
+money-check
 money-check-alt
+pound-sign
+ruble-sign
+rupee-sign
+shekel-sign
+won-sign
+yen-sign

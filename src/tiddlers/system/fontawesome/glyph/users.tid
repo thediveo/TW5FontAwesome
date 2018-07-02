@@ -3,7 +3,7 @@ fa-label: Users
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0c0
-tags: people profiles persons solid
+tags: people persons profiles solid
 title: $:/fontawesome/glyph/users
 
 <i class='fas fa-users fa-10x'></i>

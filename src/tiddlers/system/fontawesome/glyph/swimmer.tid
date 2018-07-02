@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Swimmer
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5c4
+tags: athlete head man person water solid
+title: $:/fontawesome/glyph/swimmer
+
+<i class='fas fa-swimmer fa-10x'></i>

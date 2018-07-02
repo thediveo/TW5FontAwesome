@@ -3,7 +3,7 @@ fa-label: truck
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0d1
-tags: shipping delivery solid
+tags: delivery shipping solid
 title: $:/fontawesome/glyph/truck
 
 <i class='fas fa-truck fa-10x'></i>

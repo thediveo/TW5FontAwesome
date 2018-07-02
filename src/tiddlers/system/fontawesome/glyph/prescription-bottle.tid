@@ -3,7 +3,7 @@ fa-label: Prescription Bottle
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f485
-tags: prescription rx solid
+tags: drugs medical medicine rx solid
 title: $:/fontawesome/glyph/prescription-bottle
 
 <i class='fas fa-prescription-bottle fa-10x'></i>

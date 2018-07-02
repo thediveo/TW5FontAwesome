@@ -1,28 +1,16 @@
 description: Shapes
 title: $:/fontawesome/class/shapes
 
-circle
-badge
 bookmark
-comment
-rectangle-landscape
-map-marker
-spade
-cloud
-diamond
-certificate
-ticket
-shield
-star
-triangle
 calendar
-octagon
+certificate
+circle
+cloud
+comment
 file
-heart
-rectangle-wide
-hexagon
 folder
-rectangle-portrait
-square
+heart
+map-marker
 play
-club
+square
+star

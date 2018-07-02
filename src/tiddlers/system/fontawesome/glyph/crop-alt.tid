@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Crop
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f565
+tags: solid
+title: $:/fontawesome/glyph/crop-alt
+
+<i class='fas fa-crop-alt fa-10x'></i>

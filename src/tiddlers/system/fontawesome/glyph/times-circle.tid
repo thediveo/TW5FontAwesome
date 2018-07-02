@@ -3,7 +3,7 @@ fa-label: Times Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f057
-tags: close exit x cross problem notification notify notice wrong incorrect solid regular
+tags: close cross exit incorrect notice notification notify problem wrong x solid regular
 title: $:/fontawesome/glyph/times-circle
 
 <i class='fas fa-times-circle fa-10x'></i>

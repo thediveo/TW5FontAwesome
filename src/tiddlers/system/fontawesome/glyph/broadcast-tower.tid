@@ -3,7 +3,7 @@ fa-label: Broadcast Tower
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f519
-tags: waves radio airwaves solid
+tags: airwaves radio waves solid
 title: $:/fontawesome/glyph/broadcast-tower
 
 <i class='fas fa-broadcast-tower fa-10x'></i>

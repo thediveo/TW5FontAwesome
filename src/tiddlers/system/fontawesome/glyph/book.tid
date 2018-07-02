@@ -3,7 +3,7 @@ fa-label: book
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f02d
-tags: read documentation solid
+tags: documentation read solid
 title: $:/fontawesome/glyph/book
 
 <i class='fas fa-book fa-10x'></i>

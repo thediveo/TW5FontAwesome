@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Grinning Squinting Face
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f585
+tags: solid regular
+title: $:/fontawesome/glyph/grin-squint
+
+<i class='fas fa-grin-squint fa-10x'></i>

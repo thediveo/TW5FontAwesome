@@ -3,7 +3,7 @@ fa-label: Minus Square
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f146
-tags: hide minify delete remove trash collapse solid regular
+tags: collapse delete hide minify remove trash solid regular
 title: $:/fontawesome/glyph/minus-square
 
 <i class='fas fa-minus-square fa-10x'></i>

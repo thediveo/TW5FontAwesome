@@ -3,7 +3,7 @@ fa-label: bullhorn
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0a1
-tags: announcement share broadcast louder megaphone solid
+tags: announcement broadcast louder megaphone share solid
 title: $:/fontawesome/glyph/bullhorn
 
 <i class='fas fa-bullhorn fa-10x'></i>

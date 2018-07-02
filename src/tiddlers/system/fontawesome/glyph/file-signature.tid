@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: File Signature
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f573
+tags: [[John Hancock]] contract document name solid
+title: $:/fontawesome/glyph/file-signature
+
+<i class='fas fa-file-signature fa-10x'></i>

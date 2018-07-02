@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hanging Weight
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5cd
+tags: anvil heavy measurement solid
+title: $:/fontawesome/glyph/weight-hanging
+
+<i class='fas fa-weight-hanging fa-10x'></i>

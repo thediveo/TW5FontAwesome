@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Tired Face
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f5c8
+tags: solid regular
+title: $:/fontawesome/glyph/tired
+
+<i class='fas fa-tired fa-10x'></i>

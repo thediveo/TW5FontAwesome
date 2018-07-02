@@ -3,7 +3,7 @@ fa-label: Microphone Slash
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f131
-tags: record voice sound mute disable solid
+tags: disable mute record sound voice solid
 title: $:/fontawesome/glyph/microphone-slash
 
 <i class='fas fa-microphone-slash fa-10x'></i>

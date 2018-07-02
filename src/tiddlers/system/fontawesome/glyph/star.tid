@@ -3,7 +3,7 @@ fa-label: Star
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f005
-tags: award achievement night rating score favorite solid regular
+tags: achievement award favorite important night rating score solid regular
 title: $:/fontawesome/glyph/star
 
 <i class='fas fa-star fa-10x'></i>
