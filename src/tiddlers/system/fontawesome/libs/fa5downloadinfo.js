@@ -15,7 +15,7 @@ download package, as offered as a download from fontawesome.com.
 
 // Get the real AWESOME stuff ... a, erm, *headless* browser...
 if ($tw.node) {
-  var Phantom = require("phantom");
+  var puppy = require("puppeteer");
 }
 
 // Returns a promise to retrieve the Font Awesome 5 Free package
@@ -24,7 +24,7 @@ if ($tw.node) {
 exports.fontAwesome5PackageDownloadInfo = function(logger) {
   return new Promise(function(resolve, reject) {
 
-    var phantomBrowser;
+    var puppyBrowser;
     var fa5comPage;
 
     // Download information about the Font Awesome 5 Free package
@@ -32,22 +32,23 @@ exports.fontAwesome5PackageDownloadInfo = function(logger) {
     var fa5PackageVersion;
     var fa5PackageUrl;
 
-    Phantom.create()
-      // Phantom headless webbrowser created...
-      .then(function phantomWebbrowserCreated(browser) {
-        phantomBrowser = browser;
-        return phantomBrowser.createPage();
+    puppy.launch()
+      // Chromium headless webbrowser created...
+      .then(function webbrowserCreated(browser) {
+        puppyBrowser = browser;
+        return browser.newPage();
       })
       // New page ("tab") created...
       .then(function openFontAwesomeWebpage(page) {
         logger.log("Fetching Font Awesome 5 home page...")
         fa5comPage = page;
-        return fa5comPage.open("https://fontawesome.com/");
+        return fa5comPage.goto("https://fontawesome.com/");
       })
       // FA5 home page loading, but nothing more at this time...
-      .then(function pageStatus(status) {
-        if (status !== "success") {
-          return Promise.reject("failed to load page fontawesome.com");
+      .then(function pageResponse(response) {
+        if (!response.ok()) {
+          return Promise.reject("failed to load page fontawesome.com: status "
+                                + response.status());
         }
         // While the home page has been loaded, it consists of a lot
         // of additional scripting and dynamic content creation. So
@@ -87,48 +88,40 @@ exports.fontAwesome5PackageDownloadInfo = function(logger) {
       // and dynamic stuff having been loaded and run to completion. Only
       // now we can start retrieving the FA5 package download URL...
       .then(function pageCompletelyLoaded(readyState) {
-        logger.log("Font Awesome 5 home page completely loaded.");
-          var url = fa5comPage.evaluate(function() {
-            return document
-              .querySelector("a[href^='https://use.fontawesome.com/releases/']")
+        logger.log("Font Awesome 5 home page completely loaded, page status",
+                   readyState);
+        return fa5comPage.evaluate(function() {
+          return document
+            .querySelector("a[href^='https://use.fontawesome.com/releases/']")
               .href;
-          });
-          if (!url) {
-            reject("Failed to locate release package download URL");
-          }
-          return url;
+        });
+      })
+      .then(function urlDiscovered(url) {
+        if (!url) {
+          reject("Failed to locate release package download URL");
+        }
+        return url;
       })
       // We've got the FA5 package download URL: so we now can extract the
       // package version information from this URL.
       .then(function(downloadUrl) {
         fa5PackageUrl = downloadUrl;
         logger.log("Extracted Font Awesome 5 Free download URL:", fa5PackageUrl);
-        fa5PackageVersion = /\/fontawesome-.*-(\d+\.\d+\.\d+)\.zip$/.exec(fa5PackageUrl)[1];
+        fa5PackageVersion = /\/fontawesome-.*-(\d+\.\d+\.\d+)-web\.zip$/.exec(fa5PackageUrl)[1];
         logger.log("Extracted Font Awesome 5 Free version:", fa5PackageVersion);
         // We're done, so let's now clean up all those things not needed
-        // anymore: we start by disposing the web page (tab)...
-        return fa5comPage.close();
-      })
-      .then(function() {
-        fa5comPage = null;
-        return;
+        // anymore.
+        return puppyBrowser.close();
+        puppyBrowser = null;
       })
       // Catch all that went wrong during the above sequence.
       .catch(function(err) {
         logger.log("That didn't work:", err);
       })
-      // Ensure to always correctly get rid of the phantom web browser,
-      // as otherwise it would keep running in the background ... and
-      // our node instance wouldn't terminate by itself while the phantom
-      // web browser is still running.
-      /*finally*/
       .then(function() {
-        if (phantomBrowser) {
-          phantomBrowser.exit();
-          phantomBrowser = null;
-        }
         // Finally resolve or reject the overall FA5 package download
         // information retrieval promise...
+        logger.log("Returning package version and URL...")
         if (fa5PackageUrl && fa5PackageVersion) {
           resolve({
             url: fa5PackageUrl,
