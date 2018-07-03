@@ -21,7 +21,8 @@
     "develop": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html",
     "release": "tiddlywiki editions/release --verbose --build release",
     "update": "tiddlywiki editions/develop --verbose --update-fontawesome",
-    "forceupdate": "tiddlywiki editions/develop --verbose --update-fontawesome force"
+    "forceupdate": "tiddlywiki editions/develop --verbose --update-fontawesome force",
+    "ciupdate": "tiddlywiki editions/develop --verbose --update-fontawesome ci"
   },
   "repository": {
     "type": "git",
