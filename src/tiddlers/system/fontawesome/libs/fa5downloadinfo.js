@@ -84,6 +84,19 @@ exports.fontAwesome5PackageDownloadInfo = function(logger) {
         };
         return new Promise(checkPageCompleteExecutor);
       })
+      .then(function wait(readyState) {
+        if (readyState === "complete") {
+          logger.log("Waiting for page to settle...");
+          return new Promise(function(resolve, reject) {
+            setTimeout(function() {
+              logger.log("Settled.");
+              resolve(readyState);
+            }, 1000);
+          });
+        } else {
+          return readyState;
+        }
+      })
       // Phew, the FA5 home page finally is complete, with all the scripts
       // and dynamic stuff having been loaded and run to completion. Only
       // now we can start retrieving the FA5 package download URL...
