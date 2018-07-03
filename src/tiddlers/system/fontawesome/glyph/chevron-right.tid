@@ -3,7 +3,7 @@ fa-label: chevron-right
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f054
-tags: bracket next forward solid
+tags: bracket forward next solid
 title: $:/fontawesome/glyph/chevron-right
 
 <i class='fas fa-chevron-right fa-10x'></i>

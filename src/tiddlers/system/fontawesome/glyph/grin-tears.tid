@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Face With Tears of Joy
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f588
+tags: solid regular
+title: $:/fontawesome/glyph/grin-tears
+
+<i class='fas fa-grin-tears fa-10x'></i>

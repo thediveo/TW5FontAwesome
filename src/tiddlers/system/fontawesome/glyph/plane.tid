@@ -3,7 +3,7 @@ fa-label: plane
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f072
-tags: travel trip location destination airplane fly mode solid
+tags: airplane destination fly location mode travel trip solid
 title: $:/fontawesome/glyph/plane
 
 <i class='fas fa-plane fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Megaport
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f5a3
+tags: brands
+title: $:/fontawesome/glyph/megaport
+
+<i class='fab fa-megaport fa-10x'></i>

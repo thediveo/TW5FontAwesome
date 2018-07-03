@@ -3,7 +3,7 @@ fa-label: Info
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f129
-tags: help information more details solid
+tags: details help information more solid
 title: $:/fontawesome/glyph/info
 
 <i class='fas fa-info fa-10x'></i>

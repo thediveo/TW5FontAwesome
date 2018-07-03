@@ -3,7 +3,7 @@ fa-label: Server
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f233
-tags: solid
+tags: cpu solid
 title: $:/fontawesome/glyph/server
 
 <i class='fas fa-server fa-10x'></i>

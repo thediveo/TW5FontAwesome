@@ -1,29 +1,23 @@
 description: Files
 title: $:/fontawesome/class/files
 
-file-pdf
-cut
-file-code
-clone
-file-alt
-file-edit
-file-plus
-folder-open
-file-check
 archive
-file
-file-image
+clone
 copy
-file-exclamation
+cut
+file
+file-alt
 file-archive
-file-word
 file-audio
+file-code
+file-excel
+file-image
+file-pdf
 file-powerpoint
+file-video
+file-word
 folder
+folder-open
 paste
 save
-file-video
-file-times
 sticky-note
-file-minus
-file-excel

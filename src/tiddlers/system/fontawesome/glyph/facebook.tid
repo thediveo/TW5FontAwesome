@@ -3,7 +3,7 @@ fa-label: Facebook
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f09a
-tags: [[social network]] facebook-official brands
+tags: facebook-official [[social network]] brands
 title: $:/fontawesome/glyph/facebook
 
 <i class='fab fa-facebook fa-10x'></i>

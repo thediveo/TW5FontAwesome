@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Grinning Face
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f580
+tags: solid regular
+title: $:/fontawesome/glyph/grin
+
+<i class='fas fa-grin fa-10x'></i>

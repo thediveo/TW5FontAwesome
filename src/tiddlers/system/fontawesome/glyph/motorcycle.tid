@@ -3,7 +3,7 @@ fa-label: Motorcycle
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f21c
-tags: vehicle machine transportation bike solid
+tags: bike machine transportation vehicle solid
 title: $:/fontawesome/glyph/motorcycle
 
 <i class='fas fa-motorcycle fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Smoking
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f48d
-tags: [[smoking status]] cigarette nicotine solid
+tags: cigarette nicotine [[smoking status]] solid
 title: $:/fontawesome/glyph/smoking
 
 <i class='fas fa-smoking fa-10x'></i>

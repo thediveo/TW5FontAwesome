@@ -3,7 +3,7 @@ fa-label: Alternate Expand Arrows
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f31e
-tags: enlarge bigger resize move arrows-alt solid
+tags: arrows-alt bigger enlarge move resize solid
 title: $:/fontawesome/glyph/expand-arrows-alt
 
 <i class='fas fa-expand-arrows-alt fa-10x'></i>

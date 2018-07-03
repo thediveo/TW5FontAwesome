@@ -3,7 +3,7 @@ fa-label: Alternate Arrows Vertical
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f338
-tags: resize arrows-v solid
+tags: arrows-v resize solid
 title: $:/fontawesome/glyph/arrows-alt-v
 
 <i class='fas fa-arrows-alt-v fa-10x'></i>

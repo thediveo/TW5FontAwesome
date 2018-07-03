@@ -3,7 +3,7 @@ fa-label: Suitcase
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0f2
-tags: trip luggage travel move baggage solid
+tags: baggage luggage move suitcase travel trip solid
 title: $:/fontawesome/glyph/suitcase
 
 <i class='fas fa-suitcase fa-10x'></i>

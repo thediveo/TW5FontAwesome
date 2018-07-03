@@ -3,7 +3,7 @@ fa-label: flag-checkered
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f11e
-tags: report notification notify notice solid
+tags: notice notification notify report solid
 title: $:/fontawesome/glyph/flag-checkered
 
 <i class='fas fa-flag-checkered fa-10x'></i>

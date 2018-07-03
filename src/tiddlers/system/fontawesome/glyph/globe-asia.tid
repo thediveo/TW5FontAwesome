@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Globe with Asia shown
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f57e
+tags: all country earth global gps language localize location map online place planet translate travel world solid
+title: $:/fontawesome/glyph/globe-asia
+
+<i class='fas fa-globe-asia fa-10x'></i>

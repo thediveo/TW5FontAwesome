@@ -3,7 +3,7 @@ fa-label: Compact Disc
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f51f
-tags: media cd disc bluray solid
+tags: bluray cd disc media solid
 title: $:/fontawesome/glyph/compact-disc
 
 <i class='fas fa-compact-disc fa-10x'></i>

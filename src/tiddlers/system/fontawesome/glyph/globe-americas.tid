@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Globe with Americas shown
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f57d
+tags: all country earth global gps language localize location map online place planet translate travel world solid
+title: $:/fontawesome/glyph/globe-americas
+
+<i class='fas fa-globe-americas fa-10x'></i>

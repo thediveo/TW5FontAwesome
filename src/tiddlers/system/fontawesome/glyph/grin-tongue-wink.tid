@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Winking Face With Tongue
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f58b
+tags: solid regular
+title: $:/fontawesome/glyph/grin-tongue-wink
+
+<i class='fas fa-grin-tongue-wink fa-10x'></i>

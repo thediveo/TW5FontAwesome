@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Brush
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f55d
+tags: bristles color painting solid
+title: $:/fontawesome/glyph/brush
+
+<i class='fas fa-brush fa-10x'></i>

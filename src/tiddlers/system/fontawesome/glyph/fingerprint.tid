@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Fingerprint
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f577
+tags: solid
+title: $:/fontawesome/glyph/fingerprint
+
+<i class='fas fa-fingerprint fa-10x'></i>

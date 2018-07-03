@@ -3,7 +3,7 @@ fa-label: Accessible Icon
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f368
-tags: accessibility wheelchair handicap person wheelchair-alt brands
+tags: accessibility handicap person wheelchair wheelchair-alt brands
 title: $:/fontawesome/glyph/accessible-icon
 
 <i class='fab fa-accessible-icon fa-10x'></i>

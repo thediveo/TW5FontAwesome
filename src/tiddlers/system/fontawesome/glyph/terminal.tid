@@ -3,7 +3,7 @@ fa-label: Terminal
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f120
-tags: command prompt code console solid
+tags: code command console prompt solid
 title: $:/fontawesome/glyph/terminal
 
 <i class='fas fa-terminal fa-10x'></i>

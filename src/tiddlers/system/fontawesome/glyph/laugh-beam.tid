@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Laugh Face with Beaming Eyes
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f59a
+tags: solid regular
+title: $:/fontawesome/glyph/laugh-beam
+
+<i class='fas fa-laugh-beam fa-10x'></i>

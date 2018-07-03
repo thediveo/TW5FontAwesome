@@ -3,7 +3,7 @@ fa-label: fast-backward
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f049
-tags: rewind previous beginning start first solid
+tags: beginning first previous rewind start solid
 title: $:/fontawesome/glyph/fast-backward
 
 <i class='fas fa-fast-backward fa-10x'></i>

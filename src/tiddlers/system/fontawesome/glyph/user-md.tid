@@ -3,7 +3,7 @@ fa-label: user-md
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0f0
-tags: doctor profile medical nurse job occupation solid
+tags: doctor job medical nurse occupation profile solid
 title: $:/fontawesome/glyph/user-md
 
 <i class='fas fa-user-md fa-10x'></i>

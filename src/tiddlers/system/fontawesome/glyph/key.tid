@@ -3,7 +3,7 @@ fa-label: key
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f084
-tags: unlock password solid
+tags: password unlock solid
 title: $:/fontawesome/glyph/key
 
 <i class='fas fa-key fa-10x'></i>

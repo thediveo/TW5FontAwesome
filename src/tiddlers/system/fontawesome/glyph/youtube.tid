@@ -3,7 +3,7 @@ fa-label: YouTube
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f167
-tags: video film youtube-play youtube-square brands
+tags: film video youtube-play youtube-square brands
 title: $:/fontawesome/glyph/youtube
 
 <i class='fab fa-youtube fa-10x'></i>

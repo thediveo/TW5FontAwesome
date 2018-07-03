@@ -3,7 +3,7 @@ fa-label: Slack Hashtag
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f3ef
-tags: hashtag anchor hash brands
+tags: anchor hash hashtag brands
 title: $:/fontawesome/glyph/slack-hash
 
 <i class='fab fa-slack-hash fa-10x'></i>

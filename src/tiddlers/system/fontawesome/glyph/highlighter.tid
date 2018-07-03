@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Highlighter
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f591
+tags: edit marker sharpie update write solid
+title: $:/fontawesome/glyph/highlighter
+
+<i class='fas fa-highlighter fa-10x'></i>

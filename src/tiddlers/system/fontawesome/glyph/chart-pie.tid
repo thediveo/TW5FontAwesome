@@ -3,7 +3,7 @@ fa-label: Pie Chart
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f200
-tags: graph analytics pie-chart solid
+tags: analytics graph pie-chart solid
 title: $:/fontawesome/glyph/chart-pie
 
 <i class='fas fa-chart-pie fa-10x'></i>

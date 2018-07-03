@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Check Double
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f560
+tags: solid
+title: $:/fontawesome/glyph/check-double
+
+<i class='fas fa-check-double fa-10x'></i>

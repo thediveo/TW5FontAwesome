@@ -3,7 +3,7 @@ fa-label: Minus Circle
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f056
-tags: delete remove trash hide solid
+tags: delete hide remove trash solid
 title: $:/fontawesome/glyph/minus-circle
 
 <i class='fas fa-minus-circle fa-10x'></i>

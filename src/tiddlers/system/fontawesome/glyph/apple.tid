@@ -3,7 +3,7 @@ fa-label: Apple
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f179
-tags: osx food brands
+tags: food fruit osx brands
 title: $:/fontawesome/glyph/apple
 
 <i class='fab fa-apple fa-10x'></i>

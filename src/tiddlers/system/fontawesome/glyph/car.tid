@@ -3,7 +3,7 @@ fa-label: Car
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1b9
-tags: vehicle machine transportation solid
+tags: machine transportation vehicle solid
 title: $:/fontawesome/glyph/car
 
 <i class='fas fa-car fa-10x'></i>

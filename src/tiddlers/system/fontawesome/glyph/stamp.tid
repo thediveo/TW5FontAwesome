@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Stamp
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5bf
+tags: solid
+title: $:/fontawesome/glyph/stamp
+
+<i class='fas fa-stamp fa-10x'></i>

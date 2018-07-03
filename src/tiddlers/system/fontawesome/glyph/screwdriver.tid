@@ -3,7 +3,7 @@ fa-label: Screwdriver
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f54a
-tags: tool repair fix container settings admin solid
+tags: admin container fix repair settings tool solid
 title: $:/fontawesome/glyph/screwdriver
 
 <i class='fas fa-screwdriver fa-10x'></i>

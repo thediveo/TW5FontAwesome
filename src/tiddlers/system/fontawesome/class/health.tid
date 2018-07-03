@@ -1,14 +1,15 @@
 description: Health
 title: $:/fontawesome/class/health
 
-h-square
-medkit
-user-md
 accessible-icon
-stethoscope
-heartbeat
-heart
 ambulance
-plus-square
+h-square
+heart
+heartbeat
 hospital
+medkit
+plus-square
+prescription
+stethoscope
+user-md
 wheelchair

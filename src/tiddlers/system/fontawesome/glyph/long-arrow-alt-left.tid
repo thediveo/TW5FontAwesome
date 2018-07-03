@@ -3,7 +3,7 @@ fa-label: Alternate Long Arrow Left
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f30a
-tags: previous back long-arrow-left solid
+tags: back long-arrow-left previous solid
 title: $:/fontawesome/glyph/long-arrow-alt-left
 
 <i class='fas fa-long-arrow-alt-left fa-10x'></i>

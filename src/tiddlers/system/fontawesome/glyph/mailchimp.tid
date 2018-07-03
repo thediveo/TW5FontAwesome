@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Mailchimp
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f59e
+tags: brands
+title: $:/fontawesome/glyph/mailchimp
+
+<i class='fab fa-mailchimp fa-10x'></i>

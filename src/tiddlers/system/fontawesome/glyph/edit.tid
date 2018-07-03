@@ -3,7 +3,7 @@ fa-label: Edit
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f044
-tags: write edit update pencil pen solid regular
+tags: edit pen pencil update write solid regular
 title: $:/fontawesome/glyph/edit
 
 <i class='fas fa-edit fa-10x'></i>

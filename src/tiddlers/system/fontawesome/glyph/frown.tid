@@ -1,9 +1,9 @@
 fa-default-style: fas
-fa-label: Frown
+fa-label: Frowning Face
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f119
-tags: face emoticon sad disapprove rating solid regular
+tags: disapprove emoticon face rating sad solid regular
 title: $:/fontawesome/glyph/frown
 
 <i class='fas fa-frown fa-10x'></i>
