@@ -12588,17 +12588,18 @@ var Command = function(params, commander, callback) {
 // Run the update command.
 Command.prototype.execute = function() {
   var force = (this.params.length &gt;= 1 &amp;&amp; this.params[0] === &quot;force&quot;);
+	var ci = (this.params.length &gt;= 1 &amp;&amp; this.params[0] === &quot;ci&quot;);
 
 	var wiki = this.commander.wiki;
  	var self = this;
 	var fazip = null;
 
-	fa5dlinfo.fontAwesome5PackageDownloadInfo(self.logger)
+	fa5dlinfo.fontAwesome5PackageDownloadInfo(self.logger, ci)
   	.then(function(fa5pkginfo) {
-		self.logger.log(&quot;Downloading Font Awesome 5 Free zip package...&quot;);
-		return request.get({
-			uri: fa5pkginfo.url,
-			encoding: null // !!!IMPORTANT
+			self.logger.log(&quot;Downloading Font Awesome 5 Free zip package...&quot;);
+			return request.get({
+				uri: fa5pkginfo.url,
+				encoding: null // !!!IMPORTANT
 		})
 		.then(function(body) {
 			self.logger.log(&quot;Downloaded zip package, size:&quot;, body.length);
@@ -16306,7 +16307,7 @@ if ($tw.node) {
 // Returns a promise to retrieve the Font Awesome 5 Free package
 // download information: the URL from which the package can be
 // downloaded, as well as the package version (in &quot;x.y.z&quot; format).
-exports.fontAwesome5PackageDownloadInfo = function(logger) {
+exports.fontAwesome5PackageDownloadInfo = function(logger, nosandbox) {
   return new Promise(function(resolve, reject) {
 
     var puppyBrowser;
@@ -16317,7 +16318,11 @@ exports.fontAwesome5PackageDownloadInfo = function(logger) {
     var fa5PackageVersion;
     var fa5PackageUrl;
 
-    puppy.launch()
+    var opts = {}
+    if (nosandbox) {
+      opts.args = ['--no-sandbox', '--disable-setuid-sandbox'];
+    }
+    puppy.launch(opts)
       // Chromium headless webbrowser created...
       .then(function webbrowserCreated(browser) {
         puppyBrowser = browser;
