@@ -1,9 +1,9 @@
 created: 20140901110931199
-modified: 20180702201426922
+modified: 20180703165007365
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
-* ''1.2.9''
+* ''1.2.10'' (1.2.9)
 ** updates to Font Awesome 5.1.0, which brings new categories "design", "emoji" and "travel", and their icons -- as well as some updates and icon additions.
 ** updates the update mechanism to work with the new 5.1.x packaging.
 
