@@ -63,17 +63,18 @@ var Command = function(params, commander, callback) {
 // Run the update command.
 Command.prototype.execute = function() {
   var force = (this.params.length >= 1 && this.params[0] === "force");
+	var ci = (this.params.length >= 1 && this.params[0] === "ci");
 
 	var wiki = this.commander.wiki;
  	var self = this;
 	var fazip = null;
 
-	fa5dlinfo.fontAwesome5PackageDownloadInfo(self.logger)
+	fa5dlinfo.fontAwesome5PackageDownloadInfo(self.logger, ci)
   	.then(function(fa5pkginfo) {
-		self.logger.log("Downloading Font Awesome 5 Free zip package...");
-		return request.get({
-			uri: fa5pkginfo.url,
-			encoding: null // !!!IMPORTANT
+			self.logger.log("Downloading Font Awesome 5 Free zip package...");
+			return request.get({
+				uri: fa5pkginfo.url,
+				encoding: null // !!!IMPORTANT
 		})
 		.then(function(body) {
 			self.logger.log("Downloaded zip package, size:", body.length);

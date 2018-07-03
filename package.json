@@ -1,6 +1,6 @@
 {
   "name": "tw5-fontawesome",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "author": "TheDiveO",
   "description": "Font Awesome 5 for TiddlyWiki 5",
   "homepage": "https://github.com/TheDiveO/TW5FontAwesome",
@@ -21,7 +21,8 @@
     "develop": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html",
     "release": "tiddlywiki editions/release --verbose --build release",
     "update": "tiddlywiki editions/develop --verbose --update-fontawesome",
-    "forceupdate": "tiddlywiki editions/develop --verbose --update-fontawesome force"
+    "forceupdate": "tiddlywiki editions/develop --verbose --update-fontawesome force",
+    "ciupdate": "tiddlywiki editions/develop --verbose --update-fontawesome ci"
   },
   "repository": {
     "type": "git",

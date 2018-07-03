@@ -21,7 +21,7 @@ if ($tw.node) {
 // Returns a promise to retrieve the Font Awesome 5 Free package
 // download information: the URL from which the package can be
 // downloaded, as well as the package version (in "x.y.z" format).
-exports.fontAwesome5PackageDownloadInfo = function(logger) {
+exports.fontAwesome5PackageDownloadInfo = function(logger, nosandbox) {
   return new Promise(function(resolve, reject) {
 
     var puppyBrowser;
@@ -32,7 +32,11 @@ exports.fontAwesome5PackageDownloadInfo = function(logger) {
     var fa5PackageVersion;
     var fa5PackageUrl;
 
-    puppy.launch()
+    var opts = {}
+    if (nosandbox) {
+      opts.args = ['--no-sandbox', '--disable-setuid-sandbox'];
+    }
+    puppy.launch(opts)
       // Chromium headless webbrowser created...
       .then(function webbrowserCreated(browser) {
         puppyBrowser = browser;
