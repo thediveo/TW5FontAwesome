@@ -1,9 +1,9 @@
 fa-default-style: fas
-fa-label: Smile
+fa-label: Smiling Face
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f118
-tags: face emoticon happy approve satisfied rating solid regular
+tags: approve emoticon face happy rating satisfied solid regular
 title: $:/fontawesome/glyph/smile
 
 <i class='fas fa-smile fa-10x'></i>

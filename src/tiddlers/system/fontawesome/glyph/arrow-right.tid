@@ -3,7 +3,7 @@ fa-label: arrow-right
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f061
-tags: next forward solid
+tags: forward next solid
 title: $:/fontawesome/glyph/arrow-right
 
 <i class='fas fa-arrow-right fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Map
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f279
-tags: solid regular
+tags: coordinates location paper place travel solid regular
 title: $:/fontawesome/glyph/map
 
 <i class='fas fa-map fa-10x'></i>

@@ -1,16 +1,14 @@
 description: Spinners
 title: $:/fontawesome/class/spinners
 
-badge
+asterisk
+certificate
+circle-notch
+cog
+compass
+crosshairs
 life-ring
 snowflake
-certificate
-cog
-crosshairs
-sun
-circle-notch
 spinner
-compass
+sun
 sync
-spinner-third
-asterisk

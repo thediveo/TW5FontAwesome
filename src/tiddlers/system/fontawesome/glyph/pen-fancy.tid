@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Pen Fancy
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5ac
+tags: design edit [[fountain pen]] update write solid
+title: $:/fontawesome/glyph/pen-fancy
+
+<i class='fas fa-pen-fancy fa-10x'></i>

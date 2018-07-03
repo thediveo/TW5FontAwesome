@@ -3,7 +3,7 @@ fa-label: Pen Square
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f14b
-tags: write edit update pencil-square solid
+tags: edit pencil-square update write solid
 title: $:/fontawesome/glyph/pen-square
 
 <i class='fas fa-pen-square fa-10x'></i>

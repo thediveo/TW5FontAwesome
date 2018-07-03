@@ -3,7 +3,7 @@ fa-label: Google Plus G
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f0d5
-tags: [[social network]] google-plus brands
+tags: google-plus [[social network]] brands
 title: $:/fontawesome/glyph/google-plus-g
 
 <i class='fab fa-google-plus-g fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Dollar Sign
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f155
-tags: usd price solid
+tags: $ dollar-sign money price usd solid
 title: $:/fontawesome/glyph/dollar-sign
 
 <i class='fas fa-dollar-sign fa-10x'></i>

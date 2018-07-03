@@ -3,7 +3,7 @@ fa-label: Alternate User
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f406
-tags: person man head profile account solid
+tags: account avatar head man person profile solid
 title: $:/fontawesome/glyph/user-alt
 
 <i class='fas fa-user-alt fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Marker
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5a1
+tags: edit sharpie update write solid
+title: $:/fontawesome/glyph/marker
+
+<i class='fas fa-marker fa-10x'></i>

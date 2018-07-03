@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Headphones Alt
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f58f
+tags: solid
+title: $:/fontawesome/glyph/headphones-alt
+
+<i class='fas fa-headphones-alt fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Microchip
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2db
-tags: solid
+tags: cpu processor solid
 title: $:/fontawesome/glyph/microchip
 
 <i class='fas fa-microchip fa-10x'></i>

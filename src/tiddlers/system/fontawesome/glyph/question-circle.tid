@@ -3,7 +3,7 @@ fa-label: Question Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f059
-tags: help information unknown support solid regular
+tags: help information support unknown solid regular
 title: $:/fontawesome/glyph/question-circle
 
 <i class='fas fa-question-circle fa-10x'></i>

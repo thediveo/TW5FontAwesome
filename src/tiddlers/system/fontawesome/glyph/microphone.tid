@@ -3,7 +3,7 @@ fa-label: microphone
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f130
-tags: record voice sound solid
+tags: record sound voice solid
 title: $:/fontawesome/glyph/microphone
 
 <i class='fas fa-microphone fa-10x'></i>

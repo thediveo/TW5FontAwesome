@@ -3,7 +3,7 @@ fa-label: Alternate Arrow Circle Left
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f359
-tags: previous back arrow-circle-o-left solid regular
+tags: arrow-circle-o-left back previous solid regular
 title: $:/fontawesome/glyph/arrow-alt-circle-left
 
 <i class='fas fa-arrow-alt-circle-left fa-10x'></i>

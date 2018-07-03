@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Smiling Face With Heart-Eyes
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f584
+tags: solid regular
+title: $:/fontawesome/glyph/grin-hearts
+
+<i class='fas fa-grin-hearts fa-10x'></i>

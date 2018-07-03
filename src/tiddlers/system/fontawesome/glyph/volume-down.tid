@@ -3,7 +3,7 @@ fa-label: volume-down
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f027
-tags: audio lower quieter sound music speaker solid
+tags: audio lower music quieter sound speaker solid
 title: $:/fontawesome/glyph/volume-down
 
 <i class='fas fa-volume-down fa-10x'></i>

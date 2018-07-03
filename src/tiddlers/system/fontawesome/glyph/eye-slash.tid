@@ -3,7 +3,7 @@ fa-label: Eye Slash
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f070
-tags: toggle show hide visible visiblity views unseen blind solid regular
+tags: blind hide show toggle unseen views visible visiblity solid regular
 title: $:/fontawesome/glyph/eye-slash
 
 <i class='fas fa-eye-slash fa-10x'></i>

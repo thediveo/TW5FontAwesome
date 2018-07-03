@@ -3,7 +3,7 @@ fa-label: Balance Scale
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f24e
-tags: weight measure justice legal balanced solid
+tags: balanced justice legal measure weight solid
 title: $:/fontawesome/glyph/balance-scale
 
 <i class='fas fa-balance-scale fa-10x'></i>

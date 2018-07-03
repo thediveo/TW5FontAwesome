@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Map Marked-alt
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5a0
+tags: address coordinates destination gps localize location map paper pin place [[point of interest]] position route travel where solid
+title: $:/fontawesome/glyph/map-marked-alt
+
+<i class='fas fa-map-marked-alt fa-10x'></i>

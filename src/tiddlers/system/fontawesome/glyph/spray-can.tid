@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Spray Can
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5bd
+tags: solid
+title: $:/fontawesome/glyph/spray-can
+
+<i class='fas fa-spray-can fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Archive
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f187
-tags: box storage package solid
+tags: box package storage solid
 title: $:/fontawesome/glyph/archive
 
 <i class='fas fa-archive fa-10x'></i>

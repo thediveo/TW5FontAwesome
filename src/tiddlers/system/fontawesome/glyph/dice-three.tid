@@ -3,7 +3,7 @@ fa-label: Dice Three
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f527
-tags: gambling roll game chance solid
+tags: chance gambling game roll solid
 title: $:/fontawesome/glyph/dice-three
 
 <i class='fas fa-dice-three fa-10x'></i>

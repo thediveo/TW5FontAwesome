@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Nimblr
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f5a8
+tags: brands
+title: $:/fontawesome/glyph/nimblr
+
+<i class='fab fa-nimblr fa-10x'></i>

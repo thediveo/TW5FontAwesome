@@ -3,7 +3,7 @@ fa-label: trophy
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f091
-tags: award achievement cup winner game solid
+tags: achievement award cup game winner solid
 title: $:/fontawesome/glyph/trophy
 
 <i class='fas fa-trophy fa-10x'></i>

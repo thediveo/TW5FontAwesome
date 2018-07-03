@@ -1,18 +1,18 @@
 description: Accessibility
 title: $:/fontawesome/class/accessibility
 
-audio-description
 accessible-icon
-deaf
-closed-captioning
-braille
 american-sign-language-interpreting
-low-vision
 assistive-listening-systems
-sign-language
+audio-description
 blind
-universal-access
-question-circle
-tty
-wheelchair
+braille
+closed-captioning
+deaf
+low-vision
 phone-volume
+question-circle
+sign-language
+tty
+universal-access
+wheelchair

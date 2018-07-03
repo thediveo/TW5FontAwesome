@@ -3,7 +3,7 @@ fa-label: Arrow Circle Right
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0a9
-tags: next forward solid
+tags: forward next solid
 title: $:/fontawesome/glyph/arrow-circle-right
 
 <i class='fas fa-arrow-circle-right fa-10x'></i>

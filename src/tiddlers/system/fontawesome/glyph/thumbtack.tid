@@ -3,7 +3,7 @@ fa-label: Thumbtack
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f08d
-tags: marker pin location coordinates thumb-tack solid
+tags: coordinates location marker pin thumb-tack solid
 title: $:/fontawesome/glyph/thumbtack
 
 <i class='fas fa-thumbtack fa-10x'></i>

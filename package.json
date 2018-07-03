@@ -1,14 +1,18 @@
 {
   "name": "tw5-fontawesome",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "author": "TheDiveO",
   "description": "Font Awesome 5 for TiddlyWiki 5",
   "homepage": "https://github.com/TheDiveO/TW5FontAwesome",
   "license": "(MIT)",
   "bugs": "https://github.com/TheDiveO/TW5FontAwesome/issues",
   "keywords": [
-    "tiddlywiki", "tiddlywiki5", "wiki", "plugin",
-    "fontawesome", "fontawesome5"
+    "tiddlywiki",
+    "tiddlywiki5",
+    "wiki",
+    "plugin",
+    "fontawesome",
+    "fontawesome5"
   ],
   "main": "twserver.js",
   "scripts": {
@@ -26,7 +30,8 @@
   "dependencies": {
     "adm-zip": ">=0.4.7",
     "compare-versions": ">=3.1.0",
-    "phantom": ">=4.0.0",
+    "js-yaml": "^3.12.0",
+    "puppeteer": "^1.5.0",
     "request": ">=2.83.0",
     "request-promise-native": "^1.0.5",
     "tiddlywiki": ">=5.1.15",

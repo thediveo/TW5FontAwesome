@@ -3,7 +3,7 @@ fa-label: Utensils
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2e7
-tags: food restaurant spoon knife dinner eat cutlery solid
+tags: cutlery dinner eat food knife restaurant spoon solid
 title: $:/fontawesome/glyph/utensils
 
 <i class='fas fa-utensils fa-10x'></i>

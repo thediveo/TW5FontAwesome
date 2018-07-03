@@ -3,7 +3,7 @@ fa-label: Archive File
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1c6
-tags: zip .zip compress compression bundle download solid regular
+tags: .zip bundle compress compression download zip solid regular
 title: $:/fontawesome/glyph/file-archive
 
 <i class='fas fa-file-archive fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: th-list
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f00b
-tags: ul ol checklist finished completed done todo solid
+tags: checklist completed done finished ol todo ul solid
 title: $:/fontawesome/glyph/th-list
 
 <i class='fas fa-th-list fa-10x'></i>

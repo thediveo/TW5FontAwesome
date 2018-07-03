@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Globe with Africa shown
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f57c
+tags: all country earth global gps language localize location map online place planet translate travel world solid
+title: $:/fontawesome/glyph/globe-africa
+
+<i class='fas fa-globe-africa fa-10x'></i>

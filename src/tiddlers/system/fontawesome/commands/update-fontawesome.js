@@ -46,8 +46,8 @@ if ($tw.node) {
 	var versioning = require("compare-versions");
 	var url = require("url");
 	var request = require("request-promise-native");
+	var yaml = require("js-yaml");
 	var fa5dlinfo = require("../libs/fa5downloadinfo.js");
-	var fa5catinfo = require("../libs/fa5categories.js");
 }
 
 // Create a new command instance; besides the parameters which we've got
@@ -69,15 +69,7 @@ Command.prototype.execute = function() {
 	var fazip = null;
 
 	fa5dlinfo.fontAwesome5PackageDownloadInfo(self.logger)
-	.then(function(fa5pkginfo) {
-		return fa5catinfo.fontAwesome5Categories(self.logger)
-		.then(function(fa5catinfo) {
-			fa5pkginfo.categories = fa5catinfo;
-			return fa5pkginfo;
-		})
-		;
-	})
-	.then(function(fa5pkginfo) {
+  	.then(function(fa5pkginfo) {
 		self.logger.log("Downloading Font Awesome 5 Free zip package...");
 		return request.get({
 			uri: fa5pkginfo.url,
@@ -95,7 +87,7 @@ Command.prototype.execute = function() {
 		  if (!faroot.startsWith("fontawesome-")) {
 		    return "invalid Font Awesome zip package: missing or invalid path root " + faroot;
 		  }
-		  var match = /^fontawesome-.*-(\d+\.\d+\.\d+)$/.exec(faroot);
+		  var match = /^fontawesome-.*-(\d+\.\d+\.\d+)-web$/.exec(faroot);
 		  if (match === null) {
 		    return "cannot autodetect Font Awesome version from path root " + faroot;
 		  }
@@ -146,7 +138,7 @@ Command.prototype.execute = function() {
 		      }
 		    ], function(font) {
 		      self.logger.log("extracting Font Awesome font file", font.fontfile + ".woff");
-		      var woffname = faroot + "/web-fonts-with-css/webfonts/" + font.fontfile + ".woff";
+		      var woffname = faroot + "/webfonts/" + font.fontfile + ".woff";
 		      var woff = fazip.readFile(woffname);
 					if (woff === null) {
 		        return "zip package misses WOFF web font file " + woffname;
@@ -180,7 +172,7 @@ Command.prototype.execute = function() {
 			// Retrieve the Font Awesome CSS file containing all the nifty
 			// class definitions...
 			self.logger.log("updating plugin styles/fontawesome 5.css");
-			var fa5css = fazip.readAsText(faroot + "/web-fonts-with-css/css/fontawesome.css");
+			var fa5css = fazip.readAsText(faroot + "/css/fontawesome.css");
 			if (fa5css === null) {
 				return "zip package misses fontawesome.css file";
 			}
@@ -195,9 +187,9 @@ Command.prototype.execute = function() {
 
 			// Now import the glyph metadata...
 			self.logger.log("updating glyph metadata");
-			var faiconmetadata = fazip.readAsText(faroot + "/advanced-options/metadata/icons.json");
+			var faiconmetadata = fazip.readAsText(faroot + "/metadata/icons.json");
 			if (faiconmetadata === null) {
-				return "zip package misses icons.json file";
+				return "zip package lacks icons.json file";
 			}
 			var glyphmd;
 		  try {
@@ -250,10 +242,21 @@ Command.prototype.execute = function() {
 		  self.logger.log("imported", glyphs, "glyphs");
 
 			// import class/category information
-			$tw.utils.each(fa5pkginfo.categories, function(category) {
+			self.logger.log("updating categories metadata");
+			var facategoriesdata = fazip.readAsText(faroot + "/metadata/categories.yml");
+			if (facategoriesdata === null) {
+				return "zip package lacks categories.yml file";
+			}
+			var categories;
+		  try {
+		    categories = yaml.safeLoad(facategoriesdata);
+		  } catch(ex) {
+		    return "invalid icons.json metadata file: " + ex.message;
+		  }
+			$tw.utils.each(categories, function(category, elementname) {
 				self.logger.log("category:", category.label);
 				var tiddler = new $tw.Tiddler({
-					"title": "$:/fontawesome/class/" + category.name,
+					"title": "$:/fontawesome/class/" + elementname,
 					"description": category.label,
 					"text": category.icons.join("\r\n")
 				});

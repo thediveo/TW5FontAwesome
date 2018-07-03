@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Pen
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f305
+tags: design edit update write solid
+title: $:/fontawesome/glyph/pen-alt
+
+<i class='fas fa-pen-alt fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: comment
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f075
-tags: speech notification note chat bubble feedback message texting sms conversation solid regular
+tags: bubble chat conversation feedback message note notification sms speech texting solid regular
 title: $:/fontawesome/glyph/comment
 
 <i class='fas fa-comment fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Fill Drip
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f576
+tags: solid
+title: $:/fontawesome/glyph/fill-drip
+
+<i class='fas fa-fill-drip fa-10x'></i>

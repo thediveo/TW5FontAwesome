@@ -1,23 +1,22 @@
 description: Vehicles
 title: $:/fontawesome/class/vehicles
 
-space-shuttle
-bus
-taxi
 accessible-icon
-shopping-cart
-paper-plane
-train
-ship
 ambulance
-rocket
-fighter-jet
-plane
-subway
-truck
-motorcycle
-plane-alt
-helicopter
-car
-wheelchair
 bicycle
+bus
+car
+fighter-jet
+helicopter
+motorcycle
+paper-plane
+plane
+rocket
+ship
+shopping-cart
+space-shuttle
+subway
+taxi
+train
+truck
+wheelchair

@@ -3,7 +3,7 @@ fa-label: Alternate Pencil
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f303
-tags: write edit update pencil design solid
+tags: design edit pencil update write solid
 title: $:/fontawesome/glyph/pencil-alt
 
 <i class='fas fa-pencil-alt fa-10x'></i>

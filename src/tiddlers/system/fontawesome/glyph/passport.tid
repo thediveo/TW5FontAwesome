@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Passport
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5ab
+tags: document identification issued solid
+title: $:/fontawesome/glyph/passport
+
+<i class='fas fa-passport fa-10x'></i>

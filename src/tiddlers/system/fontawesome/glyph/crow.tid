@@ -3,7 +3,7 @@ fa-label: Crow
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f520
-tags: bird toad bullfrog solid
+tags: bird bullfrog toad solid
 title: $:/fontawesome/glyph/crow
 
 <i class='fas fa-crow fa-10x'></i>

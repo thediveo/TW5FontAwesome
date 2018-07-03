@@ -3,7 +3,7 @@ fa-label: arrow-left
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f060
-tags: previous back solid
+tags: back previous solid
 title: $:/fontawesome/glyph/arrow-left
 
 <i class='fas fa-arrow-left fa-10x'></i>

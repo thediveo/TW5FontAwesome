@@ -3,7 +3,7 @@ fa-label: Horizontal Ellipsis
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f141
-tags: dots menu drag reorder settings list ul ol kebab navigation nav solid
+tags: dots drag kebab list menu nav navigation ol reorder settings ul solid
 title: $:/fontawesome/glyph/ellipsis-h
 
 <i class='fas fa-ellipsis-h fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Helicopter
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f533
-tags: chopper airwolf apache fly flight solid
+tags: airwolf apache chopper flight fly solid
 title: $:/fontawesome/glyph/helicopter
 
 <i class='fas fa-helicopter fa-10x'></i>

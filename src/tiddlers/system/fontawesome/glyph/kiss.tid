@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Kissing Face
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f596
+tags: solid regular
+title: $:/fontawesome/glyph/kiss
+
+<i class='fas fa-kiss fa-10x'></i>

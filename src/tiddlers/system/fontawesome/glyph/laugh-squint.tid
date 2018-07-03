@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Laughing Squinting Face
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f59b
+tags: solid regular
+title: $:/fontawesome/glyph/laugh-squint
+
+<i class='fas fa-laugh-squint fa-10x'></i>

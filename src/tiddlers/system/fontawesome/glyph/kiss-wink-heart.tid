@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Face Blowing a Kiss
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f598
+tags: solid regular
+title: $:/fontawesome/glyph/kiss-wink-heart
+
+<i class='fas fa-kiss-wink-heart fa-10x'></i>

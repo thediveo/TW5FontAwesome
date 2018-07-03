@@ -3,7 +3,7 @@ fa-label: tint
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f043
-tags: raindrop waterdrop drop droplet solid
+tags: drop droplet raindrop waterdrop solid
 title: $:/fontawesome/glyph/tint
 
 <i class='fas fa-tint fa-10x'></i>

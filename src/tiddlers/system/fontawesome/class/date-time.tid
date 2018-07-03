@@ -1,21 +1,17 @@
 description: Date & Time
 title: $:/fontawesome/class/date-time
 
+bell
 bell-slash
-clock
-calendar-times
-stopwatch
-calendar-edit
-hourglass
 calendar
-calendar-plus
-watch
-calendar-minus
 calendar-alt
 calendar-check
-hourglass-start
-calendar-exclamation
+calendar-minus
+calendar-plus
+calendar-times
+clock
+hourglass
 hourglass-end
-bell
-alarm-clock
 hourglass-half
+hourglass-start
+stopwatch

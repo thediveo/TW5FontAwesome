@@ -3,7 +3,7 @@ fa-label: medkit
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0fa
-tags: [[first aid]] firstaid help support health solid
+tags: [[first aid]] firstaid health help support solid
 title: $:/fontawesome/glyph/medkit
 
 <i class='fas fa-medkit fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Alternate Money Check
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f53d
-tags: cheque [[bank check]] solid
+tags: [[bank check]] cheque solid
 title: $:/fontawesome/glyph/money-check-alt
 
 <i class='fas fa-money-check-alt fa-10x'></i>

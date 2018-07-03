@@ -3,7 +3,7 @@ fa-label: Undo
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0e2
-tags: back exchange swap return [[control z]] oops solid
+tags: back [[control z]] exchange oops return rotate swap solid
 title: $:/fontawesome/glyph/undo
 
 <i class='fas fa-undo fa-10x'></i>

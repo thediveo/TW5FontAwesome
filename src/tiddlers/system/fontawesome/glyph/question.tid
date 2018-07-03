@@ -3,7 +3,7 @@ fa-label: Question
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f128
-tags: help information unknown support solid
+tags: help information support unknown solid
 title: $:/fontawesome/glyph/question
 
 <i class='fas fa-question fa-10x'></i>

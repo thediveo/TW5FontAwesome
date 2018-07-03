@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Beaming Face With Smiling Eyes
+fa-style-classes: fas far
+fa-styles: solid regular
+fa-unicode: f5b8
+tags: solid regular
+title: $:/fontawesome/glyph/smile-beam
+
+<i class='fas fa-smile-beam fa-10x'></i>
