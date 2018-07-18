@@ -3,7 +3,7 @@ fa-label: Atlas
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f558
-tags: book geography map wayfinding solid
+tags: book directions geography map wayfinding solid
 title: $:/fontawesome/glyph/atlas
 
 <i class='fas fa-atlas fa-10x'></i>

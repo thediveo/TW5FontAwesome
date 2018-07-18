@@ -3,7 +3,7 @@ fa-label: Grip Horizontal
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f58d
-tags: affordance grab handle solid
+tags: affordance drag drop grab handle solid
 title: $:/fontawesome/glyph/grip-horizontal
 
 <i class='fas fa-grip-horizontal fa-10x'></i>
