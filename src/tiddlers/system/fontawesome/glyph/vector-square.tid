@@ -3,7 +3,7 @@ fa-label: Vector Square
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f5cb
-tags: solid
+tags: anchors lines object solid
 title: $:/fontawesome/glyph/vector-square
 
 <i class='fas fa-vector-square fa-10x'></i>

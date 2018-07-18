@@ -3,7 +3,7 @@ fa-label: Winking Face
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f4da
-tags: solid regular
+tags: emoticon face happy solid regular
 title: $:/fontawesome/glyph/smile-wink
 
 <i class='fas fa-smile-wink fa-10x'></i>
