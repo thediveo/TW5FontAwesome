@@ -11,7 +11,7 @@ Awesome support into your existing TiddlyWiki 5 instances. It's basically a simp
 
 ## Embedded Font Version & Attribution
 
-Enclosed you'll find Font Awesome version 5.0.8. In particular, the WOFF web font file as well as the CSS definitions. Font Awesome is by Dave Gandy &ndash; [http://fontawesome.com](http://fontawesome.com).
+Enclosed you'll find Font Awesome version 5.1.1. In particular, the WOFF web font file as well as the CSS definitions. Font Awesome is by Dave Gandy &ndash; [http://fontawesome.com](http://fontawesome.com).
 
 ## License
 

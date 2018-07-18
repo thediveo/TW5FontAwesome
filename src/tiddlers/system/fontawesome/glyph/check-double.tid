@@ -3,7 +3,7 @@ fa-label: Check Double
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f560
-tags: solid
+tags: accept agree checkmark confirm correct done notice notification notify ok select success tick todo solid
 title: $:/fontawesome/glyph/check-double
 
 <i class='fas fa-check-double fa-10x'></i>
