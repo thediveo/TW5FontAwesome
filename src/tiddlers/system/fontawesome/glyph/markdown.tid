@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Markdown
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f60f
+tags: brands
+title: $:/fontawesome/glyph/markdown
+
+<i class='fab fa-markdown fa-10x'></i>

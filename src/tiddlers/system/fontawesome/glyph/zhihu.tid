@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Zhihu
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f63f
+tags: brands
+title: $:/fontawesome/glyph/zhihu
+
+<i class='fab fa-zhihu fa-10x'></i>

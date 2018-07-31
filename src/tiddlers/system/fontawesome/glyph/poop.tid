@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Poop
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f619
+tags: solid
+title: $:/fontawesome/glyph/poop
+
+<i class='fas fa-poop fa-10x'></i>

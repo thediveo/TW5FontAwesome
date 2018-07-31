@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Brain
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5dc
+tags: solid
+title: $:/fontawesome/glyph/brain
+
+<i class='fas fa-brain fa-10x'></i>

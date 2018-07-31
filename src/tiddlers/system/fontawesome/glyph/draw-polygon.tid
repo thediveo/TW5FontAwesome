@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Draw Polygon
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5ee
+tags: solid
+title: $:/fontawesome/glyph/draw-polygon
+
+<i class='fas fa-draw-polygon fa-10x'></i>

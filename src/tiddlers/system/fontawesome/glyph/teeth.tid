@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Teeth
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f62e
+tags: solid
+title: $:/fontawesome/glyph/teeth
+
+<i class='fas fa-teeth fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Shapes
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f61f
+tags: circle square triangle solid
+title: $:/fontawesome/glyph/shapes
+
+<i class='fas fa-shapes fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Layer Group
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5fd
+tags: layers solid
+title: $:/fontawesome/glyph/layer-group
+
+<i class='fas fa-layer-group fa-10x'></i>

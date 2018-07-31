@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Car Side
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5e4
+tags: solid
+title: $:/fontawesome/glyph/car-side
+
+<i class='fas fa-car-side fa-10x'></i>
