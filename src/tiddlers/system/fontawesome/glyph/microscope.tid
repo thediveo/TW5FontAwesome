@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Microscope
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f610
+tags: solid
+title: $:/fontawesome/glyph/microscope
+
+<i class='fas fa-microscope fa-10x'></i>

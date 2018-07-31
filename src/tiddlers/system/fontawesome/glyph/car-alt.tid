@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Car Alt
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5de
+tags: solid
+title: $:/fontawesome/glyph/car-alt
+
+<i class='fas fa-car-alt fa-10x'></i>

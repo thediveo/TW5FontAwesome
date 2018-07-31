@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Atom
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5d2
+tags: solid
+title: $:/fontawesome/glyph/atom
+
+<i class='fas fa-atom fa-10x'></i>
