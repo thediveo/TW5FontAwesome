@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Route
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f4d7
+tags: solid
+title: $:/fontawesome/glyph/route
+
+<i class='fas fa-route fa-10x'></i>

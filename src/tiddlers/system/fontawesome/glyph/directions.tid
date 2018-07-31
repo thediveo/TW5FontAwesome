@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Directions
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5eb
+tags: solid
+title: $:/fontawesome/glyph/directions
+
+<i class='fas fa-directions fa-10x'></i>

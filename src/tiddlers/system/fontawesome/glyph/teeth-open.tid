@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Teeth Open
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f62f
+tags: solid
+title: $:/fontawesome/glyph/teeth-open
+
+<i class='fas fa-teeth-open fa-10x'></i>

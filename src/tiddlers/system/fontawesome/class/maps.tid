@@ -21,7 +21,9 @@ building
 car
 coffee
 crosshairs
+directions
 dollar-sign
+draw-polygon
 eye
 eye-slash
 fighter-jet
@@ -48,6 +50,7 @@ industry
 info
 info-circle
 key
+layer-group
 leaf
 lemon
 life-ring
@@ -67,6 +70,7 @@ money-bill-alt
 motorcycle
 music
 newspaper
+parking
 paw
 phone
 phone-square
@@ -79,6 +83,7 @@ print
 recycle
 road
 rocket
+route
 search
 search-minus
 search-plus
@@ -97,6 +102,7 @@ taxi
 thumbtack
 ticket-alt
 tint
+traffic-light
 train
 tree
 trophy

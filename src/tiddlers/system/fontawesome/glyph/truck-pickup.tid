@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Truck Side
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f63c
+tags: solid
+title: $:/fontawesome/glyph/truck-pickup
+
+<i class='fas fa-truck-pickup fa-10x'></i>

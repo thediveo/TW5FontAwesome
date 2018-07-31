@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Neos
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f612
+tags: brands
+title: $:/fontawesome/glyph/neos
+
+<i class='fab fa-neos fa-10x'></i>

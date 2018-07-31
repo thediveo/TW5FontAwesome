@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Book Reader
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f5da
+tags: library solid
+title: $:/fontawesome/glyph/book-reader
+
+<i class='fas fa-book-reader fa-10x'></i>

@@ -11,6 +11,7 @@ crop-alt
 crosshairs
 cut
 drafting-compass
+draw-polygon
 edit
 eraser
 eye
@@ -19,6 +20,7 @@ eye-slash
 fill
 fill-drip
 highlighter
+layer-group
 magic
 marker
 object-group

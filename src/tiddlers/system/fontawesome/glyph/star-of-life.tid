@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Star Of-life
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f621
+tags: solid
+title: $:/fontawesome/glyph/star-of-life
+
+<i class='fas fa-star-of-life fa-10x'></i>

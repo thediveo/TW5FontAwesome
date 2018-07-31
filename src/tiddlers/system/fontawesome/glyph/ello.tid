@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Ello
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f5f1
+tags: brands
+title: $:/fontawesome/glyph/ello
+
+<i class='fab fa-ello fa-10x'></i>

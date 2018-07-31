@@ -5,7 +5,11 @@ accessible-icon
 ambulance
 bicycle
 bus
+bus-alt
 car
+car-alt
+car-crash
+car-side
 fighter-jet
 helicopter
 motorcycle
@@ -14,9 +18,12 @@ plane
 rocket
 ship
 shopping-cart
+shuttle-van
 space-shuttle
 subway
 taxi
 train
 truck
+truck-monster
+truck-pickup
 wheelchair
