@@ -1,9 +1,11 @@
 created: 20140901110931199
-modified: 20180818153332597
+modified: 20180818162212584
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
-* ''1.2.13'' -- this is purely an npm package maintenance update; no changes to Font Awesome.
+* ''1.2.13''
+** switches to fetching the most recent Font Awesome Free download URL via GitHub API; this way, we can get rid of the (fine!) Puppeteer package and a truckload of update overhead.
+** npm package maintenance update: move development dependencies out of the general dependencies.
 
 * ''1.2.12'' -- updates to Font Awesome Free 5.2.0. This adds new category packs for "automotive", "medical", "education", and "maps".
 
