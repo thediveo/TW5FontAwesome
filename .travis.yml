@@ -39,7 +39,7 @@ before_install:
 
 script:
   - if [ -z "$TRAVIS_TAG" ]; then npm test; fi
-  - if [ -n "$TRAVIS_TAG" ]; then npm run ciupdate; fi
+  - if [ -n "$TRAVIS_TAG" ]; then npm run update; fi
   - npm run release
     # Copy release files to our GitHub Pages for this project.
   - cp $OUTPUT_DIR/fontawesome.tid $GH_PAGES_OUTPUT_DIR
