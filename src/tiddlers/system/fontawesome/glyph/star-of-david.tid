@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Star of David
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f69a
+tags: jewish judaism solid
+title: $:/fontawesome/glyph/star-of-david
+
+<i class='fas fa-star-of-david fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: The Red Yeti
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f69d
+tags: brands
+title: $:/fontawesome/glyph/the-red-yeti
+
+<i class='fab fa-the-red-yeti fa-10x'></i>

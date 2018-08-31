@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Pray
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f683
+tags: solid
+title: $:/fontawesome/glyph/pray
+
+<i class='fas fa-pray fa-10x'></i>

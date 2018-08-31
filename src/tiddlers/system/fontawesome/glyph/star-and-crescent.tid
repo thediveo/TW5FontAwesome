@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Star and Crescent
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f699
+tags: islam muslim solid
+title: $:/fontawesome/glyph/star-and-crescent
+
+<i class='fas fa-star-and-crescent fa-10x'></i>

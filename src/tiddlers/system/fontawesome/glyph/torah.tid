@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Torah
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6a0
+tags: book jewish judaism solid
+title: $:/fontawesome/glyph/torah
+
+<i class='fas fa-torah fa-10x'></i>

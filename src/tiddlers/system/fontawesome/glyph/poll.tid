@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Poll
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f681
+tags: solid
+title: $:/fontawesome/glyph/poll
+
+<i class='fas fa-poll fa-10x'></i>

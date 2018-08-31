@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Kaaba
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f66b
+tags: building cube islam muslim solid
+title: $:/fontawesome/glyph/kaaba
+
+<i class='fas fa-kaaba fa-10x'></i>

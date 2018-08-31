@@ -219,7 +219,7 @@ Command.prototype.execute = function() {
 		    });
 
 		    // Knock together suitable (search) tags...
-		    var terms = glyph["search"]["terms"];
+		    var terms = glyph["search"]["terms"] || [];
 		    terms.push.apply(terms, glyph["styles"]);
 
 		    // We can finally create the glyp metadata tiddler.

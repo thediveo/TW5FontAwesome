@@ -11,6 +11,7 @@ briefcase
 building
 bullhorn
 bullseye
+business-time
 calculator
 calendar
 calendar-alt
@@ -19,6 +20,7 @@ chart-area
 chart-bar
 chart-line
 chart-pie
+city
 clipboard
 coffee
 columns
@@ -35,11 +37,14 @@ fax
 file
 file-alt
 folder
+folder-minus
 folder-open
+folder-plus
 glasses
 globe
 highlighter
 industry
+landmark
 marker
 paperclip
 paste
@@ -54,13 +59,14 @@ phone
 phone-slash
 phone-square
 phone-volume
+print
 project-diagram
 registered
 save
 sitemap
+socks
 sticky-note
 stream
-suitcase
 table
 tag
 tags
