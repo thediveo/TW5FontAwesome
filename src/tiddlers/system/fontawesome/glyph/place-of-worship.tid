@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Place Of Worship
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f67f
+tags: solid
+title: $:/fontawesome/glyph/place-of-worship
+
+<i class='fas fa-place-of-worship fa-10x'></i>

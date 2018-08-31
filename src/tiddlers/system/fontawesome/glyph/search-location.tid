@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Search Location
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f689
+tags: solid
+title: $:/fontawesome/glyph/search-location
+
+<i class='fas fa-search-location fa-10x'></i>

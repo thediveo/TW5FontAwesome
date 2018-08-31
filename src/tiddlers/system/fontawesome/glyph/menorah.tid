@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Menorah
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f676
+tags: candle jewish judaism light solid
+title: $:/fontawesome/glyph/menorah
+
+<i class='fas fa-menorah fa-10x'></i>

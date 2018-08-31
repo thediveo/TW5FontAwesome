@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Folder Minus
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f65d
+tags: archive delete remove solid
+title: $:/fontawesome/glyph/folder-minus
+
+<i class='fas fa-folder-minus fa-10x'></i>

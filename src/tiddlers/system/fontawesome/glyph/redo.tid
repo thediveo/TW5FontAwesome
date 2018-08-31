@@ -3,7 +3,7 @@ fa-label: Redo
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f01e
-tags: forward repeat solid
+tags: forward refresh reload repeat solid
 title: $:/fontawesome/glyph/redo
 
 <i class='fas fa-redo fa-10x'></i>

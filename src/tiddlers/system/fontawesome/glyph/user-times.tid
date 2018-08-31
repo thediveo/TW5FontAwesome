@@ -3,7 +3,7 @@ fa-label: Remove User
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f235
-tags: solid
+tags: archive delete remove x solid
 title: $:/fontawesome/glyph/user-times
 
 <i class='fas fa-user-times fa-10x'></i>

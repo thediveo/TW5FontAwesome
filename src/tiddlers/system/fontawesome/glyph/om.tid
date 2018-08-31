@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Om
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f679
+tags: buddhism hinduism jainism mantra solid
+title: $:/fontawesome/glyph/om
+
+<i class='fas fa-om fa-10x'></i>

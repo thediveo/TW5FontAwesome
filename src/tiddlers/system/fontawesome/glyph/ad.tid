@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Ad
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f641
+tags: solid
+title: $:/fontawesome/glyph/ad
+
+<i class='fas fa-ad fa-10x'></i>

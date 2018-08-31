@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Search Dollar
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f688
+tags: solid
+title: $:/fontawesome/glyph/search-dollar
+
+<i class='fas fa-search-dollar fa-10x'></i>

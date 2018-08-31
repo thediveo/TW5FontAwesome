@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Bible
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f647
+tags: book catholicism christianity solid
+title: $:/fontawesome/glyph/bible
+
+<i class='fas fa-bible fa-10x'></i>
