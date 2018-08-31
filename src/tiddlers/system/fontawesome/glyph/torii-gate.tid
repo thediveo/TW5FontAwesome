@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Torii Gate
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6a1
+tags: building shintoism solid
+title: $:/fontawesome/glyph/torii-gate
+
+<i class='fas fa-torii-gate fa-10x'></i>

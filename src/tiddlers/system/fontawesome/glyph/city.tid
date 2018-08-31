@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: City
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f64f
+tags: buildings busy skyscrapers urban windows solid
+title: $:/fontawesome/glyph/city
+
+<i class='fas fa-city fa-10x'></i>

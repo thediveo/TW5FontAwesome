@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Quran
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f687
+tags: book islam muslim solid
+title: $:/fontawesome/glyph/quran
+
+<i class='fas fa-quran fa-10x'></i>

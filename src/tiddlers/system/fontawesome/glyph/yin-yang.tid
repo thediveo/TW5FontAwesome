@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Yin Yang
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6ad
+tags: daoism opposites taoism solid
+title: $:/fontawesome/glyph/yin-yang
+
+<i class='fas fa-yin-yang fa-10x'></i>

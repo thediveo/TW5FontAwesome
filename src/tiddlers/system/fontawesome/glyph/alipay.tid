@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Alipay
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f642
+tags: brands
+title: $:/fontawesome/glyph/alipay
+
+<i class='fab fa-alipay fa-10x'></i>

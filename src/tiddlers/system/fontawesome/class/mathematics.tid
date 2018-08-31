@@ -1,16 +1,19 @@
 description: Mathematics
 title: $:/fontawesome/class/mathematics
 
+calculator
 divide
 equals
 greater-than
 greater-than-equal
+infinity
 less-than
 less-than-equal
 minus
 not-equal
 percentage
 plus
+square-root-alt
 subscript
 superscript
 times

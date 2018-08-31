@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Vihara
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6a7
+tags: buddhism buddhist building monastery solid
+title: $:/fontawesome/glyph/vihara
+
+<i class='fas fa-vihara fa-10x'></i>

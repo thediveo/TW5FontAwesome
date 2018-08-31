@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Landmark
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f66f
+tags: building historic memoroable solid
+title: $:/fontawesome/glyph/landmark
+
+<i class='fas fa-landmark fa-10x'></i>

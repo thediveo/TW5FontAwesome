@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Mail Bulk
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f674
+tags: solid
+title: $:/fontawesome/glyph/mail-bulk
+
+<i class='fas fa-mail-bulk fa-10x'></i>

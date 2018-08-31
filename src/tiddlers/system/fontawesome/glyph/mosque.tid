@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Mosque
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f678
+tags: building islam muslim solid
+title: $:/fontawesome/glyph/mosque
+
+<i class='fas fa-mosque fa-10x'></i>
