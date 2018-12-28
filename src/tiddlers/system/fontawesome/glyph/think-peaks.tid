@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Think Peaks
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f731
+tags: brands
+title: $:/fontawesome/glyph/think-peaks
+
+<i class='fab fa-think-peaks fa-10x'></i>

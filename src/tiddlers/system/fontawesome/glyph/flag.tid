@@ -3,7 +3,7 @@ fa-label: flag
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f024
-tags: notice notification notify report solid regular
+tags: country notice notification notify pole report symbol solid regular
 title: $:/fontawesome/glyph/flag
 
 <i class='fas fa-flag fa-10x'></i>

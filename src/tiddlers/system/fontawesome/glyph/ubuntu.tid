@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Ubuntu
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7df
+tags: linux [[operating system]] os brands
+title: $:/fontawesome/glyph/ubuntu
+
+<i class='fab fa-ubuntu fa-10x'></i>

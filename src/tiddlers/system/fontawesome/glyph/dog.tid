@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Dog
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6d3
+tags: canine fauna mammmal pet pooch puppy woof solid
+title: $:/fontawesome/glyph/dog
+
+<i class='fas fa-dog fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Adobe
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f778
+tags: acrobat app design illustrator indesign photoshop brands
+title: $:/fontawesome/glyph/adobe
+
+<i class='fab fa-adobe fa-10x'></i>

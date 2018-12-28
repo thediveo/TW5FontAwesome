@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Running
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f70c
+tags: jog person sprint solid
+title: $:/fontawesome/glyph/running
+
+<i class='fas fa-running fa-10x'></i>

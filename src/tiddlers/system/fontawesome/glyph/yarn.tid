@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Yarn
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7e3
+tags: brands
+title: $:/fontawesome/glyph/yarn
+
+<i class='fab fa-yarn fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Grip Lines Vertical
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7a5
+tags: affordance drag drop grab handle solid
+title: $:/fontawesome/glyph/grip-lines-vertical
+
+<i class='fas fa-grip-lines-vertical fa-10x'></i>

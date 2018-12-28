@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Toilet
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7d8
+tags: bathroom flush john loo pee plumbing poop porcelain potty restroom throne washroom waste wc solid
+title: $:/fontawesome/glyph/toilet
+
+<i class='fas fa-toilet fa-10x'></i>

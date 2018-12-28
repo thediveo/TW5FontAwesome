@@ -3,7 +3,7 @@ fa-label: User Minus
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f503
-tags: delete remove solid
+tags: delete negative remove solid
 title: $:/fontawesome/glyph/user-minus
 
 <i class='fas fa-user-minus fa-10x'></i>

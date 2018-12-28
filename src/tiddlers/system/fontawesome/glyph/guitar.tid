@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Guitar
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7a6
+tags: acoustic instrument music rock [[rock and roll]] song strings solid
+title: $:/fontawesome/glyph/guitar
+
+<i class='fas fa-guitar fa-10x'></i>

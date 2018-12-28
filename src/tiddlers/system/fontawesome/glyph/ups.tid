@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: UPS
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7e0
+tags: [[United Parcel Service]] package shipping brands
+title: $:/fontawesome/glyph/ups
+
+<i class='fab fa-ups fa-10x'></i>

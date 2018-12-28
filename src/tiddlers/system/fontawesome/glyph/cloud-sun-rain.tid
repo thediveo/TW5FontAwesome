@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Cloud with Sun and Rain
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f743
+tags: solid
+title: $:/fontawesome/glyph/cloud-sun-rain
+
+<i class='fas fa-cloud-sun-rain fa-10x'></i>

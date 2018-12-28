@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hanukiah
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6e6
+tags: candle hanukkah jewish judaism light solid
+title: $:/fontawesome/glyph/hanukiah
+
+<i class='fas fa-hanukiah fa-10x'></i>

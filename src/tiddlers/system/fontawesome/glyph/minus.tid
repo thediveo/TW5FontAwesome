@@ -3,7 +3,7 @@ fa-label: minus
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f068
-tags: collapse delete hide minify remove trash solid
+tags: collapse delete hide minify negative remove trash solid
 title: $:/fontawesome/glyph/minus
 
 <i class='fas fa-minus fa-10x'></i>

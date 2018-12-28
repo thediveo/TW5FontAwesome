@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Chair
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6c0
+tags: furniture seat solid
+title: $:/fontawesome/glyph/chair
+
+<i class='fas fa-chair fa-10x'></i>

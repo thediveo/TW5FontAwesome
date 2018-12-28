@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Mendeley
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7b3
+tags: brands
+title: $:/fontawesome/glyph/mendeley
+
+<i class='fab fa-mendeley fa-10x'></i>

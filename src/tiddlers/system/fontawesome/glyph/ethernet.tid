@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Ethernet
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f796
+tags: cable [[cat 5]] [[cat 6]] connection hardware internet network wired solid
+title: $:/fontawesome/glyph/ethernet
+
+<i class='fas fa-ethernet fa-10x'></i>

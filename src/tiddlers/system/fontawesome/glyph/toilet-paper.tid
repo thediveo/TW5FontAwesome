@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Toilet Paper
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f71e
+tags: bathroom halloween holiday lavatory prank restroom roll solid
+title: $:/fontawesome/glyph/toilet-paper
+
+<i class='fas fa-toilet-paper fa-10x'></i>

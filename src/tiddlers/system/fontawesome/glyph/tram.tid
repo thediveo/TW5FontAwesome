@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Tram
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7da
+tags: crossing machine mountains seasonal transportation solid
+title: $:/fontawesome/glyph/tram
+
+<i class='fas fa-tram fa-10x'></i>

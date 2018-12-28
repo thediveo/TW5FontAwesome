@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Sketch
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7c6
+tags: app design interface brands
+title: $:/fontawesome/glyph/sketch
+
+<i class='fab fa-sketch fa-10x'></i>

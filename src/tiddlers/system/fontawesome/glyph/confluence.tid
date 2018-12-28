@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Confluence
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f78d
+tags: atlassian brands
+title: $:/fontawesome/glyph/confluence
+
+<i class='fab fa-confluence fa-10x'></i>

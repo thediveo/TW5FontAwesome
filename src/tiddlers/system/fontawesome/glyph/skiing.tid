@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Skiing
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7c9
+tags: activity downhill fast fitness outdoors person seasonal slalom solid
+title: $:/fontawesome/glyph/skiing
+
+<i class='fas fa-skiing fa-10x'></i>

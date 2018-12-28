@@ -3,7 +3,7 @@ fa-label: Plus Square
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f0fe
-tags: add create expand new solid regular
+tags: add create expand new positive solid regular
 title: $:/fontawesome/glyph/plus-square
 
 <i class='fas fa-plus-square fa-10x'></i>

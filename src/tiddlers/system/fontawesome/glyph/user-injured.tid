@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: User Injured
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f728
+tags: cast ouch sling solid
+title: $:/fontawesome/glyph/user-injured
+
+<i class='fas fa-user-injured fa-10x'></i>

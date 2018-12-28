@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Tools
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7d9
+tags: admin fix repair screwdriver settings tools wrench solid
+title: $:/fontawesome/glyph/tools
+
+<i class='fas fa-tools fa-10x'></i>

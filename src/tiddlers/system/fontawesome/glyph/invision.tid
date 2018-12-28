@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: InVision
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7b0
+tags: app design interface brands
+title: $:/fontawesome/glyph/invision
+
+<i class='fab fa-invision fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Folder Plus
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f65e
-tags: add create new solid
+tags: add create new positive solid
 title: $:/fontawesome/glyph/folder-plus
 
 <i class='fas fa-folder-plus fa-10x'></i>

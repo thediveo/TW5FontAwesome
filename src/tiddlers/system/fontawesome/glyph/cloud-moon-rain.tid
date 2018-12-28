@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Cloud with Moon and Rain
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f73c
+tags: solid
+title: $:/fontawesome/glyph/cloud-moon-rain
+
+<i class='fas fa-cloud-moon-rain fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Mountain
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6fc
+tags: solid
+title: $:/fontawesome/glyph/mountain
+
+<i class='fas fa-mountain fa-10x'></i>

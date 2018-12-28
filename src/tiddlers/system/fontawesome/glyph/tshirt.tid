@@ -3,7 +3,7 @@ fa-label: T-Shirt
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f553
-tags: cloth clothing solid
+tags: clothing solid
 title: $:/fontawesome/glyph/tshirt
 
 <i class='fas fa-tshirt fa-10x'></i>

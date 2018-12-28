@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: File CSV
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6dd
+tags: spreadsheets solid
+title: $:/fontawesome/glyph/file-csv
+
+<i class='fas fa-file-csv fa-10x'></i>

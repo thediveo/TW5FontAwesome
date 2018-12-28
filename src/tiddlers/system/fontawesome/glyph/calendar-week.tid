@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Calendar with Week Focus
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f784
+tags: date detail event focus schedule [[single week]] time today when solid
+title: $:/fontawesome/glyph/calendar-week
+
+<i class='fas fa-calendar-week fa-10x'></i>

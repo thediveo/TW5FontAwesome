@@ -3,7 +3,7 @@ fa-label: Yen Sign
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f157
-tags: jpy solid
+tags: currency jpy money solid
 title: $:/fontawesome/glyph/yen-sign
 
 <i class='fas fa-yen-sign fa-10x'></i>

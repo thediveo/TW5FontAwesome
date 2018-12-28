@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Figma
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f799
+tags: app design interface brands
+title: $:/fontawesome/glyph/figma
+
+<i class='fab fa-figma fa-10x'></i>

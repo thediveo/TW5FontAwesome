@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Globe with Europe shown
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7a2
+tags: all country earth global gps language localize location map online place planet translate travel world solid
+title: $:/fontawesome/glyph/globe-europe
+
+<i class='fas fa-globe-europe fa-10x'></i>

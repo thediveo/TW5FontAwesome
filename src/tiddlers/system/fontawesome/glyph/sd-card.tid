@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Sd Card
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7c2
+tags: solid
+title: $:/fontawesome/glyph/sd-card
+
+<i class='fas fa-sd-card fa-10x'></i>

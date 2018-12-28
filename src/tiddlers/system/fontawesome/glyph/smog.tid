@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Smog
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f75f
+tags: dragon solid
+title: $:/fontawesome/glyph/smog
+
+<i class='fas fa-smog fa-10x'></i>

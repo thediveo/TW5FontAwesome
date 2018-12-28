@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Centos
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f789
+tags: linux [[operating system]] os brands
+title: $:/fontawesome/glyph/centos
+
+<i class='fab fa-centos fa-10x'></i>

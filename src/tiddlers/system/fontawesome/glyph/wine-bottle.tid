@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Wine Bottle
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f72f
+tags: alcohol beverage drink glass grapes solid
+title: $:/fontawesome/glyph/wine-bottle
+
+<i class='fas fa-wine-bottle fa-10x'></i>
