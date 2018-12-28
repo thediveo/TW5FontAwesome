@@ -3,7 +3,7 @@ fa-label: Add to Shopping Cart
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f217
-tags: add create new shopping solid
+tags: add create new positive shopping solid
 title: $:/fontawesome/glyph/cart-plus
 
 <i class='fas fa-cart-plus fa-10x'></i>

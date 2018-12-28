@@ -3,7 +3,7 @@ fa-label: Walking
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f554
-tags: solid
+tags: person solid
 title: $:/fontawesome/glyph/walking
 
 <i class='fas fa-walking fa-10x'></i>

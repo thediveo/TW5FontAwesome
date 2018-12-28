@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Dice D6
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6d1
+tags: [[Dungeons & Dragons]] chance d&d dnd fantasy gambling game roll solid
+title: $:/fontawesome/glyph/dice-d6
+
+<i class='fas fa-dice-d6 fa-10x'></i>

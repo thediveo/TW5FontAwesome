@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: United States of America Flag
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f74d
+tags: [[betsy ross]] country [[old glory]] stars stripes symbol solid
+title: $:/fontawesome/glyph/flag-usa
+
+<i class='fas fa-flag-usa fa-10x'></i>

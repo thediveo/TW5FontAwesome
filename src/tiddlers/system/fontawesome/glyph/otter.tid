@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Otter
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f700
+tags: fauna mammmal solid
+title: $:/fontawesome/glyph/otter
+
+<i class='fas fa-otter fa-10x'></i>

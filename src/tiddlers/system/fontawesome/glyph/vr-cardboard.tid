@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Cardboard VR
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f729
+tags: google reality virtual solid
+title: $:/fontawesome/glyph/vr-cardboard
+
+<i class='fas fa-vr-cardboard fa-10x'></i>

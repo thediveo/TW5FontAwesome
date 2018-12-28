@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Cat
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6be
+tags: feline halloween holiday kitten kitty meow pet solid
+title: $:/fontawesome/glyph/cat
+
+<i class='fas fa-cat fa-10x'></i>

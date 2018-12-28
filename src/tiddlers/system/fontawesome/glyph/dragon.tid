@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Dragon
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6d5
+tags: [[Dungeons & Dragons]] d&d dnd fantasy solid
+title: $:/fontawesome/glyph/dragon
+
+<i class='fas fa-dragon fa-10x'></i>

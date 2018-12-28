@@ -3,7 +3,7 @@ fa-label: Trello
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f181
-tags: brands
+tags: atlassian brands
 title: $:/fontawesome/glyph/trello
 
 <i class='fab fa-trello fa-10x'></i>

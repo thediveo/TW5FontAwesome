@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Fedora
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f798
+tags: linux [[operating system]] os brands
+title: $:/fontawesome/glyph/fedora
+
+<i class='fab fa-fedora fa-10x'></i>

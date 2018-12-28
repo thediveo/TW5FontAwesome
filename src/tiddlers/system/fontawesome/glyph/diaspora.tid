@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Diaspora
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f791
+tags: brands
+title: $:/fontawesome/glyph/diaspora
+
+<i class='fab fa-diaspora fa-10x'></i>

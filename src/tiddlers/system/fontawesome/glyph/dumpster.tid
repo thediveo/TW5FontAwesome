@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Dumpster
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f793
+tags: alley bin commercial trash waste solid
+title: $:/fontawesome/glyph/dumpster
+
+<i class='fas fa-dumpster fa-10x'></i>

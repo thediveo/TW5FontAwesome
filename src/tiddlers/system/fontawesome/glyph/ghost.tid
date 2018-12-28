@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Ghost
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6e2
+tags: apparition blinky clyde floating halloween holiday inky pinky spirit solid
+title: $:/fontawesome/glyph/ghost
+
+<i class='fas fa-ghost fa-10x'></i>

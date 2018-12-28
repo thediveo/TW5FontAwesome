@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Redhat
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7bc
+tags: linux [[operating system]] os brands
+title: $:/fontawesome/glyph/redhat
+
+<i class='fab fa-redhat fa-10x'></i>

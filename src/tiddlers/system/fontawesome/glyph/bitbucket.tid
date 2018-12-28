@@ -3,7 +3,7 @@ fa-label: Bitbucket
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f171
-tags: bitbucket-square git brands
+tags: atlassian bitbucket-square git brands
 title: $:/fontawesome/glyph/bitbucket
 
 <i class='fab fa-bitbucket fa-10x'></i>

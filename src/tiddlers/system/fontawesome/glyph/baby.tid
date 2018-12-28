@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Baby
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f77c
+tags: diaper human infant kid offspring person sprout solid
+title: $:/fontawesome/glyph/baby
+
+<i class='fas fa-baby fa-10x'></i>

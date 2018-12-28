@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Vote Yea
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f772
+tags: accept cast election politics positive yes solid
+title: $:/fontawesome/glyph/vote-yea
+
+<i class='fas fa-vote-yea fa-10x'></i>

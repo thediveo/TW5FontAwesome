@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Satellite
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7bf
+tags: communications hardware orbit space solid
+title: $:/fontawesome/glyph/satellite
+
+<i class='fas fa-satellite fa-10x'></i>

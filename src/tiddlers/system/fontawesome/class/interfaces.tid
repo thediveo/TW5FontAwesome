@@ -8,6 +8,7 @@ bars
 beer
 bell
 bell-slash
+blog
 bug
 bullhorn
 bullseye
@@ -65,6 +66,8 @@ folder-open
 frown
 glasses
 grip-horizontal
+grip-lines
+grip-lines-vertical
 grip-vertical
 hashtag
 heart
@@ -139,6 +142,7 @@ times
 times-circle
 toggle-off
 toggle-on
+tools
 trash
 trash-alt
 trophy
@@ -149,6 +153,7 @@ user
 user-alt
 user-circle
 volume-down
+volume-mute
 volume-off
 volume-up
 wifi

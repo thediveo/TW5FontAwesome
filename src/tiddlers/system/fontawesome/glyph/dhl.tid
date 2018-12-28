@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: DHL
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f790
+tags: [[Dalsey, Hillblom and Lynn]] german package shipping brands
+title: $:/fontawesome/glyph/dhl
+
+<i class='fab fa-dhl fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: SMS
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7cd
+tags: chat conversation message mobile notification phone sms texting solid
+title: $:/fontawesome/glyph/sms
+
+<i class='fas fa-sms fa-10x'></i>

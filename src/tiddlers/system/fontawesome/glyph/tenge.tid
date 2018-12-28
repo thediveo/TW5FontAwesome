@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Tenge
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7d7
+tags: currency kazakhstan money price solid
+title: $:/fontawesome/glyph/tenge
+
+<i class='fas fa-tenge fa-10x'></i>

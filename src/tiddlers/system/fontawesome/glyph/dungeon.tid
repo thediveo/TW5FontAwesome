@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Dungeon
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6d9
+tags: [[Dungeons & Dragons]] building d&d dnd door entrance fantasy gate solid
+title: $:/fontawesome/glyph/dungeon
+
+<i class='fas fa-dungeon fa-10x'></i>

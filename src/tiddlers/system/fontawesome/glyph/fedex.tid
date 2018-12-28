@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: FedEx
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f797
+tags: [[Federal Express]] package shipping brands
+title: $:/fontawesome/glyph/fedex
+
+<i class='fab fa-fedex fa-10x'></i>

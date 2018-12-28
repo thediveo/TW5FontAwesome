@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Grip Lines
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7a4
+tags: affordance drag drop grab handle solid
+title: $:/fontawesome/glyph/grip-lines
+
+<i class='fas fa-grip-lines fa-10x'></i>

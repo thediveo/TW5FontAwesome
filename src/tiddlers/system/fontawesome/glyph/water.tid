@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Water
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f773
+tags: solid
+title: $:/fontawesome/glyph/water
+
+<i class='fas fa-water fa-10x'></i>

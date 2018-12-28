@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hammer
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6e3
+tags: admin fix repair settings tool solid
+title: $:/fontawesome/glyph/hammer
+
+<i class='fas fa-hammer fa-10x'></i>

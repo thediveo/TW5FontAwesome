@@ -3,7 +3,7 @@ fa-label: Warehouse
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f494
-tags: solid
+tags: building capacity garage inventory storage solid
 title: $:/fontawesome/glyph/warehouse
 
 <i class='fas fa-warehouse fa-10x'></i>

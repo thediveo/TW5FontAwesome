@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Snowplow
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7d2
+tags: [[clean up]] cold seasonal solid
+title: $:/fontawesome/glyph/snowplow
+
+<i class='fas fa-snowplow fa-10x'></i>

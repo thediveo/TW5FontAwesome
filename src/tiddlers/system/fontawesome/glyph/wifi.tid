@@ -3,7 +3,7 @@ fa-label: WiFi
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1eb
-tags: solid
+tags: connection hotspot internet network wireless solid
 title: $:/fontawesome/glyph/wifi
 
 <i class='fas fa-wifi fa-10x'></i>

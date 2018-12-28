@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Cloud with Rain
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f73d
+tags: precipitation solid
+title: $:/fontawesome/glyph/cloud-rain
+
+<i class='fas fa-cloud-rain fa-10x'></i>

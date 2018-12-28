@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: United States Postal Service
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7e1
+tags: american package shipping usa brands
+title: $:/fontawesome/glyph/usps
+
+<i class='fab fa-usps fa-10x'></i>

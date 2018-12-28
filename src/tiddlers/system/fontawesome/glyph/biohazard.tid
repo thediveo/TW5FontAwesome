@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Biohazard
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f780
+tags: danger dangerous medical waste solid
+title: $:/fontawesome/glyph/biohazard
+
+<i class='fas fa-biohazard fa-10x'></i>

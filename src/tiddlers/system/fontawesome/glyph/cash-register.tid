@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Cash Register
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f788
+tags: buy cha-ching change checkout commerce leaerboard machine pay payment purchase store solid
+title: $:/fontawesome/glyph/cash-register
+
+<i class='fas fa-cash-register fa-10x'></i>

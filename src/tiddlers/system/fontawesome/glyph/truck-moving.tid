@@ -3,7 +3,7 @@ fa-label: Truck Moving
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f4df
-tags: solid
+tags: inventory rental solid
 title: $:/fontawesome/glyph/truck-moving
 
 <i class='fas fa-truck-moving fa-10x'></i>

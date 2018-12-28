@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Gifts
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f79c
+tags: christmas generosity giving holiday party present wrapped xmas solid
+title: $:/fontawesome/glyph/gifts
+
+<i class='fas fa-gifts fa-10x'></i>

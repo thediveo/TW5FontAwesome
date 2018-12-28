@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hiking
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f6ec
+tags: activity backpack fall fitness outdoors person seasonal walking solid
+title: $:/fontawesome/glyph/hiking
+
+<i class='fas fa-hiking fa-10x'></i>

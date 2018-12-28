@@ -3,7 +3,7 @@ fa-label: Windows
 fa-style-classes: fab
 fa-styles: brands
 fa-unicode: f17a
-tags: microsoft brands
+tags: microsoft [[operating system]] os brands
 title: $:/fontawesome/glyph/windows
 
 <i class='fab fa-windows fa-10x'></i>

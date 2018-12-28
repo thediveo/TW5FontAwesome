@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Radiation
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7ba
+tags: danger dangerous deadly hazard nuclear radioactive warning solid
+title: $:/fontawesome/glyph/radiation-alt
+
+<i class='fas fa-radiation-alt fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Person Entering Booth
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f756
+tags: changing [[changing room]] election human person vote voting solid
+title: $:/fontawesome/glyph/person-booth
+
+<i class='fas fa-person-booth fa-10x'></i>

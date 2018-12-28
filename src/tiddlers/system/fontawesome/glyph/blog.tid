@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Blog
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f781
+tags: journal log online personal post [[web 2.0]] wordpress writing solid
+title: $:/fontawesome/glyph/blog
+
+<i class='fas fa-blog fa-10x'></i>

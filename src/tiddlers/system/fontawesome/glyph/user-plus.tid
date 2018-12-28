@@ -3,7 +3,7 @@ fa-label: User Plus
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f234
-tags: [[sign up]] signup solid
+tags: positive [[sign up]] signup solid
 title: $:/fontawesome/glyph/user-plus
 
 <i class='fas fa-user-plus fa-10x'></i>

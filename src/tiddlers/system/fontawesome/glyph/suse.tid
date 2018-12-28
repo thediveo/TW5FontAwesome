@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Suse
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7d6
+tags: linux [[operating system]] os brands
+title: $:/fontawesome/glyph/suse
+
+<i class='fab fa-suse fa-10x'></i>

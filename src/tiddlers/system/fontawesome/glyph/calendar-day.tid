@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Calendar with Day Focus
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f783
+tags: date detail event focus schedule [[single day]] time today when solid
+title: $:/fontawesome/glyph/calendar-day
+
+<i class='fas fa-calendar-day fa-10x'></i>

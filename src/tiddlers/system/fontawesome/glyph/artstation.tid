@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Artstation
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f77a
+tags: brands
+title: $:/fontawesome/glyph/artstation
+
+<i class='fab fa-artstation fa-10x'></i>

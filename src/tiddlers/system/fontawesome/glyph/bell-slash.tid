@@ -3,7 +3,7 @@ fa-label: Bell Slash
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1f6
-tags: solid regular
+tags: alert cancel disabled notification off reminder solid regular
 title: $:/fontawesome/glyph/bell-slash
 
 <i class='fas fa-bell-slash fa-10x'></i>

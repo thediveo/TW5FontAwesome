@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Intercom
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7af
+tags: app customer messenger brands
+title: $:/fontawesome/glyph/intercom
+
+<i class='fab fa-intercom fa-10x'></i>

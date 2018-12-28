@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: DEV
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f6cc
+tags: brands
+title: $:/fontawesome/glyph/dev
+
+<i class='fab fa-dev fa-10x'></i>

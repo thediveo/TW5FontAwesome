@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Canadian Maple Leaf
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f785
+tags: canada flag flora nature plant brands
+title: $:/fontawesome/glyph/canadian-maple-leaf
+
+<i class='fab fa-canadian-maple-leaf fa-10x'></i>

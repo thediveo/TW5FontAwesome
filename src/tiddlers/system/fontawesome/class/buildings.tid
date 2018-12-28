@@ -2,12 +2,19 @@ description: Buildings
 title: $:/fontawesome/class/buildings
 
 building
+campground
 church
+city
+dungeon
 gopuram
 home
 hospital
 hospital-alt
+hotel
+house-damage
+igloo
 industry
+landmark
 mosque
 place-of-worship
 school
@@ -15,3 +22,4 @@ synagogue
 torii-gate
 university
 vihara
+warehouse

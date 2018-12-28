@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: SIM Card
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7c4
+tags: [[hard drive]] hardware portable storage technology tiny solid
+title: $:/fontawesome/glyph/sim-card
+
+<i class='fas fa-sim-card fa-10x'></i>

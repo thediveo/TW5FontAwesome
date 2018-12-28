@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Jira
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f7b1
+tags: atlassian brands
+title: $:/fontawesome/glyph/jira
+
+<i class='fab fa-jira fa-10x'></i>

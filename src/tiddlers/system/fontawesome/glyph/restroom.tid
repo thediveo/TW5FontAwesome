@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Restroom
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7bd
+tags: bathroom john loo potty washroom waste wc solid
+title: $:/fontawesome/glyph/restroom
+
+<i class='fas fa-restroom fa-10x'></i>
