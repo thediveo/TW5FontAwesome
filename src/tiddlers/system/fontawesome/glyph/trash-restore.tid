@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Trash Restore
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f829
+tags: back [[control z]] oops undo solid
+title: $:/fontawesome/glyph/trash-restore
+
+<i class='fas fa-trash-restore fa-10x'></i>

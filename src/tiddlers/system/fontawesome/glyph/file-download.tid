@@ -3,7 +3,7 @@ fa-label: File Download
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f56d
-tags: solid
+tags: export solid
 title: $:/fontawesome/glyph/file-download
 
 <i class='fas fa-file-download fa-10x'></i>

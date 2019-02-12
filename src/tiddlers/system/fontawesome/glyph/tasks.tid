@@ -3,7 +3,7 @@ fa-label: Tasks
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0ae
-tags: downloading downloads loading progress settings solid
+tags: checklist downloading downloads loading progress [[project management]] settings [[to do]] solid
 title: $:/fontawesome/glyph/tasks
 
 <i class='fas fa-tasks fa-10x'></i>

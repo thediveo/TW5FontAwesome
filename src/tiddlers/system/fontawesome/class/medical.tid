@@ -7,11 +7,15 @@ band-aid
 biohazard
 bone
 bong
+book-medical
 brain
 briefcase-medical
 burn
 cannabis
 capsules
+clinic-medical
+comment-medical
+crutch
 diagnoses
 dna
 file-medical
@@ -25,9 +29,11 @@ hospital-alt
 hospital-symbol
 id-card-alt
 joint
+laptop-medical
 microscope
 mortar-pestle
 notes-medical
+pager
 pills
 plus
 poop
@@ -48,6 +54,7 @@ teeth-open
 thermometer
 tooth
 user-md
+user-nurse
 vial
 vials
 weight

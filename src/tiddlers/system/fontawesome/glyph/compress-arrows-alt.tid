@@ -3,7 +3,7 @@ fa-label: Alternate Compress Arrows
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f78c
-tags: arrows-alt collapse fullscreen minimize move resize shrink smaller solid
+tags: collapse fullscreen minimize move resize shrink smaller solid
 title: $:/fontawesome/glyph/compress-arrows-alt
 
 <i class='fas fa-compress-arrows-alt fa-10x'></i>

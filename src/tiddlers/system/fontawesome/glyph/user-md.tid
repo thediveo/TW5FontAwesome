@@ -1,9 +1,9 @@
 fa-default-style: fas
-fa-label: user-md
+fa-label: Doctor
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0f0
-tags: doctor job medical nurse occupation profile solid
+tags: job medical nurse occupation physician profile surgeon solid
 title: $:/fontawesome/glyph/user-md
 
 <i class='fas fa-user-md fa-10x'></i>
