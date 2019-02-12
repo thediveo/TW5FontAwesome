@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hard Hat
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f807
+tags: construction hardhat helmet safety solid
+title: $:/fontawesome/glyph/hard-hat
+
+<i class='fas fa-hard-hat fa-10x'></i>

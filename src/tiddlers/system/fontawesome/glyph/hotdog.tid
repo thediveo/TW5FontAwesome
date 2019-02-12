@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hot Dog
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f80f
+tags: bun chili frankfurt frankfurter kosher polish sandwich sausage vienna weiner solid
+title: $:/fontawesome/glyph/hotdog
+
+<i class='fas fa-hotdog fa-10x'></i>

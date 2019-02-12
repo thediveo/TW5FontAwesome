@@ -3,7 +3,7 @@ fa-label: Check Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f058
-tags: accept agree confirm correct done ok select success todo yes solid regular
+tags: accept agree confirm correct done ok select success tick todo yes solid regular
 title: $:/fontawesome/glyph/check-circle
 
 <i class='fas fa-check-circle fa-10x'></i>

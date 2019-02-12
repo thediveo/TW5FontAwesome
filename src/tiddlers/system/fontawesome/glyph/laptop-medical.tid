@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Laptop Medical
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f812
+tags: ehr [[electronic health records]] history solid
+title: $:/fontawesome/glyph/laptop-medical
+
+<i class='fas fa-laptop-medical fa-10x'></i>

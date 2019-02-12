@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Pager
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f815
+tags: beeper cellphone communication solid
+title: $:/fontawesome/glyph/pager
+
+<i class='fas fa-pager fa-10x'></i>

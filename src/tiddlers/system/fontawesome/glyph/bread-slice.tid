@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Bread Slice
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7ec
+tags: bake bakery baking dough flour gluten grain sandwich sourdough toast wheat yeast solid
+title: $:/fontawesome/glyph/bread-slice
+
+<i class='fas fa-bread-slice fa-10x'></i>

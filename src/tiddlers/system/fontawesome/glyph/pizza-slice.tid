@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Pizza Slice
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f818
+tags: cheese chicago italian mozzarella [[new york]] pepperoni pie slice [[teenage mutant ninja turtles]] tomato solid
+title: $:/fontawesome/glyph/pizza-slice
+
+<i class='fas fa-pizza-slice fa-10x'></i>

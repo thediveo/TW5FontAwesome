@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hamburger
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f805
+tags: bacon beef burger [[burger king]] cheeseburger [[fast food]] grill [[ground beef]] mcdonalds sandwich solid
+title: $:/fontawesome/glyph/hamburger
+
+<i class='fas fa-hamburger fa-10x'></i>

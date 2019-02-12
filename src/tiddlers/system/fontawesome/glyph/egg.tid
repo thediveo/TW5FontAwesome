@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Egg
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7fb
+tags: breakfast chicken easter yolk solid
+title: $:/fontawesome/glyph/egg
+
+<i class='fas fa-egg fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Diagnoses
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f470
-tags: solid
+tags: analyze detect diagnosis examine medicine solid
 title: $:/fontawesome/glyph/diagnoses
 
 <i class='fas fa-diagnoses fa-10x'></i>

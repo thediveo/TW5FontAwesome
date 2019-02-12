@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Bacon
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7e5
+tags: breakfast ham meat pancetta pork vegan solid
+title: $:/fontawesome/glyph/bacon
+
+<i class='fas fa-bacon fa-10x'></i>

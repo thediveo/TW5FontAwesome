@@ -3,7 +3,7 @@ fa-label: Upload
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f093
-tags: export publish solid
+tags: import publish solid
 title: $:/fontawesome/glyph/upload
 
 <i class='fas fa-upload fa-10x'></i>

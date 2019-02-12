@@ -3,7 +3,7 @@ fa-label: Clipboard with Check
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f46c
-tags: accept agree confirm done ok select success todo yes solid
+tags: accept agree confirm done ok select success tick todo yes solid
 title: $:/fontawesome/glyph/clipboard-check
 
 <i class='fas fa-clipboard-check fa-10x'></i>

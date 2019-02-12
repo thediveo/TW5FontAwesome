@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Crutch
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7f7
+tags: cane injury wheelchair solid
+title: $:/fontawesome/glyph/crutch
+
+<i class='fas fa-crutch fa-10x'></i>

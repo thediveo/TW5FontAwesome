@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Ice Cream
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f810
+tags: chocolate cone dessert frozen scoop sorbet vanilla yogurt solid
+title: $:/fontawesome/glyph/ice-cream
+
+<i class='fas fa-ice-cream fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Cheese
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7ef
+tags: cheddar curd gouda melt parmesan sandwich swiss wedge solid
+title: $:/fontawesome/glyph/cheese
+
+<i class='fas fa-cheese fa-10x'></i>

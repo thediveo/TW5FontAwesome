@@ -3,7 +3,7 @@ fa-label: Check Square
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f14a
-tags: accept agree checkmark confirm correct done ok select success todo yes solid regular
+tags: accept agree checkmark confirm correct done ok select success tick todo yes solid regular
 title: $:/fontawesome/glyph/check-square
 
 <i class='fas fa-check-square fa-10x'></i>
