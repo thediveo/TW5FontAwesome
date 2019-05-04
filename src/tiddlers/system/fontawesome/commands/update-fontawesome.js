@@ -41,10 +41,8 @@ exports.info = {
 
 // Good Stuff(tm) we need.
 if ($tw.node) {
-	var fs = require("fs");
 	var zip = require("adm-zip");
 	var versioning = require("compare-versions");
-	var url = require("url");
 	var request = require("request-promise-native");
 	var yaml = require("js-yaml");
 	var fa5dlinfo = require("../libs/fa5downloadinfo.js");
