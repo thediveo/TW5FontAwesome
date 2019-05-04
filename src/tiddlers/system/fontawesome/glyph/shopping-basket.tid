@@ -3,7 +3,7 @@ fa-label: Shopping Basket
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f291
-tags: solid
+tags: buy checkout grocery payment purchase solid
 title: $:/fontawesome/glyph/shopping-basket
 
 <i class='fas fa-shopping-basket fa-10x'></i>

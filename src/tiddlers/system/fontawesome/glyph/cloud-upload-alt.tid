@@ -3,7 +3,7 @@ fa-label: Alternate Cloud Upload
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f382
-tags: cloud-upload solid
+tags: cloud-upload import save upload solid
 title: $:/fontawesome/glyph/cloud-upload-alt
 
 <i class='fas fa-cloud-upload-alt fa-10x'></i>

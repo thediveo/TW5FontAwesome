@@ -3,7 +3,7 @@ fa-label: heading
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1dc
-tags: header solid
+tags: format header text title solid
 title: $:/fontawesome/glyph/heading
 
 <i class='fas fa-heading fa-10x'></i>

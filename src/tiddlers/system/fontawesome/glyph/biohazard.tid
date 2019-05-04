@@ -3,7 +3,7 @@ fa-label: Biohazard
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f780
-tags: danger dangerous medical waste solid
+tags: danger dangerous hazmat medical radioactive toxic waste zombie solid
 title: $:/fontawesome/glyph/biohazard
 
 <i class='fas fa-biohazard fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: First Aid
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f479
-tags: solid
+tags: emergency emt health medical rescue solid
 title: $:/fontawesome/glyph/first-aid
 
 <i class='fas fa-first-aid fa-10x'></i>

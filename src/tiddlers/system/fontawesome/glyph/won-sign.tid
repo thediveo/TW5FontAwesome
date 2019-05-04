@@ -3,7 +3,7 @@ fa-label: Won Sign
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f159
-tags: krw solid
+tags: currency krw money solid
 title: $:/fontawesome/glyph/won-sign
 
 <i class='fas fa-won-sign fa-10x'></i>

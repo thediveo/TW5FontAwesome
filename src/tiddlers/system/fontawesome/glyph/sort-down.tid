@@ -3,7 +3,7 @@ fa-label: Sort Down (Descending)
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0dd
-tags: arrow descending sort-desc solid
+tags: arrow descending filter order sort-desc solid
 title: $:/fontawesome/glyph/sort-down
 
 <i class='fas fa-sort-down fa-10x'></i>

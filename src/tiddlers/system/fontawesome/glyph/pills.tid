@@ -3,7 +3,7 @@ fa-label: Pills
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f484
-tags: drugs medicine solid
+tags: drugs medicine prescription tablets solid
 title: $:/fontawesome/glyph/pills
 
 <i class='fas fa-pills fa-10x'></i>

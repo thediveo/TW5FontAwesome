@@ -3,7 +3,7 @@ fa-label: Alternate Microphone
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3c9
-tags: record sound voice solid
+tags: audio podcast record sing sound voice solid
 title: $:/fontawesome/glyph/microphone-alt
 
 <i class='fas fa-microphone-alt fa-10x'></i>

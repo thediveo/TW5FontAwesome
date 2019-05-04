@@ -3,7 +3,7 @@ fa-label: Link
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0c1
-tags: chain solid
+tags: attach attachment chain connect solid
 title: $:/fontawesome/glyph/link
 
 <i class='fas fa-link fa-10x'></i>

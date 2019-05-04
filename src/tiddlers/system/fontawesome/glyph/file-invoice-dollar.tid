@@ -3,7 +3,7 @@ fa-label: File Invoice with US Dollar
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f571
-tags: $ bill document dollar-sign money receipt usd solid
+tags: $ account bill charge document dollar-sign money payment receipt usd solid
 title: $:/fontawesome/glyph/file-invoice-dollar
 
 <i class='fas fa-file-invoice-dollar fa-10x'></i>

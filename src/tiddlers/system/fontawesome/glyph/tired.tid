@@ -3,7 +3,7 @@ fa-label: Tired Face
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f5c8
-tags: emoticon face grumpy solid regular
+tags: angry emoticon face grumpy upset solid regular
 title: $:/fontawesome/glyph/tired
 
 <i class='fas fa-tired fa-10x'></i>

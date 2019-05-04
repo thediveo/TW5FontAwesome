@@ -3,7 +3,7 @@ fa-label: Paste
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0ea
-tags: clipboard copy solid
+tags: clipboard copy document paper solid
 title: $:/fontawesome/glyph/paste
 
 <i class='fas fa-paste fa-10x'></i>

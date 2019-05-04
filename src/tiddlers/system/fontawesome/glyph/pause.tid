@@ -3,7 +3,7 @@ fa-label: pause
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f04c
-tags: wait solid
+tags: hold wait solid
 title: $:/fontawesome/glyph/pause
 
 <i class='fas fa-pause fa-10x'></i>

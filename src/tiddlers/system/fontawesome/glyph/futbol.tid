@@ -3,7 +3,7 @@ fa-label: Futbol
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1e3
-tags: ball football soccer solid regular
+tags: ball football mls soccer solid regular
 title: $:/fontawesome/glyph/futbol
 
 <i class='fas fa-futbol fa-10x'></i>

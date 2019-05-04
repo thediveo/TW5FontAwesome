@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Square Wave
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f83e
+tags: frequency pulse signal solid
+title: $:/fontawesome/glyph/wave-square
+
+<i class='fas fa-wave-square fa-10x'></i>

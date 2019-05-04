@@ -3,7 +3,7 @@ fa-label: Directions
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f5eb
-tags: solid
+tags: map navigation sign turn solid
 title: $:/fontawesome/glyph/directions
 
 <i class='fas fa-directions fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Circle Notched
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1ce
-tags: circle-o-notch solid
+tags: circle-o-notch diameter dot ellipse round spinner solid
 title: $:/fontawesome/glyph/circle-notch
 
 <i class='fas fa-circle-notch fa-10x'></i>

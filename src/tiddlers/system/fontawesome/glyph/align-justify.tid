@@ -3,7 +3,7 @@ fa-label: align-justify
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f039
-tags: text solid
+tags: format paragraph text solid
 title: $:/fontawesome/glyph/align-justify
 
 <i class='fas fa-align-justify fa-10x'></i>

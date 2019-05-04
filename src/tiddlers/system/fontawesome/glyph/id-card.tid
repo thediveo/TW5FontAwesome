@@ -3,7 +3,7 @@ fa-label: Identification Card
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2c2
-tags: document identification issued solid regular
+tags: contact demographics document identification issued profile solid regular
 title: $:/fontawesome/glyph/id-card
 
 <i class='fas fa-id-card fa-10x'></i>

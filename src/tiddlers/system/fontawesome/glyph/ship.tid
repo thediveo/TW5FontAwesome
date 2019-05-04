@@ -3,7 +3,7 @@ fa-label: Ship
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f21a
-tags: boat sea solid
+tags: boat sea water solid
 title: $:/fontawesome/glyph/ship
 
 <i class='fas fa-ship fa-10x'></i>

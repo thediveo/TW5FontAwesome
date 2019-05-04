@@ -3,7 +3,7 @@ fa-label: Angle Double Down
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f103
-tags: arrows solid
+tags: arrows caret download expand solid
 title: $:/fontawesome/glyph/angle-double-down
 
 <i class='fas fa-angle-double-down fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Wine Glass
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f4e3
-tags: alcohol beverage drink grapes solid
+tags: alcohol beverage cabernet drink grapes merlot sauvignon solid
 title: $:/fontawesome/glyph/wine-glass
 
 <i class='fas fa-wine-glass fa-10x'></i>

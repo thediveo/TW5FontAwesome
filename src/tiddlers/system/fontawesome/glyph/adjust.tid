@@ -3,7 +3,7 @@ fa-label: adjust
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f042
-tags: contrast solid
+tags: contrast dark light saturation solid
 title: $:/fontawesome/glyph/adjust
 
 <i class='fas fa-adjust fa-10x'></i>

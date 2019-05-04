@@ -3,7 +3,7 @@ fa-label: road
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f018
-tags: street solid
+tags: highway map pavement route street travel solid
 title: $:/fontawesome/glyph/road
 
 <i class='fas fa-road fa-10x'></i>

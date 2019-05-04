@@ -3,7 +3,7 @@ fa-label: Backspace
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f55a
-tags: command delete keyboard undo solid
+tags: command delete erase keyboard undo solid
 title: $:/fontawesome/glyph/backspace
 
 <i class='fas fa-backspace fa-10x'></i>

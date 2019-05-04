@@ -3,7 +3,7 @@ fa-label: Door Closed
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f52a
-tags: solid
+tags: enter exit locked solid
 title: $:/fontawesome/glyph/door-closed
 
 <i class='fas fa-door-closed fa-10x'></i>

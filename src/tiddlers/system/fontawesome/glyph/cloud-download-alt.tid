@@ -3,7 +3,7 @@ fa-label: Alternate Cloud Download
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f381
-tags: export solid
+tags: download export save solid
 title: $:/fontawesome/glyph/cloud-download-alt
 
 <i class='fas fa-cloud-download-alt fa-10x'></i>

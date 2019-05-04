@@ -3,7 +3,7 @@ fa-label: Play Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f144
-tags: playing start solid regular
+tags: audio music playing sound start video solid regular
 title: $:/fontawesome/glyph/play-circle
 
 <i class='fas fa-play-circle fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: User Astronaut
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f4fb
-tags: avatar clothing cosmonaut space suit solid
+tags: avatar clothing cosmonaut nasa space suit solid
 title: $:/fontawesome/glyph/user-astronaut
 
 <i class='fas fa-user-astronaut fa-10x'></i>

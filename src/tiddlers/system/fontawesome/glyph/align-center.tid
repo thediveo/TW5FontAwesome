@@ -3,7 +3,7 @@ fa-label: align-center
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f037
-tags: middle text solid
+tags: format middle paragraph text solid
 title: $:/fontawesome/glyph/align-center
 
 <i class='fas fa-align-center fa-10x'></i>

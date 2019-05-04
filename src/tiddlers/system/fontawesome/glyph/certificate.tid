@@ -3,7 +3,7 @@ fa-label: certificate
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0a3
-tags: badge star solid
+tags: badge star verified solid
 title: $:/fontawesome/glyph/certificate
 
 <i class='fas fa-certificate fa-10x'></i>

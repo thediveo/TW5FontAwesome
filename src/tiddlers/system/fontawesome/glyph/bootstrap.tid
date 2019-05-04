@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Bootstrap
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f836
+tags: brands
+title: $:/fontawesome/glyph/bootstrap
+
+<i class='fab fa-bootstrap fa-10x'></i>

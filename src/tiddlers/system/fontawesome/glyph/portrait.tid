@@ -3,7 +3,7 @@ fa-label: Portrait
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3e0
-tags: solid
+tags: id image photo picture selfie solid
 title: $:/fontawesome/glyph/portrait
 
 <i class='fas fa-portrait fa-10x'></i>

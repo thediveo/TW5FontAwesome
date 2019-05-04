@@ -3,7 +3,7 @@ fa-label: bold
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f032
-tags: solid
+tags: emphasis format text solid
 title: $:/fontawesome/glyph/bold
 
 <i class='fas fa-bold fa-10x'></i>

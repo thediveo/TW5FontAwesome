@@ -3,7 +3,7 @@ fa-label: Moon
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f186
-tags: contrast crescent darker lunar night solid regular
+tags: contrast crescent dark lunar night solid regular
 title: $:/fontawesome/glyph/moon
 
 <i class='fas fa-moon fa-10x'></i>

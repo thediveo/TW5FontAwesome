@@ -3,7 +3,7 @@ fa-label: Stethoscope
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0f1
-tags: solid
+tags: diagnosis doctor [[general practitioner]] hospital infirmary medicine office outpatient solid
 title: $:/fontawesome/glyph/stethoscope
 
 <i class='fas fa-stethoscope fa-10x'></i>

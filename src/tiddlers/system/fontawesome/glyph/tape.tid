@@ -3,7 +3,7 @@ fa-label: Tape
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f4db
-tags: solid
+tags: design package sticky solid
 title: $:/fontawesome/glyph/tape
 
 <i class='fas fa-tape fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Syringe
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f48e
-tags: immunizations needle solid
+tags: doctor immunizations medical needle solid
 title: $:/fontawesome/glyph/syringe
 
 <i class='fas fa-syringe fa-10x'></i>

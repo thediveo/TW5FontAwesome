@@ -3,7 +3,7 @@ fa-label: Audio File
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1c7
-tags: solid regular
+tags: document mp3 music page play sound solid regular
 title: $:/fontawesome/glyph/file-audio
 
 <i class='fas fa-file-audio fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Alternate Arrows Horizontal
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f337
-tags: arrows-h resize solid
+tags: arrows-h expand horizontal landscape resize wide solid
 title: $:/fontawesome/glyph/arrows-alt-h
 
 <i class='fas fa-arrows-alt-h fa-10x'></i>

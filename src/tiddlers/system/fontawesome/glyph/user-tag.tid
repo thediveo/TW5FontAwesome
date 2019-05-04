@@ -3,7 +3,7 @@ fa-label: User Tag
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f507
-tags: solid
+tags: avatar discount label person role special solid
 title: $:/fontawesome/glyph/user-tag
 
 <i class='fas fa-user-tag fa-10x'></i>

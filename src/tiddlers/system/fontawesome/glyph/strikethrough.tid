@@ -3,7 +3,7 @@ fa-label: Strikethrough
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0cc
-tags: solid
+tags: cancel edit font format text type solid
 title: $:/fontawesome/glyph/strikethrough
 
 <i class='fas fa-strikethrough fa-10x'></i>

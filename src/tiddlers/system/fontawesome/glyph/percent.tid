@@ -3,7 +3,7 @@ fa-label: Percent
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f295
-tags: solid
+tags: discount fraction proportion rate ratio solid
 title: $:/fontawesome/glyph/percent
 
 <i class='fas fa-percent fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Stop Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f28d
-tags: solid regular
+tags: block box circle square solid regular
 title: $:/fontawesome/glyph/stop-circle
 
 <i class='fas fa-stop-circle fa-10x'></i>

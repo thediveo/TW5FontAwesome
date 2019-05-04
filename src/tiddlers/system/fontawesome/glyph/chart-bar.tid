@@ -3,7 +3,7 @@ fa-label: Bar Chart
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f080
-tags: analytics bar-chart graph solid regular
+tags: analytics bar chart graph solid regular
 title: $:/fontawesome/glyph/chart-bar
 
 <i class='fas fa-chart-bar fa-10x'></i>

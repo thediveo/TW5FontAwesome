@@ -3,7 +3,7 @@ fa-label: tags
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f02c
-tags: labels solid
+tags: discount label price shopping solid
 title: $:/fontawesome/glyph/tags
 
 <i class='fas fa-tags fa-10x'></i>

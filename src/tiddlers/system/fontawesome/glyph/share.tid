@@ -3,7 +3,7 @@ fa-label: Share
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f064
-tags: solid
+tags: forward save send social solid
 title: $:/fontawesome/glyph/share
 
 <i class='fas fa-share fa-10x'></i>

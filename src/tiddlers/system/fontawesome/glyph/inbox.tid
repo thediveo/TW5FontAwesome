@@ -3,7 +3,7 @@ fa-label: inbox
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f01c
-tags: solid
+tags: archive desk email mail message solid
 title: $:/fontawesome/glyph/inbox
 
 <i class='fas fa-inbox fa-10x'></i>

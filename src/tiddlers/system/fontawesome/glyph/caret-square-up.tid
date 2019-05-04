@@ -3,7 +3,7 @@ fa-label: Caret Square Up
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f151
-tags: caret-square-o-up solid regular
+tags: arrow caret-square-o-up collapse triangle upload solid regular
 title: $:/fontawesome/glyph/caret-square-up
 
 <i class='fas fa-caret-square-up fa-10x'></i>

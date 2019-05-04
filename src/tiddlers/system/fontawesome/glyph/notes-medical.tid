@@ -3,7 +3,7 @@ fa-label: Medical Notes
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f481
-tags: solid
+tags: clipboard doctor ehr health history records solid
 title: $:/fontawesome/glyph/notes-medical
 
 <i class='fas fa-notes-medical fa-10x'></i>

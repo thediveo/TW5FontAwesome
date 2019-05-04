@@ -3,7 +3,7 @@ fa-label: Bus Alt
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f55e
-tags: machine [[public transportation]] transportation vehicle solid
+tags: mta [[public transportation]] transportation travel vehicle solid
 title: $:/fontawesome/glyph/bus-alt
 
 <i class='fas fa-bus-alt fa-10x'></i>

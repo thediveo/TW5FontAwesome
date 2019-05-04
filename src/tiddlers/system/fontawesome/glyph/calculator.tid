@@ -3,7 +3,7 @@ fa-label: Calculator
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1ec
-tags: solid
+tags: abacus addition arithmetic counting math multiplication subtraction solid
 title: $:/fontawesome/glyph/calculator
 
 <i class='fas fa-calculator fa-10x'></i>

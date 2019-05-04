@@ -3,7 +3,7 @@ fa-label: Wind
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f72e
-tags: air blow breeze fall seasonal solid
+tags: air blow breeze fall seasonal weather solid
 title: $:/fontawesome/glyph/wind
 
 <i class='fas fa-wind fa-10x'></i>

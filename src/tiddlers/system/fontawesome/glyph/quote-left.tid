@@ -3,7 +3,7 @@ fa-label: quote-left
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f10d
-tags: solid
+tags: mention note phrase text type solid
 title: $:/fontawesome/glyph/quote-left
 
 <i class='fas fa-quote-left fa-10x'></i>

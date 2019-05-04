@@ -3,7 +3,7 @@ fa-label: Sticky Note
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f249
-tags: solid regular
+tags: message note paper reminder sticker solid regular
 title: $:/fontawesome/glyph/sticky-note
 
 <i class='fas fa-sticky-note fa-10x'></i>

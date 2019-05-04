@@ -3,7 +3,7 @@ fa-label: Stream
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f550
-tags: solid
+tags: flow list timeline solid
 title: $:/fontawesome/glyph/stream
 
 <i class='fas fa-stream fa-10x'></i>

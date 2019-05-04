@@ -3,7 +3,7 @@ fa-label: Chess Knight
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f441
-tags: solid
+tags: board checkmate game horse strategy solid
 title: $:/fontawesome/glyph/chess-knight
 
 <i class='fas fa-chess-knight fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Pause Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f28b
-tags: solid regular
+tags: hold wait solid regular
 title: $:/fontawesome/glyph/pause-circle
 
 <i class='fas fa-pause-circle fa-10x'></i>

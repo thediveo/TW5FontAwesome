@@ -3,7 +3,7 @@ fa-label: Shuttle Van
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f5b6
-tags: machine public-transportation transportation vehicle solid
+tags: airport machine public-transportation transportation travel vehicle solid
 title: $:/fontawesome/glyph/shuttle-van
 
 <i class='fas fa-shuttle-van fa-10x'></i>

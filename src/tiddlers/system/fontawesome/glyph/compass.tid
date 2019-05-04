@@ -3,7 +3,7 @@ fa-label: Compass
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f14e
-tags: directory location menu safari solid regular
+tags: directions directory location menu navigation safari travel solid regular
 title: $:/fontawesome/glyph/compass
 
 <i class='fas fa-compass fa-10x'></i>

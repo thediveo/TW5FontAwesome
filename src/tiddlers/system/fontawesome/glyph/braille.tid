@@ -3,7 +3,7 @@ fa-label: Braille
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2a1
-tags: solid
+tags: alphabet blind dots raised vision solid
 title: $:/fontawesome/glyph/braille
 
 <i class='fas fa-braille fa-10x'></i>

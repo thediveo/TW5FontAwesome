@@ -3,7 +3,7 @@ fa-label: barcode
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f02a
-tags: scan solid
+tags: info laser price scan upc solid
 title: $:/fontawesome/glyph/barcode
 
 <i class='fas fa-barcode fa-10x'></i>

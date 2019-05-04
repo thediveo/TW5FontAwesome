@@ -3,7 +3,7 @@ fa-label: Stopwatch
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2f2
-tags: time solid
+tags: clock reminder time solid
 title: $:/fontawesome/glyph/stopwatch
 
 <i class='fas fa-stopwatch fa-10x'></i>

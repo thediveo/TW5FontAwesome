@@ -3,7 +3,7 @@ fa-label: crop
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f125
-tags: design solid
+tags: design frame mask resize shrink solid
 title: $:/fontawesome/glyph/crop
 
 <i class='fas fa-crop fa-10x'></i>

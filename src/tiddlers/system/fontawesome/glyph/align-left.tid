@@ -3,7 +3,7 @@ fa-label: align-left
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f036
-tags: text solid
+tags: format paragraph text solid
 title: $:/fontawesome/glyph/align-left
 
 <i class='fas fa-align-left fa-10x'></i>

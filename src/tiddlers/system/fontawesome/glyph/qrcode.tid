@@ -3,7 +3,7 @@ fa-label: qrcode
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f029
-tags: scan solid
+tags: barcode info information scan solid
 title: $:/fontawesome/glyph/qrcode
 
 <i class='fas fa-qrcode fa-10x'></i>

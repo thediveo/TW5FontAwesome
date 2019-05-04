@@ -3,7 +3,7 @@ fa-label: Medical File
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f477
-tags: solid
+tags: document health history prescription record solid
 title: $:/fontawesome/glyph/file-medical
 
 <i class='fas fa-file-medical fa-10x'></i>

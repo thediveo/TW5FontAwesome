@@ -3,7 +3,7 @@ fa-label: Map Signs
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f277
-tags: solid
+tags: directions directory map signage wayfinding solid
 title: $:/fontawesome/glyph/map-signs
 
 <i class='fas fa-map-signs fa-10x'></i>

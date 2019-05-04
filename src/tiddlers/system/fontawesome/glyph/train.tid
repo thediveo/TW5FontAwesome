@@ -3,7 +3,7 @@ fa-label: Train
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f238
-tags: bullet locomotive railway solid
+tags: bullet commute locomotive railway subway solid
 title: $:/fontawesome/glyph/train
 
 <i class='fas fa-train fa-10x'></i>

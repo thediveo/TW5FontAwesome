@@ -3,7 +3,7 @@ fa-label: forward
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f04e
-tags: forward next solid
+tags: forward next skip solid
 title: $:/fontawesome/glyph/forward
 
 <i class='fas fa-forward fa-10x'></i>

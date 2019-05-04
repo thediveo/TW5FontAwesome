@@ -3,7 +3,7 @@ fa-label: Address Card
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2bb
-tags: solid regular
+tags: about contact id identification postcard profile solid regular
 title: $:/fontawesome/glyph/address-card
 
 <i class='fas fa-address-card fa-10x'></i>

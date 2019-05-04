@@ -3,7 +3,7 @@ fa-label: Wired Network
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f6ff
-tags: solid
+tags: computer connect ethernet internet intranet solid
 title: $:/fontawesome/glyph/network-wired
 
 <i class='fas fa-network-wired fa-10x'></i>

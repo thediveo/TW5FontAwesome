@@ -3,7 +3,7 @@ fa-label: Power Off
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f011
-tags: on reboot restart solid
+tags: cancel computer on reboot restart solid
 title: $:/fontawesome/glyph/power-off
 
 <i class='fas fa-power-off fa-10x'></i>

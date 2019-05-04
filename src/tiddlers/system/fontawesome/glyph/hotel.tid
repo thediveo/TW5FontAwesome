@@ -3,7 +3,7 @@ fa-label: Hotel
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f594
-tags: building lodging solid
+tags: building inn lodging motel resort travel solid
 title: $:/fontawesome/glyph/hotel
 
 <i class='fas fa-hotel fa-10x'></i>

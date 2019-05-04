@@ -3,7 +3,7 @@ fa-label: Circle
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f111
-tags: circle-thin dot notification solid regular
+tags: circle-thin diameter dot ellipse notification round solid regular
 title: $:/fontawesome/glyph/circle
 
 <i class='fas fa-circle fa-10x'></i>

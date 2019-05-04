@@ -3,7 +3,7 @@ fa-label: Capsules
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f46b
-tags: drugs medicine solid
+tags: drugs medicine pills prescription solid
 title: $:/fontawesome/glyph/capsules
 
 <i class='fas fa-capsules fa-10x'></i>

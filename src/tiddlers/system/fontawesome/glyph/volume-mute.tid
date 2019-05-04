@@ -3,7 +3,7 @@ fa-label: Volume Mute
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f6a9
-tags: solid
+tags: audio music quiet sound speaker solid
 title: $:/fontawesome/glyph/volume-mute
 
 <i class='fas fa-volume-mute fa-10x'></i>

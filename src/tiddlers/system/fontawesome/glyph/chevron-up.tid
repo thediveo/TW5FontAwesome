@@ -3,7 +3,7 @@ fa-label: chevron-up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f077
-tags: solid
+tags: arrow collapse upload solid
 title: $:/fontawesome/glyph/chevron-up
 
 <i class='fas fa-chevron-up fa-10x'></i>

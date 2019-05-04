@@ -3,7 +3,7 @@ fa-label: Sort Numeric Down
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f162
-tags: numbers sort-numeric-asc solid
+tags: filter numbers order sort-numeric-asc solid
 title: $:/fontawesome/glyph/sort-numeric-down
 
 <i class='fas fa-sort-numeric-down fa-10x'></i>

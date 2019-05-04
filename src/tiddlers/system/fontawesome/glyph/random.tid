@@ -3,7 +3,7 @@ fa-label: random
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f074
-tags: shuffle sort solid
+tags: arrows shuffle sort swap switch transfer solid
 title: $:/fontawesome/glyph/random
 
 <i class='fas fa-random fa-10x'></i>

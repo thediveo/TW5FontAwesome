@@ -3,7 +3,7 @@ fa-label: Sort Amount Up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f161
-tags: sort-amount-desc solid
+tags: filter order sort-amount-desc solid
 title: $:/fontawesome/glyph/sort-amount-up
 
 <i class='fas fa-sort-amount-up fa-10x'></i>

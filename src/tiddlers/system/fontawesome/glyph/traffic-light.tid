@@ -3,7 +3,7 @@ fa-label: Traffic Light
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f637
-tags: solid
+tags: direction road signal travel solid
 title: $:/fontawesome/glyph/traffic-light
 
 <i class='fas fa-traffic-light fa-10x'></i>

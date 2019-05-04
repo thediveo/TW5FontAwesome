@@ -3,7 +3,7 @@ fa-label: Truck Monster
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f63b
-tags: solid
+tags: offroad vehicle wheel solid
 title: $:/fontawesome/glyph/truck-monster
 
 <i class='fas fa-truck-monster fa-10x'></i>

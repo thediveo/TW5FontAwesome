@@ -3,7 +3,7 @@ fa-label: Window Restore
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2d2
-tags: solid regular
+tags: browser computer development solid regular
 title: $:/fontawesome/glyph/window-restore
 
 <i class='fas fa-window-restore fa-10x'></i>
