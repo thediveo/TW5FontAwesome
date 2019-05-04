@@ -3,7 +3,7 @@ fa-label: Street View
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f21d
-tags: map solid
+tags: directions location map navigation solid
 title: $:/fontawesome/glyph/street-view
 
 <i class='fas fa-street-view fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Charging Station
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f5e7
-tags: solid
+tags: electric ev tesla vehicle solid
 title: $:/fontawesome/glyph/charging-station
 
 <i class='fas fa-charging-station fa-10x'></i>

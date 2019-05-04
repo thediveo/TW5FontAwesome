@@ -3,7 +3,7 @@ fa-label: Shopping Bag
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f290
-tags: solid
+tags: buy checkout grocery payment purchase solid
 title: $:/fontawesome/glyph/shopping-bag
 
 <i class='fas fa-shopping-bag fa-10x'></i>

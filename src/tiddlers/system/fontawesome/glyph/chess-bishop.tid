@@ -3,7 +3,7 @@ fa-label: Chess Bishop
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f43a
-tags: solid
+tags: board checkmate game strategy solid
 title: $:/fontawesome/glyph/chess-bishop
 
 <i class='fas fa-chess-bishop fa-10x'></i>

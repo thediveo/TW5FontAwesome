@@ -3,7 +3,7 @@ fa-label: chevron-left
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f053
-tags: back bracket previous solid
+tags: arrow back bracket previous solid
 title: $:/fontawesome/glyph/chevron-left
 
 <i class='fas fa-chevron-left fa-10x'></i>

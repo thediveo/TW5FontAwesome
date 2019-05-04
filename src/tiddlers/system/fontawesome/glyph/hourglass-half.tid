@@ -3,7 +3,7 @@ fa-label: Hourglass Half
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f252
-tags: solid
+tags: hour minute sand stopwatch time solid
 title: $:/fontawesome/glyph/hourglass-half
 
 <i class='fas fa-hourglass-half fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Columns
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0db
-tags: dashboard panes split solid
+tags: browser dashboard organize panes split solid
 title: $:/fontawesome/glyph/columns
 
 <i class='fas fa-columns fa-10x'></i>

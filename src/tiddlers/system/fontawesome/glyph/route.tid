@@ -3,7 +3,7 @@ fa-label: Route
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f4d7
-tags: solid
+tags: directions navigation travel solid
 title: $:/fontawesome/glyph/route
 
 <i class='fas fa-route fa-10x'></i>

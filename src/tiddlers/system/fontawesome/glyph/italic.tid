@@ -3,7 +3,7 @@ fa-label: italic
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f033
-tags: italics solid
+tags: edit emphasis font format text type solid
 title: $:/fontawesome/glyph/italic
 
 <i class='fas fa-italic fa-10x'></i>

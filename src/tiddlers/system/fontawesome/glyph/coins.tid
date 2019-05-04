@@ -3,7 +3,7 @@ fa-label: Coins
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f51e
-tags: solid
+tags: currency dime financial gold money penny solid
 title: $:/fontawesome/glyph/coins
 
 <i class='fas fa-coins fa-10x'></i>

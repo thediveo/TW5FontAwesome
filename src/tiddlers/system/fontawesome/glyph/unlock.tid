@@ -3,7 +3,7 @@ fa-label: unlock
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f09c
-tags: admin lock password protect solid
+tags: admin lock password private protect solid
 title: $:/fontawesome/glyph/unlock
 
 <i class='fas fa-unlock fa-10x'></i>

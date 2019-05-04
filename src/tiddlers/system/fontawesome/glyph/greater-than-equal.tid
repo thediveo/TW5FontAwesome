@@ -3,7 +3,7 @@ fa-label: Greater Than Equal To
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f532
-tags: solid
+tags: arithmetic compare math solid
 title: $:/fontawesome/glyph/greater-than-equal
 
 <i class='fas fa-greater-than-equal fa-10x'></i>

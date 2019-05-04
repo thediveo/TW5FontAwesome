@@ -3,7 +3,7 @@ fa-label: User Shield
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f505
-tags: solid
+tags: admin person private protect safe solid
 title: $:/fontawesome/glyph/user-shield
 
 <i class='fas fa-user-shield fa-10x'></i>

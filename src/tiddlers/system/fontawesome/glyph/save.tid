@@ -3,7 +3,7 @@ fa-label: Save
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f0c7
-tags: floppy floppy-o solid regular
+tags: disk download floppy floppy-o solid regular
 title: $:/fontawesome/glyph/save
 
 <i class='fas fa-save fa-10x'></i>

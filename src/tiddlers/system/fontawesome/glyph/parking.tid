@@ -3,7 +3,7 @@ fa-label: Parking
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f540
-tags: solid
+tags: auto car garage meter solid
 title: $:/fontawesome/glyph/parking
 
 <i class='fas fa-parking fa-10x'></i>

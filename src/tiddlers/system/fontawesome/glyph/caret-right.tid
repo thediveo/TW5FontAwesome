@@ -3,7 +3,7 @@ fa-label: Caret Right
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0da
-tags: arrow forward next [[triangle right]] solid
+tags: arrow forward next triangle solid
 title: $:/fontawesome/glyph/caret-right
 
 <i class='fas fa-caret-right fa-10x'></i>

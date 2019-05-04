@@ -3,7 +3,7 @@ fa-label: Indent
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f03c
-tags: solid
+tags: align justify paragraph tab solid
 title: $:/fontawesome/glyph/indent
 
 <i class='fas fa-indent fa-10x'></i>

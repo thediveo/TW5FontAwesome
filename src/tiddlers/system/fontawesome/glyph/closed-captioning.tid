@@ -3,7 +3,7 @@ fa-label: Closed Captioning
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f20a
-tags: cc solid regular
+tags: cc deaf hearing subtitle subtitling text video solid regular
 title: $:/fontawesome/glyph/closed-captioning
 
 <i class='fas fa-closed-captioning fa-10x'></i>

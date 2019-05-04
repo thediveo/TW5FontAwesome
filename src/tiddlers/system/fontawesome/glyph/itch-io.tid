@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: itch.io
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f83a
+tags: brands
+title: $:/fontawesome/glyph/itch-io
+
+<i class='fab fa-itch-io fa-10x'></i>

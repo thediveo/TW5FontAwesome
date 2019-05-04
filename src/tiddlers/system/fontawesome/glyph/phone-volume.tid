@@ -3,7 +3,7 @@ fa-label: Phone Volume
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2a0
-tags: telephone volume-control-phone solid
+tags: call earphone number sound support telephone voice volume-control-phone solid
 title: $:/fontawesome/glyph/phone-volume
 
 <i class='fas fa-phone-volume fa-10x'></i>

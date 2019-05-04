@@ -3,7 +3,7 @@ fa-label: Alternate Level Up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3bf
-tags: level-up solid
+tags: arrow level-up solid
 title: $:/fontawesome/glyph/level-up-alt
 
 <i class='fas fa-level-up-alt fa-10x'></i>

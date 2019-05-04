@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Yammer
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f840
+tags: brands
+title: $:/fontawesome/glyph/yammer
+
+<i class='fab fa-yammer fa-10x'></i>

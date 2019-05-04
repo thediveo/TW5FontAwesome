@@ -3,7 +3,7 @@ fa-label: Low Temperature
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f76b
-tags: cool mercury thermometer solid
+tags: cold cool mercury thermometer winter solid
 title: $:/fontawesome/glyph/temperature-low
 
 <i class='fas fa-temperature-low fa-10x'></i>

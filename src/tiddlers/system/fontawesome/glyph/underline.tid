@@ -3,7 +3,7 @@ fa-label: Underline
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0cd
-tags: solid
+tags: edit emphasis format text writing solid
 title: $:/fontawesome/glyph/underline
 
 <i class='fas fa-underline fa-10x'></i>

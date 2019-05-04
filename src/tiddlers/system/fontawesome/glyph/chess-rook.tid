@@ -3,7 +3,7 @@ fa-label: Chess Rook
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f447
-tags: solid
+tags: board castle checkmate game strategy solid
 title: $:/fontawesome/glyph/chess-rook
 
 <i class='fas fa-chess-rook fa-10x'></i>

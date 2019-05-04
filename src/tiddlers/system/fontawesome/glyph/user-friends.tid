@@ -3,7 +3,7 @@ fa-label: User Friends
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f500
-tags: solid
+tags: group people person team users solid
 title: $:/fontawesome/glyph/user-friends
 
 <i class='fas fa-user-friends fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Newspaper
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1ea
-tags: article press solid regular
+tags: article editorial headline journal journalism news press solid regular
 title: $:/fontawesome/glyph/newspaper
 
 <i class='fas fa-newspaper fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Keyboard
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f11c
-tags: input type solid regular
+tags: accessory edit input text type write solid regular
 title: $:/fontawesome/glyph/keyboard
 
 <i class='fas fa-keyboard fa-10x'></i>

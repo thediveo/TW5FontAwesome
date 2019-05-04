@@ -3,7 +3,7 @@ fa-label: Donate
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f4b9
-tags: generosity give solid
+tags: contribute generosity gift give solid
 title: $:/fontawesome/glyph/donate
 
 <i class='fas fa-donate fa-10x'></i>

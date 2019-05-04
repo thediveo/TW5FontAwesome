@@ -3,7 +3,7 @@ fa-label: thumbs-up
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f164
-tags: agree approve favorite hand like ok okay success thumbs-o-up yes [[you got it dude]] solid regular
+tags: agree approve favorite hand like ok okay social success thumbs-o-up yes [[you got it dude]] solid regular
 title: $:/fontawesome/glyph/thumbs-up
 
 <i class='fas fa-thumbs-up fa-10x'></i>

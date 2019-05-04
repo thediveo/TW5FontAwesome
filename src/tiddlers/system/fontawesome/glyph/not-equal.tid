@@ -3,7 +3,7 @@ fa-label: Not Equal
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f53e
-tags: solid
+tags: arithmetic compare math solid
 title: $:/fontawesome/glyph/not-equal
 
 <i class='fas fa-not-equal fa-10x'></i>

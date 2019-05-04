@@ -3,7 +3,7 @@ fa-label: Shopping Cart Arrow Down
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f218
-tags: shopping solid
+tags: download save shopping solid
 title: $:/fontawesome/glyph/cart-arrow-down
 
 <i class='fas fa-cart-arrow-down fa-10x'></i>

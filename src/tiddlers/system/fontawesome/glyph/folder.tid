@@ -3,7 +3,7 @@ fa-label: Folder
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f07b
-tags: solid regular
+tags: archive directory document file solid regular
 title: $:/fontawesome/glyph/folder
 
 <i class='fas fa-folder fa-10x'></i>

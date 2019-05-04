@@ -3,7 +3,7 @@ fa-label: camera
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f030
-tags: photo picture record solid
+tags: image lens photo picture record shutter video solid
 title: $:/fontawesome/glyph/camera
 
 <i class='fas fa-camera fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Comment Slash
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f4b3
-tags: solid
+tags: bubble cancel chat commenting conversation feedback message mute note notification quiet sms speech texting solid
 title: $:/fontawesome/glyph/comment-slash
 
 <i class='fas fa-comment-slash fa-10x'></i>

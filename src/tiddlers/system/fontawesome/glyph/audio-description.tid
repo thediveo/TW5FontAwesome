@@ -3,7 +3,7 @@ fa-label: Audio Description
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f29e
-tags: solid
+tags: blind narration video visual solid
 title: $:/fontawesome/glyph/audio-description
 
 <i class='fas fa-audio-description fa-10x'></i>

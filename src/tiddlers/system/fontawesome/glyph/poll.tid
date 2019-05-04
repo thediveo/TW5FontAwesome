@@ -3,7 +3,7 @@ fa-label: Poll
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f681
-tags: results survey vote voting solid
+tags: results survey trend vote voting solid
 title: $:/fontawesome/glyph/poll
 
 <i class='fas fa-poll fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: File Invoice
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f570
-tags: bill document receipt solid
+tags: account bill charge document payment receipt solid
 title: $:/fontawesome/glyph/file-invoice
 
 <i class='fas fa-file-invoice fa-10x'></i>

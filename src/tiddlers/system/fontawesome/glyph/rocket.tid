@@ -3,7 +3,7 @@ fa-label: rocket
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f135
-tags: app solid
+tags: aircraft app jet launch nasa space solid
 title: $:/fontawesome/glyph/rocket
 
 <i class='fas fa-rocket fa-10x'></i>

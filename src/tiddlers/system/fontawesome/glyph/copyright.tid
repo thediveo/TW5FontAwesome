@@ -3,7 +3,7 @@ fa-label: Copyright
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1f9
-tags: solid regular
+tags: brand mark register trademark solid regular
 title: $:/fontawesome/glyph/copyright
 
 <i class='fas fa-copyright fa-10x'></i>

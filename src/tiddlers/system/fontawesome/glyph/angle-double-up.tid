@@ -3,7 +3,7 @@ fa-label: Angle Double Up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f102
-tags: arrows solid
+tags: arrows caret collapse upload solid
 title: $:/fontawesome/glyph/angle-double-up
 
 <i class='fas fa-angle-double-up fa-10x'></i>

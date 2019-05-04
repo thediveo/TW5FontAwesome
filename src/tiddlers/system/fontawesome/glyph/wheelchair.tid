@@ -3,7 +3,7 @@ fa-label: Wheelchair
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f193
-tags: handicap person solid
+tags: accessible handicap person solid
 title: $:/fontawesome/glyph/wheelchair
 
 <i class='fas fa-wheelchair fa-10x'></i>

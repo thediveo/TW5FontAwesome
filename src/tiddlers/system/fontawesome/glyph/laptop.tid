@@ -3,7 +3,7 @@ fa-label: Laptop
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f109
-tags: computer cpu dell demo device [[dude you're getting]] mac macbook machine pc solid
+tags: computer cpu dell demo device mac macbook machine pc solid
 title: $:/fontawesome/glyph/laptop
 
 <i class='fas fa-laptop fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Battery 1/4 Full
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f243
-tags: power status solid
+tags: charge low power status solid
 title: $:/fontawesome/glyph/battery-quarter
 
 <i class='fas fa-battery-quarter fa-10x'></i>

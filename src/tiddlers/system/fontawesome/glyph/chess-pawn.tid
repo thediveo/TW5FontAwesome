@@ -3,7 +3,7 @@ fa-label: Chess Pawn
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f443
-tags: solid
+tags: board checkmate game strategy solid
 title: $:/fontawesome/glyph/chess-pawn
 
 <i class='fas fa-chess-pawn fa-10x'></i>

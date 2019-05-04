@@ -3,7 +3,7 @@ fa-label: Puzzle Piece
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f12e
-tags: add-on addon section solid
+tags: add-on addon game section solid
 title: $:/fontawesome/glyph/puzzle-piece
 
 <i class='fas fa-puzzle-piece fa-10x'></i>

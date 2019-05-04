@@ -3,7 +3,7 @@ fa-label: Digital Tachograph
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f566
-tags: solid
+tags: data distance speed tachometer solid
 title: $:/fontawesome/glyph/digital-tachograph
 
 <i class='fas fa-digital-tachograph fa-10x'></i>

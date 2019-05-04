@@ -3,7 +3,7 @@ fa-label: Compress
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f066
-tags: collapse combine contract merge smaller solid
+tags: collapse fullscreen minimize move resize shrink smaller solid
 title: $:/fontawesome/glyph/compress
 
 <i class='fas fa-compress fa-10x'></i>

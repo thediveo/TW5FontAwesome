@@ -3,7 +3,7 @@ fa-label: arrow-up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f062
-tags: solid
+tags: forward upload solid
 title: $:/fontawesome/glyph/arrow-up
 
 <i class='fas fa-arrow-up fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Shekel Sign
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f20b
-tags: ils solid
+tags: currency ils money solid
 title: $:/fontawesome/glyph/shekel-sign
 
 <i class='fas fa-shekel-sign fa-10x'></i>

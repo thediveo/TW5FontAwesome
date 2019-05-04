@@ -3,7 +3,7 @@ fa-label: Alternate Ticket
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3ff
-tags: ticket solid
+tags: movie pass support ticket solid
 title: $:/fontawesome/glyph/ticket-alt
 
 <i class='fas fa-ticket-alt fa-10x'></i>

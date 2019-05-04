@@ -3,7 +3,7 @@ fa-label: Chess Board
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f43c
-tags: solid
+tags: board checkmate game strategy solid
 title: $:/fontawesome/glyph/chess-board
 
 <i class='fas fa-chess-board fa-10x'></i>

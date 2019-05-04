@@ -3,7 +3,7 @@ fa-label: Reply
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3e5
-tags: solid
+tags: mail message respond solid
 title: $:/fontawesome/glyph/reply
 
 <i class='fas fa-reply fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: H Square
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0fd
-tags: hospital hotel solid
+tags: directions emergency hospital hotel map solid
 title: $:/fontawesome/glyph/h-square
 
 <i class='fas fa-h-square fa-10x'></i>
