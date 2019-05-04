@@ -3,7 +3,7 @@ fa-label: Medical Book
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f7e6
-tags: solid
+tags: diary documentation health history journal library read record solid
 title: $:/fontawesome/glyph/book-medical
 
 <i class='fas fa-book-medical fa-10x'></i>

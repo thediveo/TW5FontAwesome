@@ -3,7 +3,7 @@ fa-label: Cut
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0c4
-tags: scissors solid
+tags: clip scissors snip solid
 title: $:/fontawesome/glyph/cut
 
 <i class='fas fa-cut fa-10x'></i>

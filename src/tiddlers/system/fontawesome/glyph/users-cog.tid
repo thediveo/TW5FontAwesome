@@ -3,7 +3,7 @@ fa-label: Users Cog
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f509
-tags: solid
+tags: admin cog group person settings team solid
 title: $:/fontawesome/glyph/users-cog
 
 <i class='fas fa-users-cog fa-10x'></i>

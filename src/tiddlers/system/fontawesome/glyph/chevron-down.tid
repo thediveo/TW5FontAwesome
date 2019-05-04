@@ -3,7 +3,7 @@ fa-label: chevron-down
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f078
-tags: solid
+tags: arrow download expand solid
 title: $:/fontawesome/glyph/chevron-down
 
 <i class='fas fa-chevron-down fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: asterisk
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f069
-tags: details solid
+tags: annotation details reference star solid
 title: $:/fontawesome/glyph/asterisk
 
 <i class='fas fa-asterisk fa-10x'></i>

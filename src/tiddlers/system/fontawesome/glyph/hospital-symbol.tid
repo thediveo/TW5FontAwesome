@@ -3,7 +3,7 @@ fa-label: Hospital Symbol
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f47e
-tags: solid
+tags: clinic emergency map solid
 title: $:/fontawesome/glyph/hospital-symbol
 
 <i class='fas fa-hospital-symbol fa-10x'></i>

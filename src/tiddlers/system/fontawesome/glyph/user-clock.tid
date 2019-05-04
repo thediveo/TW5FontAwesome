@@ -3,7 +3,7 @@ fa-label: User Clock
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f4fd
-tags: solid
+tags: alert person remind time solid
 title: $:/fontawesome/glyph/user-clock
 
 <i class='fas fa-user-clock fa-10x'></i>

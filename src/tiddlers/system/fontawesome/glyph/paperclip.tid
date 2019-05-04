@@ -3,7 +3,7 @@ fa-label: Paperclip
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0c6
-tags: attachment solid
+tags: attach attachment connect link solid
 title: $:/fontawesome/glyph/paperclip
 
 <i class='fas fa-paperclip fa-10x'></i>

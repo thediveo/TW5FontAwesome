@@ -3,7 +3,7 @@ fa-label: Horizontal Sliders
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1de
-tags: settings sliders solid
+tags: adjust settings sliders toggle solid
 title: $:/fontawesome/glyph/sliders-h
 
 <i class='fas fa-sliders-h fa-10x'></i>

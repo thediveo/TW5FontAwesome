@@ -3,7 +3,7 @@ fa-label: Slash
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f715
-tags: solid
+tags: cancel close mute off stop x solid
 title: $:/fontawesome/glyph/slash
 
 <i class='fas fa-slash fa-10x'></i>

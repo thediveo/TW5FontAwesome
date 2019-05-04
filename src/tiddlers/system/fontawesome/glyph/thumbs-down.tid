@@ -3,7 +3,7 @@ fa-label: thumbs-down
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f165
-tags: disagree disapprove dislike hand thumbs-o-down solid regular
+tags: disagree disapprove dislike hand social thumbs-o-down solid regular
 title: $:/fontawesome/glyph/thumbs-down
 
 <i class='fas fa-thumbs-down fa-10x'></i>

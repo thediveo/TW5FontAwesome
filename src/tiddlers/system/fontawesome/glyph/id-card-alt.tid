@@ -3,7 +3,7 @@ fa-label: Alternate Identification Card
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f47f
-tags: demographics solid
+tags: contact demographics document identification issued profile solid
 title: $:/fontawesome/glyph/id-card-alt
 
 <i class='fas fa-id-card-alt fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Clipboard
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f328
-tags: paste solid regular
+tags: copy notes paste record solid regular
 title: $:/fontawesome/glyph/clipboard
 
 <i class='fas fa-clipboard fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Images
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f302
-tags: album photo picture solid regular
+tags: album landscape photo picture solid regular
 title: $:/fontawesome/glyph/images
 
 <i class='fas fa-images fa-10x'></i>

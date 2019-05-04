@@ -3,7 +3,7 @@ fa-label: Snowflake
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2dc
-tags: precipitation seasonal winter solid regular
+tags: precipitation rain winter solid regular
 title: $:/fontawesome/glyph/snowflake
 
 <i class='fas fa-snowflake fa-10x'></i>

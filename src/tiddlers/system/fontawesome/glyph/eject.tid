@@ -3,7 +3,7 @@ fa-label: eject
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f052
-tags: solid
+tags: abort cancel cd discharge solid
 title: $:/fontawesome/glyph/eject
 
 <i class='fas fa-eject fa-10x'></i>

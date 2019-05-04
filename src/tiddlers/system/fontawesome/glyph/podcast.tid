@@ -3,7 +3,7 @@ fa-label: Podcast
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f2ce
-tags: solid
+tags: audio broadcast music sound solid
 title: $:/fontawesome/glyph/podcast
 
 <i class='fas fa-podcast fa-10x'></i>

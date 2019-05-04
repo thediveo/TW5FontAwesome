@@ -3,7 +3,7 @@ fa-label: Bomb
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f1e2
-tags: solid
+tags: error explode fuse grenade warning solid
 title: $:/fontawesome/glyph/bomb
 
 <i class='fas fa-bomb fa-10x'></i>

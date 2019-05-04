@@ -3,7 +3,7 @@ fa-label: Film
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f008
-tags: movie solid
+tags: cinema movie strip video solid
 title: $:/fontawesome/glyph/film
 
 <i class='fas fa-film fa-10x'></i>

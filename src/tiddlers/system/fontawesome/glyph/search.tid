@@ -3,7 +3,7 @@ fa-label: Search
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f002
-tags: bigger enlarge magnify preview zoom solid
+tags: bigger enlarge find magnify preview zoom solid
 title: $:/fontawesome/glyph/search
 
 <i class='fas fa-search fa-10x'></i>

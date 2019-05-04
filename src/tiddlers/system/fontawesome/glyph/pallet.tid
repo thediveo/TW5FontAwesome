@@ -3,7 +3,7 @@ fa-label: Pallet
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f482
-tags: solid
+tags: archive box inventory shipping warehouse solid
 title: $:/fontawesome/glyph/pallet
 
 <i class='fas fa-pallet fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: angle-up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f106
-tags: arrow solid
+tags: arrow caret collapse upload solid
 title: $:/fontawesome/glyph/angle-up
 
 <i class='fas fa-angle-up fa-10x'></i>

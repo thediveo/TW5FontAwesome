@@ -3,7 +3,7 @@ fa-label: Chevron Circle Up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f139
-tags: arrow solid
+tags: arrow collapse upload solid
 title: $:/fontawesome/glyph/chevron-circle-up
 
 <i class='fas fa-chevron-circle-up fa-10x'></i>

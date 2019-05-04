@@ -3,7 +3,7 @@ fa-label: User Slash
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f506
-tags: ban remove solid
+tags: ban delete remove solid
 title: $:/fontawesome/glyph/user-slash
 
 <i class='fas fa-user-slash fa-10x'></i>

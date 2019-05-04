@@ -3,7 +3,7 @@ fa-label: Ruble Sign
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f158
-tags: rub solid
+tags: currency money rub solid
 title: $:/fontawesome/glyph/ruble-sign
 
 <i class='fas fa-ruble-sign fa-10x'></i>

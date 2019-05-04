@@ -3,7 +3,7 @@ fa-label: bookmark
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f02e
-tags: save solid regular
+tags: favorite marker read remember save solid regular
 title: $:/fontawesome/glyph/bookmark
 
 <i class='fas fa-bookmark fa-10x'></i>

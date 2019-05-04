@@ -3,7 +3,7 @@ fa-label: bell
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f0f3
-tags: alert notification reminder solid regular
+tags: alarm alert chime notification reminder solid regular
 title: $:/fontawesome/glyph/bell
 
 <i class='fas fa-bell fa-10x'></i>

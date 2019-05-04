@@ -3,7 +3,7 @@ fa-label: Copy
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f0c5
-tags: clone duplicate file files-o solid regular
+tags: clone duplicate file files-o paper paste solid regular
 title: $:/fontawesome/glyph/copy
 
 <i class='fas fa-copy fa-10x'></i>

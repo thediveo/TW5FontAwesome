@@ -3,7 +3,7 @@ fa-label: Equals
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f52c
-tags: solid
+tags: arithmetic even match math solid
 title: $:/fontawesome/glyph/equals
 
 <i class='fas fa-equals fa-10x'></i>

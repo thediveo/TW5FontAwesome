@@ -3,7 +3,7 @@ fa-label: Less Than
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f536
-tags: solid
+tags: arithmetic compare math solid
 title: $:/fontawesome/glyph/less-than
 
 <i class='fas fa-less-than fa-10x'></i>

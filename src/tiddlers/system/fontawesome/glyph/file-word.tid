@@ -3,7 +3,7 @@ fa-label: Word File
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1c2
-tags: solid regular
+tags: document edit page text writing solid regular
 title: $:/fontawesome/glyph/file-word
 
 <i class='fas fa-file-word fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Desktop
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f108
-tags: computer cpu demo desktop device machine monitor pc screen solid
+tags: computer cpu demo desktop device imac machine monitor pc screen solid
 title: $:/fontawesome/glyph/desktop
 
 <i class='fas fa-desktop fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: font
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f031
-tags: text solid
+tags: alphabet glyph text type typeface solid
 title: $:/fontawesome/glyph/font
 
 <i class='fas fa-font fa-10x'></i>

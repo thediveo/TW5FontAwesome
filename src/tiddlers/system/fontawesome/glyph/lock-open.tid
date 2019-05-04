@@ -3,7 +3,7 @@ fa-label: Lock Open
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f3c1
-tags: admin lock open password protect solid
+tags: admin lock open password private protect security solid
 title: $:/fontawesome/glyph/lock-open
 
 <i class='fas fa-lock-open fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: Retro Camera
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f083
-tags: photo picture record solid
+tags: image lens photo picture record shutter video solid
 title: $:/fontawesome/glyph/camera-retro
 
 <i class='fas fa-camera-retro fa-10x'></i>

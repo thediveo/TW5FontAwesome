@@ -3,7 +3,7 @@ fa-label: Battery Full
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f240
-tags: power status solid
+tags: charge power status solid
 title: $:/fontawesome/glyph/battery-full
 
 <i class='fas fa-battery-full fa-10x'></i>

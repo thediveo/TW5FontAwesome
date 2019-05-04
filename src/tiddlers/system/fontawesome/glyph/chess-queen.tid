@@ -3,7 +3,7 @@ fa-label: Chess Queen
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f445
-tags: solid
+tags: board checkmate game strategy solid
 title: $:/fontawesome/glyph/chess-queen
 
 <i class='fas fa-chess-queen fa-10x'></i>

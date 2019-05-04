@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Airbnb
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f834
+tags: brands
+title: $:/fontawesome/glyph/airbnb
+
+<i class='fab fa-airbnb fa-10x'></i>

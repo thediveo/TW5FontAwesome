@@ -3,7 +3,7 @@ fa-label: Identification Badge
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2c1
-tags: solid regular
+tags: address contact identification license profile solid regular
 title: $:/fontawesome/glyph/id-badge
 
 <i class='fas fa-id-badge fa-10x'></i>

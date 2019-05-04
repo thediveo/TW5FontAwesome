@@ -3,7 +3,7 @@ fa-label: unlink
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f127
-tags: chain chain-broken remove solid
+tags: attachment chain chain-broken remove solid
 title: $:/fontawesome/glyph/unlink
 
 <i class='fas fa-unlink fa-10x'></i>

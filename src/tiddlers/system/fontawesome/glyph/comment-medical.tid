@@ -3,7 +3,7 @@ fa-label: Alternate Medical Chat
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f7f5
-tags: advice diagnose prescription solid
+tags: advice bubble chat commenting conversation diagnose feedback message note notification prescription sms speech texting solid
 title: $:/fontawesome/glyph/comment-medical
 
 <i class='fas fa-comment-medical fa-10x'></i>

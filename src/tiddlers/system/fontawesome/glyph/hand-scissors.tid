@@ -3,7 +3,7 @@ fa-label: Scissors (Hand)
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f257
-tags: solid regular
+tags: cut game roshambo solid regular
 title: $:/fontawesome/glyph/hand-scissors
 
 <i class='fas fa-hand-scissors fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Battle.net
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f835
+tags: brands
+title: $:/fontawesome/glyph/battle-net
+
+<i class='fab fa-battle-net fa-10x'></i>

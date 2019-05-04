@@ -3,7 +3,7 @@ fa-label: Procedures
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f487
-tags: solid
+tags: EKG bed electrocardiogram health hospital life patient vital solid
 title: $:/fontawesome/glyph/procedures
 
 <i class='fas fa-procedures fa-10x'></i>

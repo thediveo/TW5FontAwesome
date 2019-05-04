@@ -3,7 +3,7 @@ fa-label: Handshake
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f2b5
-tags: greeting partnership solid regular
+tags: agreement greeting meeting partnership solid regular
 title: $:/fontawesome/glyph/handshake
 
 <i class='fas fa-handshake fa-10x'></i>

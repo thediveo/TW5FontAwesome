@@ -3,7 +3,7 @@ fa-label: Medical Briefcase
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f469
-tags: [[health briefcase]] solid
+tags: doctor emt [[first aid]] health solid
 title: $:/fontawesome/glyph/briefcase-medical
 
 <i class='fas fa-briefcase-medical fa-10x'></i>

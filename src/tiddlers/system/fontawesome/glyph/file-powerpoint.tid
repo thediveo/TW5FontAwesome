@@ -3,7 +3,7 @@ fa-label: Powerpoint File
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1c4
-tags: solid regular
+tags: display document keynote presentation solid regular
 title: $:/fontawesome/glyph/file-powerpoint
 
 <i class='fas fa-file-powerpoint fa-10x'></i>

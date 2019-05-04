@@ -3,7 +3,7 @@ fa-label: Venus Mars
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f228
-tags: solid
+tags: Gender solid
 title: $:/fontawesome/glyph/venus-mars
 
 <i class='fas fa-venus-mars fa-10x'></i>

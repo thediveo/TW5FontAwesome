@@ -3,7 +3,7 @@ fa-label: Outdent
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f03b
-tags: solid
+tags: align justify paragraph tab solid
 title: $:/fontawesome/glyph/outdent
 
 <i class='fas fa-outdent fa-10x'></i>

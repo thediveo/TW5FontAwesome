@@ -3,7 +3,7 @@ fa-label: Cloud
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0c2
-tags: save solid
+tags: atmosphere fog overcast save upload weather solid
 title: $:/fontawesome/glyph/cloud
 
 <i class='fas fa-cloud fa-10x'></i>

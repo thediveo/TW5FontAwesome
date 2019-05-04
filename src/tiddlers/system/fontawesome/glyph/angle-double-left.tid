@@ -3,7 +3,7 @@ fa-label: Angle Double Left
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f100
-tags: arrows back laquo previous quote solid
+tags: arrows back caret laquo previous quote solid
 title: $:/fontawesome/glyph/angle-double-left
 
 <i class='fas fa-angle-double-left fa-10x'></i>

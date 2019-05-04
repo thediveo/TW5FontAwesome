@@ -3,7 +3,7 @@ fa-label: Sort Alpha Up
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f15e
-tags: sort-alpha-desc solid
+tags: filter order sort-alpha-desc solid
 title: $:/fontawesome/glyph/sort-alpha-up
 
 <i class='fas fa-sort-alpha-up fa-10x'></i>

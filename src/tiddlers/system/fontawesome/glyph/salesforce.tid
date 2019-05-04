@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Salesforce
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f83b
+tags: brands
+title: $:/fontawesome/glyph/salesforce
+
+<i class='fab fa-salesforce fa-10x'></i>

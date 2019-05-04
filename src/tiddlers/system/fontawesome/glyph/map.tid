@@ -3,7 +3,7 @@ fa-label: Map
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f279
-tags: coordinates location paper place travel solid regular
+tags: address coordinates destination gps localize location map navigation paper pin place [[point of interest]] position route travel solid regular
 title: $:/fontawesome/glyph/map
 
 <i class='fas fa-map fa-10x'></i>

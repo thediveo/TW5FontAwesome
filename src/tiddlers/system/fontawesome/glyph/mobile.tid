@@ -3,7 +3,7 @@ fa-label: Mobile Phone
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f10b
-tags: apple call [[cell phone]] cellphone device iphone number screen telephone text solid
+tags: apple call [[cell phone]] cellphone device iphone number screen telephone solid
 title: $:/fontawesome/glyph/mobile
 
 <i class='fas fa-mobile fa-10x'></i>

@@ -3,7 +3,7 @@ fa-label: High Temperature
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f769
-tags: mercury thermometer warm solid
+tags: cook mercury summer thermometer warm solid
 title: $:/fontawesome/glyph/temperature-high
 
 <i class='fas fa-temperature-high fa-10x'></i>

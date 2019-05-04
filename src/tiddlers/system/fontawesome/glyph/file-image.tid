@@ -3,7 +3,7 @@ fa-label: Image File
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1c5
-tags: solid regular
+tags: document image jpg photo png solid regular
 title: $:/fontawesome/glyph/file-image
 
 <i class='fas fa-file-image fa-10x'></i>

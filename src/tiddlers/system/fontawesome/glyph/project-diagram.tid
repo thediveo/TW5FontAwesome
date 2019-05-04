@@ -3,7 +3,7 @@ fa-label: Project Diagram
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f542
-tags: solid
+tags: chart graph network pert solid
 title: $:/fontawesome/glyph/project-diagram
 
 <i class='fas fa-project-diagram fa-10x'></i>

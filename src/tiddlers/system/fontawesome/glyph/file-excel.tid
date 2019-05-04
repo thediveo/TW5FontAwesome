@@ -3,7 +3,7 @@ fa-label: Excel File
 fa-style-classes: fas far
 fa-styles: solid regular
 fa-unicode: f1c3
-tags: solid regular
+tags: csv document numbers spreadsheets table solid regular
 title: $:/fontawesome/glyph/file-excel
 
 <i class='fas fa-file-excel fa-10x'></i>
