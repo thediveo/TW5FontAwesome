@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Git Alt
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f841
+tags: brands
+title: $:/fontawesome/glyph/git-alt
+
+<i class='fab fa-git-alt fa-10x'></i>
