@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Stackpath
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f842
+tags: brands
+title: $:/fontawesome/glyph/stackpath
+
+<i class='fab fa-stackpath fa-10x'></i>
