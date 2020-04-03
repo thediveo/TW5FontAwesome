@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Soap
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f96e
+tags: bubbles clean covid-19 hygiene wash solid
+title: $:/fontawesome/glyph/soap
+
+<i class='fas fa-soap fa-10x'></i>

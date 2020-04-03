@@ -3,7 +3,7 @@ fa-label: Medical Clinic
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f7f2
-tags: doctor [[general practitioner]] hospital infirmary medicine office outpatient solid
+tags: covid-19 doctor [[general practitioner]] hospital infirmary medicine office outpatient solid
 title: $:/fontawesome/glyph/clinic-medical
 
 <i class='fas fa-clinic-medical fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Virus
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f974
+tags: bug covid-19 flu health sick viral solid
+title: $:/fontawesome/glyph/virus
+
+<i class='fas fa-virus fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Micro.blog
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f91a
+tags: brands
+title: $:/fontawesome/glyph/microblog
+
+<i class='fab fa-microblog fa-10x'></i>

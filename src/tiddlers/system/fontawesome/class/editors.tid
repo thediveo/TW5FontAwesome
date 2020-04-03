@@ -6,6 +6,9 @@ align-justify
 align-left
 align-right
 bold
+border-all
+border-none
+border-style
 clipboard
 clone
 columns
@@ -20,6 +23,7 @@ glasses
 heading
 highlighter
 i-cursor
+icons
 indent
 italic
 link
@@ -43,10 +47,12 @@ quote-left
 quote-right
 redo
 redo-alt
+remove-format
 reply
 reply-all
 screwdriver
 share
+spell-check
 strikethrough
 subscript
 superscript

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Expand
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f424
+tags: arrow bigger enlarge resize solid
+title: $:/fontawesome/glyph/expand-alt
+
+<i class='fas fa-expand-alt fa-10x'></i>

@@ -2,6 +2,8 @@ description: Finance
 title: $:/fontawesome/class/finance
 
 balance-scale
+balance-scale-left
+balance-scale-right
 book
 cash-register
 chart-line

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Photo Video
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f87c
+tags: av film image library media solid
+title: $:/fontawesome/glyph/photo-video
+
+<i class='fas fa-photo-video fa-10x'></i>

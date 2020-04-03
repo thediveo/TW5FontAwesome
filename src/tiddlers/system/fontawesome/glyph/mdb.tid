@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Material Design for Bootstrap
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f8ca
+tags: brands
+title: $:/fontawesome/glyph/mdb
+
+<i class='fab fa-mdb fa-10x'></i>

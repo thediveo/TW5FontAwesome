@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Umbraco
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f8e8
+tags: brands
+title: $:/fontawesome/glyph/umbraco
+
+<i class='fab fa-umbraco fa-10x'></i>

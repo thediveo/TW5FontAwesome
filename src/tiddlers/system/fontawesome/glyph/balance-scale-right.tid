@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Balance Scale (Right-Weighted)
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f516
+tags: justice legal measure unbalanced weight solid
+title: $:/fontawesome/glyph/balance-scale-right
+
+<i class='fas fa-balance-scale-right fa-10x'></i>

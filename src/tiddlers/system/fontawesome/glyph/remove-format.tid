@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Remove Format
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f87d
+tags: cancel font format remove style text solid
+title: $:/fontawesome/glyph/remove-format
+
+<i class='fas fa-remove-format fa-10x'></i>

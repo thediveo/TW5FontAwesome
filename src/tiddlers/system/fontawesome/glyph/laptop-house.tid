@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Laptop House
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f966
+tags: computer covid-19 device office remote [[work from home]] solid
+title: $:/fontawesome/glyph/laptop-house
+
+<i class='fas fa-laptop-house fa-10x'></i>

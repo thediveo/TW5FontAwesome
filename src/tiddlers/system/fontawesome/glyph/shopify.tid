@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Shopify
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f957
+tags: brands
+title: $:/fontawesome/glyph/shopify
+
+<i class='fab fa-shopify fa-10x'></i>

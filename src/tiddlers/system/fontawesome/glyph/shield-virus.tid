@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Shield Virus
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f96c
+tags: antibodies barrier covid-19 health protect solid
+title: $:/fontawesome/glyph/shield-virus
+
+<i class='fas fa-shield-virus fa-10x'></i>

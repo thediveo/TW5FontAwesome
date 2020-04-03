@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Cowboy Hat
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f8c0
+tags: buckaroo horse jackeroo [[john b.]] [[old west]] pardner ranch rancher rodeo western wrangler solid
+title: $:/fontawesome/glyph/hat-cowboy
+
+<i class='fas fa-hat-cowboy fa-10x'></i>

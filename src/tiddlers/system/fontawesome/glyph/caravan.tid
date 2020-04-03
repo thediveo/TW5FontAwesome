@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Caravan
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f8ff
+tags: camper [[motor home]] rv trailer travel solid
+title: $:/fontawesome/glyph/caravan
+
+<i class='fas fa-caravan fa-10x'></i>

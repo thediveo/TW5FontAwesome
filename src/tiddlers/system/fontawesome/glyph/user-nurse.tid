@@ -3,7 +3,7 @@ fa-label: Nurse
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f82f
-tags: doctor midwife practitioner surgeon solid
+tags: covid-19 doctor midwife practitioner surgeon solid
 title: $:/fontawesome/glyph/user-nurse
 
 <i class='fas fa-user-nurse fa-10x'></i>

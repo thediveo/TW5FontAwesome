@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Mouse
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f8cc
+tags: click computer cursor input peripheral solid
+title: $:/fontawesome/glyph/mouse
+
+<i class='fas fa-mouse fa-10x'></i>

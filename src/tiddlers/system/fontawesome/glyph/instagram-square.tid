@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Instagram Square
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f955
+tags: brands
+title: $:/fontawesome/glyph/instagram-square
+
+<i class='fab fa-instagram-square fa-10x'></i>

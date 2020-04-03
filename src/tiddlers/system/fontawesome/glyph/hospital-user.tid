@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hospital with User
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f80d
+tags: covid-19 doctor network patient [[primary care]] solid
+title: $:/fontawesome/glyph/hospital-user
+
+<i class='fas fa-hospital-user fa-10x'></i>

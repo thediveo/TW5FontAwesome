@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Border All
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f84c
+tags: cell grid outline stroke table solid
+title: $:/fontawesome/glyph/border-all
+
+<i class='fas fa-border-all fa-10x'></i>
