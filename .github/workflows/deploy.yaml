@@ -11,9 +11,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
+      with:
+        repository: thediveo/TW5FontAwesome
+        ref: gh-pages
+        fetch-depth: 1
+        path: gh-pages
     - uses: actions/setup-node@v2-beta
       with:
         node-version: '12'
     - run: npm install
     - run: npm run update force
     - run: npm run release
+    - run: cp editions/release/output/fontawesome.tid gh-pages/output
+    - run: cp editions/release/output/fontawesome.html gh-pages/output
+    - run: ls -l ghpages/output
