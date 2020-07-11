@@ -17,3 +17,4 @@ Our <i class="fas fa-eye"></i>&nbsp;[plugin demo wiki](output/fontawesome.html) 
 Take a <i class="fas fa-eye"></i>&nbsp;[live tour](output/fontawesome.html)
 to see how the TW5FontAwesome plugin works. And learn more about
 how to use it in your own TiddlyWikis.
+
