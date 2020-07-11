@@ -29,6 +29,7 @@ jobs:
         node-version: '12'
     - name: Install node module dependencies
       run: npm install
+
     - name: Update tiddlers
       run: npm run update force
     - name: Create release plugin and demo wiki files
@@ -36,6 +37,7 @@ jobs:
     - run: mkdir -p $GH_PAGES_OUTPUT_DIR
     - run: cp $OUTPUT_DIR/fontawesome.tid $GH_PAGES_OUTPUT_DIR
     - run: cp $OUTPUT_DIR/fontawesome.html $GH_PAGES_OUTPUT_DIR
+
     - name: Publish github pages for plugin
       uses: peaceiris/actions-gh-pages@v3
       with:
@@ -43,6 +45,12 @@ jobs:
         publish_dir: $GH_PAGES_DIR
         publish_branch: gh-pages
         keep_files: true
+
+    - name: Publish npm package
+      run: npm publish
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
     - name: Create new release (draft)
       id: create_release
       uses: actions/create-release@v1
@@ -52,7 +60,7 @@ jobs:
         tag_name: ${{ github.ref }}
         release_name: TW5FontAwesome plugin release ${{ github.ref }}
         body: 'see plugin history tiddler'
-        draft: true
+        draft: false
     - name: Add demo wiki artefact
       uses: actions/upload-release-asset@v1
       env:
