@@ -1,20 +1,20 @@
 name: Deploy TW5FontAwesome to gh-pages
 
 on:
-    push:
-        branches:
-        - develop
+  push:
+    branches:
+    - develop
 
 runs-on: ubuntu-latest
 
 jobs:
-    deploy:
-        name: Deploy
-        steps:
-        - uses: actions/checkout@v2
-        - uses: actions/setup-node@v2-beta
-            with:
-                node-version: '12'
-        - run: npm install
-        - run: npm run update
-        - run: npm run release
+  deploy:
+    name: Deploy
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2-beta
+      with:
+        node-version: '12'
+    - run: npm install
+    - run: npm run update
+    - run: npm run release
