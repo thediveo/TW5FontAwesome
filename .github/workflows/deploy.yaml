@@ -2,8 +2,8 @@ name: Deploy TW5FontAwesome
 
 on:
   push:
-    branches:
-      - refs/tags/*
+    tags:
+      - *
 
 jobs:
   deploy:
