@@ -23,6 +23,8 @@ jobs:
     - run: npm install
     - run: npm run update force
     - run: npm run release
+    - run: ls -l gh-pages
+    - run: mkdir -p gh-pages/output
     - run: cp editions/release/output/fontawesome.tid gh-pages/output
     - run: cp editions/release/output/fontawesome.html gh-pages/output
     - run: ls -l ghpages/output
