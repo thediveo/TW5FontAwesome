@@ -1,4 +1,4 @@
-name: Deploy TW5FontAwesome to gh-pages
+name: Deploy TW5FontAwesome
 
 on:
   push:
@@ -43,3 +43,12 @@ jobs:
         publish_dir: $GH_PAGES_DIR
         publish_branch: gh-pages
         keep_files: true
+    - name: create new release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: TW5FontAwesome plugin release ${{ github.ref }}
+        body: 'see plugin history tiddler'
+        draft: true

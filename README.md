@@ -1,4 +1,4 @@
-[![TW5FontAwesome Build Status](https://travis-ci.org/TheDiveO/TW5FontAwesome.svg?branch=master)](https://travis-ci.org/TheDiveO/TW5FontAwesome)
+![Workflow Status](https://github.com/thediveo/TW5FontAwesome/workflows/Deploy%20TW5FontAwesome/badge.svg)
 
 # TW5FontAwesome
 
