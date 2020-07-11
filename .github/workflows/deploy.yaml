@@ -27,6 +27,7 @@ jobs:
       uses: actions/setup-node@v2-beta
       with:
         node-version: '12'
+        registry-url: 'https://registry.npmjs.org'
     - name: Install node module dependencies
       run: npm install
 
