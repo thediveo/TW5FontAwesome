@@ -3,7 +3,7 @@ name: Deploy TW5FontAwesome to gh-pages
 on:
   push:
     branches:
-    - develop
+    - master
 
 runs-on: ubuntu-latest
 
