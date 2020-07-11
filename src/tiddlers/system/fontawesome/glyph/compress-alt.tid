@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Compress
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f422
+tags: collapse fullscreen minimize move resize shrink smaller solid
+title: $:/fontawesome/glyph/compress-alt
+
+<i class='fas fa-compress-alt fa-10x'></i>

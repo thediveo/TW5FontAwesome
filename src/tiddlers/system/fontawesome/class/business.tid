@@ -5,6 +5,8 @@ address-book
 address-card
 archive
 balance-scale
+balance-scale-left
+balance-scale-right
 birthday-cake
 book
 briefcase
@@ -45,6 +47,7 @@ globe
 highlighter
 industry
 landmark
+laptop-house
 marker
 paperclip
 paste
@@ -56,8 +59,10 @@ pen-square
 pencil-alt
 percent
 phone
+phone-alt
 phone-slash
 phone-square
+phone-square-alt
 phone-volume
 print
 project-diagram

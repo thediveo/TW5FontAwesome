@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Users Slash
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f973
+tags: disband friends group people persons profiles separate team ungroup solid
+title: $:/fontawesome/glyph/users-slash
+
+<i class='fas fa-users-slash fa-10x'></i>

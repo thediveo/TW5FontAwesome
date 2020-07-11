@@ -7,9 +7,11 @@ broadcast-tower
 circle
 closed-captioning
 compress
+compress-alt
 compress-arrows-alt
 eject
 expand
+expand-alt
 expand-arrows-alt
 fast-backward
 fast-forward
@@ -26,6 +28,7 @@ music
 pause
 pause-circle
 phone-volume
+photo-video
 play
 play-circle
 podcast
@@ -40,6 +43,7 @@ stop
 stop-circle
 sync
 sync-alt
+tv
 undo
 undo-alt
 video

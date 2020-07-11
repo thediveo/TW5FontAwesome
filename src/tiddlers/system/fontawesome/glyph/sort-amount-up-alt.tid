@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Sort Amount Up
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f885
+tags: arrange filter order sort-amount-desc solid
+title: $:/fontawesome/glyph/sort-amount-up-alt
+
+<i class='fas fa-sort-amount-up-alt fa-10x'></i>

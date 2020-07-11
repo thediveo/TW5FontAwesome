@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Unity 3D
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f949
+tags: brands
+title: $:/fontawesome/glyph/unity
+
+<i class='fab fa-unity fa-10x'></i>

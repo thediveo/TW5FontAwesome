@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Google Pay
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f979
+tags: brands
+title: $:/fontawesome/glyph/google-pay
+
+<i class='fab fa-google-pay fa-10x'></i>

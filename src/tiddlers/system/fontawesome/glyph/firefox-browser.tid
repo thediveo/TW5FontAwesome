@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Firefox Browser
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f907
+tags: browser brands
+title: $:/fontawesome/glyph/firefox-browser
+
+<i class='fab fa-firefox-browser fa-10x'></i>

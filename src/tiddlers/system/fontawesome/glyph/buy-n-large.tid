@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Buy n Large
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f8a6
+tags: brands
+title: $:/fontawesome/glyph/buy-n-large
+
+<i class='fab fa-buy-n-large fa-10x'></i>

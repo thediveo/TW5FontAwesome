@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Lungs
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f604
+tags: air breath covid-19 organ respiratory solid
+title: $:/fontawesome/glyph/lungs
+
+<i class='fas fa-lungs fa-10x'></i>

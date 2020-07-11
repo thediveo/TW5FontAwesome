@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Bacteria
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f959
+tags: antibiotic antibody covid-19 health organism sick solid
+title: $:/fontawesome/glyph/bacteria
+
+<i class='fas fa-bacteria fa-10x'></i>

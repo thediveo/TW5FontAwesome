@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Voicemail
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f897
+tags: answer inbox message phone solid
+title: $:/fontawesome/glyph/voicemail
+
+<i class='fas fa-voicemail fa-10x'></i>

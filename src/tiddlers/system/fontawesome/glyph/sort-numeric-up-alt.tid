@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Alternate Sort Numeric Up
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f887
+tags: arrange filter numbers order sort-numeric-desc solid
+title: $:/fontawesome/glyph/sort-numeric-up-alt
+
+<i class='fas fa-sort-numeric-up-alt fa-10x'></i>

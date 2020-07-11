@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Icons
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f86d
+tags: bolt emoji heart image music photo symbols solid
+title: $:/fontawesome/glyph/icons
+
+<i class='fas fa-icons fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: House User
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f965
+tags: covid-19 home isolation quarantine solid
+title: $:/fontawesome/glyph/house-user
+
+<i class='fas fa-house-user fa-10x'></i>

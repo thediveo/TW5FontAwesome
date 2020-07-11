@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Mixer
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f956
+tags: brands
+title: $:/fontawesome/glyph/mixer
+
+<i class='fab fa-mixer fa-10x'></i>

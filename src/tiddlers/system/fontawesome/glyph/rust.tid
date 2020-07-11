@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Rust
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f97a
+tags: brands
+title: $:/fontawesome/glyph/rust
+
+<i class='fab fa-rust fa-10x'></i>

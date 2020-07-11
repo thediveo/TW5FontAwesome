@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Disease
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f7fa
+tags: bacteria cancer covid-19 illness infection sickness virus solid
+title: $:/fontawesome/glyph/disease
+
+<i class='fas fa-disease fa-10x'></i>

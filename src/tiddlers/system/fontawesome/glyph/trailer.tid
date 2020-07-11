@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Trailer
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f941
+tags: carry haul moving travel solid
+title: $:/fontawesome/glyph/trailer
+
+<i class='fas fa-trailer fa-10x'></i>

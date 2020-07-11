@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Pied Piper Square Logo (Old)
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f91e
+tags: brands
+title: $:/fontawesome/glyph/pied-piper-square
+
+<i class='fab fa-pied-piper-square fa-10x'></i>

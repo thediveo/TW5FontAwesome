@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: dailymotion
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f952
+tags: brands
+title: $:/fontawesome/glyph/dailymotion
+
+<i class='fab fa-dailymotion fa-10x'></i>

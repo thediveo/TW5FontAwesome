@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Deezer
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f977
+tags: brands
+title: $:/fontawesome/glyph/deezer
+
+<i class='fab fa-deezer fa-10x'></i>

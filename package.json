@@ -1,6 +1,6 @@
 {
   "name": "tw5-fontawesome",
-  "version": "1.2.18",
+  "version": "1.2.19",
   "author": "TheDiveO",
   "description": "Font Awesome 5 for TiddlyWiki 5",
   "homepage": "https://github.com/TheDiveO/TW5FontAwesome",
@@ -28,17 +28,15 @@
     "url": "https://github.com/TheDiveO/TW5FontAwesome.git"
   },
   "dependencies": {
-    "tiddlywiki": ">=5.1.15",
-    "tw5-thirdflow": ">=1.2.0"
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "tiddlywiki": "^5.1.22",
+    "tw5-thirdflow": "^1.2.11"
   },
   "devDependencies": {
-    "adm-zip": ">=0.4.7",
-    "compare-versions": ">=3.1.0",
-    "js-yaml": "^3.12.0",
-    "request": ">=2.83.0",
-    "request-promise-native": "^1.0.5"
+    "compare-versions": "^3.6.0",
+    "js-yaml": "^3.14.0"
   },
   "engines": {
-    "node": ">=4.8.0"
+    "node": ">=10.0.0"
   }
 }

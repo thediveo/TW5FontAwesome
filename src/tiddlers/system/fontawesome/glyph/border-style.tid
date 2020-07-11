@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Border Style
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f853
+tags: solid
+title: $:/fontawesome/glyph/border-style
+
+<i class='fas fa-border-style fa-10x'></i>

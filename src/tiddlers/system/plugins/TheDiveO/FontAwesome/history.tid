@@ -1,15 +1,19 @@
 created: 20140901110931199
-modified: 20190509195707164
+modified: 20200711155513046
 title: $:/plugins/TheDiveO/FontAwesome/history
 type: text/vnd.tiddlywiki
 
-* ''1.2.18'' -- updates to Font Awesome 5.8.2.
+* ''1.2.19''
+** updates to Font Awesome Free 5.13.1.
+** refactors update mechanism to finally rely on the @fortawesome/fontawesome-free npm module, as the module finally contains the required meta information.
 
-* ''1.2.17'' -- updates to Font Awesome 5.8.1, adding several new categories, such as "alert", "beverage", "energy", et cetera. However, most of these new categories simply rehash existing icons, so there are only few really new icons to be found in this release.
+* ''1.2.18'' -- updates to Font Awesome Free 5.8.2.
 
-* ''1.2.16'' -- updates to Font Awesome 5.7.2.
+* ''1.2.17'' -- updates to Font Awesome Free 5.8.1, adding several new categories, such as "alert", "beverage", "energy", et cetera. However, most of these new categories simply rehash existing icons, so there are only few really new icons to be found in this release.
 
-* ''1.2.15'' -- updates to Font Awesome 5.6.3. This adds new categories, such as "autumn", "holliday" and "halloween" with new icons, as well as updating existing categories with additional icons.
+* ''1.2.16'' -- updates to Font Awesome Free 5.7.2.
+
+* ''1.2.15'' -- updates to Font Awesome Free 5.6.3. This adds new categories, such as "autumn", "holliday" and "halloween" with new icons, as well as updating existing categories with additional icons.
 
 * ''1.2.14''
 ** updates to Font Awesome Free 5.3.1.

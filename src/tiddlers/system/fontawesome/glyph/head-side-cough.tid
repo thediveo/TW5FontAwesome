@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Head Side Cough
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f961
+tags: cough covid-19 germs lungs respiratory sick solid
+title: $:/fontawesome/glyph/head-side-cough
+
+<i class='fas fa-head-side-cough fa-10x'></i>

@@ -3,6 +3,8 @@ title: $:/fontawesome/class/medical
 
 allergies
 ambulance
+bacteria
+bacterium
 band-aid
 biohazard
 bone
@@ -17,19 +19,28 @@ clinic-medical
 comment-medical
 crutch
 diagnoses
+disease
 dna
 file-medical
 file-medical-alt
 file-prescription
 first-aid
+hand-holding-medical
+head-side-cough
+head-side-cough-slash
+head-side-mask
+head-side-virus
 heart
 heartbeat
 hospital
 hospital-alt
 hospital-symbol
+hospital-user
 id-card-alt
 joint
 laptop-medical
+lungs
+lungs-virus
 microscope
 mortar-pestle
 notes-medical
@@ -41,8 +52,10 @@ prescription
 prescription-bottle
 prescription-bottle-alt
 procedures
+pump-medical
 radiation
 radiation-alt
+shield-virus
 smoking
 smoking-ban
 star-of-life
@@ -57,5 +70,8 @@ user-md
 user-nurse
 vial
 vials
+virus
+virus-slash
+viruses
 weight
 x-ray

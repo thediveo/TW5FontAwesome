@@ -3,7 +3,7 @@ fa-label: Gamepad
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f11b
-tags: controller d-pad joystick video solid
+tags: arcade controller d-pad joystick video [[video game]] solid
 title: $:/fontawesome/glyph/gamepad
 
 <i class='fas fa-gamepad fa-10x'></i>

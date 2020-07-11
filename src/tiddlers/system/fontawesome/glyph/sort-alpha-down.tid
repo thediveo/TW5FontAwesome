@@ -1,9 +1,9 @@
 fa-default-style: fas
-fa-label: Sort Alpha Down
+fa-label: Sort Alphabetical Down
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f15d
-tags: filter order sort-alpha-asc solid
+tags: alphabetical arrange filter order sort-alpha-asc solid
 title: $:/fontawesome/glyph/sort-alpha-down
 
 <i class='fas fa-sort-alpha-down fa-10x'></i>

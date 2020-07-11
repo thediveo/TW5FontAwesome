@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Record Vinyl
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f8d9
+tags: LP album analog music phonograph sound solid
+title: $:/fontawesome/glyph/record-vinyl
+
+<i class='fas fa-record-vinyl fa-10x'></i>

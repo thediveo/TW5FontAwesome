@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: TikTok
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: f97b
+tags: brands
+title: $:/fontawesome/glyph/tiktok
+
+<i class='fab fa-tiktok fa-10x'></i>

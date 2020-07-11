@@ -3,7 +3,7 @@ fa-label: Alternate Hospital
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f47d
-tags: building [[emergency room]] [[medical center]] solid
+tags: building covid-19 [[emergency room]] [[medical center]] solid
 title: $:/fontawesome/glyph/hospital-alt
 
 <i class='fas fa-hospital-alt fa-10x'></i>

@@ -4,6 +4,8 @@ title: $:/fontawesome/class/maps
 ambulance
 anchor
 balance-scale
+balance-scale-left
+balance-scale-right
 bath
 bed
 beer
@@ -75,7 +77,9 @@ newspaper
 parking
 paw
 phone
+phone-alt
 phone-square
+phone-square-alt
 phone-volume
 plane
 plug

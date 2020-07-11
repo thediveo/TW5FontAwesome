@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Virus Slash
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f975
+tags: bug covid-19 cure eliminate flu health sick viral solid
+title: $:/fontawesome/glyph/virus-slash
+
+<i class='fas fa-virus-slash fa-10x'></i>

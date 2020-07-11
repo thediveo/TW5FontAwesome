@@ -3,7 +3,7 @@ fa-label: Expand
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f065
-tags: arrow bigger enlarge resize solid
+tags: bigger enlarge fullscreen resize solid
 title: $:/fontawesome/glyph/expand
 
 <i class='fas fa-expand fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Biking
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f84a
+tags: bicycle bike cycle cycling ride wheel solid
+title: $:/fontawesome/glyph/biking
+
+<i class='fas fa-biking fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Faucet
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f905
+tags: covid-19 drip house hygiene kitchen sink water solid
+title: $:/fontawesome/glyph/faucet
+
+<i class='fas fa-faucet fa-10x'></i>

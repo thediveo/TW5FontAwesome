@@ -3,7 +3,7 @@ fa-label: ambulance
 fa-style-classes: fas
 fa-styles: solid
 fa-unicode: f0f9
-tags: emergency emt er help hospital support vehicle solid
+tags: covid-19 emergency emt er help hospital support vehicle solid
 title: $:/fontawesome/glyph/ambulance
 
 <i class='fas fa-ambulance fa-10x'></i>

@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Viruses
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f976
+tags: bugs covid-19 flu health multiply sick spread viral solid
+title: $:/fontawesome/glyph/viruses
+
+<i class='fas fa-viruses fa-10x'></i>

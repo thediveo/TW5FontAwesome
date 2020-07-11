@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Hand Holding Medical Cross
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f95c
+tags: care covid-19 donate help solid
+title: $:/fontawesome/glyph/hand-holding-medical
+
+<i class='fas fa-hand-holding-medical fa-10x'></i>

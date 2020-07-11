@@ -7,6 +7,8 @@ archive
 award
 baby-carriage
 balance-scale
+balance-scale-left
+balance-scale-right
 bath
 bed
 beer
@@ -155,6 +157,7 @@ pen-fancy
 pen-nib
 pencil-alt
 phone
+phone-alt
 plane
 plug
 print

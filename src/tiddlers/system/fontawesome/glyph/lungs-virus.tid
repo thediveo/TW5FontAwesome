@@ -1,0 +1,9 @@
+fa-default-style: fas
+fa-label: Lungs Virus
+fa-style-classes: fas
+fa-styles: solid
+fa-unicode: f967
+tags: breath covid-19 respiratory sick solid
+title: $:/fontawesome/glyph/lungs-virus
+
+<i class='fas fa-lungs-virus fa-10x'></i>
