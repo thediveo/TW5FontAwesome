@@ -5,11 +5,10 @@ on:
     branches:
     - master
 
-runs-on: ubuntu-latest
-
 jobs:
   deploy:
     name: Deploy
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v2-beta
