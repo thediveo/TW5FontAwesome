@@ -9,21 +9,37 @@ jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
+    env:
+      OUTPUT_DIR: editions/release/output
+      GH_PAGES_DIR: gh-pages
+      GH_PAGES_OUTPUT_DIR: $GH_PAGES_DIR/output
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/checkout@v2
+    - name: Checking out repo master branch
+      uses: actions/checkout@v2
+    - name: Checking out github pages branch
+      uses: actions/checkout@v2
       with:
         repository: thediveo/TW5FontAwesome
         ref: gh-pages
         fetch-depth: 1
-        path: gh-pages
-    - uses: actions/setup-node@v2-beta
+        path: $GH_PAGES_DIR
+    - name: Installs Node.js
+      uses: actions/setup-node@v2-beta
       with:
         node-version: '12'
-    - run: npm install
-    - run: npm run update force
-    - run: npm run release
-    - run: mkdir -p gh-pages/output
-    - run: cp editions/release/output/fontawesome.tid gh-pages/output
-    - run: cp editions/release/output/fontawesome.html gh-pages/output
-    - run: ls -l gh-pages/output
+    - name: Install node module dependencies
+      run: npm install
+    - name: Update tiddlers
+      run: npm run update force
+    - name: Create release plugin and demo wiki files
+      run: npm run release
+    - run: mkdir -p $GH_PAGES_OUTPUT_DIR
+    - run: cp $OUTPUT_DIR/fontawesome.tid $GH_PAGES_OUTPUT_DIR
+    - run: cp $OUTPUT_DIR/fontawesome.html $GH_PAGES_OUTPUT_DIR
+    - name: publish github pages for plugin
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: $GH_PAGES_DIR
+        publish_branch: gh-pages
+        keep_files: true
