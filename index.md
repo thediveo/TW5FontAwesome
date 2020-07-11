@@ -1,4 +1,4 @@
-# Font Awesome Free 5 for TiddlyWiki 5
+# Font Awesome&nbsp;Free&nbsp;5 for TiddlyWiki&nbsp;5
 
 Simply download the
 <i class="fas fa-download"></i>&nbsp;[TW5FontAwesome plugin](output/fontawesome.tid)
