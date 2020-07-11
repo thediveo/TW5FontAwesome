@@ -15,5 +15,5 @@ jobs:
       with:
         node-version: '12'
     - run: npm install
-    - run: npm run update
+    - run: npm run update force
     - run: npm run release
