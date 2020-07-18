@@ -28,7 +28,7 @@
     "url": "https://github.com/TheDiveO/TW5FontAwesome.git"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.1",
+    "@fortawesome/fontawesome-free": "^5.14.0",
     "tiddlywiki": "^5.1.22",
     "tw5-thirdflow": "^1.2.11"
   },
