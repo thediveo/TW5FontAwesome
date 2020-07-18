@@ -36,7 +36,7 @@ $ npm run release
 // needs to be run asynchronously.
 exports.info = {
 	name: "update-fontawesome",
-	synchronous: false
+	synchronous: true,
 };
 
 // Good Stuff(tm) we need.
@@ -49,10 +49,9 @@ if ($tw.node) {
 // Create a new command instance; besides the parameters which we've got
 // handed over here is the callback which we need to call when we either
 // succeeded or failed.
-var Command = function(params, commander, callback) {
+var Command = function(params, commander) {
 	this.params = params;
 	this.commander = commander;
-	this.callback = callback;
 	this.logger = new $tw.utils.Logger("--" + exports.info.name, { colour: "purple" });
 };
 
@@ -93,7 +92,7 @@ Command.prototype.execute = function() {
 	// additions, and create a PR (pull request) -- do NOT check-in the FA pro
 	// font files or FA pro tiddlers to GitHub. Don't create PRs that contain
 	// FA pro fonts.
-    $tw.utils.each([
+    var fonts = [
         {
 			fontfile: "fa-brands-400",
 			fontfamily: "Font Awesome 5 Brands",
@@ -116,20 +115,23 @@ Command.prototype.execute = function() {
 			cssclass: ".fa, .fas",
 			title: "Font Awesome 5 Free Solid"
         }
-    ], function(font) {
+	];
+	var idx, len
+	for (idx = 0, len=fonts.length; idx < len; idx++) {
+		var font = fonts[idx]
         self.logger.log("extracting Font Awesome font file", font.fontfile + ".woff");
 		var woffname = faroot + "/webfonts/" + font.fontfile + ".woff";
 		var woff;
 		try {
-			woff = fs.readFileSyncFile(woffname);
+			woff = fs.readFileSync(woffname);
 		} catch (err) {
 			return "fontawesome module misses WOFF web font file " + woffname +
 				"; error: " + err;
         }
         var woffb64 = woff.toString("base64");
-            self.logger.log("WOFF font binary size", Buffer.byteLength(woff),
-                "/", "base64-encoded size", woffb64.length);
-        var text = "/* autoimported retrieved from '" + faroot + "' */\n";
+		self.logger.log("WOFF font binary size", Buffer.byteLength(woff),
+			"/", "base64-encoded size", woffb64.length);
+        var text = "/* auto-imported from '" + faroot + "' version " + faversion + " */\n";
             text += "@font-face {\n";
         text += "  font-family: '" + font.fontfamily + "';\n";
         text += "  font-style: " + font.fontstyle + ";\n";
@@ -150,7 +152,8 @@ Command.prototype.execute = function() {
         text : text
         });
         wiki.addTiddler(fontcsstiddler);
-    });
+        self.logger.log("updated Font Awesome font tiddler ", fontcsstiddler.title);
+    }
 
    	// Retrieve the Font Awesome CSS file containing all the nifty class
    	// definitions...
@@ -253,9 +256,7 @@ Command.prototype.execute = function() {
     });
 
     self.logger.log("...update succeeded; plugin Font Awesome upgraded to version:", faversion);
-
 	self.logger.log("command finished.");
-	self.callback();
 	return;
 
 };
