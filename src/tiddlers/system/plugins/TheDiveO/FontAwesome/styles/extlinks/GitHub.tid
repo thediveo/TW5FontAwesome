@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 <$set name="cfg" value=<<fa5-cfgpath "decorate-wk-extlinks">> >
 <$list filter=<<fa5-cfgfilterexpr>> >
 
-a[href^="http://"][href*="github.com"]:before {
+a[href^="https://"][href*="github.com"]:before, a[href^="http://"][href*="github.com"]:before {
   <<fa-plugin-font-brands>>
   font-size: 90%;
   content: '\f09b\202f';
