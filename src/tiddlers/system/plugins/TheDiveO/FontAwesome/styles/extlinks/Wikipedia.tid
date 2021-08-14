@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 <$set name="cfg" value=<<fa5-cfgpath "decorate-wk-extlinks">> >
 <$list filter=<<fa5-cfgfilterexpr>> >
 
-a[href^="http://"][href*=".wikipedia.org"]:before {
+a[href^="https://"][href*=".wikipedia.org"]:before, a[href^="http://"][href*=".wikipedia.org"]:before {
   <<fa-plugin-font-brands>>
   font-size: 90%;
   content: '[\f266]\202f';
