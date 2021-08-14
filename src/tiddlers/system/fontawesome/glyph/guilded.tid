@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Guilded
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: e07e
+tags: brands
+title: $:/fontawesome/glyph/guilded
+
+<i class='fab fa-guilded fa-10x'></i>

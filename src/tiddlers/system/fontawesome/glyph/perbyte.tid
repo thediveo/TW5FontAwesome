@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: PerByte
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: e083
+tags: brands
+title: $:/fontawesome/glyph/perbyte
+
+<i class='fab fa-perbyte fa-10x'></i>

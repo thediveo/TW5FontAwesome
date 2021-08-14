@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Octopus Deploy
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: e082
+tags: brands
+title: $:/fontawesome/glyph/octopus-deploy
+
+<i class='fab fa-octopus-deploy fa-10x'></i>

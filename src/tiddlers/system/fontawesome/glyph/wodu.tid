@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Wodu
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: e088
+tags: brands
+title: $:/fontawesome/glyph/wodu
+
+<i class='fab fa-wodu fa-10x'></i>

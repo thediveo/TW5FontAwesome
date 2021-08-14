@@ -28,13 +28,13 @@
     "url": "https://github.com/TheDiveO/TW5FontAwesome.git"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.14.0",
-    "tiddlywiki": "^5.1.22",
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "tiddlywiki": "^5.1.23",
     "tw5-thirdflow": "^1.2.11"
   },
   "devDependencies": {
     "compare-versions": "^3.6.0",
-    "js-yaml": "^3.14.0"
+    "js-yaml": "^4.1.0"
   },
   "engines": {
     "node": ">=10.0.0"

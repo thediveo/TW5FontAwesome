@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Uncharted Software
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: e084
+tags: brands
+title: $:/fontawesome/glyph/uncharted
+
+<i class='fab fa-uncharted fa-10x'></i>

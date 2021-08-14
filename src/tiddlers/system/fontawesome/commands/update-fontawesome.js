@@ -183,7 +183,7 @@ Command.prototype.execute = function() {
     }
     var glyphmd;
     try {
-	    glyphmd = yaml.safeLoad(faiconmetadata);
+	    glyphmd = yaml.load(faiconmetadata);
     } catch (ex) {
     	return "invalid icons.json metadata file: " + ex.message;
     }
@@ -241,7 +241,7 @@ Command.prototype.execute = function() {
     }
     var categories;
     try {
-	    categories = yaml.safeLoad(facategoriesdata);
+	    categories = yaml.load(facategoriesdata);
     } catch(ex) {
 	    return "invalid icons.json metadata file: " + ex.message;
     }

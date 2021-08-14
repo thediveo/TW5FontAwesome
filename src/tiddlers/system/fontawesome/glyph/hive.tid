@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Hive Blockchain Network
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: e07f
+tags: brands
+title: $:/fontawesome/glyph/hive
+
+<i class='fab fa-hive fa-10x'></i>

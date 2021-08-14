@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Cloudflare
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: e07d
+tags: brands
+title: $:/fontawesome/glyph/cloudflare
+
+<i class='fab fa-cloudflare fa-10x'></i>

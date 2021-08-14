@@ -1,0 +1,9 @@
+fa-default-style: fab
+fa-label: Innosoft
+fa-style-classes: fab
+fa-styles: brands
+fa-unicode: e080
+tags: brands
+title: $:/fontawesome/glyph/innosoft
+
+<i class='fab fa-innosoft fa-10x'></i>
